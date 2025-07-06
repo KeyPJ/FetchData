@@ -1,5 +1,115 @@
 [
 	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 1401,
+				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
+				"itemType": "Character",
+				"name": "爱丽丝",
+				"nameEn": "Alice",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1221,
+				"imageUrl": "/zzz/UI/IconRoleSelect31.webp",
+				"itemType": "Character",
+				"name": "柳",
+				"nameEn": "Yanagi",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "Soukaku",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "Seth",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
+		"start": "2025-08-06 12:00:00",
+		"end": "2025-09-03 14:59:59"
+	},
+	{
+		"version": "2.1.1",
+		"items": [
+			{
+				"itemId": 1411,
+				"imageUrl": "/zzz/UI/IconRoleSelect47.webp",
+				"itemType": "Character",
+				"name": "柚叶",
+				"nameEn": "Yuzuha",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1091,
+				"imageUrl": "/zzz/UI/IconRoleSelect13.webp",
+				"itemType": "Character",
+				"name": "雅",
+				"nameEn": "Miyabi",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "Piper",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "Billy",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2025-07-16 06:00:00",
+		"end": "2025-08-06 11:59:59"
+	},
+	{
 		"version": "2.0.2",
 		"items": [
 			{

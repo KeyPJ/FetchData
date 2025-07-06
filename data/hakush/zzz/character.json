@@ -74,14 +74,14 @@
 		"rank": 4,
 		"skin": {
 			"3113710": {
-				"Desc": "As the Master of Yunkui Summit, one's fashion and accessories need only be what feels natural. Stay true to one's self.",
+				"Desc": "AvatarSkin_Yixuan_Desc_000",
 				"Image": "IconRole44",
-				"Name": "Yixuan: Summit of Clouds"
+				"Name": "AvatarSkin_Yixuan_Name_000"
 			},
 			"3113711": {
-				"Desc": "A custom attire in shades of ink. Like an elusive shadow, gone in a flash.",
+				"Desc": "AvatarSkin_Yixuan_Desc_001",
 				"Image": "IconRole44_01",
-				"Name": "Yixuan: Trails of Ink"
+				"Name": "AvatarSkin_Yixuan_Name_001"
 			}
 		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconAuricInk.png",
@@ -297,8 +297,8 @@
 		"element": 200,
 		"EN": "Yuzuha",
 		"hit": 102,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
+		"icon": "IconRole47",
+		"iconUrl": "/zzz/UI/IconRoleSelect47.webp",
 		"id": "1411",
 		"JA": "柚葉",
 		"KO": "유즈하",
@@ -306,13 +306,13 @@
 		"rank": 4,
 		"skin": {
 			"3114110": {
-				"Desc": "The sharp scissors of Victoria Housekeeping, if only she weren't sleeping...",
-				"Image": "IconRole21",
+				"Desc": "AvatarSkin_Yuzuha_Desc_000",
+				"Image": "IconRole47",
 				"Name": "AvatarSkin_Yuzuha_Name_000"
 			},
 			"3114111": {
-				"Desc": "The tail doesn't quite match the school uniform, but with just a little bit of needlework, it can become even cuter!",
-				"Image": "IconRole21_01",
+				"Desc": "AvatarSkin_Yuzuha_Desc_001",
+				"Image": "IconRole47_01",
 				"Name": "AvatarSkin_Yuzuha_Name_001"
 			}
 		},
@@ -437,7 +437,7 @@
 		"CHS": "潘引壶",
 		"cn": "潘引壶",
 		"code": "Yinhu",
-		"desc": "Pan Yinhu, disciple of Yunkui Summit, serves as both the head chef and financial manager of Suibian Temple. He's proficient in martial arts, and an expert in pressure-point techniques.\nAs the one managing Suibian Temple's money, he's a master at keeping costs down and can bargain a 5,000 Denny piece of meat down to 500. If he can make something at home, he refuses to purchase it at a store, and no matter which big supermarket or shop you name, he's got a coupon for it tucked in his pocket.\nThanks to him, the members of Suibian Temple enjoy delicious yet budget-friendly meals every day. As the head of the kitchen, he demands precise flavor profiles and pays keen attention to his friends' opinions.\nWhat's more, given his years of frugality, it's safe to assume that both the group's treasury and his secret piggy bank have ballooned to jaw-dropping levels.",
+		"desc": "...",
 		"element": 200,
 		"EN": "Pan Yinhu",
 		"hit": 102,
@@ -460,8 +460,8 @@
 		"element": 200,
 		"EN": "Alice",
 		"hit": 101,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
+		"icon": "IconRole46",
+		"iconUrl": "/zzz/UI/IconRoleSelect46.webp",
 		"id": "1401",
 		"JA": "アリス",
 		"KO": "앨리스",
@@ -470,12 +470,12 @@
 		"skin": {
 			"3114010": {
 				"Desc": "AvatarSkin_Alice_Desc_000",
-				"Image": "IconRole21",
+				"Image": "IconRole46",
 				"Name": "AvatarSkin_Alice_Name_000"
 			},
 			"3114011": {
 				"Desc": "AvatarSkin_Alice_Desc_001",
-				"Image": "IconRole21_01",
+				"Image": "IconRole46_01",
 				"Name": "AvatarSkin_Alice_Name_001"
 			}
 		},
@@ -556,14 +556,14 @@
 		"rank": 4,
 		"skin": {
 			"3113110": {
-				"Desc": "The bold red is only to ignite the freedom deep within. On stage, nothing can overshadow her brilliance.",
+				"Desc": "AvatarSkin_Astra_Desc_000",
 				"Image": "IconRole36",
-				"Name": "Astra Yao: Scarlet Rock"
+				"Name": "AvatarSkin_Astra_Name_000"
 			},
 			"3113111": {
-				"Desc": "The black-and-white dress glimmers in both light and shadows. Every smile of hers seems to sink into the flowing light of the night, becoming a timeless classic.",
+				"Desc": "AvatarSkin_Astra_Desc_001",
 				"Image": "IconRole36_01",
-				"Name": "Astra Yao: Chandelier"
+				"Name": "AvatarSkin_Astra_Name_001"
 			}
 		},
 		"type": 4
@@ -588,14 +588,14 @@
 		"rank": 4,
 		"skin": {
 			"3111910": {
-				"Desc": "The sharp scissors of Victoria Housekeeping, if only she weren't sleeping...",
+				"Desc": "AvatarSkin_Ellen_Desc_000",
 				"Image": "IconRole21",
-				"Name": "Ellen: Ellen Scissorhands"
+				"Name": "AvatarSkin_Ellen_Name_000"
 			},
 			"3111911": {
-				"Desc": "The tail doesn't quite match the school uniform, but with just a little bit of needlework, it can become even cuter!",
+				"Desc": "AvatarSkin_Ellen_Desc_001",
 				"Image": "IconRole21_01",
-				"Name": "Ellen: On Campus"
+				"Name": "AvatarSkin_Ellen_Name_001"
 			}
 		},
 		"type": 1

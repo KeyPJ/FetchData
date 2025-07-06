@@ -1,30 +1,4 @@
 {
-	"(Test1)柚叶测试音擎": {
-		"CHS": "(Test1)柚叶测试音擎",
-		"cn": "(Test1)柚叶测试音擎",
-		"desc": "Item_Weapon_S_1411_ShortDesc",
-		"EN": "Item_Weapon_S_1411_Name",
-		"icon": "Weapon_S_1411",
-		"iconUrl": "/zzz/UI/Weapon_S_1411.webp",
-		"id": "14141",
-		"JA": "Item_Weapon_S_1411_Name",
-		"KO": "Item_Weapon_S_1411_Name",
-		"rank": 4,
-		"type": 4
-	},
-	"(Test1)爱丽丝测试音擎": {
-		"CHS": "(Test1)爱丽丝测试音擎",
-		"cn": "(Test1)爱丽丝测试音擎",
-		"desc": "Item_Weapon_S_1401_ShortDesc",
-		"EN": "Item_Weapon_S_1401_Name",
-		"icon": "Weapon_S_1401",
-		"iconUrl": "/zzz/UI/Weapon_S_1401.webp",
-		"id": "14140",
-		"JA": "Item_Weapon_S_1401_Name",
-		"KO": "Item_Weapon_S_1401_Name",
-		"rank": 4,
-		"type": 3
-	},
 	"「恒等式」-变格": {
 		"CHS": "「恒等式」-变格",
 		"cn": "「恒等式」-变格",
@@ -284,6 +258,19 @@
 		"KO": "캐논 로터",
 		"rank": 3,
 		"type": 1
+	},
+	"十方锻星": {
+		"CHS": "十方锻星",
+		"cn": "十方锻星",
+		"desc": "...",
+		"EN": "Practiced Perfection",
+		"icon": "Weapon_S_1401",
+		"iconUrl": "/zzz/UI/Weapon_S_1401.webp",
+		"id": "14140",
+		"JA": "十面百錬の星",
+		"KO": "완벽하게 단조된 별",
+		"rank": 4,
+		"type": 3
 	},
 	"千面日陨": {
 		"CHS": "千面日陨",
@@ -648,6 +635,19 @@
 		"KO": "순결한 희생",
 		"rank": 4,
 		"type": 1
+	},
+	"狸法七变化": {
+		"CHS": "狸法七变化",
+		"cn": "狸法七变化",
+		"desc": "...",
+		"EN": "Metanukimorphosis",
+		"icon": "Weapon_S_1411",
+		"iconUrl": "/zzz/UI/Weapon_S_1411.webp",
+		"id": "14141",
+		"JA": "狸の七変化",
+		"KO": "너구리의 7단 변신",
+		"rank": 4,
+		"type": 4
 	},
 	"玉壶青冰": {
 		"CHS": "玉壶青冰",

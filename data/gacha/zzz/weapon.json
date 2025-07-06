@@ -1,5 +1,99 @@
 [
 	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 14140,
+				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
+				"itemType": "Weapon",
+				"name": "十方锻星",
+				"nameEn": "Practiced Perfection",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 14122,
+				"imageUrl": "/zzz/UI/Weapon_S_1221.webp",
+				"itemType": "Weapon",
+				"name": "时流贤者",
+				"nameEn": "Timeweaver",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "Bashful Demon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "Peacekeeper - Specialized",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2025-08-06 12:00:00",
+		"end": "2025-09-03 14:59:59"
+	},
+	{
+		"version": "2.1.1",
+		"items": [
+			{
+				"itemId": 14141,
+				"imageUrl": "/zzz/UI/Weapon_S_1411.webp",
+				"itemType": "Weapon",
+				"name": "狸法七变化",
+				"nameEn": "Metanukimorphosis",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 14109,
+				"imageUrl": "/zzz/UI/Weapon_S_1091.webp",
+				"itemType": "Weapon",
+				"name": "霰落星殿",
+				"nameEn": "Hailstorm Shrine",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "Roaring Ride",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "Starlight Engine Replica",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			}
+		],
+		"start": "2025-07-16 06:00:00",
+		"end": "2025-08-06 11:59:59"
+	},
+	{
 		"version": "2.0.2",
 		"items": [
 			{
