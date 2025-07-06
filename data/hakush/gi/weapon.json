@@ -874,6 +874,19 @@
 		"rank": 5,
 		"type": "WEAPON_POLE"
 	},
+	"拾慧铸熔": {
+		"CHS": "拾慧铸熔",
+		"cn": "拾慧铸熔",
+		"desc": "",
+		"EN": "Flame-Forged Insight",
+		"icon": "UI_EquipIcon_Claymore_Polilith",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Polilith.webp",
+		"id": "12432",
+		"JP": "知恵と溶炎JP0D",
+		"KR": "불로 벼린 지혜",
+		"rank": 4,
+		"type": "WEAPON_CLAYMORE"
+	},
 	"掠食者": {
 		"CHS": "掠食者",
 		"cn": "掠食者",
@@ -899,6 +912,19 @@
 		"KR": "대지를 울리는 자",
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
+	},
+	"支离轮光": {
+		"CHS": "支离轮光",
+		"cn": "支离轮光",
+		"desc": "",
+		"EN": "Fractured Halo",
+		"icon": "UI_EquipIcon_Pole_Perdix",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
+		"id": "13515",
+		"JP": "分かたれし光輪JP0D",
+		"KR": "파멸의 빛고리",
+		"rank": 5,
+		"type": "WEAPON_POLE"
 	},
 	"斫峰之刃": {
 		"CHS": "斫峰之刃",

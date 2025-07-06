@@ -21,6 +21,36 @@
 				"weaponType": "Polearm",
 				"rankType": 5,
 				"element": "Dendro"
+			},
+			{
+				"itemId": 10000110,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
+				"itemType": "Character",
+				"name": "伊安珊",
+				"nameEn": "Iansan",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "Yaoyao",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
 			}
 		],
 		"start": "2025-07-08 18:00:00",

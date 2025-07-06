@@ -170,6 +170,25 @@
 		"release": "2025-05-06 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
+	"伊涅芙": {
+		"birth": [
+			4,
+			2
+		],
+		"CHS": "伊涅芙",
+		"cn": "伊涅芙",
+		"desc": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
+		"element": "Electro",
+		"EN": "Ineffa",
+		"icon": "UI_AvatarIcon_Ineffa",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Ineffa.webp",
+		"id": "10000116",
+		"JP": "イネファ",
+		"KR": "이네파",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_POLE"
+	},
 	"优菈": {
 		"birth": [
 			10,
