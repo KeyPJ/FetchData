@@ -1,5 +1,175 @@
 [
 	{
+		"version": "3.4.2",
+		"items": [
+			{
+				"itemId": 1310,
+				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
+				"itemType": "Character",
+				"name": "流萤",
+				"nameEn": "Firefly",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1212,
+				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
+				"itemType": "Character",
+				"name": "镜流",
+				"nameEn": "Jingliu",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1205,
+				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
+				"itemType": "Character",
+				"name": "刃",
+				"nameEn": "Blade",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "Hanya",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1110,
+				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
+				"itemType": "Character",
+				"name": "玲可",
+				"nameEn": "Lynx",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
+				"itemType": "Character",
+				"name": "卢卡",
+				"nameEn": "Luka",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-07-23 12:00:00",
+		"end": "2025-08-12 14:59:59"
+	},
+	{
+		"version": "3.4.1",
+		"items": [
+			{
+				"itemId": 1408,
+				"imageUrl": "/hsr/UI/avatarshopicon/1408.webp",
+				"itemType": "Character",
+				"name": "白厄",
+				"nameEn": "Phainon",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1403,
+				"imageUrl": "/hsr/UI/avatarshopicon/1403.webp",
+				"itemType": "Character",
+				"name": "缇宝",
+				"nameEn": "Tribbie",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1313,
+				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
+				"itemType": "Character",
+				"name": "星期日",
+				"nameEn": "Sunday",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1306,
+				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
+				"itemType": "Character",
+				"name": "花火",
+				"nameEn": "Sparkle",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1202,
+				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "Tingyun",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1224,
+				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
+				"itemType": "Character",
+				"name": "三月七",
+				"nameEn": "March 7th",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1207,
+				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
+				"itemType": "Character",
+				"name": "驭空",
+				"nameEn": "Yukong",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			}
+		],
+		"start": "2025-07-02 06:00:00",
+		"end": "2025-07-23 11:59:59"
+	},
+	{
 		"version": "3.3.2",
 		"items": [
 			{

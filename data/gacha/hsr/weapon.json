@@ -1,5 +1,139 @@
 [
 	{
+		"version": "3.4.2",
+		"items": [
+			{
+				"itemId": 23025,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "Whereabouts Should Dreams Rest",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23014,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "I Shall Be My Own Sword",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23009,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "The Unreachable Side",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-07-23 12:00:00",
+		"end": "2025-08-12 14:59:59"
+	},
+	{
+		"version": "3.4.1",
+		"items": [
+			{
+				"itemId": 23044,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+				"itemType": "Weapon",
+				"name": "黎明恰如此燃烧",
+				"nameEn": "Thus Burns the Dawn",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23038,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "If Time Were a Flower",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "A Grounded Ascent",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23021,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "Earthly Escapade",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "The Story's Next Page",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "Under the Blue Sky",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-07-02 06:00:00",
+		"end": "2025-07-23 11:59:59"
+	},
+	{
 		"version": "3.3.2",
 		"items": [
 			{

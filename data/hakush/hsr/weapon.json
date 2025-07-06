@@ -21,6 +21,17 @@
 		"kr": "수술 후의 대화",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"一行往日的血": {
+		"baseType": "Warrior",
+		"cn": "一行往日的血",
+		"desc": "A storm broods in the distance. Tentacles extend from the Sea of Souls, as if intending to toy with that floating, fragile life.\\nThe broken limbs of the sea beast hammer giant sprays skyward, and sink into the oceanic abyss after shattering like rubble.\\n\\nThey say that the roar of the fight lasted for ten days and nights, overwhelming even the thunder and lightning.\\nThey say that even if a man had ten thousand lives, he would not be enough to resist the Sea of Souls's erosion.\\n\\nThen, courage washes away the immaturity and cold pride tempered timidity —\\n\\nAnd that thin figure stumbled onto the shore. The first ray of the morning sun shines down upon the sea's waters, dyeing it red like past blood.",
+		"en": "A Trail of Bygone Blood",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21058.webp",
+		"id": "21058",
+		"jp": "{RUBY_B#いにしえ}古{RUBY_E#}より{RUBY_B#う}受{RUBY_E#}け{RUBY_B#つ}継{RUBY_E#}がれる{RUBY_B#ち}血{RUBY_E#}",
+		"kr": "과거의 핏자국",
+		"rank": "CombatPowerLightconeRarity4"
+	},
 	"不息的演算": {
 		"baseType": "Mage",
 		"cn": "不息的演算",
@@ -87,6 +98,17 @@
 		"kr": "야경 속에서",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"于那终点再见": {
+		"baseType": "Rogue",
+		"cn": "于那终点再见",
+		"desc": "Unwilling tears trailed down his cheeks. At the heart of the shattered ritual array lingered not just death’s shadow, but an abyss of silence and emptiness.\\n\\nThen, a sigh trembled through the darkness — a ripple from the \"soul's\" deepest recesses.\\n<i>\"Is that you... Sister...\"</i>\\nThe boy lifted his hand, a weak light flickering in his eyes. The silhouette of his loved one lingered but a breath, yet its imprint etched a millennium into his heart.\\n\\n<i>\"I see... Thank you... for this final farewell.\"</i>\\nHe rose slowly. Dawn's first rays caressed his resolute face, still streaked with tears.\\n\\n<i>\"The path of seeking is a solitary one... Let us meet again at the journey's end.\"</i>",
+		"en": "See You at the End",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21062.webp",
+		"id": "21062",
+		"jp": "{RUBY_B#しゅうてん}終点{RUBY_E#}でまた{RUBY_B#あ}会{RUBY_E#}おう",
+		"kr": "그 종착지에서 다시 만나자",
+		"rank": "CombatPowerLightconeRarity4"
+	},
 	"今日亦是和平的一日": {
 		"baseType": "Mage",
 		"cn": "今日亦是和平的一日",
@@ -152,6 +174,17 @@
 		"jp": "{RUBY_B#くぼつ}倶歿{RUBY_E#}",
 		"kr": "전멸",
 		"rank": "CombatPowerLightconeRarity3"
+	},
+	"假日浴场大冒险": {
+		"baseType": "Warlock",
+		"cn": "假日浴场大冒险",
+		"desc": "<i>\"Cinny, let's go try out that new special bath that recently opened.\"</i>\\n\\nAfter finishing her medical duties in Okhema, the girl followed the curious child into the eclectic set of pools.\\n\\n<i>\"How about a Tomato Juice Massage?\"</i>\\nStaring at the attendant’s crimson-stained hands, she hugged the eager Little Ica and retreated—\\n<i>\"I prefer something... drinkable....\"</i>\\n\\n<i>\"Dromas back massage, limited-time discount!\"</i>\\nA curious dromas lowered its head, its hot breath tousling her hair.\\n<i>\"N—Next time, maybe!\"</i>\\n\\n<i>\"Herbal Bath — strengthens body and soul! How many in your party?\"</i>\\nLured by the fragrant herbs, she tentatively dipped a foot into the pool.\\n<i>\"This... seems healthy...\"</i>\\n\\n<i>\"Doot, doot-doot!\"</i>\\nLittle Ica floated blissfully on its back.\\n<i>\"Guess even you needed a break from all we've been doing recently...\"</i>\\n\\nOn this rare day off, sipping grape juice, the girl chatted with the red-haired child about everything from sleep tips to pastry recipes.\\n\\n<i>\"Oh no—Little Ica!\"</i>\\nThe child's shriek shattered the bathhouse's calm.\\n\\n<i>\"Doot...\"\\n\"Hold on, Little Ica!\"</i>",
+		"en": "Holiday Thermae Escapade",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21061.webp",
+		"id": "21061",
+		"jp": "{RUBY_B#きゅうじつ}休日{RUBY_E#}のバルネア{RUBY_B#だいぼうけん}大冒険{RUBY_E#}",
+		"kr": "휴일의 목욕탕 대모험",
+		"rank": "CombatPowerLightconeRarity4"
 	},
 	"偏偏希望无价": {
 		"baseType": "Mage",
@@ -479,7 +512,7 @@
 		"en": "The Great Cosmic Enterprise",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22004.webp",
 		"id": "22004",
-		"jp": "宇宙一の大商い！",
+		"jp": "{RUBY_B#うちゅういち}宇宙一{RUBY_E#}の{RUBY_B#おおあきな}大商{RUBY_E#}い！",
 		"kr": "우주 대사업",
 		"rank": "CombatPowerLightconeRarity4"
 	},
@@ -571,10 +604,21 @@
 		"kr": "섬뜩한 밤",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"愿旅途永远坦然": {
+		"baseType": "Knight",
+		"cn": "愿旅途永远坦然",
+		"desc": "The boy ran amongst the star-like raindrops and cheered for the blissful rain that arrived after a long drought.\\n\\nThe rain fell for a long, long time, and the covered wagon stopped on the land covered by budding green.\\n<i>\"Mom! Big sis! We'll never go cold or hungry again!\"\\n</i>The Avgins' campfire warmed the long night, as the boy listened to his big sister's stories and waited for the dawn.\\n\\n<i>\"Kakavasha... You, too, will go forth with your good luck blessed by the Mother Goddess, and achieve what we could not achieve... May your journey be forever peaceful, and your schemes forever concealed...\"</i>\\n\\nGolden sunlight reflects from his dreams into his real-life abode, and transactions and numbers are once again mirrored in his eyes.\\nHe lets go of the hand that was clutched into a fist —\\n\\nIt's as if he did not manage to grab onto anything... yet there's still a throbbing, lingering warmth.",
+		"en": "Journey, Forever Peaceful",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21053.webp",
+		"id": "21053",
+		"jp": "{RUBY_B#たび}旅{RUBY_E#}が{RUBY_B#へいおん}平穏{RUBY_E#}であるように",
+		"kr": "언제나 여정이 평탄하기를",
+		"rank": "CombatPowerLightconeRarity4"
+	},
 	"愿虹光永驻天空": {
 		"baseType": "Memory",
 		"cn": "愿虹光永驻天空",
-		"desc": "<i>\"Emotions are like clouds, and we are the sky that carries them. If the sky is overcast, then our emotions will fluctuate all over.\"</i>\\nThe physician listens with care to the visitor's sorrows, offering words of gentle solace.\\n<i>\"Please close your eyes and breathe slowly... Imagine yourself in a warm and soft place...\"</i>\\n\\nAs if infused with magic, a seven-colored rainbow radiance spills from beneath the wings of the winged beast.\\n<i>\"A breeze would drift across the plains, carrying the fragrance of wildflowers. Moist clouds would pass by, laden with sunlight...\"</i>\\nThe visitor gradually sinks into a peaceful dream, responding only with the quiet rhythm of steady breaths.\\n\\nAfter seeing the last patient, the physician gently closes the door of the ward.\\n\\nIn the distance, the boundless evernight still surges, with many ruins standing like the scars of the earth.\\n\\n<i>\"In the next life, may dawn shine upon all...\"</i>\\nBefore departing, she makes a wish to the sky —\\n<i>\"May the rainbow-colored light remains in the sky forever.\"</i>",
+		"desc": "<i>\"Emotions are like clouds, and we are the sky that carries them. If the sky is overcast, then our emotions will fluctuate all over.\"</i>\\nThe physician listens with care to the visitor's sorrows, offering words of gentle solace.\\n<i>\"Please close your eyes and breathe slowly... Imagine yourself in a warm and soft place...\"</i>\\n\\nAs if infused with magic, a seven-colored rainbow radiance spills from beneath the wings of the winged beast.\\n<i>\"A breeze would drift across the plains, carrying the fragrance of wildflowers. Moist clouds would pass by, laden with sunlight...\"</i>\\nThe visitor gradually sinks into a peaceful dream, responding only with the quiet rhythm of steady breaths.\\n\\nAfter seeing the last patient, the physician gently closes the door of the ward.\\n\\nIn the distance, the boundless evernight still surges, with many ruins standing like the scars of the earth.\\n\\n<i>\"In the next life, may dawn shine upon all...\"</i>\\nBefore departing, she makes a wish to the sky —\\n<i>\"May the sky forever hold that rainbow radiance.\"</i>",
 		"en": "Long May Rainbows Adorn the Sky",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23042.webp",
 		"id": "23042",
@@ -625,6 +669,17 @@
 		"jp": "{RUBY_B#よあ}夜明{RUBY_E#}け{RUBY_B#まえ}前{RUBY_E#}",
 		"kr": "동트기 전",
 		"rank": "CombatPowerLightconeRarity5"
+	},
+	"故事的下一页": {
+		"baseType": "Memory",
+		"cn": "故事的下一页",
+		"desc": "The breeze stirs the wheat fields as the girl, clutching a blank journal, strolls through the golden waves.\\n\\nBeyond Aedes Elysiae, in a city both unfamiliar and eerily familiar, companions of all kinds will cross paths, and a journey like a song, like a dream, is about to begin...\\n\\n<i>\"This time, together with me...\"</i>\\nAt the edge of the field, the girl who has waited so long closes her book and extends a hand toward the \"future\"—\\n\\n<i>\"Let's write a new chapter of the story ♪\"</i>",
+		"en": "The Story's Next Page",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+		"id": "21054",
+		"jp": "{RUBY_B#ものがたり}物語{RUBY_E#}をめくって",
+		"kr": "이야기의 다음 페이지",
+		"rank": "CombatPowerLightconeRarity4"
 	},
 	"新手任务开始前": {
 		"baseType": "Warlock",
@@ -824,6 +879,28 @@
 		"kr": "태양보다 밝게 빛나는 것",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"氤氲麦香的梦": {
+		"baseType": "Mage",
+		"cn": "氤氲麦香的梦",
+		"desc": "The breeze blows past the youth's fingertips and sends the letter, still wet with ink, to the distant beyond.\\n\\n<i>\"What would my future look like...\"</i>\\nDreams grow wings in his mind and fly towards the ends of the sky.\\nEars of wheat dance in the wind and form ripples, as if responding to his boyish and earnest wish.\\n\\n<i>\"Even if I only have a single sword in my hand, I want to protect this place no matter what!\"</i>\\nThe youth made this silent vow in his mind —\\n\\nA vow as deep as a brand, eternally etched into his heart.",
+		"en": "A Dream Scented in Wheat",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21060.webp",
+		"id": "21060",
+		"jp": "{RUBY_B#むぎ}麦{RUBY_E#}の{RUBY_B#かお}香{RUBY_E#}り{RUBY_B#ただよ}漂{RUBY_E#}う{RUBY_B#ゆめ}夢{RUBY_E#}",
+		"kr": "밀 내음이 가득한 꿈",
+		"rank": "CombatPowerLightconeRarity4"
+	},
+	"永远的迷境饭": {
+		"baseType": "Shaman",
+		"cn": "永远的迷境饭",
+		"desc": "*BOOM*—\\nOutside the Maze, a storm rages endlessly.\\n*gurgle*—\\nThe fairies' magical cauldron burns with an eternal flame.\\n\\n<i>\"Sprinkle in the special spices...\"</i>\\n<i>\"Add some fresh vegetables!\"</i>\\n<i>\"This time, we'll succeed for sure!\"</i>\\n\\nThe huge cauldron bubbled up again as the fairies watched eagerly.\\n<i>\"Here it comes, here it comes!\"</i>\\nA brilliant light burst forth from the bottom of the pot—\\n\\nLook, everyone's gathering around!\\n\\n...\\n\\nAt the fragrant feast, guests raised their glasses to toast to these wonderful times—\\n\\nMay this dreamy paradise stay warm and joyful forever!",
+		"en": "Maze Restaurant Forever",
+		"iconUrl": "/hsr/UI/lightconemediumicon/22005.webp",
+		"id": "22005",
+		"jp": "永遠の迷境飯",
+		"kr": "영원한 미궁의 식사",
+		"rank": "CombatPowerLightconeRarity4"
+	},
 	"汪！散步时间！": {
 		"baseType": "Warrior",
 		"cn": "汪！散步时间！",
@@ -834,6 +911,28 @@
 		"jp": "ワン！{RUBY_B#さんぽ}散歩{RUBY_E#}の{RUBY_B#じかん}時間{RUBY_E#}！",
 		"kr": "멍! 산책 시간!",
 		"rank": "CombatPowerLightconeRarity4"
+	},
+	"没有回报的加冕": {
+		"baseType": "Warrior",
+		"cn": "没有回报的加冕",
+		"desc": "The girl's ears rang in the fantasia with the words conversed on that day.\\n\\n<i>\"This sword wasn't hard to pull out at all, Merlin.\"</i>\\n<i>\"Indeed. Becoming the king everyone wishes for won't be hard for you at all, given that I'm guiding you. However, Altria... The hard part is that you can't always meet everyone's expectations.\"</i>\\n<i>\"Then they can choose a more fitting king by that time. I won't protest.\"</i>\\n<i>\"But what if such a person will never exist?\"</i>\\n<i>\"...Then I'll do my best to meet everyone's expectations.\"</i>\\n\\nNow, the girl had long since become aware of how profound that tragedy would be. Would she have chosen to give up if she were to return to that moment where everything began?\\n\\nThe king does not speak and simply grasps the sword tightly.\\nThe stone again gives out a thundering roar as the sword is pulled out.",
+		"en": "A Thankless Coronation",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23045.webp",
+		"id": "23045",
+		"jp": "{RUBY_B#むく}報{RUBY_E#}われぬ{RUBY_B#たいかん}戴冠{RUBY_E#}",
+		"kr": "보답 없는 왕관",
+		"rank": "CombatPowerLightconeRarity5"
+	},
+	"海洋为何而歌": {
+		"baseType": "Warlock",
+		"cn": "海洋为何而歌",
+		"desc": "Waves surge forth, their roar echoing across the heavens.\\nFish swim through the empty seas, where ancient foam churns and that melody seems to still linger.\\n\\n<i>\"Noble Princess, feast with us!\"</i>\\nAnswering the deep sea's call, she danced with the black tide until she alone remained on that grand stage.\\n<i>\"Swordmaster of the seas, why do you stay silent, what makes you sing?\"</i>\\nWith every step upon the Earth, she endured the pain, rarely singing, only her crimson blade sang the lament of life.\\n\\n<i>\"Dux Gladiorum, come with me to conquer the starry seas!\"</i>\\nWhen she found this blazing light, she finally took up her bow, believing it to be the start of the celebration.\\n\\n...\\n\\n<i>\"Helektra... Helektra... when your song ends, where will you swim to next?\"</i>\\n\\nWhen futile hopes shatter, she always answers their questions with a solitary melody, yet it enchants all who hear it—\\n\\nOr perhaps... whether in the mortal realm or the deep sea, the only true listener is the performer herself.",
+		"en": "Why Does the Ocean Sing",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23047.webp",
+		"id": "23047",
+		"jp": "海洋は何のために歌う",
+		"kr": "바다는 왜 노래하는가",
+		"rank": "CombatPowerLightconeRarity5"
 	},
 	"渊环": {
 		"baseType": "Warlock",
@@ -945,6 +1044,17 @@
 		"kr": "사냥감의 시선",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"理想燃烧的地狱": {
+		"baseType": "Rogue",
+		"cn": "理想燃烧的地狱",
+		"desc": "The flames of karma ignite the plains. The ideals of unknowns turn to ashes, as the ideals of others burn passionately.\\n\\nThe Guardian traverses between bullets and arrowheads.\\nHe can save no one here. He can save everyone here.\\n\\nKill one person to save one person. Kill ten thousand to save ten thousand. The fate of trampling over our peers is one part of humanity's continued existence.\\n\\nThe Guardian had already grown used to all this, and his steps never hesitated.\\nThe determination that covers his legs is like wind. The determination that covers his arms is like fire.\\n\\nHe is still seeking a miracle that can bring forth salvation.",
+		"en": "The Hell Where Ideals Burn",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23046.webp",
+		"id": "23046",
+		"jp": "{RUBY_B#りそう}理想{RUBY_E#}を{RUBY_B#や}焼{RUBY_E#}く{RUBY_B#ならく}奈落{RUBY_E#}で",
+		"kr": "이상이 불타는 지옥",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"琥珀": {
 		"baseType": "Knight",
 		"cn": "琥珀",
@@ -966,6 +1076,17 @@
 		"jp": "{RUBY_B#せいめい}生命{RUBY_E#}、{RUBY_B#しょうめつ}焼滅{RUBY_E#}すべし",
 		"kr": "생명은 불태워야 하는 것",
 		"rank": "CombatPowerLightconeRarity5"
+	},
+	"直到明天的明天": {
+		"baseType": "Priest",
+		"cn": "直到明天的明天",
+		"desc": "<i>\"See you tomorrow, Tribios...\"</i>\\n\\nThe girl wiped the tears on her cheeks when her mother went somewhere far, far away.\\n\\nShe waited one tomorrow after another, till she grew up to be someone like her mother.\\nShe stands before the passage and grasps the Coreflame tight as she recalled her mother's words.\\n\\n<i>\"There are no blizzards, colds, or rain at that place...\"</i>\\n\\n<i>\"But if we don't see that place tomorrow, then...\"</i>\\n\\nShe falls towards the earth, leaving her young figure behind, like a shooting star across the sky —\\n\\n<i>\"Then we'll see it the day after tomorrow!\"</i>",
+		"en": "Unto Tomorrow's Morrow",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21055.webp",
+		"id": "21055",
+		"jp": "{RUBY_B#あした}明日{RUBY_E#}の{RUBY_B#あした}明日{RUBY_E#}まで",
+		"kr": "내일의 내일이 올 때까지",
+		"rank": "CombatPowerLightconeRarity4"
 	},
 	"相抗": {
 		"baseType": "Rogue",
@@ -1075,6 +1196,17 @@
 		"id": "21018",
 		"jp": "ダンス！ダンス！ダンス！",
 		"kr": "댄스! 댄스! 댄스!",
+		"rank": "CombatPowerLightconeRarity4"
+	},
+	"花儿不会忘记": {
+		"baseType": "Memory",
+		"cn": "花儿不会忘记",
+		"desc": "In spring, they sowed seeds.\\nIn summer, they irrigated the fields.\\nIn autumn, they harvested the fruits.\\nIn winter, they sang as they walked in the snow.\\n...\\n\\nThe land that was originally barren now blooms with flowers, and butterflies are drawn by the peals of laughter and land on the girls' fingertips.\\n<i>\"Big sis! We'll keep working together to turn this into a huge sea of flowers!\"</i>\\n\\n<i>\"See. Our promise...\"</i>\\nThe butterfly flies to the other shore. The rather taciturn girl softly caresses the warm flower petals as if her little sister is still there with her.\\n<i>\"...Wasn't forgotten by me or the flowers we once attended.\"</i>",
+		"en": "The Flower Remembers",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21057.webp",
+		"id": "21057",
+		"jp": "{RUBY_B#はな}花{RUBY_E#}は{RUBY_B#わす}忘{RUBY_E#}れない",
+		"kr": "꽃은 잊지 않는다",
 		"rank": "CombatPowerLightconeRarity4"
 	},
 	"芳华待灼": {
@@ -1212,7 +1344,7 @@
 	"谎言在风中飘扬": {
 		"baseType": "Warlock",
 		"cn": "谎言在风中飘扬",
-		"desc": "The cat-eared girl stretches her limbs atop the rooftop, slinking into the night.\\nIn the treasure vault that had slumbered for a thousand years, she glides effortlessly, gathering precious treasures into her embrace before vanishing without a sound.\\n<i>\"Foolish fate could never catch me!\"</i>\\n\\nThe wind through the ruins carries the scent of the wild, rustling her hood.\\nResting her head against the cold stone, she swallows a bite of rough, dry rations, idly tossing a gold coin between her fingers.\\n\\nA faint sound from afar reaches her ears. In that holy city bathed in dawn's light, the bustling crowds still revel in warmth and celebration.\\n<i>\"How much longer... a year, or ten thousand?\"</i>\\n\\nShe stretches with a lazy yawn, casting her restless thoughts aside.\\n<i>\"Hah, Cifera always has the last laugh!\"</i>\\n\\nA golden streak of lightning cuts across the sky, and her proclamation lingers in the wind—\\nJust as it had a thousand years ago.",
+		"desc": "The cat-eared girl stretches her limbs on the rooftop, slinking into the night.\\nIn the treasure vault that had slumbered for a thousand years, she glides effortlessly, gathering precious treasures into her embrace before vanishing without a sound.\\n<i>\"Foolish fate could never catch me!\"</i>\\n\\nThe wind through the ruins carries the scent of the wild, rustling her hood.\\nResting her head against the cold stone, she swallows a bite of rough, dry rations, idly tossing a gold coin between her fingers.\\n\\nA faint sound from afar reaches her ears. In that holy city bathed in dawn's light, the bustling crowds still revel in warmth and celebration.\\n<i>\"How much longer... a year, or ten thousand?\"</i>\\n\\nShe stretches with a lazy yawn, casting her restless thoughts aside.\\n<i>\"Hah, Cifera always has the last laugh!\"</i>\\n\\nA golden streak of lightning cuts across the sky, and her proclamation lingers in the wind—\\nJust as it had a thousand years ago.",
 		"en": "Lies Dance on the Breeze",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23043.webp",
 		"id": "23043",
@@ -1264,6 +1396,17 @@
 		"kr": "이게 바로 나야!",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"追逐风的时候": {
+		"baseType": "Shaman",
+		"cn": "追逐风的时候",
+		"desc": "<i>\"Heh. This one can go to that unlucky brat. It'll shut her money-owing parents up, and maybe they'll hit her less.\"\\n\"This can go to the granny selling pickle candies to help her out in a pitch. She really needs to see a doctor for all her pains. I don't wanna see a day when I can't buy such tasty candies anymore...\"</i>\\n\\nBent over the rucksack, the girl meticulously counts the jewels in there, and suddenly sneezes.\\n<i>\"Who's missed me?\"</i>\\n\\n<i>\"There you are, Cifera.\"</i>\\nThe threads wind around her back, as if hesitating where to start.\\n\\n<i>\"From now on, when you're chasing the wind...\"</i>\\nThe icy golden thread wraps around her wrists, holding her in place.\\n\\n<i>\"Don't forget to look after yourself as well.\"</i>\\n\\nShe runs, escaping far away. It's only when she turns around that she discovers the corner of her cloak that's starting to fray had already been stitched up, as if it were new.",
+		"en": "In Pursuit of the Wind",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21056.webp",
+		"id": "21056",
+		"jp": "{RUBY_B#かぜ}風{RUBY_E#}を{RUBY_B#お}追{RUBY_E#}う{RUBY_B#とき}時{RUBY_E#}",
+		"kr": "바람을 쫓을 때",
+		"rank": "CombatPowerLightconeRarity4"
+	},
 	"那无数个春天": {
 		"baseType": "Warlock",
 		"cn": "那无数个春天",
@@ -1296,6 +1439,17 @@
 		"jp": "{RUBY_B#ゆうめい}幽冥{RUBY_E#}に{RUBY_B#き}帰{RUBY_E#}す",
 		"kr": "또다시 저승으로",
 		"rank": "CombatPowerLightconeRarity4"
+	},
+	"金血铭刻的时代": {
+		"baseType": "Shaman",
+		"cn": "金血铭刻的时代",
+		"desc": "<i>\"How will history remember Cerydra a thousand years from now?\"</i>\\nShe was once asked.\\n\\nTo some, she was the eminent \"Imperator.\"\\nThat cold and cruel tyrant, that ambitious \"Flamebearer,\" that empress who burned the Old Era with blood and fire...\\n\\nOthers argued she was merely a pitiful \"pawn.\"\\nThis forsaken ruler was but a prisoner of ambition, destined to lose everything in that game of chess against the gods.\\n\\nAnd some said that in the depths of her heart, darker than the ocean's abyss, she was just a mortal named \"Cerydra\"—\\nOne who mourned for fallen comrades, who hesitated and feared before her heavy fate, unable to move forward...\\n\\n<i>\"Heh, There is no need for history to remember me...\"</i>\\n\\nSwallowing the bitterness in her heart, she continued down that path of Flame-Chase paved with sacrifice—\\n\\n<i>\"It is our burning golden blood that shall engrave it!\"</i>",
+		"en": "Era Engraved By Golden Blood",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23048.webp",
+		"id": "23048",
+		"jp": "黄金の血に刻まれた時代",
+		"kr": "황금 피가 새겨진 시대",
+		"rank": "CombatPowerLightconeRarity5"
 	},
 	"铭记于心的约定": {
 		"baseType": "Warrior",
@@ -1394,6 +1548,17 @@
 		"id": "23027",
 		"jp": "{RUBY_B#にどめ}二度目{RUBY_E#}の{RUBY_B#せい}生{RUBY_E#}に{RUBY_B#む}向{RUBY_E#}かって",
 		"kr": "두 번째 생명을 향해",
+		"rank": "CombatPowerLightconeRarity5"
+	},
+	"黎明恰如此燃烧": {
+		"baseType": "Warrior",
+		"cn": "黎明恰如此燃烧",
+		"desc": "Once again, at the journey's end, the man's silhouette was swallowed by the sweltering golden sun.\\n\\n<i>\"So... that golden blood, the last hope of deliverance, was really...\"</i>\\n\\nHis tears never had the chance to fall — they vanished into steam.\\n<i>\"Snowy, see you tomorrow!\"</i>\\n<i>\"Deliverer, remember to stay alive till the final act!\"</i>\\n<i>\"Go be the dawn of Amphoreus...\"</i>\\n\\n...\\nThe people's wishes echoed in the void. The Nameless Hero crumbled, his fierce and tragic death laid bare.\\n\\n<i>\"If rage can't burn this twisted fate to ashes...\"</i>\\nHe climbed toward the peak, over and over, only to fall and be shattered, again and again—\\n\\n<i>\"Then let me burn with it!\"</i>",
+		"en": "Thus Burns the Dawn",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+		"id": "23044",
+		"jp": "{RUBY_B#も}燃{RUBY_E#}え{RUBY_B#さか}盛{RUBY_E#}る{RUBY_B#れいめい}黎明{RUBY_E#}のように",
+		"kr": "이와 같이 타오르는 여명",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"黑夜如影随行": {
