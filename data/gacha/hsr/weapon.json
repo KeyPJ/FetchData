@@ -1,5 +1,119 @@
 [
 	{
+		"version": "3.5.2",
+		"items": [
+			{
+				"itemId": 23048,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23048.webp",
+				"itemType": "Weapon",
+				"name": "金血铭刻的时代",
+				"nameEn": "Epoch Etched in Golden Blood",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23007,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
+				"itemType": "Weapon",
+				"name": "雨一直下",
+				"nameEn": "Incessant Rain",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21006,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"itemType": "Weapon",
+				"name": "「我」的诞生",
+				"nameEn": "The Birth of the Self",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "Swordplay",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "Good Night and Sleep Well",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-09-02 12:00:00",
+		"end": "2025-09-23 14:59:59"
+	},
+	{
+		"version": "3.5.1",
+		"items": [
+			{
+				"itemId": 23047,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23047.webp",
+				"itemType": "Weapon",
+				"name": "海洋为何而歌",
+				"nameEn": "Why Does the Ocean Sing",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23006,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
+				"itemType": "Weapon",
+				"name": "只需等待",
+				"nameEn": "Patience Is All You Need",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21046,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
+				"itemType": "Weapon",
+				"name": "芳华待灼",
+				"nameEn": "Poised to Bloom",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21042,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
+				"itemType": "Weapon",
+				"name": "铭记于心的约定",
+				"nameEn": "Indelible Promise",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-08-13 06:00:00",
+		"end": "2025-09-02 11:59:59"
+	},
+	{
 		"version": "3.4.2",
 		"items": [
 			{

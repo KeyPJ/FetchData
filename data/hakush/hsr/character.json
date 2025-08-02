@@ -26,7 +26,8 @@
 		"id": "1015",
 		"jp": "アーチャー",
 		"kr": "아처",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1752224400
 	},
 	"Saber": {
 		"baseType": "Warrior",
@@ -40,7 +41,8 @@
 		"id": "1014",
 		"jp": "セイバー",
 		"kr": "세이버",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1752224400
 	},
 	"万敌": {
 		"baseType": "Warrior",
@@ -198,7 +200,7 @@
 		"baseType": "Shaman",
 		"cn": "刻律德菈",
 		"damageType": "Wind",
-		"desc": "The Northern Empire, a lost dynasty, where frozen lands burn with ambitions of conquest.\\nSovereign Cerydra, Chrysos Heir who wields the Coreflame of \"Law,\" you shall set your pieces, challenge the gods, pass judgment upon the faithless, and carve the path of Flame-Chase into the fate of this world.\\n—<i>\"This is no end. The path of Amphoreus shall blaze across the stars!\"</i>",
+		"desc": "The Northern Empire, a lost dynasty, where its frozen lands burn with the fever of conquest.\\nSovereign Cerydra, the Chrysos Heir who wields the Coreflame of \"Law,\" weaves her schemes, contends with the gods, passes judgment upon the faithless, and lays the foundation of Flame-Chase into this world.\\n...<i>\"This is far from the end. Amphoreus's journey is set to blaze across the stars!\"</i>",
 		"en": "Cerydra",
 		"enhance": [],
 		"icon": "cerydra",
@@ -484,7 +486,7 @@
 		"baseType": "Warlock",
 		"cn": "椒丘",
 		"damageType": "Fire",
-		"desc": "A foxian healer and counselor from the Xianzhou Yaoqing. Often greets people with a smile on his face and a scheme in his heart.\\nBorn into a prestigious Alchemy Commission family, he once withdrew from practicing medicine due to a broken heart. However, he returned to the field to treat \"the Merlin's Claw,\" General Feixiao.\\nSkilled in the study of alchemical prescription that views food as medicine, especially those that induce a sensation of spiciness. They invented a cauldron-based medicinal formula known as the \"nine-squared grid.\"",
+		"desc": "A foxian healer and counselor from the Xianzhou Yaoqing. Often greets people with a smile on his face and a scheme in his heart.\\nBorn into a prestigious Alchemy Commission family, he once withdrew from practicing medicine due to a broken heart. However, he returned to the field to treat \"the Merlin's Claw,\" General Feixiao.\\nSkilled in the study of alchemical prescription that views food as medicine, especially those that induce a sensation of spiciness. He invented a cauldron-based medicinal formula known as the \"nine-squared grid.\"",
 		"en": "Jiaoqiu",
 		"enhance": [],
 		"icon": "jiaoqiu",
@@ -529,7 +531,7 @@
 		"baseType": "Warlock",
 		"cn": "海瑟音",
 		"damageType": "Physical",
-		"desc": "Styxia, the coastal city of intoxication and dreams, where echoes of old songs still drift among the waves.\\nHelektra, Daughter of the Sea, Chrysos Heir who cleanses the Ocean's Coreflame, dispels the murky undercurrents and orchestrates a feast of revelry for the heroes beyond the sky.\\n—The show must go on. Even if hope is as fragile as bubbles, the waves will keep surging forward.",
+		"desc": "Styxia, the coastal city of intoxication and dreams, where echoes of old songs still drift among the waves.\\nHelektra, Daughter of the Sea, Chrysos Heir who cleanses the Ocean's Coreflame, dispels the murky undercurrents and orchestrates a banquet of revelry for the heroes beyond the sky.\\nThe show must go on. Even if hope is as fragile as bubbles, the waves will keep surging forward.",
 		"en": "Hysilens",
 		"enhance": [],
 		"icon": "hysilens",
@@ -588,7 +590,7 @@
 		"baseType": "Warrior",
 		"cn": "白厄",
 		"damageType": "Physical",
-		"desc": "Aedes Elysiae, a remote frontier village isolated from the world, now lives on only in cryptic legends.\\nThe Nameless hero, █████, the Chrysos Heir carrying the Coreflame of \"Worldbearing,\" memorizes the ideals of the entire world, carries the fate of millions, and brings the first light of dawn to the new world\\n—<i>\"But should dawn have never existed, let the fires of rage burn this body to ashes and transform into the blazing sun of tomorrow!\"</i>",
+		"desc": "Aedes Elysiae, a remote frontier village isolated from the world, now lives on only in cryptic legends.\\nThe Nameless hero, ████████, the Chrysos Heir holding the Coreflame of \"Worldbearing,\" memorizes the ideals of the entire world, carries the fate of millions, and brings the first light of dawn to the new world\\n—<i>\"But if dawn should never come, let this fury consume this body, and rise as tomorrow's blazing sun!\"</i>",
 		"en": "Phainon",
 		"enhance": [],
 		"icon": "phainon",
@@ -596,7 +598,8 @@
 		"id": "1408",
 		"jp": "ファイノン",
 		"kr": "파이논",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1751446800
 	},
 	"白露": {
 		"baseType": "Priest",

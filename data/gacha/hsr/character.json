@@ -1,5 +1,139 @@
 [
 	{
+		"version": "3.5.2",
+		"items": [
+			{
+				"itemId": 1412,
+				"imageUrl": "/hsr/UI/avatarshopicon/1412.webp",
+				"itemType": "Character",
+				"name": "刻律德菈",
+				"nameEn": "Cerydra",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1006,
+				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
+				"itemType": "Character",
+				"name": "银狼",
+				"nameEn": "Silver Wolf",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1108,
+				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
+				"itemType": "Character",
+				"name": "桑博",
+				"nameEn": "Sampo",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1201,
+				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
+				"itemType": "Character",
+				"name": "青雀",
+				"nameEn": "Qingque",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1002,
+				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
+				"itemType": "Character",
+				"name": "丹恒",
+				"nameEn": "Dan Heng",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-09-02 12:00:00",
+		"end": "2025-09-23 14:59:59"
+	},
+	{
+		"version": "3.5.1",
+		"items": [
+			{
+				"itemId": 1410,
+				"imageUrl": "/hsr/UI/avatarshopicon/1410.webp",
+				"itemType": "Character",
+				"name": "海瑟音",
+				"nameEn": "Hysilens",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1005,
+				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
+				"itemType": "Character",
+				"name": "卡芙卡",
+				"nameEn": "Kafka",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1009,
+				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
+				"itemType": "Character",
+				"name": "艾丝妲",
+				"nameEn": "Asta",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1008,
+				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
+				"itemType": "Character",
+				"name": "阿兰",
+				"nameEn": "Arlan",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1109,
+				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
+				"itemType": "Character",
+				"name": "虎克",
+				"nameEn": "Hook",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-08-13 06:00:00",
+		"end": "2025-09-02 11:59:59"
+	},
+	{
 		"version": "3.4.2",
 		"items": [
 			{
