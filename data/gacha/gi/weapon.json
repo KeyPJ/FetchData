@@ -1,5 +1,100 @@
 [
 	{
+		"version": "5.8.2",
+		"items": [
+			{
+				"itemId": 14516,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MechaPufferfish.webp",
+				"itemType": "Weapon",
+				"name": "冲浪时光",
+				"nameEn": "Surf's Up",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 15514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
+				"itemType": "Weapon",
+				"name": "星鹫赤羽",
+				"nameEn": "Astral Vulture's Crimson Plumage",
+				"weaponType": "Bow",
+				"rankType": 5
+			}
+		],
+		"start": "2025-08-19 18:00:00",
+		"end": "2025-09-09 14:59:59"
+	},
+	{
+		"version": "5.8.1",
+		"items": [
+			{
+				"itemId": 13515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
+				"itemType": "Weapon",
+				"name": "支离轮光",
+				"nameEn": "Fractured Halo",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 14517,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Figurines.webp",
+				"itemType": "Weapon",
+				"name": "祭星者之望",
+				"nameEn": "Starcaller's Watch",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "弥坚骨",
+				"nameEn": "Sturdy Bone",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 13430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "镇山之钉",
+				"nameEn": "Mountain-Bracing Bolt",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 14401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-07-30 06:00:00",
+		"end": "2025-08-19 17:59:59"
+	},
+	{
 		"version": "5.7.2",
 		"items": [
 			{

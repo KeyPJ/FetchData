@@ -51,6 +51,19 @@
 		"rank": 4,
 		"type": "WEAPON_CATALYST"
 	},
+	"万能钥匙": {
+		"CHS": "万能钥匙",
+		"cn": "万能钥匙",
+		"desc": "",
+		"EN": "Master Key",
+		"icon": "UI_EquipIcon_Claymore_Ilmarinen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Ilmarinen.webp",
+		"id": "12433",
+		"JP": "マスターキーJP0B",
+		"KR": "만능 열쇠",
+		"rank": 4,
+		"type": "WEAPON_CLAYMORE"
+	},
 	"不灭月华": {
 		"CHS": "不灭月华",
 		"cn": "不灭月华",
@@ -89,6 +102,19 @@
 		"KR": "꽃잎비",
 		"rank": 4,
 		"type": "WEAPON_SWORD_ONE_HAND"
+	},
+	"乌髓孑灯": {
+		"CHS": "乌髓孑灯",
+		"cn": "乌髓孑灯",
+		"desc": "",
+		"EN": "Blackmarrow Lantern",
+		"icon": "UI_EquipIcon_Catalyst_Ilmarinen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ilmarinen.webp",
+		"id": "14433",
+		"JP": "烏髄の孤灯JP0B",
+		"KR": "고독한 어둠의 등불",
+		"rank": 4,
+		"type": "WEAPON_CATALYST"
 	},
 	"乘浪的回旋": {
 		"CHS": "乘浪的回旋",
@@ -523,6 +549,19 @@
 		"tag": "TAG_TYPE_COLOR_BY_ELEMENT",
 		"type": "WEAPON_CATALYST"
 	},
+	"天光的纺琴": {
+		"CHS": "天光的纺琴",
+		"cn": "天光的纺琴",
+		"desc": "",
+		"EN": "Lightweaver's Lyre",
+		"icon": "UI_EquipIcon_Catalyst_SeeliesLute",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SeeliesLute.webp",
+		"id": "14432",
+		"JP": "天光を紡ぐ琴JP0B",
+		"KR": "천광의 거문고",
+		"rank": 4,
+		"type": "WEAPON_CATALYST"
+	},
 	"天目影打刀": {
 		"CHS": "天目影打刀",
 		"cn": "天目影打刀",
@@ -877,15 +916,28 @@
 	"拾慧铸熔": {
 		"CHS": "拾慧铸熔",
 		"cn": "拾慧铸熔",
-		"desc": "",
+		"desc": "Tribal tales tell of a great blade forged by the People of the Springs to protect a child who would embark on a distant journey. This particular weapon appears to be a replica of that legendary sword.",
 		"EN": "Flame-Forged Insight",
 		"icon": "UI_EquipIcon_Claymore_Polilith",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Polilith.webp",
 		"id": "12432",
-		"JP": "知恵と溶炎JP0D",
+		"JP": "知恵の溶炎",
 		"KR": "불로 벼린 지혜",
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
+	},
+	"掘金之锹": {
+		"CHS": "掘金之锹",
+		"cn": "掘金之锹",
+		"desc": "",
+		"EN": "Prospector's Shovel",
+		"icon": "UI_EquipIcon_Pole_Ilmarinen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ilmarinen.webp",
+		"id": "13433",
+		"JP": "金掘りのスコップJP0B",
+		"KR": "채굴의 삽",
+		"rank": 4,
+		"type": "WEAPON_POLE"
 	},
 	"掠食者": {
 		"CHS": "掠食者",
@@ -916,12 +968,12 @@
 	"支离轮光": {
 		"CHS": "支离轮光",
 		"cn": "支离轮光",
-		"desc": "",
+		"desc": "A spinning mechanical blade produced by the Clink-Clank Krumkake Craftshop that seems to hide secrets from a bygone era...",
 		"EN": "Fractured Halo",
 		"icon": "UI_EquipIcon_Pole_Perdix",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
 		"id": "13515",
-		"JP": "分かたれし光輪JP0D",
+		"JP": "砕け散る光輪",
 		"KR": "파멸의 빛고리",
 		"rank": 5,
 		"type": "WEAPON_POLE"
@@ -1788,6 +1840,32 @@
 		"rank": 4,
 		"type": "WEAPON_CATALYST"
 	},
+	"纺夜天镜": {
+		"CHS": "纺夜天镜",
+		"cn": "纺夜天镜",
+		"desc": "",
+		"EN": "Nightweaver's Looking Glass",
+		"icon": "UI_EquipIcon_Catalyst_MenulisRing",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MenulisRing.webp",
+		"id": "14520",
+		"JP": "夜天を紡ぐ鏡JP0B",
+		"KR": "밤을 잇는 천경",
+		"rank": 5,
+		"type": "WEAPON_CATALYST"
+	},
+	"织月者的曙色": {
+		"CHS": "织月者的曙色",
+		"cn": "织月者的曙色",
+		"desc": "",
+		"EN": "Moonweaver's Dawn",
+		"icon": "UI_EquipIcon_Sword_Miekka",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Miekka.webp",
+		"id": "11434",
+		"JP": "月紡ぎの暁光JP0B",
+		"KR": "달빛을 엮는 자의 새벽빛",
+		"rank": 4,
+		"type": "WEAPON_SWORD_ONE_HAND"
+	},
 	"终末嗟叹之诗": {
 		"CHS": "终末嗟叹之诗",
 		"cn": "终末嗟叹之诗",
@@ -1824,6 +1902,19 @@
 		"id": "15430",
 		"JP": "花飾りの羽",
 		"KR": "꽃장식 깃",
+		"rank": 4,
+		"type": "WEAPON_BOW"
+	},
+	"罗网勾针": {
+		"CHS": "罗网勾针",
+		"cn": "罗网勾针",
+		"desc": "",
+		"EN": "Snare Hook",
+		"icon": "UI_EquipIcon_Bow_Ilmarinen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ilmarinen.webp",
+		"id": "15433",
+		"JP": "羅網の針JP0B",
+		"KR": "그물을 짜는 바늘",
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
@@ -2038,6 +2129,19 @@
 		"KR": "이무기 검",
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
+	},
+	"血染荒城": {
+		"CHS": "血染荒城",
+		"cn": "血染荒城",
+		"desc": "",
+		"EN": "Bloodsoaked Ruins",
+		"icon": "UI_EquipIcon_Pole_TummaLyhty",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_TummaLyhty.webp",
+		"id": "13516",
+		"JP": "血染めの荒れ地JP0B",
+		"KR": "피로 물든 황폐한 성",
+		"rank": 5,
+		"type": "WEAPON_POLE"
 	},
 	"衔珠海皇": {
 		"CHS": "衔珠海皇",
@@ -2259,6 +2363,19 @@
 		"KR": "황금 호박 프로토타입",
 		"rank": 4,
 		"type": "WEAPON_CATALYST"
+	},
+	"谧音吹哨": {
+		"CHS": "谧音吹哨",
+		"cn": "谧音吹哨",
+		"desc": "",
+		"EN": "Serenity's Call",
+		"icon": "UI_EquipIcon_Sword_Ilmarinen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Ilmarinen.webp",
+		"id": "11433",
+		"JP": "静謐の笛JP0B",
+		"KR": "고요한 휘파람 소리",
+		"rank": 4,
+		"type": "WEAPON_SWORD_ONE_HAND"
 	},
 	"贯星": {
 		"CHS": "贯星",

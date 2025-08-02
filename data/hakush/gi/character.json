@@ -186,7 +186,7 @@
 		"JP": "イネファ",
 		"KR": "이네파",
 		"rank": "QUALITY_ORANGE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-07-29 00:00:00",
 		"weapon": "WEAPON_POLE"
 	},
 	"优菈": {
@@ -949,6 +949,25 @@
 		"release": "2025-05-06 00:00:00",
 		"weapon": "WEAPON_POLE"
 	},
+	"爱诺": {
+		"birth": [
+			9,
+			21
+		],
+		"CHS": "爱诺",
+		"cn": "爱诺",
+		"desc": "A genius mechanic and inventor from Nod-Krai who enjoys interesting machines and sweet treats.",
+		"element": "Hydro",
+		"EN": "Aino",
+		"icon": "UI_AvatarIcon_Aino",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Aino.webp",
+		"id": "10000121",
+		"JP": "アイノ",
+		"KR": "아이노",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CLAYMORE"
+	},
 	"玛拉妮": {
 		"birth": [
 			8,
@@ -1499,6 +1518,44 @@
 		"rank": "QUALITY_ORANGE",
 		"release": "2023-10-17 18:00:00",
 		"weapon": "WEAPON_CATALYST"
+	},
+	"菈乌玛": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "菈乌玛",
+		"cn": "菈乌玛",
+		"desc": "",
+		"element": "Dendro",
+		"EN": "Lauma",
+		"icon": "UI_AvatarIcon_Lauma",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Lauma.webp",
+		"id": "10000119",
+		"JP": "ラウマ",
+		"KR": "라우마",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CATALYST"
+	},
+	"菲林斯": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "菲林斯",
+		"cn": "菲林斯",
+		"desc": "",
+		"element": "Electro",
+		"EN": "Flins",
+		"icon": "UI_AvatarIcon_Flins",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Flins.webp",
+		"id": "10000120",
+		"JP": "フリンズ",
+		"KR": "플린스",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_POLE"
 	},
 	"菲米尼": {
 		"birth": [
