@@ -21,6 +21,36 @@
 				"weaponType": "Bow",
 				"rankType": 5,
 				"element": "Anemo"
+			},
+			{
+				"itemId": 10000113,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
+				"itemType": "Character",
+				"name": "伊法",
+				"nameEn": "Ifa",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000105,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Olorun.webp",
+				"itemType": "Character",
+				"name": "欧洛伦",
+				"nameEn": "Ororon",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "Bennett",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
 			}
 		],
 		"start": "2025-08-19 18:00:00",

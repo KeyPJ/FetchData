@@ -19,6 +19,51 @@
 				"nameEn": "Astral Vulture's Crimson Plumage",
 				"weaponType": "Bow",
 				"rankType": 5
+			},
+			{
+				"itemId": 12430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "硕果钩",
+				"nameEn": "Fruitful Hook",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 14430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "乘浪的回旋",
+				"nameEn": "Waveriding Whirl",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "缀花之翎",
+				"nameEn": "Flower-Wreathed Feathers",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 11401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "Favonius Sword",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance",
+				"weaponType": "Polearm",
+				"rankType": 4
 			}
 		],
 		"start": "2025-08-19 18:00:00",
