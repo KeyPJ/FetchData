@@ -262,7 +262,7 @@
 	"十方锻星": {
 		"CHS": "十方锻星",
 		"cn": "十方锻星",
-		"desc": "...",
+		"desc": "Starlight became her blade, and she held courage and love firmly in her hands.",
 		"EN": "Practiced Perfection",
 		"icon": "Weapon_S_1401",
 		"iconUrl": "/zzz/UI/Weapon_S_1401.webp",
@@ -323,6 +323,19 @@
 		"KO": "흐느끼는 요람",
 		"rank": 4,
 		"type": 4
+	},
+	"嚣枪喧焰": {
+		"CHS": "嚣枪喧焰",
+		"cn": "嚣枪喧焰",
+		"desc": "...",
+		"EN": "Bellicose Blaze",
+		"icon": "Weapon_S_1301",
+		"iconUrl": "/zzz/UI/Weapon_S_1301.webp",
+		"id": "14130",
+		"JA": "憤怒の銃騒",
+		"KO": "소란한 총성과 화염",
+		"rank": 4,
+		"type": 1
 	},
 	"奔袭獠牙": {
 		"CHS": "奔袭獠牙",
@@ -519,6 +532,19 @@
 		"rank": 3,
 		"type": 5
 	},
+	"机巧心种": {
+		"CHS": "机巧心种",
+		"cn": "机巧心种",
+		"desc": "...",
+		"EN": "Cordis Germina",
+		"icon": "Weapon_S_1461",
+		"iconUrl": "/zzz/UI/Weapon_S_1461.webp",
+		"id": "14146",
+		"JA": "駆動する種",
+		"KO": "기계 심장에 내린 씨앗",
+		"rank": 4,
+		"type": 1
+	},
 	"正版变身器": {
 		"CHS": "正版变身器",
 		"cn": "正版变身器",
@@ -557,6 +583,19 @@
 		"KO": "빅 실린더",
 		"rank": 3,
 		"type": 5
+	},
+	"海妖摇篮": {
+		"CHS": "海妖摇篮",
+		"cn": "海妖摇篮",
+		"desc": "Item_Weapon_S_1051_ShortDesc",
+		"EN": "Item_Weapon_S_1051_Name",
+		"icon": "Weapon_S_1051",
+		"iconUrl": "/zzz/UI/Weapon_S_1051.webp",
+		"id": "14105",
+		"JA": "Item_Weapon_S_1051_Name",
+		"KO": "Item_Weapon_S_1051_Name",
+		"rank": 4,
+		"type": 6
 	},
 	"淬锋钳刺": {
 		"CHS": "淬锋钳刺",
@@ -636,10 +675,23 @@
 		"rank": 4,
 		"type": 1
 	},
+	"狛野真斗测试音擎": {
+		"CHS": "狛野真斗测试音擎",
+		"cn": "狛野真斗测试音擎",
+		"desc": "Item_Weapon_A_1441_ShortDesc",
+		"EN": "Item_Weapon_A_1441_Name",
+		"icon": "Weapon_A_1441",
+		"iconUrl": "/zzz/UI/Weapon_A_1441.webp",
+		"id": "13144",
+		"JA": "Item_Weapon_A_1441_Name",
+		"KO": "Item_Weapon_A_1441_Name",
+		"rank": 3,
+		"type": 6
+	},
 	"狸法七变化": {
 		"CHS": "狸法七变化",
 		"cn": "狸法七变化",
-		"desc": "...",
+		"desc": "A masterfully crafted design, infused with the creator's pursuit of beauty.",
 		"EN": "Metanukimorphosis",
 		"icon": "Weapon_S_1411",
 		"iconUrl": "/zzz/UI/Weapon_S_1411.webp",
@@ -843,6 +895,19 @@
 		"KO": "스틸 쿠션",
 		"rank": 4,
 		"type": 1
+	},
+	"铸梦炉歌": {
+		"CHS": "铸梦炉歌",
+		"cn": "铸梦炉歌",
+		"desc": "Item_Weapon_S_1451_ShortDesc",
+		"EN": "Item_Weapon_S_1451_Name",
+		"icon": "Weapon_S_1451",
+		"iconUrl": "/zzz/UI/Weapon_S_1451.webp",
+		"id": "14145",
+		"JA": "Item_Weapon_S_1451_Name",
+		"KO": "Item_Weapon_S_1451_Name",
+		"rank": 4,
+		"type": 4
 	},
 	"鎏金花信": {
 		"CHS": "鎏金花信",

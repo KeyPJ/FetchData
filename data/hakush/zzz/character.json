@@ -1,10 +1,29 @@
 {
+	"(Test1)卢西娅": {
+		"camp": 11,
+		"CHS": "(Test1)卢西娅",
+		"cn": "(Test1)卢西娅",
+		"code": "...",
+		"desc": "",
+		"element": 205,
+		"EN": "Avatar_Female_Size02_Lucia",
+		"hit": 102,
+		"icon": "IconRole50",
+		"iconUrl": "/zzz/UI/IconRoleSelect50.webp",
+		"id": "1451",
+		"JA": "Avatar_Female_Size02_Lucia",
+		"KO": "Avatar_Female_Size02_Lucia",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 4
+	},
 	"「11号」": {
 		"camp": 5,
 		"CHS": "「11号」",
 		"cn": "「11号」",
 		"code": "Soldier 11",
-		"desc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a primary responder in the Obol squad, Obsidian Division. Soldier 11 is a code name — her real name remains unknown.\n\"...My name? I gave it up long ago.\nIt's only a reminder of my past, and the past makes you weak.\"\n\nSoldier 11 is a fan of spicy food, and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.\nAdditional information regarding Soldier 11 is still being obtained.",
+		"desc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a direct attacker in Obol squad, Obsidian Division. Soldier 11 is a code name — she gave up her real name long ago.\n\nSoldier 11 is a fan of spicy food and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.",
 		"element": 201,
 		"EN": "Soldier 11",
 		"hit": 101,
@@ -18,12 +37,31 @@
 		"skin": {},
 		"type": 1
 	},
+	"「席德」": {
+		"camp": 5,
+		"CHS": "「席德」",
+		"cn": "「席德」",
+		"code": "Seed",
+		"desc": "...",
+		"element": 203,
+		"EN": "Seed",
+		"hit": 103,
+		"icon": "IconRole48",
+		"iconUrl": "/zzz/UI/IconRoleSelect48.webp",
+		"id": "1461",
+		"JA": "「シード」",
+		"KO": "「시드」",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 1
+	},
 	"「扳机」": {
 		"camp": 5,
 		"CHS": "「扳机」",
 		"cn": "「扳机」",
 		"code": "Trigger",
-		"desc": "Trigger is a sniper of New Eridu Defense Force, Obsidian Division's Obol Squad. Trigger is the code name she was assigned when enlisting in Eridu, and she's used it ever since.\nShe has extremely unique eyes. While she cannot see most things, in Hollow environments, she can distinctly identify the position and changes of any entities that emit Ether fluctuations. Note: Such entities include living beings, native Ether substances, Ether products, and Ethereals.\nAs a visually challenged person in the broadest sense, Trigger has honed her other senses to the utmost, allowing her to move and act as if she could see. She can even detect subtle changes in her environment with precision. This makes her highly adept in the tactical position of a sniper, capable of handling a variety of covert tasks such as stealth, surveillance, and assassination.\nIn contrast to her precise and deadly combat abilities, her personality makes her seem rather unassuming. Aside from occasionally appearing silently in the video store and giving the Second Assistant a sudden scare, she can generally be considered harmless.",
+		"desc": "Trigger is a sniper of New Eridu Defense Force, Obsidian Division's Obol Squad. Trigger is the code name she was assigned when enlisting in Eridu, and she's used it ever since.\n\nShe has extremely unique eyes. While she cannot see most things, in Hollow environments, she can distinctly identify the position and changes of any entities that emit Ether fluctuations. Note: Such entities include living beings, native Ether substances, Ether products, and Ethereals.\n\nAs a visually challenged person in the broadest sense, Trigger has honed her other senses to the utmost, allowing her to move and act as if she could see. She can even detect subtle changes in her environment with precision. This makes her highly adept in the tactical position of a sniper, capable of handling a variety of covert tasks such as stealth, surveillance, and assassination.\n\nIn contrast to her precise and deadly combat abilities, her personality makes her seem rather unassuming. Aside from occasionally appearing silently in the video store and giving the Second Assistant a sudden scare, she can generally be considered harmless.",
 		"element": 203,
 		"EN": "Trigger",
 		"hit": 103,
@@ -74,17 +112,36 @@
 		"rank": 4,
 		"skin": {
 			"3113710": {
-				"Desc": "AvatarSkin_Yixuan_Desc_000",
+				"Desc": "As the Master of Yunkui Summit, one's fashion and accessories need only be what feels natural. Stay true to one's self.",
 				"Image": "IconRole44",
-				"Name": "AvatarSkin_Yixuan_Name_000"
+				"Name": "Yixuan: Summit of Clouds"
 			},
 			"3113711": {
-				"Desc": "AvatarSkin_Yixuan_Desc_001",
+				"Desc": "A custom attire in shades of ink. Like an elusive shadow, gone in a flash.",
 				"Image": "IconRole44_01",
-				"Name": "AvatarSkin_Yixuan_Name_001"
+				"Name": "Yixuan: Trails of Ink"
 			}
 		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconAuricInk.png",
+		"type": 6
+	},
+	"伊德海莉": {
+		"camp": 11,
+		"CHS": "伊德海莉",
+		"cn": "伊德海莉",
+		"code": "Avatar_Female_Size03_Yidhari_En",
+		"desc": "",
+		"element": 202,
+		"EN": "Avatar_Female_Size03_Yidhari",
+		"hit": 102,
+		"icon": "IconRole52",
+		"iconUrl": "/zzz/UI/IconRoleSelect52.webp",
+		"id": "1051",
+		"JA": "Avatar_Female_Size03_Yidhari",
+		"KO": "Avatar_Female_Size03_Yidhari",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
 		"type": 6
 	},
 	"伊芙琳": {
@@ -141,6 +198,25 @@
 		"KO": "코린",
 		"potential": [],
 		"rank": 3,
+		"skin": {},
+		"type": 1
+	},
+	"奥菲丝&「鬼火」": {
+		"camp": 5,
+		"CHS": "奥菲丝&「鬼火」",
+		"cn": "奥菲丝&「鬼火」",
+		"code": "Orphie & Magus",
+		"desc": "...",
+		"element": 201,
+		"EN": "Orphie & Magus",
+		"hit": 103,
+		"icon": "IconRole49",
+		"iconUrl": "/zzz/UI/IconRoleSelect49.webp",
+		"id": "1301",
+		"JA": "オルペウス＆「鬼火」",
+		"KO": "오피 & 「도깨비불」",
+		"potential": [],
+		"rank": 4,
 		"skin": {},
 		"type": 1
 	},
@@ -292,28 +368,28 @@
 		"camp": 11,
 		"CHS": "柚叶",
 		"cn": "柚叶",
-		"code": "Avatar_Female_Size02_Yuzuha_En",
-		"desc": "",
+		"code": "Yuzuha",
+		"desc": "Ukinami Yuzuha, a resident of Waifei Peninsula's Failume Heights, currently attends a low-tuition company affiliated school in the city. Aside from being part of the Inter-Knot subforum Spook Shack, she's not affiliated with any other groups — though in New Eridu, such forums aren't typically seen as formal organizations, and are, instead, more like hobby clubs.\nYuzuha is the adopted daughter of Li Baorong, owner of the Mystic Wares Porcelume store. Word around Failume Heights is that Baorong lost his wife and two daughters when the old capital fell. In the years that followed, he took in five children. Yuzuha is the second oldest, with an older brother, a younger brother, and two younger sisters. The family lived on the second floor above the store, and with just two bedrooms, Yuzuha shared one with her sisters, while the boys stayed with Baorong. Now that her older brother has moved out and she mostly stays in the school dorm, the apartment feels a bit less crowded. But on weekends and holidays, Yuzuha usually returns from school to help her father at the store.\nEven as a child, Yuzuha showed a surprising level of maturity. Her eloquence and cheerful nature have made her a favorite among neighbors — and a hit with the kids around Waifei Peninsula and Sailume Bay.\nOn the Spook Shack forum, Yuzuha goes by the username \"Yuzupepper.\" In addition to her real-life friends Manato and Alice, she is also close with two other users known as \"Night Emissary\" and \"Strawberry Parfait\" on the forums.",
 		"element": 200,
 		"EN": "Yuzuha",
 		"hit": 102,
 		"icon": "IconRole47",
 		"iconUrl": "/zzz/UI/IconRoleSelect47.webp",
 		"id": "1411",
-		"JA": "柚葉",
+		"JA": "浮波柚葉",
 		"KO": "유즈하",
 		"potential": [],
 		"rank": 4,
 		"skin": {
 			"3114110": {
-				"Desc": "AvatarSkin_Yuzuha_Desc_000",
+				"Desc": "Can you tell what the umbrella conceals? A tanuki, a trap, a ghost, or a girl's sly, spirited smile?",
 				"Image": "IconRole47",
-				"Name": "AvatarSkin_Yuzuha_Name_000"
+				"Name": "Yuzuha: Tanuki Under the Shade"
 			},
 			"3114111": {
-				"Desc": "AvatarSkin_Yuzuha_Desc_001",
+				"Desc": "Ghost stories aren't born only in shadows. Unconvinced? Just lock eyes with that playful young lady splashing in the water. She'll possess your thoughts, while Kama sneaks away with your drink.",
 				"Image": "IconRole47_01",
-				"Name": "AvatarSkin_Yuzuha_Name_001"
+				"Name": "Yuzuha: Tanuki in Broad Daylight"
 			}
 		},
 		"type": 4
@@ -437,7 +513,7 @@
 		"CHS": "潘引壶",
 		"cn": "潘引壶",
 		"code": "Yinhu",
-		"desc": "...",
+		"desc": "Pan Yinhu, disciple of Yunkui Summit, serves as both the head chef and financial manager of Suibian Temple. He's proficient in martial arts, and an expert in pressure-point techniques.\nAs the one managing Suibian Temple's money, he's a master at keeping costs down and can bargain a 5,000 Denny piece of meat down to 500. If he can make something at home, he refuses to purchase it at a store, and no matter which big supermarket or shop you name, he's got a coupon for it tucked in his pocket.\nThanks to him, the members of Suibian Temple enjoy delicious yet budget-friendly meals every day. As the head of the kitchen, he demands precise flavor profiles and pays keen attention to his friends' opinions.\nWhat's more, given his years of frugality, it's safe to assume that both the group's treasury and his secret piggy bank have ballooned to jaw-dropping levels.",
 		"element": 200,
 		"EN": "Pan Yinhu",
 		"hit": 102,
@@ -455,8 +531,8 @@
 		"camp": 11,
 		"CHS": "爱丽丝",
 		"cn": "爱丽丝",
-		"code": "Avatar_Female_Size02_Alice_En",
-		"desc": "",
+		"code": "Alice",
+		"desc": "Alice Thymefield, a new member of Spook Shack, is a young lady from the prestigious Thymefield family of New Eridu.\n\nAlice has studied fencing and Ether science since childhood, showing exceptional talent in both fields. She currently attends Celestia School for Girls, a subsidiary of High Ambitions Academy, where she's a model student excelling in both academics and conduct. It is predicted that she will one day inherit the family business and become a next-generation Ether scholar of New Eridu.\n\nShe places extreme importance on order and patterns, showing an almost obsessive pursuit of symmetry in particular. This even affects her aesthetic judgment, making symmetry the primary criterion in determining whether something is beautiful or ugly.\n\nFurthermore, she's easily frightened, with practically zero resistance to ghost stories and supernatural tales. Despite this, she seems to show considerable interest in encountering such phenomena. Suggestion: Master can use ghost stories as a topic of conversation with her. No matter how much she initially refuses, it is likely that she will eventually come closer to investigate.",
 		"element": 200,
 		"EN": "Alice",
 		"hit": 101,
@@ -469,17 +545,36 @@
 		"rank": 4,
 		"skin": {
 			"3114010": {
-				"Desc": "AvatarSkin_Alice_Desc_000",
+				"Desc": "The young woman's perfect symmetry is only ever slightly compromised when she wears the school crest — such is the elegant and noble Thymefield spirit.",
 				"Image": "IconRole46",
-				"Name": "AvatarSkin_Alice_Name_000"
+				"Name": "Alice: Celestian Etiquette"
 			},
 			"3114011": {
-				"Desc": "AvatarSkin_Alice_Desc_001",
+				"Desc": "Though it wasn't completely symmetrical, she did not mind this gift from a dear friend.\nThe girl pushed open the locked door and walked along the pink beach after the sudden downpour, the cool waves brushing over her ankles. There were no unknowns left to frighten her.",
 				"Image": "IconRole46_01",
-				"Name": "AvatarSkin_Alice_Name_001"
+				"Name": "Alice: Sea of Thyme"
 			}
 		},
 		"type": 3
+	},
+	"狛野真斗": {
+		"camp": 11,
+		"CHS": "狛野真斗",
+		"cn": "狛野真斗",
+		"code": "Avatar_Male_Size03_Norano_En",
+		"desc": "",
+		"element": 201,
+		"EN": "Komano Manato",
+		"hit": 101,
+		"icon": "IconRole51",
+		"iconUrl": "/zzz/UI/IconRoleSelect51.webp",
+		"id": "1441",
+		"JA": "狛野真斗",
+		"KO": "코마노 마나토",
+		"potential": [],
+		"rank": 3,
+		"skin": {},
+		"type": 6
 	},
 	"猫又": {
 		"camp": 1,
@@ -556,14 +651,14 @@
 		"rank": 4,
 		"skin": {
 			"3113110": {
-				"Desc": "AvatarSkin_Astra_Desc_000",
+				"Desc": "The bold red is only to ignite the freedom deep within. On stage, nothing can overshadow her brilliance.",
 				"Image": "IconRole36",
-				"Name": "AvatarSkin_Astra_Name_000"
+				"Name": "Astra Yao: Scarlet Rock"
 			},
 			"3113111": {
-				"Desc": "AvatarSkin_Astra_Desc_001",
+				"Desc": "The black-and-white dress glimmers in both light and shadows. Every smile of hers seems to sink into the flowing light of the night, becoming a timeless classic.",
 				"Image": "IconRole36_01",
-				"Name": "AvatarSkin_Astra_Name_001"
+				"Name": "Astra Yao: Chandelier"
 			}
 		},
 		"type": 4
@@ -588,14 +683,14 @@
 		"rank": 4,
 		"skin": {
 			"3111910": {
-				"Desc": "AvatarSkin_Ellen_Desc_000",
+				"Desc": "The sharp scissors of Victoria Housekeeping, if only she weren't sleeping...",
 				"Image": "IconRole21",
-				"Name": "AvatarSkin_Ellen_Name_000"
+				"Name": "Ellen: Ellen Scissorhands"
 			},
 			"3111911": {
-				"Desc": "AvatarSkin_Ellen_Desc_001",
+				"Desc": "The tail doesn't quite match the school uniform, but with just a little bit of needlework, it can become even cuter!",
 				"Image": "IconRole21_01",
-				"Name": "AvatarSkin_Ellen_Name_001"
+				"Name": "Ellen: On Campus"
 			}
 		},
 		"type": 1
