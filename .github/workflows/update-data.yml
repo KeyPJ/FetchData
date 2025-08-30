@@ -1,13 +1,11 @@
-# This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
-# For more information see: https://help.github.com/actions/language-and-framework-guides/publishing-nodejs-packages
-
 name: update data
 
 on:
+  # 手动触发工作流
   workflow_dispatch:
     inputs:
       item:
-        description: 'Choose an game'
+        description: 'Choose a game (leave empty for all)'
         type: choice
         default: 'zzz'
         options:
@@ -15,29 +13,48 @@ on:
           - 'hsr'
           - 'zzz'
           - ''
+  # 定时执行：每周四 UTC 时间 0 点（北京时间早上 8 点）
+  schedule:
+    - cron: '0 0 * * 4'
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
       - name: Build
         run: npm install -g pnpm && pnpm install --no-frozen-lockfile
 
-#      - name: Get Mys Data
-#        env:
-#          MYS_TOKEN: ${{ secrets.MYS_TOKEN }}
-#        run: node src/mys.js $MYS_TOKEN
+      # 步骤3：预定义提交信息（规避 YAML 表达式语法错误）
+      - name: Set commit message
+        id: set-msg
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            # 定时触发：固定提交信息
+            echo "COMMIT_MSG=weekly update: all game gacha data" >> $GITHUB_ENV
+          else
+            # 手动触发：根据输入参数生成信息
+            ITEM="${{ github.event.inputs.item }}"
+            if [ -z "$ITEM" ]; then
+              echo "COMMIT_MSG=update all game gacha data" >> $GITHUB_ENV
+            else
+              echo "COMMIT_MSG=update $ITEM game gacha data" >> $GITHUB_ENV
+            fi
+          fi
 
       - name: Get Gacha Data
-        run: node src/hakush.js ${{ github.event.inputs.item }} && node src/fetchGachaDataV2.js ${{ github.event.inputs.item }}
+        # 定时任务调度时使用空参数（处理所有游戏），手动触发时使用输入的参数
+        run: |
+          node src/mihoyo.js ${{ github.event.inputs.item || '' }} 
+          node src/hakush.js ${{ github.event.inputs.item || '' }} 
+          node src/fetchGachaDataV2.js ${{ github.event.inputs.item || '' }}
 
       - name: Update Data
         uses: EndBug/add-and-commit@v9
         with:
           add: 'data/'
           default_author: github_actions
-          message: 'update ${{ github.event.inputs.item }} data for genshin-gacha-banners'
+          # 定时任务提交信息使用固定文本，手动触发使用输入参数
+          message: ${{ env.COMMIT_MSG }}  # 使用预定义的提交信息
+
