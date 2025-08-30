@@ -3,57 +3,35 @@ const fs = require("fs")
 const path = require('path')
 const sortJson = require('sort-json');
 
-const options = { ignoreCase: true, reverse: false, depth: 10};
+const options = { ignoreCase: true, reverse: false, depth: 10 };
 axios.defaults.withCredentials = true
 
-let params = [
-    {
-        game: "gi",
-        menu_id: "character",
-        type: "character",
-    },
-    {
-        game: "gi",
-        menu_id: "weapon",
-        type: "weapon",
-    },
-    {
-        game: "hsr",
-        menu_id: "character",
-        type: "character",
-    },
-    {
-        game: "hsr",
-        menu_id: "lightcone",
-        type: "weapon",
-    },
-    {
-        game: "zzz",
-        menu_id: "character",
-        type: "character",
-    },
-    {
-        game: "zzz",
-        menu_id: "weapon",
-        type: "weapon",
-    },
-]
+// 游戏配置及别名映射
+const GAME_CONFIGS = {
+    gi: { name: "原神" },
+    hsr: { name: "崩坏：星穹铁道" },
+    zzz: { name: "绝区零" }
+};
+const ALL_GAME_KEYS = Object.keys(GAME_CONFIGS);
+const GAME_ALIASES = {
+    // 可以添加别名，如 'genshin' 映射到 'gi'
+    gi: 'gi',
+    hsr: 'hsr',
+    zzz: 'zzz'
+};
 
-//
-// fetch("https://api.hakush.in/hsr/data/character.json", {
-//     "headers": {
-//         "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
-//         "sec-ch-ua-mobile": "?0",
-//         "sec-ch-ua-platform": "\"Windows\""
-//     },
-//     "referrer": "https://hsr18.hakush.in/",
-//     "referrerPolicy": "strict-origin-when-cross-origin",
-//     "body": null,
-//     "method": "GET",
-//     "mode": "cors",
-//     "credentials": "omit"
-// });
-let getConfig = (game, menu_id) => ({
+// 游戏参数配置
+const params = [
+    { game: "gi", menu_id: "character", type: "character" },
+    { game: "gi", menu_id: "weapon", type: "weapon" },
+    { game: "hsr", menu_id: "character", type: "character" },
+    { game: "hsr", menu_id: "lightcone", type: "weapon" },
+    { game: "zzz", menu_id: "character", type: "character" },
+    { game: "zzz", menu_id: "weapon", type: "weapon" },
+];
+
+// 获取请求配置
+const getConfig = (game, menu_id) => ({
     method: 'get',
     url: `https://api.hakush.in/${game}/data/${menu_id}.json`,
     headers: {
@@ -61,52 +39,102 @@ let getConfig = (game, menu_id) => ({
         "sec-ch-ua-mobile": "?0",
         "sec-ch-ua-platform": "\"Windows\""
     }
-})
+});
 
-async function fetchAllPages(id) {
-    for (let param of params.filter(a => !id || a.game === id)) {
-        let game = param.game.replace("genshin","gi")
-        let menu_id = param.menu_id
-        let type = param.type
-        let list = []
+// 处理单个游戏的所有类型
+async function processGame(gameKey) {
+    console.log(`===== 开始处理 ${GAME_CONFIGS[gameKey].name} =====`);
+
+    // 筛选当前游戏的所有参数配置
+    const gameParams = params.filter(param => param.game === gameKey);
+
+    for (const param of gameParams) {
         try {
-            let page_num = 1
-            let page_size = 50
-            let response = await axios(getConfig(game, menu_id))
-            let data = response.data
+            const game = param.game.replace("genshin", "gi");
+            const menu_id = param.menu_id;
+            const type = param.type;
+            let list = [];
 
-            // console.log(data)
+            const response = await axios(getConfig(game, menu_id));
+            const data = response.data;
+
             const newData = Object.keys(data).reduce((acc, key) => {
                 const item = data[key];
-                let iconUrl =`/${game}/UI/${item.icon}.webp`
-                if (game==="hsr"){
-                    iconUrl =`/${game}/UI/${type==="weapon"?"lightconemediumicon":"avatarshopicon"}/${key}.webp`
+                let iconUrl = `/${game}/UI/${item.icon}.webp`;
+                if (game === "hsr") {
+                    iconUrl = `/${game}/UI/${type === "weapon" ? "lightconemediumicon" : "avatarshopicon"}/${key}.webp`;
                 }
-                let newKey=item.CHS||item.cn
+                const newKey = item.CHS || item.cn;
                 acc[newKey] = {
                     ...item,
-                    // 可以在这里添加或修改属性，例如删除原始的键
-                    // 如果你不想在新对象中保留cn属性
-                    iconUrl: iconUrl.replace("IconRole","IconRoleSelect"),
-                    cn:item.cn||item.CHS,
-                    id:key,
+                    iconUrl: iconUrl.replace("IconRole", "IconRoleSelect"),
+                    cn: item.cn || item.CHS,
+                    id: key,
                 };
                 return acc;
             }, {});
+
             if (newData) {
-                console.log(`Total items for ${game}-${type}:`, Object.keys(newData).length)
-                let directoryPath = path.join(__dirname, `../data/hakush/${game}`)
+                console.log(`[${game}-${type}] 处理完成，共 ${Object.keys(newData).length} 项`);
+                const directoryPath = path.join(__dirname, `../data/hakush/${game}`);
                 if (!fs.existsSync(directoryPath)) {
-                    fs.mkdirSync(directoryPath, {recursive: true})
+                    fs.mkdirSync(directoryPath, { recursive: true });
                 }
-                fs.writeFileSync(path.join(directoryPath, `${type}.json`), JSON.stringify(newData, null, "\t"))
-                sortJson.overwrite(path.join(directoryPath, `${type}.json`), options)
+                const filePath = path.join(directoryPath, `${type}.json`);
+                fs.writeFileSync(filePath, JSON.stringify(newData, null, "\t"));
+                sortJson.overwrite(filePath, options);
             }
         } catch (error) {
-            console.error(`Error fetching pages for ${game}-${type}:`, error)
+            console.error(`[${param.game}-${param.type}] 处理出错:`, error.message);
         }
+    }
+
+    console.log(`===== ${GAME_CONFIGS[gameKey].name} 处理完成 =====`);
+}
+
+// 处理所有游戏
+async function processAllGames() {
+    console.log('===== 开始处理所有游戏 =====');
+
+    for (const gameKey of ALL_GAME_KEYS) {
+        try {
+            await processGame(gameKey);
+        } catch (e) {
+            console.error(`处理${GAME_CONFIGS[gameKey]?.name || gameKey}时出错:`, e.message);
+            console.log('继续处理下一个游戏...');
+        }
+    }
+
+    console.log('===== 所有游戏处理完成 =====');
+}
+
+// 主函数 - 支持命令行参数和无参数执行全部
+async function main() {
+    try {
+        // 获取命令行参数
+        const args = process.argv.slice(2);
+
+        if (args.length === 0) {
+            // 无参数时执行全部游戏
+            await processAllGames();
+        } else {
+            // 有参数时处理指定游戏
+            const gameArg = args[0].toLowerCase();
+            const gameKey = GAME_ALIASES[gameArg];
+
+            if (!gameKey) {
+                console.error(`不支持的参数: ${gameArg}`);
+                console.log('支持的参数: gi, hsr, zzz (无参数则执行全部游戏)');
+                return;
+            }
+
+            await processGame(gameKey);
+            console.log('处理完成');
+        }
+    } catch (e) {
+        console.error('执行错误:', e.message);
     }
 }
 
-let id = process.argv.slice(2)[0] || ""
-fetchAllPages(id)
+// 启动主函数
+main();

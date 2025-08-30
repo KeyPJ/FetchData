@@ -328,6 +328,6 @@ async function fetchData(id) {
     }
 }
 
-let id = process.argv.slice(2)[0] || "gi"
+let id = process.argv.slice(2)[0] || ""
 fetchData(id)
 
