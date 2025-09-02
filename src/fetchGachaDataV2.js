@@ -15,6 +15,18 @@ function requireJson(relativePath) {
     }
 }
 
+// 动态加载Yaml文件的函数
+function requireYaml(relativePath) {
+    try {
+        const fullPath = path.join(__dirname, relativePath) // 构建完整的文件路径
+        const fileContent = fs.readFileSync(fullPath, 'utf8') // 读取文件内容
+        return (YAML.parse(fileContent)).reverse() // 解析JSON并返回
+    } catch (error) {
+        console.error('Error reading JSON file:', error)
+        return null
+    }
+}
+
 function getImg(game, type, name) {
     if (game === "genshin") {
         game = "gi"
@@ -286,16 +298,17 @@ const fetchGachaData = async (pool, game, type) => {
     //https://gitee.com/yoimiya-kokomi/Miao-Yunzai/raw/master/plugins/genshin/defSet/pool/${pool}.yaml
     //https://genshin-gacha-banners-keypj.vercel.app/${pool}.yaml
     //https://github.com/KeyPJ/FetchData/raw/refs/heads/main/data/manual/${pool}.yaml
-    const res = await get(` https://raw.githubusercontent.com/KeyPJ/FetchData/refs/heads/main/data/manual/${pool}.yaml`, {
-        // `proxy` means the request actually goes to the server listening
-        // on localhost:3000, but the request says it is meant for
-        // 'http://httpbin.org/get?answer=42'
-        // proxy: {
-        //     host: '127.0.0.1',
-        //     port: 17890
-        // }
-    })
-    const parse = (YAML.parse(res.data)).reverse()
+    // const res = await get(` https://raw.githubusercontent.com/KeyPJ/FetchData/refs/heads/main/data/manual/${pool}.yaml`, {
+    //     // `proxy` means the request actually goes to the server listening
+    //     // on localhost:3000, but the request says it is meant for
+    //     // 'http://httpbin.org/get?answer=42'
+    //     // proxy: {
+    //     //     host: '127.0.0.1',
+    //     //     port: 17890
+    //     // }
+    // })
+
+    const parse = requireYaml(`../data/manual/${pool}.yaml`)
     const data = parse.map((gachaData, i) => {
         const {from, to, five, four} = gachaData
         const info5 = five.map(c => getId2(c, pool))
