@@ -40,8 +40,8 @@ const GAME_CONFIGS = {
         name: '绝区零',
         path: 'nap/prod_gf_cn',
         types: {
-            character: { ids: [2001, 2002, 2012], manualFile: '2001.yaml' },
-            weapon: { ids: [3001, 3002, 3012], manualFile: '3001.yaml' }
+            character: { ids: [2001, 2002, 2011, 2012], manualFile: '2001.yaml' },
+            weapon: { ids: [3001, 3002, 3011, 3012], manualFile: '3001.yaml' }
         },
         upFields: { fiveStar: 'items_up_star_5', fourStar: 'items_up_star_4' }
     }
