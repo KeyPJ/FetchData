@@ -15,6 +15,18 @@
 				"elementCN": "电属性"
 			},
 			{
+				"itemId": 1361,
+				"imageUrl": "/zzz/UI/IconRoleSelect39.webp",
+				"itemType": "Character",
+				"name": "「扳机」",
+				"nameEn": "Trigger",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
 				"itemId": 1031,
 				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
 				"itemType": "Character",

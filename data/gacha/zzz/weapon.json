@@ -13,6 +13,16 @@
 				"rankType": 5
 			},
 			{
+				"itemId": 14136,
+				"imageUrl": "/zzz/UI/Weapon_S_1361.webp",
+				"itemType": "Weapon",
+				"name": "索魂影眸",
+				"nameEn": "Spectral Gaze",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
 				"itemId": 13103,
 				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
 				"itemType": "Weapon",
