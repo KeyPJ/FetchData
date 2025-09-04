@@ -1,5 +1,42 @@
 [
 	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 14146,
+				"imageUrl": "/zzz/UI/Weapon_S_1461.webp",
+				"itemType": "Weapon",
+				"name": "机巧心种",
+				"nameEn": "Cordis Germina",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "The Vault",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "Demara Battery Mark II",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			}
+		],
+		"start": "2025-09-04 06:00:00",
+		"end": "2025-09-24 11:59:59"
+	},
+	{
 		"version": "2.1.2",
 		"items": [
 			{

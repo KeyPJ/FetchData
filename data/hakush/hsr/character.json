@@ -18,7 +18,7 @@
 		"baseType": "Rogue",
 		"cn": "Archer",
 		"damageType": "Quantum",
-		"desc": null,
+		"desc": "Despair plays in cycles between the past and future. Countless ideals were incinerated before that red garment. Yet, do not let this smear of ashes fool you —\\nShould someone create a phantasmal sweet dream under the guise of false ideals, then he will burn again, facing down the hypocrites of the world till the very end.\\nNo matter where he is, he always remains the steadfast hero of justice.",
 		"en": "Archer",
 		"enhance": [],
 		"icon": "archer",
@@ -33,7 +33,7 @@
 		"baseType": "Warrior",
 		"cn": "Saber",
 		"damageType": "Wind",
-		"desc": null,
+		"desc": "The solitary Heroic Spirit traverses the long night of fate. The banner of the round table remains unfurled in a dream. Alas, the knight-king of Camelot has yet to reach that ever-distant utopia.\\nThough still a young maiden, she has heeded the call for this most unique iteration of the Holy Grail War. With the Sword in the Stone offering its choice once more, how shall she shatter the illusions of the past?\\n— <i>\"The wishes I did not fulfill will end here.\"</i>",
 		"en": "Saber",
 		"enhance": [],
 		"icon": "saber",
@@ -88,6 +88,20 @@
 		"kr": "단항",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
+	},
+	"丹恒•腾荒": {
+		"baseType": "Knight",
+		"cn": "丹恒•腾荒",
+		"damageType": "Physical",
+		"desc": "The chest of Georios, the body of the Fallen Dragon supporting the shattered earth, enduring millennia of pain.\\nNameless Dan Heng, Chrysos Heir who guards the Earth's Coreflame, you must steady the world as it falls, and guide all life across the land to a new home beyond.\\n—Rivers flow to the sea, mountains echo in harmony, the eternal path stretches ten thousand miles.",
+		"en": "Dan Heng • Permansor Terrae",
+		"enhance": [],
+		"icon": "danhengpt",
+		"iconUrl": "/hsr/UI/avatarshopicon/1414.webp",
+		"id": "1414",
+		"jp": "{RUBY_B#たんこう}丹恒{RUBY_E#}・{RUBY_B#とうこう}騰荒{RUBY_E#}",
+		"kr": "단항•등황",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"丹恒•饮月": {
 		"baseType": "Warrior",
@@ -208,7 +222,8 @@
 		"id": "1412",
 		"jp": "ケリュドラ",
 		"kr": "케리드라",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1756803600
 	},
 	"加拉赫": {
 		"baseType": "Priest",
@@ -539,7 +554,8 @@
 		"id": "1410",
 		"jp": "セイレンス",
 		"kr": "히실렌스",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1755075600
 	},
 	"灵砂": {
 		"baseType": "Priest",
@@ -919,6 +935,20 @@
 		"kr": "경류",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1697014800
+	},
+	"长夜月": {
+		"baseType": "Memory",
+		"cn": "长夜月",
+		"damageType": "Ice",
+		"desc": "In the Memory Zone secluded from the world, candlelight reflects the past, silently extinguishing in the mist.\\nEvernight, child of Remembrance born from the shadow, Chrysos Heir who conceals the Coreflame of Time, you shall stir the tide of Oblivion, guarding the wish of the mirrored soul.\\n——<i>\"Don't worry, I will guard the path of Trailblaze for you... at any cost ♭\"</i>",
+		"en": "Evernight",
+		"enhance": [],
+		"icon": "evernight",
+		"iconUrl": "/hsr/UI/avatarshopicon/1413.webp",
+		"id": "1413",
+		"jp": "{RUBY_B#ながよづき}長夜月{RUBY_E#}",
+		"kr": "에버나이트",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"阮•梅": {
 		"baseType": "Shaman",
