@@ -1,5 +1,61 @@
 [
 	{
+		"items": [
+			{
+				"itemId": 10000119,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Lauma.webp",
+				"itemType": "Character",
+				"name": "菈乌玛",
+				"nameEn": "Lauma",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000073,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "Nahida",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "Barbara",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "Kuki Shinobu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000081,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kaveh.webp",
+				"itemType": "Character",
+				"name": "卡维",
+				"nameEn": "Kaveh",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2025-09-10 07:00:00",
+		"end": "2025-09-30 17:59:00"
+	},
+	{
 		"version": "5.8.2",
 		"items": [
 			{
