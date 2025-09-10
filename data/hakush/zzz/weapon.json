@@ -588,11 +588,11 @@
 		"CHS": "海妖摇篮",
 		"cn": "海妖摇篮",
 		"desc": "Item_Weapon_S_1051_ShortDesc",
-		"EN": "Item_Weapon_S_1051_Name",
+		"EN": "Kraken's Cradle",
 		"icon": "Weapon_S_1051",
 		"iconUrl": "/zzz/UI/Weapon_S_1051.webp",
 		"id": "14105",
-		"JA": "Item_Weapon_S_1051_Name",
+		"JA": "セイレーンクレードル",
 		"KO": "Item_Weapon_S_1051_Name",
 		"rank": 4,
 		"type": 6
@@ -662,6 +662,19 @@
 		"rank": 4,
 		"type": 2
 	},
+	"燔火胧夜": {
+		"CHS": "燔火胧夜",
+		"cn": "燔火胧夜",
+		"desc": "Item_Weapon_A_1441_ShortDesc",
+		"EN": "Grill O'Wisp",
+		"icon": "Weapon_A_1441",
+		"iconUrl": "/zzz/UI/Weapon_A_1441.webp",
+		"id": "13144",
+		"JA": "燔火の朧夜",
+		"KO": "Item_Weapon_A_1441_Name",
+		"rank": 3,
+		"type": 6
+	},
 	"牺牲洁纯": {
 		"CHS": "牺牲洁纯",
 		"cn": "牺牲洁纯",
@@ -674,19 +687,6 @@
 		"KO": "순결한 희생",
 		"rank": 4,
 		"type": 1
-	},
-	"狛野真斗测试音擎": {
-		"CHS": "狛野真斗测试音擎",
-		"cn": "狛野真斗测试音擎",
-		"desc": "Item_Weapon_A_1441_ShortDesc",
-		"EN": "Item_Weapon_A_1441_Name",
-		"icon": "Weapon_A_1441",
-		"iconUrl": "/zzz/UI/Weapon_A_1441.webp",
-		"id": "13144",
-		"JA": "Item_Weapon_A_1441_Name",
-		"KO": "Item_Weapon_A_1441_Name",
-		"rank": 3,
-		"type": 6
 	},
 	"狸法七变化": {
 		"CHS": "狸法七变化",
@@ -900,11 +900,11 @@
 		"CHS": "铸梦炉歌",
 		"cn": "铸梦炉歌",
 		"desc": "Item_Weapon_S_1451_ShortDesc",
-		"EN": "Item_Weapon_S_1451_Name",
+		"EN": "Dreamlit Hearth",
 		"icon": "Weapon_S_1451",
 		"iconUrl": "/zzz/UI/Weapon_S_1451.webp",
 		"id": "14145",
-		"JA": "Item_Weapon_S_1451_Name",
+		"JA": "炉で歌い上げられる夢",
 		"KO": "Item_Weapon_S_1451_Name",
 		"rank": 4,
 		"type": 4
