@@ -519,6 +519,19 @@
 		"rank": 5,
 		"type": "WEAPON_SWORD_ONE_HAND"
 	},
+	"圣祭者的辉杖": {
+		"CHS": "圣祭者的辉杖",
+		"cn": "圣祭者的辉杖",
+		"desc": "",
+		"EN": "Sacrificer's Staff",
+		"icon": "UI_EquipIcon_Pole_Krivule",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Krivule.webp",
+		"id": "13434",
+		"JP": "聖祭者の輝杖JP0B",
+		"KR": "성자의 지팡이",
+		"rank": 4,
+		"type": "WEAPON_POLE"
+	},
 	"圣缚": {
 		"CHS": "圣缚",
 		"cn": "圣缚",
@@ -1587,6 +1600,19 @@
 		"JP": "満悦の実",
 		"KR": "충만의 열매",
 		"rank": 4,
+		"type": "WEAPON_CATALYST"
+	},
+	"真语秘匣": {
+		"CHS": "真语秘匣",
+		"cn": "真语秘匣",
+		"desc": "",
+		"EN": "Reliquary of Truth",
+		"icon": "UI_EquipIcon_Catalyst_Sistrum",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Sistrum.webp",
+		"id": "14521",
+		"JP": "真言の秘箱JP0B",
+		"KR": "진언 상자JF0X",
+		"rank": 5,
 		"type": "WEAPON_CATALYST"
 	},
 	"破魔之弓": {
@@ -2722,6 +2748,19 @@
 		"KR": "안개를 가르는 회광",
 		"rank": 5,
 		"type": "WEAPON_SWORD_ONE_HAND"
+	},
+	"霜辰": {
+		"CHS": "霜辰",
+		"cn": "霜辰",
+		"desc": "",
+		"EN": "Froststar",
+		"icon": "UI_EquipIcon_Catalyst_Ziedas",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ziedas.webp",
+		"id": "14434",
+		"JP": "霜辰JP0B",
+		"KR": "서리별",
+		"rank": 4,
+		"type": "WEAPON_CATALYST"
 	},
 	"静水流涌之辉": {
 		"CHS": "静水流涌之辉",

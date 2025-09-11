@@ -569,6 +569,63 @@
 		"release": "2022-05-31 00:00:00",
 		"weapon": "WEAPON_BOW"
 	},
+	"奇偶·女性": {
+		"birth": [
+			0,
+			0
+		],
+		"CHS": "奇偶·女性",
+		"cn": "奇偶·女性",
+		"desc": "",
+		"element": "Hydro",
+		"EN": "Manekina",
+		"icon": "UI_AvatarIcon_MannequinGirl",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_MannequinGirl.webp",
+		"id": "10000118-3",
+		"JP": "ドール（女）",
+		"KR": "별인형·여성",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
+	"奇偶·男性": {
+		"birth": [
+			0,
+			0
+		],
+		"CHS": "奇偶·男性",
+		"cn": "奇偶·男性",
+		"desc": "",
+		"element": "Anemo",
+		"EN": "Manekin",
+		"icon": "UI_AvatarIcon_MannequinBoy",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_MannequinBoy.webp",
+		"id": "10000117-4",
+		"JP": "ドール（男）",
+		"KR": "별인형·남성",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
+	"奈芙尔": {
+		"birth": [
+			5,
+			9
+		],
+		"CHS": "奈芙尔",
+		"cn": "奈芙尔",
+		"desc": "",
+		"element": "Dendro",
+		"EN": "Nefer",
+		"icon": "UI_AvatarIcon_Nefer",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Nefer.webp",
+		"id": "10000122",
+		"JP": "ネフェル",
+		"KR": "네페르",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CATALYST"
+	},
 	"妮露": {
 		"birth": [
 			12,
