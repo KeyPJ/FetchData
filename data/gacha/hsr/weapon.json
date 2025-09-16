@@ -157,6 +157,16 @@
 				"weaponType": "warrior"
 			},
 			{
+				"itemId": 21017,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "Subscribe for More!",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
 				"itemId": 21015,
 				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
 				"itemType": "Weapon",
@@ -537,6 +547,16 @@
 				"rankType": 4,
 				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "Memories of the Past",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
 			}
 		],
 		"start": "2025-03-19 12:00:00",
