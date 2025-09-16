@@ -144,6 +144,16 @@
 		"version": "2.0.2",
 		"items": [
 			{
+				"itemId": 14139,
+				"imageUrl": "/zzz/UI/Weapon_S_1391.webp",
+				"itemType": "Weapon",
+				"name": "福虓炉炉",
+				"nameEn": "Roaring Fur-nace",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
 				"itemId": 14107,
 				"imageUrl": "/zzz/UI/Weapon_S_1071.webp",
 				"itemType": "Weapon",
@@ -329,6 +339,16 @@
 				"nameEn": "Spectral Gaze",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 14124,
+				"imageUrl": "/zzz/UI/Weapon_S_1241.webp",
+				"itemType": "Weapon",
+				"name": "防暴者Ⅵ型",
+				"nameEn": "Riot Suppressor Mark VI",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
 				"rankType": 5
 			},
 			{
@@ -788,6 +808,16 @@
 	{
 		"version": "1.0.2",
 		"items": [
+			{
+				"itemId": 14124,
+				"imageUrl": "/zzz/UI/Weapon_S_1241.webp",
+				"itemType": "Weapon",
+				"name": "防暴者Ⅵ型",
+				"nameEn": "Riot Suppressor Mark VI",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
 			{
 				"itemId": 13103,
 				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
