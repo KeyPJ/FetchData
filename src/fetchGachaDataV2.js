@@ -33,15 +33,11 @@ function getImg(game, type, name) {
     }
     if (name === "三月七 - 存护") {
         return ""
-    } else if (name === "『我』的诞生") {
-        name = "「我」的诞生"
-    } else if (name === "防暴者VI型") {
-        name = "防暴者Ⅵ型"
-    } else if (name === "维序者·特化型") {
-        name = "维序者-特化型"
     }
     let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
-    console.log(name, data[name])
+    if (!data || !(data[name])) {
+        console.log("getImg failed ", name, data)
+    }
     return data?.[name]["iconUrl"]
 }
 
@@ -107,10 +103,10 @@ const findObj = (name, Obj) => {
 }
 //replace nickName or abbr.
 let nickNames = {
-    "鼬鼠党欢迎你": "鼹鼠党欢迎你",
-    "点个关注吧": "点个关注吧！",
-    "『我』的诞生": "「我」的诞生",
-    "维序者·特化型": "维序者-特化型",
+    // "鼬鼠党欢迎你": "鼹鼠党欢迎你",
+    // "点个关注吧": "点个关注吧！",
+    // "『我』的诞生": "「我」的诞生",
+    // "维序者·特化型": "维序者-特化型",
 }
 
 const getName = name => findObj(name, nickNames)
@@ -193,7 +189,7 @@ const getId2 = (name, pool) => {
 
     let returnObj = {
         itemId: +find.id,
-        imageUrl: getImg(game, type, name),
+        imageUrl: getImg(game, type, name2),
         itemType: type,
         name: find.cn,
         nameEn: find.EN ? find.EN : find.en,
@@ -286,9 +282,9 @@ const getVersion = (i, pool) => {
         //genshin Character
         versionsTemp = [...versionsTemp, "1.3.3"].sort()
     }
-    if (pool === 2001 ||pool === 3001) {
+    if (pool === 2001 || pool === 3001) {
         //zzz
-        versionsTemp = versionsTemp.filter(item => item!== "1.4.2").sort()
+        versionsTemp = versionsTemp.filter(item => item !== "1.4.2").sort()
     }
     return versionsTemp[i]
 }
@@ -312,7 +308,7 @@ const fetchGachaData = async (pool, game, type) => {
     const data = parse.map((gachaData, i) => {
         const {from, to, five, four} = gachaData
         const info5 = five.map(c => getId2(c, pool))
-        const info4 = four?four.map(c => getId2(c, pool)):[]
+        const info4 = four ? four.map(c => getId2(c, pool)) : []
         return {
             version: getVersion(i, pool),
             items: [...info5, ...info4].filter(a => !!a && !!a.rankType),

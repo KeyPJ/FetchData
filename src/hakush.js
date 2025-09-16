@@ -66,11 +66,17 @@ async function processGame(gameKey) {
                 }
                 const newKey = item.CHS || item.cn;
                 acc[newKey] = {
-                    ...item,
                     iconUrl: iconUrl.replace("IconRole", "IconRoleSelect"),
                     cn: item.cn || item.CHS,
                     id: key,
-                };
+                    EN: item.EN || item.en,
+                    rank: item.rank,
+                    type: item.type,
+                    baseType: item.baseType,
+                    element: item.element,
+                    weapon: item.weapon,
+                    damageType: item.damageType
+                }
                 return acc;
             }, {});
 
