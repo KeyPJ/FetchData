@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.2.2",
+		"items": [
+			{
+				"itemId": 14130,
+				"imageUrl": "/zzz/UI/Weapon_S_1301.webp",
+				"itemType": "Weapon",
+				"name": "嚣枪喧焰",
+				"nameEn": "Bellicose Blaze",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 14132,
+				"imageUrl": "/zzz/UI/Weapon_S_1321.webp",
+				"itemType": "Weapon",
+				"name": "心弦夜响",
+				"nameEn": "Heartstring Nocturne",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "Kaboom the Cannon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "Drill Rig - Red Axis",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			}
+		],
+		"start": "2025-09-24 12:00:00",
+		"end": "2025-10-14 14:59:59"
+	},
+	{
 		"version": "2.2.1",
 		"items": [
 			{

@@ -1,5 +1,72 @@
 [
 	{
+		"version": "3.6.1",
+		"items": [
+			{
+				"itemId": 1413,
+				"imageUrl": "/hsr/UI/avatarshopicon/1413.webp",
+				"itemType": "Character",
+				"name": "长夜月",
+				"nameEn": "Evernight",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 1401,
+				"imageUrl": "/hsr/UI/avatarshopicon/1401.webp",
+				"itemType": "Character",
+				"name": "大黑塔",
+				"nameEn": "The Herta",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1312,
+				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
+				"itemType": "Character",
+				"name": "米沙",
+				"nameEn": "Misha",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1210,
+				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
+				"itemType": "Character",
+				"name": "桂乃芬",
+				"nameEn": "Guinaifen",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1214,
+				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
+				"itemType": "Character",
+				"name": "雪衣",
+				"nameEn": "Xueyi",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-09-24 06:30:00",
+		"end": "2025-10-15 11:59:00"
+	},
+	{
 		"version": "3.5.2",
 		"items": [
 			{

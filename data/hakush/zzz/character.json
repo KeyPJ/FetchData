@@ -26,6 +26,15 @@
 		"rank": 4,
 		"type": 2
 	},
+	"Avatar_Male_Size03_BanYue": {
+		"cn": "Avatar_Male_Size03_BanYue",
+		"element": 201,
+		"EN": "Avatar_Male_Size03_BanYue",
+		"iconUrl": "/zzz/UI/.webp",
+		"id": "1471",
+		"rank": null,
+		"type": 6
+	},
 	"丽娜": {
 		"cn": "丽娜",
 		"element": 203,
@@ -263,7 +272,7 @@
 	"真斗": {
 		"cn": "真斗",
 		"element": 201,
-		"EN": "Komano Manato",
+		"EN": "Manato",
 		"iconUrl": "/zzz/UI/IconRoleSelect51.webp",
 		"id": "1441",
 		"rank": 3,

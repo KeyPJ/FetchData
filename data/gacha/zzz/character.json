@@ -1,5 +1,60 @@
 [
 	{
+		"version": "2.2.2",
+		"items": [
+			{
+				"itemId": 1301,
+				"imageUrl": "/zzz/UI/IconRoleSelect49.webp",
+				"itemType": "Character",
+				"name": "奥菲丝&「鬼火」",
+				"nameEn": "Orphie & Magus",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1321,
+				"imageUrl": "/zzz/UI/IconRoleSelect37.webp",
+				"itemType": "Character",
+				"name": "伊芙琳",
+				"nameEn": "Evelyn",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "Lucy",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "Anton",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
+		"start": "2025-09-24 12:00:00",
+		"end": "2025-10-14 14:59:59"
+	},
+	{
 		"version": "2.2.1",
 		"items": [
 			{

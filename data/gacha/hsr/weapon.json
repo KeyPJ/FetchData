@@ -1,5 +1,62 @@
 [
 	{
+		"version": "3.6.1",
+		"items": [
+			{
+				"itemId": 23049,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23049.webp",
+				"itemType": "Weapon",
+				"name": "致长夜的星光",
+				"nameEn": "To Evernight's Stars",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 23037,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+				"itemType": "Weapon",
+				"name": "向着不可追问处",
+				"nameEn": "Into the Unreachable Veil",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21048.webp",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "Dream's Montage",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "After the Charmony Fall",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "Dance! Dance! Dance!",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			}
+		],
+		"start": "2025-09-24 06:30:00",
+		"end": "2025-10-15 11:59:00"
+	},
+	{
 		"version": "3.5.2",
 		"items": [
 			{
