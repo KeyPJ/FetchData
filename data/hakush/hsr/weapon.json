@@ -735,6 +735,14 @@
 		"id": "20021",
 		"rank": "CombatPowerLightconeRarity3"
 	},
+	"爱如此刻永恒": {
+		"baseType": "Memory",
+		"cn": "爱如此刻永恒",
+		"EN": "This Love, Forever",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23052.webp",
+		"id": "23052",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"片刻，留在眼底": {
 		"baseType": "Mage",
 		"cn": "片刻，留在眼底",
@@ -1134,6 +1142,14 @@
 		"iconUrl": "/hsr/UI/lightconemediumicon/23007.webp",
 		"id": "23007",
 		"rank": "CombatPowerLightconeRarity5"
+	},
+	"飞向粉色的明天": {
+		"baseType": "Memory",
+		"cn": "飞向粉色的明天",
+		"EN": "Take Flight Toward A Pink Tomorrow",
+		"iconUrl": "/hsr/UI/lightconemediumicon/22006.webp",
+		"id": "22006",
+		"rank": "CombatPowerLightconeRarity4"
 	},
 	"驶向第二次生命": {
 		"baseType": "Rogue",

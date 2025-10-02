@@ -251,6 +251,15 @@
 		"id": "1112",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
+	"昔涟": {
+		"baseType": "Memory",
+		"cn": "昔涟",
+		"damageType": "Ice",
+		"EN": "Cyrene",
+		"iconUrl": "/hsr/UI/avatarshopicon/1415.webp",
+		"id": "1415",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"星期日": {
 		"baseType": "Shaman",
 		"cn": "星期日",
