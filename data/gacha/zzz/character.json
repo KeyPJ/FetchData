@@ -1,5 +1,60 @@
 [
 	{
+		"version": "2.3.1",
+		"items": [
+			{
+				"itemId": 1451,
+				"imageUrl": "/zzz/UI/IconRoleSelect50.webp",
+				"itemType": "Character",
+				"name": "卢西娅",
+				"nameEn": "Lucia",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1331,
+				"imageUrl": "/zzz/UI/IconRoleSelect41.webp",
+				"itemType": "Character",
+				"name": "薇薇安",
+				"nameEn": "Vivian",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1441,
+				"imageUrl": "/zzz/UI/IconRoleSelect51.webp",
+				"itemType": "Character",
+				"name": "真斗",
+				"nameEn": "Manato",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "Piper",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2025-10-15 06:00:00",
+		"end": "2025-11-05 11:59:59"
+	},
+	{
 		"version": "2.2.2",
 		"items": [
 			{

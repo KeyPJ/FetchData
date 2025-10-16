@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.3.1",
+		"items": [
+			{
+				"itemId": 14145,
+				"imageUrl": "/zzz/UI/Weapon_S_1451.webp",
+				"itemType": "Weapon",
+				"name": "铸梦炉歌",
+				"nameEn": "Dreamlit Hearth",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 14133,
+				"imageUrl": "/zzz/UI/Weapon_S_1331.webp",
+				"itemType": "Weapon",
+				"name": "飞鸟星梦",
+				"nameEn": "Flight of Fancy",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13144,
+				"imageUrl": "/zzz/UI/Weapon_A_1441.webp",
+				"itemType": "Weapon",
+				"name": "燔火胧夜",
+				"nameEn": "Grill O'Wisp",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 4
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "Roaring Ride",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4
+			}
+		],
+		"start": "2025-10-15 06:00:00",
+		"end": "2025-11-05 11:59:59"
+	},
+	{
 		"version": "2.2.2",
 		"items": [
 			{

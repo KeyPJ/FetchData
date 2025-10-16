@@ -495,6 +495,14 @@
 		"rank": 3,
 		"type": 4
 	},
+	"般岳测试音擎": {
+		"cn": "般岳测试音擎",
+		"EN": "Item_Weapon_S_1471_Name",
+		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
+		"id": "14147",
+		"rank": 4,
+		"type": 6
+	},
 	"街头巨星": {
 		"cn": "街头巨星",
 		"EN": "Street Superstar",

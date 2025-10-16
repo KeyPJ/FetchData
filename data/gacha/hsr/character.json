@@ -1,5 +1,72 @@
 [
 	{
+		"version": "3.6.2",
+		"items": [
+			{
+				"itemId": 1414,
+				"imageUrl": "/hsr/UI/avatarshopicon/1414.webp",
+				"itemType": "Character",
+				"name": "丹恒•腾荒",
+				"nameEn": "Dan Heng • Permansor Terrae",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 1405,
+				"imageUrl": "/hsr/UI/avatarshopicon/1405.webp",
+				"itemType": "Character",
+				"name": "那刻夏",
+				"nameEn": "Anaxa",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1206,
+				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
+				"itemType": "Character",
+				"name": "素裳",
+				"nameEn": "Sushang",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "Hanya",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "Serval",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			}
+		],
+		"start": "2025-10-15 12:00:00",
+		"end": "2025-11-04 15:00:00"
+	},
+	{
 		"version": "3.6.1",
 		"items": [
 			{
