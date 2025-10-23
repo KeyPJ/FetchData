@@ -1,5 +1,62 @@
 [
 	{
+		"version": "6.1.1",
+		"items": [
+			{
+				"itemId": 10000122,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nefer.webp",
+				"itemType": "Character",
+				"name": "奈芙尔",
+				"nameEn": "Nefer",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000089,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "Furina",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "Xingqiu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "Collei",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "Yaoyao",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2025-10-22 07:00:00",
+		"end": "2025-11-11 17:59:00"
+	},
+	{
 		"version": "6.0.2",
 		"items": [
 			{

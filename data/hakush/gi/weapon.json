@@ -559,6 +559,14 @@
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
 	},
+	"悠远流颂之始": {
+		"cn": "悠远流颂之始",
+		"EN": "6.2 Bow",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+		"id": "15515",
+		"rank": 5,
+		"type": "WEAPON_BOW"
+	},
 	"护摩之杖": {
 		"cn": "护摩之杖",
 		"EN": "Staff of Homa",
@@ -1295,6 +1303,14 @@
 		"rank": 4,
 		"type": "WEAPON_POLE"
 	},
+	"虹蛇的雨弦": {
+		"cn": "虹蛇的雨弦",
+		"EN": "6.2 Event Bow",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
+		"id": "15434",
+		"rank": 4,
+		"type": "WEAPON_BOW"
+	},
 	"蛇噬": {
 		"cn": "蛇噬",
 		"EN": "Serpent Devourer",
@@ -1862,6 +1878,14 @@
 		"id": "13303",
 		"rank": 3,
 		"type": "WEAPON_POLE"
+	},
+	"黑蚀": {
+		"cn": "黑蚀",
+		"EN": "6.2 Sword",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
+		"id": "11518",
+		"rank": 5,
+		"type": "WEAPON_SWORD_ONE_HAND"
 	},
 	"龙脊长枪": {
 		"cn": "龙脊长枪",

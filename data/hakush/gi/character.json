@@ -395,6 +395,15 @@
 		"rank": "QUALITY_PURPLE",
 		"weapon": "WEAPON_CLAYMORE"
 	},
+	"杜林": {
+		"cn": "杜林",
+		"element": "Pyro",
+		"EN": "Durin",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Durin.webp",
+		"id": "10000123",
+		"rank": "QUALITY_ORANGE",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
 	"林尼": {
 		"cn": "林尼",
 		"element": "Pyro",
@@ -925,6 +934,15 @@
 		"id": "10000038",
 		"rank": "QUALITY_ORANGE",
 		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
+	"雅珂达": {
+		"cn": "雅珂达",
+		"element": "Anemo",
+		"EN": "Jahoda",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Jahoda.webp",
+		"id": "10000124",
+		"rank": "QUALITY_PURPLE",
+		"weapon": "WEAPON_BOW"
 	},
 	"雷泽": {
 		"cn": "雷泽",

@@ -1,4 +1,13 @@
 {
+	"(Test1)琉音": {
+		"cn": "(Test1)琉音",
+		"element": 200,
+		"EN": "Azural",
+		"iconUrl": "/zzz/UI/IconRoleSelect54.webp",
+		"id": "1481",
+		"rank": 4,
+		"type": 2
+	},
 	"(Test1)般岳": {
 		"cn": "(Test1)般岳",
 		"element": 201,

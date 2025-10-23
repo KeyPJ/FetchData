@@ -447,6 +447,14 @@
 		"rank": 4,
 		"type": 4
 	},
+	"琉音测试音擎": {
+		"cn": "琉音测试音擎",
+		"EN": "Dialyn Test W-Engine",
+		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
+		"id": "14148",
+		"rank": 4,
+		"type": 2
+	},
 	"电波漫步": {
 		"cn": "电波漫步",
 		"EN": "Radiowave Journey",
@@ -497,7 +505,7 @@
 	},
 	"般岳测试音擎": {
 		"cn": "般岳测试音擎",
-		"EN": "Item_Weapon_S_1471_Name",
+		"EN": "Banyue Test W-Engine",
 		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
 		"id": "14147",
 		"rank": 4,
