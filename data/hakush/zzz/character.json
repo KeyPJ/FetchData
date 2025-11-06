@@ -8,15 +8,6 @@
 		"rank": 4,
 		"type": 2
 	},
-	"(Test1)般岳": {
-		"cn": "(Test1)般岳",
-		"element": 201,
-		"EN": "Avatar_Male_Size03_BanYue",
-		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
-		"id": "1471",
-		"rank": 4,
-		"type": 6
-	},
 	"「11号」": {
 		"cn": "「11号」",
 		"element": 201,
@@ -304,6 +295,15 @@
 		"id": "1311",
 		"rank": 4,
 		"type": 4
+	},
+	"般岳": {
+		"cn": "般岳",
+		"element": 201,
+		"EN": "Avatar_Male_Size03_BanYue",
+		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
+		"id": "1471",
+		"rank": 4,
+		"type": 6
 	},
 	"艾莲": {
 		"cn": "艾莲",

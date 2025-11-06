@@ -183,6 +183,14 @@
 		"id": "23005",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"勿忘她的火焰": {
+		"baseType": "Warlock",
+		"cn": "勿忘她的火焰",
+		"EN": "Never Forget Her Flame",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23050.webp",
+		"id": "23050",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"匿影": {
 		"baseType": "Warlock",
 		"cn": "匿影",

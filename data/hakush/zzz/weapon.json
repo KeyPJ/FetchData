@@ -279,6 +279,14 @@
 		"rank": 4,
 		"type": 1
 	},
+	"怒目金刚": {
+		"cn": "怒目金刚",
+		"EN": "Wrathful Vajra",
+		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
+		"id": "14147",
+		"rank": 4,
+		"type": 6
+	},
 	"拘缚者": {
 		"cn": "拘缚者",
 		"EN": "The Restrained",
@@ -326,6 +334,14 @@
 		"id": "13011",
 		"rank": 3,
 		"type": 5
+	},
+	"昨夜来电": {
+		"cn": "昨夜来电",
+		"EN": "Yesterday Calls",
+		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
+		"id": "14148",
+		"rank": 4,
+		"type": 2
 	},
 	"机巧心种": {
 		"cn": "机巧心种",
@@ -447,14 +463,6 @@
 		"rank": 4,
 		"type": 4
 	},
-	"琉音测试音擎": {
-		"cn": "琉音测试音擎",
-		"EN": "Dialyn Test W-Engine",
-		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
-		"id": "14148",
-		"rank": 4,
-		"type": 2
-	},
 	"电波漫步": {
 		"cn": "电波漫步",
 		"EN": "Radiowave Journey",
@@ -502,14 +510,6 @@
 		"id": "13103",
 		"rank": 3,
 		"type": 4
-	},
-	"般岳测试音擎": {
-		"cn": "般岳测试音擎",
-		"EN": "Banyue Test W-Engine",
-		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
-		"id": "14147",
-		"rank": 4,
-		"type": 6
 	},
 	"街头巨星": {
 		"cn": "街头巨星",

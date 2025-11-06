@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.3.2",
+		"items": [
+			{
+				"itemId": 14105,
+				"imageUrl": "/zzz/UI/Weapon_S_1051.webp",
+				"itemType": "Weapon",
+				"name": "海妖摇篮",
+				"nameEn": "Kraken's Cradle",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5
+			},
+			{
+				"itemId": 14139,
+				"imageUrl": "/zzz/UI/Weapon_S_1391.webp",
+				"itemType": "Weapon",
+				"name": "福虓炉炉",
+				"nameEn": "Roaring Fur-nace",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13142,
+				"imageUrl": "/zzz/UI/Weapon_A_1421.webp",
+				"itemType": "Weapon",
+				"name": "震元奇枢",
+				"nameEn": "Tremor Trigram Vessel",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/zzz/UI/Weapon_A_1351.webp",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "Box Cutter",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			}
+		],
+		"start": "2025-11-05 12:00:00",
+		"end": "2025-11-25 14:59:59"
+	},
+	{
 		"version": "2.3.1",
 		"items": [
 			{

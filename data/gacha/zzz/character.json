@@ -1,5 +1,60 @@
 [
 	{
+		"version": "2.3.2",
+		"items": [
+			{
+				"itemId": 1051,
+				"imageUrl": "/zzz/UI/IconRoleSelect52.webp",
+				"itemType": "Character",
+				"name": "伊德海莉",
+				"nameEn": "Yidhari",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1391,
+				"imageUrl": "/zzz/UI/IconRoleSelect43.webp",
+				"itemType": "Character",
+				"name": "橘福福",
+				"nameEn": "Ju Fufu",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1421,
+				"imageUrl": "/zzz/UI/IconRoleSelect45.webp",
+				"itemType": "Character",
+				"name": "潘引壶",
+				"nameEn": "Pan Yinhu",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1351,
+				"imageUrl": "/zzz/UI/IconRoleSelect38.webp",
+				"itemType": "Character",
+				"name": "波可娜",
+				"nameEn": "Pulchra",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2025-11-05 12:00:00",
+		"end": "2025-11-25 14:59:59"
+	},
+	{
 		"version": "2.3.1",
 		"items": [
 			{

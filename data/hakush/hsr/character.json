@@ -161,6 +161,15 @@
 		"id": "1111",
 		"rank": "CombatPowerAvatarRarityType4"
 	},
+	"大丽花": {
+		"baseType": "Warlock",
+		"cn": "大丽花",
+		"damageType": "Fire",
+		"EN": "The Dahlia",
+		"iconUrl": "/hsr/UI/avatarshopicon/1321.webp",
+		"id": "1321",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"大黑塔": {
 		"baseType": "Mage",
 		"cn": "大黑塔",
