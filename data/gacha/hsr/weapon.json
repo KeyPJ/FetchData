@@ -1,6 +1,6 @@
 [
 	{
-		"version": "3.7.2",
+		"version": "3.7.1",
 		"items": [
 			{
 				"itemId": 23052,
@@ -12,43 +12,6 @@
 				"avatarBaseType": "memory",
 				"weaponType": "memory"
 			},
-			{
-				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
-				"itemType": "Weapon",
-				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
-				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
-				"itemType": "Weapon",
-				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
-				"itemType": "Weapon",
-				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-11-05 06:30:00",
-		"end": "2025-12-16 15:00:00"
-	},
-	{
-		"version": "3.7.1",
-		"items": [
 			{
 				"itemId": 23042,
 				"imageUrl": "/hsr/UI/lightconemediumicon/23042.webp",
