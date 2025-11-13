@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.1.2",
+		"items": [
+			{
+				"itemId": 13512,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp",
+				"itemType": "Weapon",
+				"name": "赤月之形",
+				"nameEn": "Crimson Moon's Semblance",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 13504,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
+				"itemType": "Weapon",
+				"name": "贯虹之槊",
+				"nameEn": "Vortex Vanquisher",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 11427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "船坞长剑",
+				"nameEn": "The Dockhand's Assistant",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "便携动力锯",
+				"nameEn": "Portable Power Saw",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 15427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "测距规",
+				"nameEn": "Range Gauge",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			}
+		],
+		"start": "2025-11-11 18:00:00",
+		"end": "2025-12-02 14:59:59"
+	},
+	{
 		"version": "6.1.1",
 		"items": [
 			{

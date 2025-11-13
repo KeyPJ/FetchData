@@ -1,5 +1,62 @@
 [
 	{
+		"version": "6.1.2",
+		"items": [
+			{
+				"itemId": 10000096,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Arlecchino.webp",
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "Arlecchino",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000030,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "Zhongli",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000108,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Lanyan.webp",
+				"itemType": "Character",
+				"name": "蓝砚",
+				"nameEn": "Lan Yan",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "Rosaria",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "Yun Jin",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2025-11-11 18:00:00",
+		"end": "2025-12-02 14:59:59"
+	},
+	{
 		"version": "6.1.1",
 		"items": [
 			{

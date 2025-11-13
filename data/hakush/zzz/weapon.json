@@ -119,6 +119,14 @@
 		"rank": 2,
 		"type": 3
 	},
+	"Item_Weapon_A_Common_19_Name": {
+		"cn": "Item_Weapon_A_Common_19_Name",
+		"EN": "Item_Weapon_A_Common_19_Name",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_19.webp",
+		"id": "13019",
+		"rank": 3,
+		"type": 5
+	},
 	"人为刀俎": {
 		"cn": "人为刀俎",
 		"EN": "Steam Oven",
