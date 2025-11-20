@@ -127,6 +127,14 @@
 		"rank": 3,
 		"type": 5
 	},
+	"Item_Weapon_S_1431_Name": {
+		"cn": "Item_Weapon_S_1431_Name",
+		"EN": "Item_Weapon_S_1431_Name",
+		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
+		"id": "14143",
+		"rank": 4,
+		"type": 1
+	},
 	"人为刀俎": {
 		"cn": "人为刀俎",
 		"EN": "Steam Oven",
@@ -182,6 +190,14 @@
 		"id": "14129",
 		"rank": 4,
 		"type": 1
+	},
+	"半糖冰雹": {
+		"cn": "半糖冰雹",
+		"EN": "Item_Weapon_S_1341_Name",
+		"iconUrl": "/zzz/UI/Weapon_S_1341.webp",
+		"id": "14134",
+		"rank": 4,
+		"type": 5
 	},
 	"双生泣星": {
 		"cn": "双生泣星",
