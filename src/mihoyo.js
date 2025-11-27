@@ -168,8 +168,11 @@ function updateManualFile(manualFilePath, newData) {
 
         // 有相同时间范围则覆盖，否则追加
         if (existingIndex !== -1) {
-            manualData[existingIndex] = newData;
-            console.log(`已在手动文件中覆盖相同时间范围的数据: ${newData.name}`);
+            let oldData = manualData[existingIndex]
+            if (oldData?.five?.length && newData.five.length > oldData.five.length) {
+                manualData[existingIndex] = newData
+                console.log(`已在手动文件中覆盖相同时间范围的数据: ${newData.name}`)
+            }
         } else {
             manualData.push(newData);
             console.log(`已在手动文件中追加新数据: ${newData.name}`);
