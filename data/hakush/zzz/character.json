@@ -26,15 +26,6 @@
 		"rank": 4,
 		"type": 2
 	},
-	"Avatar_Female_Size02_Zhenzhen": {
-		"cn": "Avatar_Female_Size02_Zhenzhen",
-		"element": 200,
-		"EN": "Avatar_Female_Size02_Zhenzhen",
-		"iconUrl": "/zzz/UI/.webp",
-		"id": "1431",
-		"rank": 4,
-		"type": 1
-	},
 	"丽娜": {
 		"cn": "丽娜",
 		"element": 203,
@@ -96,6 +87,15 @@
 		"iconUrl": "/zzz/UI/IconRoleSelect09.webp",
 		"id": "1061",
 		"rank": 3,
+		"type": 1
+	},
+	"叶瞬光": {
+		"cn": "叶瞬光",
+		"element": 200,
+		"EN": "Ye Shunguang",
+		"iconUrl": "/zzz/UI/IconRoleSelect55.webp",
+		"id": "1431",
+		"rank": 4,
 		"type": 1
 	},
 	"奥菲丝&「鬼火」": {

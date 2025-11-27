@@ -1,5 +1,72 @@
 [
 	{
+		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 23044,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+				"itemType": "Weapon",
+				"name": "黎明恰如此燃烧",
+				"nameEn": "Thus Burns the Dawn",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23043,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23043.webp",
+				"itemType": "Weapon",
+				"name": "谎言在风中飘扬",
+				"nameEn": "Lies Dance on the Breeze",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23039,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23039.webp",
+				"itemType": "Weapon",
+				"name": "血火啊，燃烧前路",
+				"nameEn": "Flame of Blood, Blaze My Path",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "The Story's Next Page",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "Concert for Two",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "Boundless Choreo",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-11-26 12:00:00",
+		"end": "2025-12-16 15:00:00"
+	},
+	{
 		"version": "3.7.2",
 		"items": [
 			{

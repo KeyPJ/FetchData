@@ -127,9 +127,9 @@
 		"rank": 3,
 		"type": 5
 	},
-	"Item_Weapon_S_1431_Name": {
-		"cn": "Item_Weapon_S_1431_Name",
-		"EN": "Item_Weapon_S_1431_Name",
+	"云霓孤光": {
+		"cn": "云霓孤光",
+		"EN": "Lone Light in the Clouds",
 		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
 		"id": "14143",
 		"rank": 4,
@@ -193,7 +193,7 @@
 	},
 	"半糖冰雹": {
 		"cn": "半糖冰雹",
-		"EN": "Item_Weapon_S_1341_Name",
+		"EN": "Half-Sugar Hail",
 		"iconUrl": "/zzz/UI/Weapon_S_1341.webp",
 		"id": "14134",
 		"rank": 4,

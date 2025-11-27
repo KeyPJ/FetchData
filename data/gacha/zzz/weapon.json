@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.4.1",
+		"items": [
+			{
+				"itemId": 14148,
+				"imageUrl": "/zzz/UI/Weapon_S_1481.webp",
+				"itemType": "Weapon",
+				"name": "昨夜来电",
+				"nameEn": "Yesterday Calls",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 14129,
+				"imageUrl": "/zzz/UI/Weapon_S_1291.webp",
+				"itemType": "Weapon",
+				"name": "千面日陨",
+				"nameEn": "Myriad Eclipse",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "Housekeeper",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "Starlight Engine Replica",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			}
+		],
+		"start": "2025-11-26 06:00:00",
+		"end": "2025-12-17 11:59:59"
+	},
+	{
 		"version": "2.3.2",
 		"items": [
 			{
