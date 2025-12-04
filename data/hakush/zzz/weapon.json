@@ -119,17 +119,9 @@
 		"rank": 2,
 		"type": 3
 	},
-	"Item_Weapon_A_Common_19_Name": {
-		"cn": "Item_Weapon_A_Common_19_Name",
-		"EN": "Item_Weapon_A_Common_19_Name",
-		"iconUrl": "/zzz/UI/Weapon_A_Common_19.webp",
-		"id": "13019",
-		"rank": 3,
-		"type": 5
-	},
 	"云霓孤光": {
 		"cn": "云霓孤光",
-		"EN": "Lone Light in the Clouds",
+		"EN": "Cloudcleave Radiance",
 		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
 		"id": "14143",
 		"rank": 4,
@@ -645,6 +637,14 @@
 		"iconUrl": "/zzz/UI/Weapon_S_1371.webp",
 		"id": "14137",
 		"rank": 4,
+		"type": 6
+	},
+	"青漪灵鼎": {
+		"cn": "青漪灵鼎",
+		"EN": "Cauldron of Clarity",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_19.webp",
+		"id": "13019",
+		"rank": 3,
 		"type": 6
 	},
 	"飞鸟星梦": {

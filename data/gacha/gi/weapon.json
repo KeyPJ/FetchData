@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.2.1",
+		"items": [
+			{
+				"itemId": 11518,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
+				"itemType": "Weapon",
+				"name": "黑蚀",
+				"nameEn": "Athame Artis",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 15515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+				"itemType": "Weapon",
+				"name": "黎明破晓之史",
+				"nameEn": "The Daybreak Chronicles",
+				"weaponType": "Bow",
+				"rankType": 5
+			},
+			{
+				"itemId": 11410,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
+				"itemType": "Weapon",
+				"name": "暗巷闪光",
+				"nameEn": "The Alley Flash",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 13427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "勘探钻机",
+				"nameEn": "Prospector's Drill",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14410,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
+				"itemType": "Weapon",
+				"name": "暗巷的酒与诗",
+				"nameEn": "Wine and Song",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 12405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "Rainslasher",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 15402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "The Stringless",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-12-03 07:00:00",
+		"end": "2025-12-23 17:59:00"
+	},
+	{
 		"version": "6.1.2",
 		"items": [
 			{

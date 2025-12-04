@@ -487,6 +487,14 @@
 		"rank": 4,
 		"type": "WEAPON_POLE"
 	},
+	"帷间夜曲": {
+		"cn": "帷间夜曲",
+		"EN": "Nocturne's Curtain Call",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
+		"id": "14522",
+		"rank": 5,
+		"type": "WEAPON_CATALYST"
+	},
 	"幽夜华尔兹": {
 		"cn": "幽夜华尔兹",
 		"EN": "Mitternachts Waltz",
@@ -724,6 +732,14 @@
 		"EN": "Uraku Misugiri",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
 		"id": "11514",
+		"rank": 5,
+		"type": "WEAPON_SWORD_ONE_HAND"
+	},
+	"朏魄含光": {
+		"cn": "朏魄含光",
+		"EN": "Lightbearing Moonshard",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
+		"id": "11519",
 		"rank": 5,
 		"type": "WEAPON_SWORD_ONE_HAND"
 	},

@@ -116,6 +116,15 @@
 		"rank": "QUALITY_ORANGE",
 		"weapon": "WEAPON_CATALYST"
 	},
+	"兹白": {
+		"cn": "兹白",
+		"element": "Geo",
+		"EN": "Zibai",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Zibai.webp",
+		"id": "10000126",
+		"rank": "QUALITY_ORANGE",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
 	"凝光": {
 		"cn": "凝光",
 		"element": "Geo",
@@ -185,6 +194,24 @@
 		"EN": "Klee",
 		"iconUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
 		"id": "10000029",
+		"rank": "QUALITY_ORANGE",
+		"weapon": "WEAPON_CATALYST"
+	},
+	"叶洛亚": {
+		"cn": "叶洛亚",
+		"element": "Geo",
+		"EN": "Illuga",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
+		"id": "10000127",
+		"rank": "QUALITY_PURPLE",
+		"weapon": "WEAPON_POLE"
+	},
+	"哥伦比娅": {
+		"cn": "哥伦比娅",
+		"element": "Hydro",
+		"EN": "Columbina",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Columbina.webp",
+		"id": "10000125",
 		"rank": "QUALITY_ORANGE",
 		"weapon": "WEAPON_CATALYST"
 	},

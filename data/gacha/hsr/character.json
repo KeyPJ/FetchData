@@ -1,6 +1,6 @@
 [
 	{
-		"version": "3.7.2",
+		"version": "3.8.1",
 		"items": [
 			{
 				"itemId": 1415,
@@ -91,7 +91,7 @@
 		"end": "2025-12-16 15:00:00"
 	},
 	{
-		"version": "3.7.1",
+		"version": "3.7.2",
 		"items": [
 			{
 				"itemId": 1415,
@@ -180,6 +180,61 @@
 		],
 		"start": "2025-11-05 06:30:00",
 		"end": "2025-11-26 11:59:00"
+	},
+	{
+		"version": "3.7.1",
+		"items": [
+			{
+				"itemId": 1415,
+				"imageUrl": "/hsr/UI/avatarshopicon/1415.webp",
+				"itemType": "Character",
+				"name": "昔涟",
+				"nameEn": "Cyrene",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "Moze",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1110,
+				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
+				"itemType": "Character",
+				"name": "玲可",
+				"nameEn": "Lynx",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1106,
+				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
+				"itemType": "Character",
+				"name": "佩拉",
+				"nameEn": "Pela",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-11-05 06:30:00",
+		"end": "2025-12-16 15:00:00"
 	},
 	{
 		"version": "3.6.2",
