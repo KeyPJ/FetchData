@@ -1,6 +1,177 @@
 [
 	{
+		"version": "3.8.3",
+		"items": [
+			{
+				"itemId": 23036,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+				"itemType": "Weapon",
+				"name": "将光阴织成黄金",
+				"nameEn": "Time Woven Into Gold",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "A Grounded Ascent",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21051,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+				"itemType": "Weapon",
+				"name": "天才们的问候",
+				"nameEn": "Geniuses' Greetings",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 21018,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"itemType": "Weapon",
+				"name": "舞！舞！舞！",
+				"nameEn": "Dance! Dance! Dance!",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			}
+		],
+		"start": "2026-01-28 12:00:00",
+		"end": "2026-02-12 15:00:00"
+	},
+	{
+		"version": "3.8.2",
+		"items": [
+			{
+				"itemId": 23035,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
+				"itemType": "Weapon",
+				"name": "长路终有归途",
+				"nameEn": "Long Road Leads Home",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23032,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23032.webp",
+				"itemType": "Weapon",
+				"name": "唯有香如故",
+				"nameEn": "Scent Alone Stays True",
+				"rankType": 5,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21020,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+				"itemType": "Weapon",
+				"name": "天才们的休憩",
+				"nameEn": "Geniuses' Repose",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "Post-Op Conversation",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "The Moles Welcome You",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2026-01-07 12:00:00",
+		"end": "2026-01-28 11:59:00"
+	},
+	{
 		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 23050,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23050.webp",
+				"itemType": "Weapon",
+				"name": "勿忘她的火焰",
+				"nameEn": "Never Forget Her Flame",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23025,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "Whereabouts Should Dreams Rest",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21043,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"itemType": "Weapon",
+				"name": "两个人的演唱会",
+				"nameEn": "Concert for Two",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "Memories of the Past",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "Good Night and Sleep Well",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-12-17 06:30:00",
+		"end": "2026-01-07 11:59:00"
+	},
+	{
+		"version": "3.7.2",
 		"items": [
 			{
 				"itemId": 23052,
@@ -77,7 +248,7 @@
 		"end": "2025-12-16 15:00:00"
 	},
 	{
-		"version": "3.7.2",
+		"version": "3.7.1",
 		"items": [
 			{
 				"itemId": 23052,
@@ -152,53 +323,6 @@
 		],
 		"start": "2025-11-05 06:30:00",
 		"end": "2025-11-26 11:59:00"
-	},
-	{
-		"version": "3.7.1",
-		"items": [
-			{
-				"itemId": 23052,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23052.webp",
-				"itemType": "Weapon",
-				"name": "爱如此刻永恒",
-				"nameEn": "This Love, Forever",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
-				"itemType": "Weapon",
-				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
-				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
-				"itemType": "Weapon",
-				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
-				"itemType": "Weapon",
-				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-11-05 06:30:00",
-		"end": "2025-12-16 15:00:00"
 	},
 	{
 		"version": "3.6.2",

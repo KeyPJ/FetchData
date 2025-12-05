@@ -163,7 +163,7 @@ function updateManualFile(manualFilePath, newData) {
 
         // 查找是否有相同起止时间的数据
         const existingIndex = manualData.findIndex(
-            item => item.from === newData.from && item.to === newData.to
+            item => item.from === newData.from
         );
 
         // 有相同时间范围则覆盖，否则追加

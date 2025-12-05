@@ -1,6 +1,207 @@
 [
 	{
+		"version": "3.8.3",
+		"items": [
+			{
+				"itemId": 1402,
+				"imageUrl": "/hsr/UI/avatarshopicon/1402.webp",
+				"itemType": "Character",
+				"name": "阿格莱雅",
+				"nameEn": "Aglaea",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 1313,
+				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
+				"itemType": "Character",
+				"name": "星期日",
+				"nameEn": "Sunday",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1202,
+				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "Tingyun",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1207,
+				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
+				"itemType": "Character",
+				"name": "驭空",
+				"nameEn": "Yukong",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1002,
+				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
+				"itemType": "Character",
+				"name": "丹恒",
+				"nameEn": "Dan Heng",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2026-01-28 12:00:00",
+		"end": "2026-02-12 15:00:00"
+	},
+	{
+		"version": "3.8.2",
+		"items": [
+			{
+				"itemId": 1225,
+				"imageUrl": "/hsr/UI/avatarshopicon/1225.webp",
+				"itemType": "Character",
+				"name": "忘归人",
+				"nameEn": "Fugue",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1222,
+				"imageUrl": "/hsr/UI/avatarshopicon/1222.webp",
+				"itemType": "Character",
+				"name": "灵砂",
+				"nameEn": "Lingsha",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1105,
+				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
+				"itemType": "Character",
+				"name": "娜塔莎",
+				"nameEn": "Natasha",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1108,
+				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
+				"itemType": "Character",
+				"name": "桑博",
+				"nameEn": "Sampo",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1008,
+				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
+				"itemType": "Character",
+				"name": "阿兰",
+				"nameEn": "Arlan",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2026-01-07 12:00:00",
+		"end": "2026-01-28 11:59:00"
+	},
+	{
 		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 1321,
+				"imageUrl": "/hsr/UI/avatarshopicon/1321.webp",
+				"itemType": "Character",
+				"name": "大丽花",
+				"nameEn": "The Dahlia",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1310,
+				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
+				"itemType": "Character",
+				"name": "流萤",
+				"nameEn": "Firefly",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1301,
+				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
+				"itemType": "Character",
+				"name": "加拉赫",
+				"nameEn": "Gallagher",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
+				"itemType": "Character",
+				"name": "卢卡",
+				"nameEn": "Luka",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1224,
+				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
+				"itemType": "Character",
+				"name": "三月七",
+				"nameEn": "March 7th",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-12-17 06:30:00",
+		"end": "2026-01-07 11:59:00"
+	},
+	{
+		"version": "3.7.2",
 		"items": [
 			{
 				"itemId": 1415,
@@ -91,7 +292,7 @@
 		"end": "2025-12-16 15:00:00"
 	},
 	{
-		"version": "3.7.2",
+		"version": "3.7.1",
 		"items": [
 			{
 				"itemId": 1415,
@@ -180,61 +381,6 @@
 		],
 		"start": "2025-11-05 06:30:00",
 		"end": "2025-11-26 11:59:00"
-	},
-	{
-		"version": "3.7.1",
-		"items": [
-			{
-				"itemId": 1415,
-				"imageUrl": "/hsr/UI/avatarshopicon/1415.webp",
-				"itemType": "Character",
-				"name": "昔涟",
-				"nameEn": "Cyrene",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 1223,
-				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
-				"itemType": "Character",
-				"name": "貊泽",
-				"nameEn": "Moze",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-11-05 06:30:00",
-		"end": "2025-12-16 15:00:00"
 	},
 	{
 		"version": "3.6.2",

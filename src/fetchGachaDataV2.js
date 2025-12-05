@@ -282,6 +282,10 @@ const getVersion = (i, pool) => {
         //genshin Character
         versionsTemp = [...versionsTemp, "1.3.3"].sort()
     }
+    if (pool === 11 || pool === 12) {
+        //hsr
+        versionsTemp = [...versionsTemp, "3.8.3"].sort()
+    }
     if (pool === 2001 || pool === 3001) {
         //zzz
         versionsTemp = versionsTemp.filter(item => item !== "1.4.2").sort()
