@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.4.2",
+		"items": [
+			{
+				"itemId": 14147,
+				"imageUrl": "/zzz/UI/Weapon_S_1471.webp",
+				"itemType": "Weapon",
+				"name": "怒目金刚",
+				"nameEn": "Wrathful Vajra",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5
+			},
+			{
+				"itemId": 14119,
+				"imageUrl": "/zzz/UI/Weapon_S_1191.webp",
+				"itemType": "Weapon",
+				"name": "深海访客",
+				"nameEn": "Deep Sea Visitor",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "Bashful Demon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "Peacekeeper - Specialized",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2025-12-17 12:00:00",
+		"end": "2025-12-29 14:59:59"
+	},
+	{
 		"version": "2.4.1",
 		"items": [
 			{

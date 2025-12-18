@@ -1,5 +1,60 @@
 [
 	{
+		"version": "2.4.2",
+		"items": [
+			{
+				"itemId": 1471,
+				"imageUrl": "/zzz/UI/IconRoleSelect53.webp",
+				"itemType": "Character",
+				"name": "般岳",
+				"nameEn": "Banyue",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1191,
+				"imageUrl": "/zzz/UI/IconRoleSelect21.webp",
+				"itemType": "Character",
+				"name": "艾莲",
+				"nameEn": "Ellen",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "Soukaku",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "Seth",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
+		"start": "2025-12-17 12:00:00",
+		"end": "2025-12-29 14:59:59"
+	},
+	{
 		"version": "2.4.1",
 		"items": [
 			{
