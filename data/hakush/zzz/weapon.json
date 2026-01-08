@@ -1,4 +1,20 @@
 {
+	"(Test1)千夏测试音擎": {
+		"cn": "(Test1)千夏测试音擎",
+		"EN": "Sunna Test W-Engine",
+		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
+		"id": "14149",
+		"rank": 4,
+		"type": 4
+	},
+	"(Test1)爱芮测试音擎": {
+		"cn": "(Test1)爱芮测试音擎",
+		"EN": "Aria Test W-Engine",
+		"iconUrl": "/zzz/UI/Weapon_S_1501.webp",
+		"id": "14150",
+		"rank": 4,
+		"type": 3
+	},
 	"「恒等式」-变格": {
 		"cn": "「恒等式」-变格",
 		"EN": "[Identity] Inflection",

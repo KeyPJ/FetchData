@@ -1,4 +1,22 @@
 {
+	"(Test1)千夏": {
+		"cn": "(Test1)千夏",
+		"element": 200,
+		"EN": "Avatar_Female_Size01_Summer",
+		"iconUrl": "/zzz/UI/.webp",
+		"id": "1491",
+		"rank": 4,
+		"type": 4
+	},
+	"(Test1)爱芮": {
+		"cn": "(Test1)爱芮",
+		"element": 205,
+		"EN": "Aria",
+		"iconUrl": "/zzz/UI/.webp",
+		"id": "1501",
+		"rank": 4,
+		"type": 3
+	},
 	"「11号」": {
 		"cn": "「11号」",
 		"element": 201,

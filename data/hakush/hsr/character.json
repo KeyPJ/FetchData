@@ -350,6 +350,15 @@
 		"id": "1410",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
+	"火花": {
+		"baseType": "Elation",
+		"cn": "火花",
+		"damageType": "Fire",
+		"EN": "Sparxie",
+		"iconUrl": "/hsr/UI/avatarshopicon/1501.webp",
+		"id": "1501",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"灵砂": {
 		"baseType": "Priest",
 		"cn": "灵砂",
@@ -357,6 +366,15 @@
 		"EN": "Lingsha",
 		"iconUrl": "/hsr/UI/avatarshopicon/1222.webp",
 		"id": "1222",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
+	"爻光": {
+		"baseType": "Elation",
+		"cn": "爻光",
+		"damageType": "Physical",
+		"EN": "Yao Guang",
+		"iconUrl": "/hsr/UI/avatarshopicon/1502.webp",
+		"id": "1502",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"玲可": {

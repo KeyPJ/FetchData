@@ -87,6 +87,14 @@
 		"id": "21034",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"今日好手气": {
+		"baseType": "Elation",
+		"cn": "今日好手气",
+		"EN": "Today's Good Luck",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21065.webp",
+		"id": "21065",
+		"rank": "CombatPowerLightconeRarity4"
+	},
 	"以世界之名": {
 		"baseType": "Warlock",
 		"cn": "以世界之名",
@@ -255,6 +263,14 @@
 		"id": "23032",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"嗤笑": {
+		"baseType": "Elation",
+		"cn": "嗤笑",
+		"EN": "Sneering",
+		"iconUrl": "/hsr/UI/lightconemediumicon/20023.webp",
+		"id": "20023",
+		"rank": "CombatPowerLightconeRarity3"
+	},
 	"嘉果": {
 		"baseType": "Priest",
 		"cn": "嘉果",
@@ -422,6 +438,14 @@
 		"iconUrl": "/hsr/UI/lightconemediumicon/20017.webp",
 		"id": "20017",
 		"rank": "CombatPowerLightconeRarity3"
+	},
+	"当她决定看见": {
+		"baseType": "Elation",
+		"cn": "当她决定看见",
+		"EN": "When She Decided To See",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23054.webp",
+		"id": "23054",
+		"rank": "CombatPowerLightconeRarity5"
 	},
 	"忍事录•音律狩猎": {
 		"baseType": "Warrior",
@@ -638,6 +662,14 @@
 		"iconUrl": "/hsr/UI/lightconemediumicon/23014.webp",
 		"id": "23014",
 		"rank": "CombatPowerLightconeRarity5"
+	},
+	"残泪": {
+		"baseType": "Elation",
+		"cn": "残泪",
+		"EN": "Lingering Tears",
+		"iconUrl": "/hsr/UI/lightconemediumicon/20024.webp",
+		"id": "20024",
+		"rank": "CombatPowerLightconeRarity3"
 	},
 	"比阳光更明亮的": {
 		"baseType": "Warrior",
@@ -911,12 +943,28 @@
 		"id": "21057",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"花花世界迷人眼": {
+		"baseType": "Elation",
+		"cn": "花花世界迷人眼",
+		"EN": "Dazzled By A Flowery World",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23053.webp",
+		"id": "23053",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"芳华待灼": {
 		"baseType": "Shaman",
 		"cn": "芳华待灼",
 		"EN": "Poised to Bloom",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21046.webp",
 		"id": "21046",
+		"rank": "CombatPowerLightconeRarity4"
+	},
+	"菇菇嘎嘎历险记": {
+		"baseType": "Elation",
+		"cn": "菇菇嘎嘎历险记",
+		"EN": "Mushy Shroomy's Adventures",
+		"iconUrl": "/hsr/UI/lightconemediumicon/21064.webp",
+		"id": "21064",
 		"rank": "CombatPowerLightconeRarity4"
 	},
 	"落日时起舞": {
