@@ -495,6 +495,14 @@
 		"rank": 5,
 		"type": "WEAPON_CATALYST"
 	},
+	"幻礼·星兆": {
+		"cn": "幻礼·星兆",
+		"EN": "Radiant Phantasm: Star Omen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kristall.webp",
+		"id": "380001",
+		"rank": 4,
+		"type": "WEAPON_CATALYST"
+	},
 	"幽夜华尔兹": {
 		"cn": "幽夜华尔兹",
 		"EN": "Mitternachts Waltz",
@@ -661,6 +669,14 @@
 		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
 		"id": "12504",
 		"rank": 5,
+		"type": "WEAPON_CLAYMORE"
+	},
+	"无毁·督兰嘉德": {
+		"cn": "无毁·督兰嘉德",
+		"EN": "Radiant Phantasm: Unbroken",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_VarkaTunkeldegen.webp",
+		"id": "390001",
+		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
 	},
 	"无锋剑": {
@@ -908,6 +924,14 @@
 		"EN": "Wolf's Gravestone",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
 		"id": "12502",
+		"rank": 5,
+		"type": "WEAPON_CLAYMORE"
+	},
+	"狼的武功歌": {
+		"cn": "狼的武功歌",
+		"EN": "Ballad of the Mighty Wolf",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EnsisAquilonis.webp",
+		"id": "12515",
 		"rank": 5,
 		"type": "WEAPON_CLAYMORE"
 	},

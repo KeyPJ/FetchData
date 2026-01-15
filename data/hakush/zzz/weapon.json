@@ -1,12 +1,4 @@
 {
-	"(Test1)千夏测试音擎": {
-		"cn": "(Test1)千夏测试音擎",
-		"EN": "Sunna Test W-Engine",
-		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
-		"id": "14149",
-		"rank": 4,
-		"type": 4
-	},
 	"(Test1)爱芮测试音擎": {
 		"cn": "(Test1)爱芮测试音擎",
 		"EN": "Aria Test W-Engine",
@@ -318,6 +310,14 @@
 		"id": "14147",
 		"rank": 4,
 		"type": 6
+	},
+	"思络成歌": {
+		"cn": "思络成歌",
+		"EN": "Song of Thoughts",
+		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
+		"id": "14149",
+		"rank": 4,
+		"type": 4
 	},
 	"拘缚者": {
 		"cn": "拘缚者",

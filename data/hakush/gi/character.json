@@ -476,6 +476,15 @@
 		"rank": "QUALITY_PURPLE",
 		"weapon": "WEAPON_BOW"
 	},
+	"法尔伽": {
+		"cn": "法尔伽",
+		"element": "Anemo",
+		"EN": "Varka",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Varka.webp",
+		"id": "10000128",
+		"rank": "QUALITY_ORANGE",
+		"weapon": "WEAPON_CLAYMORE"
+	},
 	"流浪者": {
 		"cn": "流浪者",
 		"element": "Anemo",

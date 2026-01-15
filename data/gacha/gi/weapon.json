@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.3.1",
+		"items": [
+			{
+				"itemId": 14522,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
+				"itemType": "Weapon",
+				"name": "帷间夜曲",
+				"nameEn": "Nocturne's Curtain Call",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 13515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
+				"itemType": "Weapon",
+				"name": "支离轮光",
+				"nameEn": "Fractured Halo",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 13430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "镇山之钉",
+				"nameEn": "Mountain-Bracing Bolt",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "乘浪的回旋",
+				"nameEn": "Waveriding Whirl",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15412,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
+				"itemType": "Weapon",
+				"name": "幽夜华尔兹",
+				"nameEn": "Mitternachts Waltz",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 11402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			}
+		],
+		"start": "2026-01-14 07:00:00",
+		"end": "2026-02-03 17:59:00"
+	},
+	{
 		"version": "6.2.2",
 		"items": [
 			{
