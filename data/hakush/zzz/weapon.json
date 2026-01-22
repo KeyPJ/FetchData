@@ -1,12 +1,4 @@
 {
-	"(Test1)爱芮测试音擎": {
-		"cn": "(Test1)爱芮测试音擎",
-		"EN": "Aria Test W-Engine",
-		"iconUrl": "/zzz/UI/Weapon_S_1501.webp",
-		"id": "14150",
-		"rank": 4,
-		"type": 3
-	},
 	"「恒等式」-变格": {
 		"cn": "「恒等式」-变格",
 		"EN": "[Identity] Inflection",
@@ -230,6 +222,14 @@
 		"id": "14130",
 		"rank": 4,
 		"type": 1
+	},
+	"壳中之灵": {
+		"cn": "壳中之灵",
+		"EN": "Angel in the Shell",
+		"iconUrl": "/zzz/UI/Weapon_S_1501.webp",
+		"id": "14150",
+		"rank": 4,
+		"type": 3
 	},
 	"奔袭獠牙": {
 		"cn": "奔袭獠牙",

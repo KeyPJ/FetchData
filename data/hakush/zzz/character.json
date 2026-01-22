@@ -8,15 +8,6 @@
 		"rank": 4,
 		"type": 4
 	},
-	"(Test1)爱芮": {
-		"cn": "(Test1)爱芮",
-		"element": 205,
-		"EN": "Aria",
-		"iconUrl": "/zzz/UI/IconRoleSelect57.webp",
-		"id": "1501",
-		"rank": 4,
-		"type": 3
-	},
 	"「11号」": {
 		"cn": "「11号」",
 		"element": 201,
@@ -275,6 +266,15 @@
 		"EN": "Alice",
 		"iconUrl": "/zzz/UI/IconRoleSelect46.webp",
 		"id": "1401",
+		"rank": 4,
+		"type": 3
+	},
+	"爱芮": {
+		"cn": "爱芮",
+		"element": 205,
+		"EN": "Aria",
+		"iconUrl": "/zzz/UI/IconRoleSelect57.webp",
+		"id": "1501",
 		"rank": 4,
 		"type": 3
 	},
