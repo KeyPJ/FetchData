@@ -1,5 +1,120 @@
 [
 	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 1431,
+				"imageUrl": "/zzz/UI/IconRoleSelect55.webp",
+				"itemType": "Character",
+				"name": "叶瞬光",
+				"nameEn": "Ye Shunguang",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1341,
+				"imageUrl": "/zzz/UI/IconRoleSelect56.webp",
+				"itemType": "Character",
+				"name": "照",
+				"nameEn": "Zhao",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1381,
+				"imageUrl": "/zzz/UI/IconRoleSelect40.webp",
+				"itemType": "Character",
+				"name": "零号·安比",
+				"nameEn": "Soldier 0 - Anby",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1401,
+				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
+				"itemType": "Character",
+				"name": "爱丽丝",
+				"nameEn": "Alice",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1311,
+				"imageUrl": "/zzz/UI/IconRoleSelect36.webp",
+				"itemType": "Character",
+				"name": "耀嘉音",
+				"nameEn": "Astra Yao",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "Nicole",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "Lucy",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "Anby",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "Ben",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			}
+		],
+		"start": "2026-01-21 12:00:00",
+		"end": "2026-02-05 14:59:59"
+	},
+	{
 		"version": "2.5.1",
 		"items": [
 			{

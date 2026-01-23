@@ -1,5 +1,102 @@
 [
 	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 14143,
+				"imageUrl": "/zzz/UI/Weapon_S_1431.webp",
+				"itemType": "Weapon",
+				"name": "云霓孤光",
+				"nameEn": "Cloudcleave Radiance",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 14134,
+				"imageUrl": "/zzz/UI/Weapon_S_1341.webp",
+				"itemType": "Weapon",
+				"name": "半糖雪兔",
+				"nameEn": "Half-Sugar Bunny",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			},
+			{
+				"itemId": 14138,
+				"imageUrl": "/zzz/UI/Weapon_S_1381.webp",
+				"itemType": "Weapon",
+				"name": "牺牲洁纯",
+				"nameEn": "Severed Innocence",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 14140,
+				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
+				"itemType": "Weapon",
+				"name": "十方锻星",
+				"nameEn": "Practiced Perfection",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 14131,
+				"imageUrl": "/zzz/UI/Weapon_S_1311.webp",
+				"itemType": "Weapon",
+				"name": "玲珑妆匣",
+				"nameEn": "Elegant Vanity",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "The Vault",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "Kaboom the Cannon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "Demara Battery Mark II",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "Big Cylinder",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2025-12-30 06:00:00",
+		"end": "2026-02-05 14:59:59"
+	},
+	{
 		"version": "2.5.1",
 		"items": [
 			{
