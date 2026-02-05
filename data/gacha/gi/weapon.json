@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.3.2",
+		"items": [
+			{
+				"itemId": 11519,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
+				"itemType": "Weapon",
+				"name": "朏魄含光",
+				"nameEn": "Lightbearing Moonshard",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 14514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
+				"itemType": "Weapon",
+				"name": "万世流涌大典",
+				"nameEn": "Tome of the Eternal Flow",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11418,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
+				"itemType": "Weapon",
+				"name": "西福斯的月光",
+				"nameEn": "Xiphos' Moonlight",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "Favonius Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14409,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2026-02-03 18:00:00",
+		"end": "2026-02-24 14:59:59"
+	},
+	{
 		"version": "6.3.1",
 		"items": [
 			{

@@ -497,7 +497,7 @@
 	},
 	"幻礼·星兆": {
 		"cn": "幻礼·星兆",
-		"EN": "Radiant Phantasm: Star Omen",
+		"EN": "Phantasmal Gift: Star Omen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kristall.webp",
 		"id": "380001",
 		"rank": 4,
@@ -673,7 +673,7 @@
 	},
 	"无毁·督兰嘉德": {
 		"cn": "无毁·督兰嘉德",
-		"EN": "Radiant Phantasm: Unbroken",
+		"EN": "Unbreakable: Durandarte",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_VarkaTunkeldegen.webp",
 		"id": "390001",
 		"rank": 4,
