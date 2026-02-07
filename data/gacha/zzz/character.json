@@ -1,5 +1,60 @@
 [
 	{
+		"version": "2.6.1",
+		"items": [
+			{
+				"itemId": 1491,
+				"imageUrl": "/zzz/UI/IconRoleSelect58.webp",
+				"itemType": "Character",
+				"name": "千夏",
+				"nameEn": "Sunna",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1371,
+				"imageUrl": "/zzz/UI/IconRoleSelect44.webp",
+				"itemType": "Character",
+				"name": "仪玄",
+				"nameEn": "Yixuan",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "Corin",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "Billy",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2026-02-06 06:00:00",
+		"end": "2026-03-04 11:59:59"
+	},
+	{
 		"version": "2.5.2",
 		"items": [
 			{

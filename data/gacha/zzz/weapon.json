@@ -1,5 +1,52 @@
 [
 	{
+		"version": "2.6.1",
+		"items": [
+			{
+				"itemId": 14149,
+				"imageUrl": "/zzz/UI/Weapon_S_1491.webp",
+				"itemType": "Weapon",
+				"name": "思络成歌",
+				"nameEn": "Thoughtbop",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 14137,
+				"imageUrl": "/zzz/UI/Weapon_S_1371.webp",
+				"itemType": "Weapon",
+				"name": "青溟笼舍",
+				"nameEn": "Qingming Birdcage",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "Housekeeper",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "Starlight Engine Replica",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			}
+		],
+		"start": "2026-02-06 06:00:00",
+		"end": "2026-03-04 11:59:59"
+	},
+	{
 		"version": "2.5.2",
 		"items": [
 			{
