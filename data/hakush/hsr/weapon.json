@@ -15,6 +15,14 @@
 		"id": "21000",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"一场谎言的终幕": {
+		"baseType": "Rogue",
+		"cn": "一场谎言的终幕",
+		"EN": "The Finale of a Lie",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23056.webp",
+		"id": "23056",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"一行往日的血": {
 		"baseType": "Warrior",
 		"cn": "一行往日的血",
@@ -647,6 +655,14 @@
 		"id": "23008",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"欢愉满溢祝福": {
+		"baseType": "Elation",
+		"cn": "欢愉满溢祝福",
+		"EN": "Elation Brimming With Blessings",
+		"iconUrl": "/hsr/UI/lightconemediumicon/24006.webp",
+		"id": "24006",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"此时恰好": {
 		"baseType": "Priest",
 		"cn": "此时恰好",
@@ -666,7 +682,7 @@
 	"残泪": {
 		"baseType": "Elation",
 		"cn": "残泪",
-		"EN": "Lingering Tears",
+		"EN": "Lingering Tear",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20024.webp",
 		"id": "20024",
 		"rank": "CombatPowerLightconeRarity3"

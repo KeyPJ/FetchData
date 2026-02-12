@@ -44,6 +44,15 @@
 		"id": "1224",
 		"rank": "CombatPowerAvatarRarityType4"
 	},
+	"不死途": {
+		"baseType": "Rogue",
+		"cn": "不死途",
+		"damageType": "Thunder",
+		"EN": "Ashveil",
+		"iconUrl": "/hsr/UI/avatarshopicon/1504.webp",
+		"id": "1504",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"丹恒": {
 		"baseType": "Rogue",
 		"cn": "丹恒",
