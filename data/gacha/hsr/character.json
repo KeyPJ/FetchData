@@ -1,5 +1,84 @@
 [
 	{
+		"version": "4.0.1",
+		"items": [
+			{
+				"itemId": 1413,
+				"imageUrl": "/hsr/UI/avatarshopicon/1413.webp",
+				"itemType": "Character",
+				"name": "长夜月",
+				"nameEn": "Evernight",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 1410,
+				"imageUrl": "/hsr/UI/avatarshopicon/1410.webp",
+				"itemType": "Character",
+				"name": "海瑟音",
+				"nameEn": "Hysilens",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1307,
+				"imageUrl": "/hsr/UI/avatarshopicon/1307.webp",
+				"itemType": "Character",
+				"name": "黑天鹅",
+				"nameEn": "Black Swan",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1106,
+				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
+				"itemType": "Character",
+				"name": "佩拉",
+				"nameEn": "Pela",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "Hanya",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1201,
+				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
+				"itemType": "Character",
+				"name": "青雀",
+				"nameEn": "Qingque",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			}
+		],
+		"start": "2026-02-13 06:30:00",
+		"end": "2026-03-03 11:59:00"
+	},
+	{
 		"version": "3.8.3",
 		"items": [
 			{

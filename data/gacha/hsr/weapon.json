@@ -1,5 +1,72 @@
 [
 	{
+		"version": "4.0.1",
+		"items": [
+			{
+				"itemId": 23049,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23049.webp",
+				"itemType": "Weapon",
+				"name": "致长夜的星光",
+				"nameEn": "To Evernight's Stars",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 23047,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23047.webp",
+				"itemType": "Weapon",
+				"name": "海洋为何而歌",
+				"nameEn": "Why Does the Ocean Sing",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23022,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23022.webp",
+				"itemType": "Weapon",
+				"name": "重塑时光之忆",
+				"nameEn": "Reforged Remembrance",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "The Story's Next Page",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2026-02-13 06:30:00",
+		"end": "2026-03-03 11:59:00"
+	},
+	{
 		"version": "3.8.3",
 		"items": [
 			{
