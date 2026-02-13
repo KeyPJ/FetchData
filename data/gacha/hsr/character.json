@@ -3,6 +3,18 @@
 		"version": "4.0.1",
 		"items": [
 			{
+				"itemId": 1502,
+				"imageUrl": "/hsr/UI/avatarshopicon/1502.webp",
+				"itemType": "Character",
+				"name": "爻光",
+				"nameEn": "Yao Guang",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "elation",
+				"weaponType": "elation"
+			},
+			{
 				"itemId": 1413,
 				"imageUrl": "/hsr/UI/avatarshopicon/1413.webp",
 				"itemType": "Character",

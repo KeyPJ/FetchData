@@ -3,6 +3,16 @@
 		"version": "4.0.1",
 		"items": [
 			{
+				"itemId": 23054,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23054.webp",
+				"itemType": "Weapon",
+				"name": "当她决定看见",
+				"nameEn": "When She Decided to See",
+				"rankType": 5,
+				"avatarBaseType": "elation",
+				"weaponType": "elation"
+			},
+			{
 				"itemId": 23049,
 				"imageUrl": "/hsr/UI/lightconemediumicon/23049.webp",
 				"itemType": "Weapon",
