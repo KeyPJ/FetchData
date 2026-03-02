@@ -1,1938 +1,1938 @@
 {
-	"「渔获」": {
-		"cn": "「渔获」",
-		"EN": "\"The Catch\"",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Mori.webp",
-		"id": "13415",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"「究极霸王超级魔剑」": {
-		"cn": "「究极霸王超级魔剑」",
-		"EN": "\"Ultimate Overlord's Mega Magic Sword\"",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Champion.webp",
-		"id": "12426",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"万世流涌大典": {
-		"cn": "万世流涌大典",
-		"EN": "Tome of the Eternal Flow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
-		"id": "14514",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"万国诸海图谱": {
-		"cn": "万国诸海图谱",
-		"EN": "Mappa Mare",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Exotic.webp",
-		"id": "14407",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"万能钥匙": {
-		"cn": "万能钥匙",
-		"EN": "Master Key",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Ilmarinen.webp",
-		"id": "12433",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"不灭月华": {
-		"cn": "不灭月华",
-		"EN": "Everlasting Moonglow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
-		"id": "14506",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"且住亭御咄": {
-		"cn": "且住亭御咄",
-		"EN": "Tamayuratei no Ohanashi",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Aoandon.webp",
-		"id": "13432",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"东花坊时雨": {
-		"cn": "东花坊时雨",
-		"EN": "Toukabou Shigure",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Kasabouzu.webp",
-		"id": "11422",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"乌髓孑灯": {
-		"cn": "乌髓孑灯",
-		"EN": "Blackmarrow Lantern",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ilmarinen.webp",
-		"id": "14433",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"乘浪的回旋": {
-		"cn": "乘浪的回旋",
-		"EN": "Waveriding Whirl",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
-		"id": "14430",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"以理服人": {
-		"cn": "以理服人",
-		"EN": "Debate Club",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Reasoning.webp",
-		"id": "12305",
-		"rank": 3,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"佣兵重剑": {
-		"cn": "佣兵重剑",
-		"EN": "Old Merc's Pal",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Oyaji.webp",
-		"id": "12201",
-		"rank": 2,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"便携动力锯": {
-		"cn": "便携动力锯",
-		"EN": "Portable Power Saw",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
-		"id": "12427",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"信使": {
-		"cn": "信使",
-		"EN": "Messenger",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Msg.webp",
-		"id": "15305",
-		"rank": 3,
-		"type": "WEAPON_BOW"
-	},
-	"公义的酬报": {
-		"cn": "公义的酬报",
-		"EN": "Rightful Reward",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Vorpal.webp",
-		"id": "13425",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"最初的大魔术": {
-		"cn": "最初的大魔术",
-		"EN": "The First Great Magic",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
-		"id": "15512",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"冬极白星": {
-		"cn": "冬极白星",
-		"EN": "Polar Star",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
-		"id": "15507",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"冲浪时光": {
-		"cn": "冲浪时光",
-		"EN": "Surf's Up",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MechaPufferfish.webp",
-		"id": "14516",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"决斗之枪": {
-		"cn": "决斗之枪",
-		"EN": "Deathmatch",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Gladiator.webp",
-		"id": "13405",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"冷刃": {
-		"cn": "冷刃",
-		"EN": "Cool Steel",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Steel.webp",
-		"id": "11301",
-		"rank": 3,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"冷寂迸音": {
-		"cn": "冷寂迸音",
-		"EN": "Sequence of Solitude",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Stinger.webp",
-		"id": "15432",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"勘探钻机": {
-		"cn": "勘探钻机",
-		"EN": "Prospector's Drill",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
-		"id": "13427",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"匣里日月": {
-		"cn": "匣里日月",
-		"EN": "Solar Pearl",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Resurrection.webp",
-		"id": "14405",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"匣里灭辰": {
-		"cn": "匣里灭辰",
-		"EN": "Dragon's Bane",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
-		"id": "13401",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"匣里龙吟": {
-		"cn": "匣里龙吟",
-		"EN": "Lion's Roar",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
-		"id": "11405",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"千夜浮梦": {
-		"cn": "千夜浮梦",
-		"EN": "A Thousand Floating Dreams",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
-		"id": "14511",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"千岩古剑": {
-		"cn": "千岩古剑",
-		"EN": "Lithic Blade",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
-		"id": "12410",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"千岩长枪": {
-		"cn": "千岩长枪",
-		"EN": "Lithic Spear",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
-		"id": "13406",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"厄水之祸": {
-		"cn": "厄水之祸",
-		"EN": "Calamity of Eshu",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_SacrificialNgombe.webp",
-		"id": "11432",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"历练的猎弓": {
-		"cn": "历练的猎弓",
-		"EN": "Seasoned Hunter's Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Old.webp",
-		"id": "15201",
-		"rank": 2,
-		"type": "WEAPON_BOW"
-	},
-	"原木刀": {
-		"cn": "原木刀",
-		"EN": "Sapwood Blade",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Arakalari.webp",
-		"id": "11417",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"反曲弓": {
-		"cn": "反曲弓",
-		"EN": "Recurve Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Curve.webp",
-		"id": "15303",
-		"rank": 3,
-		"type": "WEAPON_BOW"
-	},
-	"口袋魔导书": {
-		"cn": "口袋魔导书",
-		"EN": "Pocket Grimoire",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pocket.webp",
-		"id": "14201",
-		"rank": 2,
-		"type": "WEAPON_CATALYST"
-	},
-	"吃虎鱼刀": {
-		"cn": "吃虎鱼刀",
-		"EN": "Fillet Blade",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Sashimi.webp",
-		"id": "11305",
-		"rank": 3,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"和璞鸢": {
-		"cn": "和璞鸢",
-		"EN": "Primordial Jade Winged-Spear",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
-		"id": "13505",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"喜多院十文字": {
-		"cn": "喜多院十文字",
-		"EN": "Kitain Cross Spear",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Bakufu.webp",
-		"id": "13414",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"嘟嘟可故事集": {
-		"cn": "嘟嘟可故事集",
-		"EN": "Dodoco Tales",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ludiharpastum.webp",
-		"id": "14413",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"四风原典": {
-		"cn": "四风原典",
-		"EN": "Lost Prayer to the Sacred Winds",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
-		"id": "14502",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"图莱杜拉的回忆": {
-		"cn": "图莱杜拉的回忆",
-		"EN": "Tulaytullah's Remembrance",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
-		"id": "14512",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"圣显之钥": {
-		"cn": "圣显之钥",
-		"EN": "Key of Khaj-Nisut",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
-		"id": "11511",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"圣祭者的辉杖": {
-		"cn": "圣祭者的辉杖",
-		"EN": "Sacrificer's Staff",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Krivule.webp",
-		"id": "13434",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"圣缚": {
-		"cn": "圣缚",
-		"EN": "Hallowed Fetters",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MorphIlia_{0}.webp",
-		"id": "340001",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"圣缚·真化": {
-		"cn": "圣缚·真化",
-		"EN": "Hallowed Fetters - Sublimation",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MorphIlia_Great_{0}.webp",
-		"id": "340002",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"天光的纺琴": {
-		"cn": "天光的纺琴",
-		"EN": "Etherlight Spindlelute",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SeeliesLute.webp",
-		"id": "14432",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"天目影打刀": {
-		"cn": "天目影打刀",
-		"EN": "Amenoma Kageuchi",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Bakufu.webp",
-		"id": "11414",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"天空之傲": {
-		"cn": "天空之傲",
-		"EN": "Skyward Pride",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Dvalin.webp",
-		"id": "12501",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"天空之刃": {
-		"cn": "天空之刃",
-		"EN": "Skyward Blade",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Dvalin.webp",
-		"id": "11502",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"天空之卷": {
-		"cn": "天空之卷",
-		"EN": "Skyward Atlas",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Dvalin.webp",
-		"id": "14501",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"天空之翼": {
-		"cn": "天空之翼",
-		"EN": "Skyward Harp",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
-		"id": "15501",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"天空之脊": {
-		"cn": "天空之脊",
-		"EN": "Skyward Spine",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Dvalin.webp",
-		"id": "13502",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"学徒笔记": {
-		"cn": "学徒笔记",
-		"EN": "Apprentice's Notes",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Apprentice.webp",
-		"id": "14101",
-		"rank": 1,
-		"type": "WEAPON_CATALYST"
-	},
-	"宗室大剑": {
-		"cn": "宗室大剑",
-		"EN": "Royal Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Theocrat.webp",
-		"id": "12404",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"宗室猎枪": {
-		"cn": "宗室猎枪",
-		"EN": "Royal Spear",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Theocrat.webp",
-		"id": "13408",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"宗室秘法录": {
-		"cn": "宗室秘法录",
-		"EN": "Royal Grimoire",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Theocrat.webp",
-		"id": "14404",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"宗室长剑": {
-		"cn": "宗室长剑",
-		"EN": "Royal Longsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Theocrat.webp",
-		"id": "11404",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"宗室长弓": {
-		"cn": "宗室长弓",
-		"EN": "Royal Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Theocrat.webp",
-		"id": "15404",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"寝正月初晴": {
-		"cn": "寝正月初晴",
-		"EN": "Sunny Morning Sleep-In",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SakuraFan.webp",
-		"id": "14518",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"尘世之锁": {
-		"cn": "尘世之锁",
-		"EN": "Memory of Dust",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
-		"id": "14504",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"山王长牙": {
-		"cn": "山王长牙",
-		"EN": "Fang of the Mountain King",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EmeraldSword.webp",
-		"id": "12513",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"岩峰巡歌": {
-		"cn": "岩峰巡歌",
-		"EN": "Peak Patrol Song",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_XochitlsTube.webp",
-		"id": "11516",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"峡湾长歌": {
-		"cn": "峡湾长歌",
-		"EN": "Ballad of the Fjords",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Shanty.webp",
-		"id": "13424",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"帷间夜曲": {
-		"cn": "帷间夜曲",
-		"EN": "Nocturne's Curtain Call",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
-		"id": "14522",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"幻礼·星兆": {
-		"cn": "幻礼·星兆",
-		"EN": "Phantasmal Gift: Star Omen",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kristall.webp",
-		"id": "380001",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"幽夜华尔兹": {
-		"cn": "幽夜华尔兹",
-		"EN": "Mitternachts Waltz",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
-		"id": "15412",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"异世界行记": {
-		"cn": "异世界行记",
-		"EN": "Otherworldly Story",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Lightnov.webp",
-		"id": "14303",
-		"rank": 3,
-		"type": "WEAPON_CATALYST"
-	},
-	"弓藏": {
-		"cn": "弓藏",
-		"EN": "Rust",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
-		"id": "15405",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"弥坚骨": {
-		"cn": "弥坚骨",
-		"EN": "Sturdy Bone",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
-		"id": "11430",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"弹弓": {
-		"cn": "弹弓",
-		"EN": "Slingshot",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Sling.webp",
-		"id": "15304",
-		"rank": 3,
-		"type": "WEAPON_BOW"
-	},
-	"忍冬之果": {
-		"cn": "忍冬之果",
-		"EN": "Frostbearer",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Everfrost.webp",
-		"id": "14412",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"息灾": {
-		"cn": "息灾",
-		"EN": "Calamity Queller",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
-		"id": "13507",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"息燧之笛": {
-		"cn": "息燧之笛",
-		"EN": "Flute of Ezpitzal",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Isikhulu.webp",
-		"id": "11431",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"恶王丸": {
-		"cn": "恶王丸",
-		"EN": "Akuoumaru",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
-		"id": "12416",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"护摩之杖": {
-		"cn": "护摩之杖",
-		"EN": "Staff of Homa",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
-		"id": "13501",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"拾慧铸熔": {
-		"cn": "拾慧铸熔",
-		"EN": "Flame-Forged Insight",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Polilith.webp",
-		"id": "12432",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"掘金之锹": {
-		"cn": "掘金之锹",
-		"EN": "Prospector's Shovel",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ilmarinen.webp",
-		"id": "13433",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"掠食者": {
-		"cn": "掠食者",
-		"EN": "Predator",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Predator.webp",
-		"id": "15415",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"撼地者": {
-		"cn": "撼地者",
-		"EN": "Earth Shaker",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Isikhulu.webp",
-		"id": "12431",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"支离轮光": {
-		"cn": "支离轮光",
-		"EN": "Fractured Halo",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
-		"id": "13515",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"斫峰之刃": {
-		"cn": "斫峰之刃",
-		"EN": "Summit Shaper",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
-		"id": "11504",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"断浪长鳍": {
-		"cn": "断浪长鳍",
-		"EN": "Wavebreaker's Fin",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
-		"id": "13416",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"新手长枪": {
-		"cn": "新手长枪",
-		"EN": "Beginner's Protector",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Gewalt.webp",
-		"id": "13101",
-		"rank": 1,
-		"type": "WEAPON_POLE"
-	},
-	"旅行剑": {
-		"cn": "旅行剑",
-		"EN": "Traveler's Handy Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Traveler.webp",
-		"id": "11303",
-		"rank": 3,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"无垠蔚蓝之歌": {
-		"cn": "无垠蔚蓝之歌",
-		"EN": "Ballad of the Boundless Blue",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_DandelionPoem.webp",
-		"id": "14426",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"无工之剑": {
-		"cn": "无工之剑",
-		"EN": "The Unforged",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
-		"id": "12504",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"无毁·督兰嘉德": {
-		"cn": "无毁·督兰嘉德",
-		"EN": "Unbreakable: Durandarte",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_VarkaTunkeldegen.webp",
-		"id": "390001",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"无锋剑": {
-		"cn": "无锋剑",
-		"EN": "Dull Blade",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Blunt.webp",
-		"id": "11101",
-		"rank": 1,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"星鹫赤羽": {
-		"cn": "星鹫赤羽",
-		"EN": "Astral Vulture's Crimson Plumage",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
-		"id": "15514",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"昭心": {
-		"cn": "昭心",
-		"EN": "Eye of Perception",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
-		"id": "14409",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"暗巷猎手": {
-		"cn": "暗巷猎手",
-		"EN": "Alley Hunter",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
-		"id": "15410",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"暗巷的酒与诗": {
-		"cn": "暗巷的酒与诗",
-		"EN": "Wine and Song",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
-		"id": "14410",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"暗巷闪光": {
-		"cn": "暗巷闪光",
-		"EN": "The Alley Flash",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
-		"id": "11410",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"暗铁剑": {
-		"cn": "暗铁剑",
-		"EN": "Dark Iron Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Darker.webp",
-		"id": "11304",
-		"rank": 3,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"曚云之月": {
-		"cn": "曚云之月",
-		"EN": "Mouun's Moon",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
-		"id": "15416",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"有乐御簾切": {
-		"cn": "有乐御簾切",
-		"EN": "Uraku Misugiri",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
-		"id": "11514",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"朏魄含光": {
-		"cn": "朏魄含光",
-		"EN": "Lightbearing Moonshard",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
-		"id": "11519",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"木棉之环": {
-		"cn": "木棉之环",
-		"EN": "Ring of Yaxche",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Isikhulu.webp",
-		"id": "14431",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"松籁响起之时": {
-		"cn": "松籁响起之时",
-		"EN": "Song of Broken Pines",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
-		"id": "12503",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"柔灯挽歌": {
-		"cn": "柔灯挽歌",
-		"EN": "Lumidouce Elegy",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Muguet.webp",
-		"id": "13513",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"桂木斩长正": {
-		"cn": "桂木斩长正",
-		"EN": "Katsuragikiri Nagamasa",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Bakufu.webp",
-		"id": "12414",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"森林王器": {
-		"cn": "森林王器",
-		"EN": "Forest Regalia",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Arakalari.webp",
-		"id": "12417",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"水仙十字之剑": {
-		"cn": "水仙十字之剑",
-		"EN": "Sword of Narzissenkreuz",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Purewill.webp",
-		"id": "11428",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"沐浴龙血的剑": {
-		"cn": "沐浴龙血的剑",
-		"EN": "Bloodtainted Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Siegfry.webp",
-		"id": "12302",
-		"rank": 3,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"沙中伟贤的对答": {
-		"cn": "沙中伟贤的对答",
-		"EN": "Dialogues of the Desert Sages",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Caduceus.webp",
-		"id": "13426",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"波乱月白经津": {
-		"cn": "波乱月白经津",
-		"EN": "Haran Geppaku Futsu",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
-		"id": "11510",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"流月针": {
-		"cn": "流月针",
-		"EN": "Crescent Pike",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Exotic.webp",
-		"id": "13403",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"流浪乐章": {
-		"cn": "流浪乐章",
-		"EN": "The Widsith",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
-		"id": "14402",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"流浪的晚星": {
-		"cn": "流浪的晚星",
-		"EN": "Wandering Evenstar",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
-		"id": "14416",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"测距规": {
-		"cn": "测距规",
-		"EN": "Range Gauge",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
-		"id": "15427",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"浪影阔剑": {
-		"cn": "浪影阔剑",
-		"EN": "Tidal Shadow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Vorpal.webp",
-		"id": "12425",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"海渊终曲": {
-		"cn": "海渊终曲",
-		"EN": "Finale of the Deep",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Vorpal.webp",
-		"id": "11425",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"溢彩心念": {
-		"cn": "溢彩心念",
-		"EN": "Vivid Notions",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_VaresaTransformer.webp",
-		"id": "14519",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"灰河渡手": {
-		"cn": "灰河渡手",
-		"EN": "Fleuve Cendre Ferryman",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Machination.webp",
-		"id": "11426",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"烈阳之嗣": {
-		"cn": "烈阳之嗣",
-		"EN": "Scion of the Blazing Sun",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Gurabad.webp",
-		"id": "15424",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"焚曜千阳": {
-		"cn": "焚曜千阳",
-		"EN": "A Thousand Blazing Suns",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_RadianceSword.webp",
-		"id": "12514",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"狼牙": {
-		"cn": "狼牙",
-		"EN": "Wolf-Fang",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Boreas.webp",
-		"id": "11424",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"狼的末路": {
-		"cn": "狼的末路",
-		"EN": "Wolf's Gravestone",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
-		"id": "12502",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"狼的武功歌": {
-		"cn": "狼的武功歌",
-		"EN": "Gest of the Mighty Wolf",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EnsisAquilonis.webp",
-		"id": "12515",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"猎人之径": {
-		"cn": "猎人之径",
-		"EN": "Hunter's Path",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ayus.webp",
-		"id": "15511",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"猎弓": {
-		"cn": "猎弓",
-		"EN": "Hunter's Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Hunters.webp",
-		"id": "15101",
-		"rank": 1,
-		"type": "WEAPON_BOW"
-	},
-	"王下近侍": {
-		"cn": "王下近侍",
-		"EN": "King's Squire",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arakalari.webp",
-		"id": "15417",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"玛海菈的水色": {
-		"cn": "玛海菈的水色",
-		"EN": "Makhaira Aquamarine",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
-		"id": "12415",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"甲级宝珏": {
-		"cn": "甲级宝珏",
-		"EN": "Twin Nephrite",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Phoney.webp",
-		"id": "14305",
-		"rank": 3,
-		"type": "WEAPON_CATALYST"
-	},
-	"白影剑": {
-		"cn": "白影剑",
-		"EN": "Whiteblind",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Exotic.webp",
-		"id": "12407",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"白缨枪": {
-		"cn": "白缨枪",
-		"EN": "White Tassel",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ruby.webp",
-		"id": "13301",
-		"rank": 3,
-		"type": "WEAPON_POLE"
-	},
-	"白辰之环": {
-		"cn": "白辰之环",
-		"EN": "Hakushin Ring",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Bakufu.webp",
-		"id": "14414",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"白铁大剑": {
-		"cn": "白铁大剑",
-		"EN": "White Iron Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Tin.webp",
-		"id": "12303",
-		"rank": 3,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"白雨心弦": {
-		"cn": "白雨心弦",
-		"EN": "Silvershower Heartstrings",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arcdange.webp",
-		"id": "15513",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"盈满之实": {
-		"cn": "盈满之实",
-		"EN": "Fruit of Fulfillment",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Arakalari.webp",
-		"id": "14417",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"真语秘匣": {
-		"cn": "真语秘匣",
-		"EN": "Reliquary of Truth",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Sistrum.webp",
-		"id": "14521",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"破魔之弓": {
-		"cn": "破魔之弓",
-		"EN": "Hamayumi",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Bakufu.webp",
-		"id": "15414",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"硕果钩": {
-		"cn": "硕果钩",
-		"EN": "Fruitful Hook",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
-		"id": "12430",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"碎月": {
-		"cn": "碎月",
-		"EN": "Shattered Moon",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_MorphSpinifer_{0}.webp",
-		"id": "330001",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"碎月·真化": {
-		"cn": "碎月·真化",
-		"EN": "Shattered Moon - Sublimation",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_MorphSpinifer_Great_{0}.webp",
-		"id": "330002",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"碎链": {
-		"cn": "碎链",
-		"EN": "Chain Breaker",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Isikhulu.webp",
-		"id": "15431",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"碧落之珑": {
-		"cn": "碧落之珑",
-		"EN": "Jadefall's Splendor",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
-		"id": "14505",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"磐岩结绿": {
-		"cn": "磐岩结绿",
-		"EN": "Primordial Jade Cutter",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
-		"id": "11505",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"神乐之真意": {
-		"cn": "神乐之真意",
-		"EN": "Kagura's Verity",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
-		"id": "14509",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"神射手之誓": {
-		"cn": "神射手之誓",
-		"EN": "Sharpshooter's Oath",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arjuna.webp",
-		"id": "15302",
-		"rank": 3,
-		"type": "WEAPON_BOW"
-	},
-	"祭星者之望": {
-		"cn": "祭星者之望",
-		"EN": "Starcaller's Watch",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Figurines.webp",
-		"id": "14517",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"祭礼剑": {
-		"cn": "祭礼剑",
-		"EN": "Sacrificial Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
-		"id": "11403",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"祭礼大剑": {
-		"cn": "祭礼大剑",
-		"EN": "Sacrificial Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
-		"id": "12403",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"祭礼弓": {
-		"cn": "祭礼弓",
-		"EN": "Sacrificial Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
-		"id": "15403",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"祭礼残章": {
-		"cn": "祭礼残章",
-		"EN": "Sacrificial Fragments",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
-		"id": "14403",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"竭泽": {
-		"cn": "竭泽",
-		"EN": "End of the Line",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fin.webp",
-		"id": "15418",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"笛剑": {
-		"cn": "笛剑",
-		"EN": "The Flute",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
-		"id": "11402",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"笼钓瓶一心": {
-		"cn": "笼钓瓶一心",
-		"EN": "Kagotsurube Isshin",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Youtou.webp",
-		"id": "11416",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"筑云": {
-		"cn": "筑云",
-		"EN": "Cloudforged",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ultimatum.webp",
-		"id": "15426",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"纯水流华": {
-		"cn": "纯水流华",
-		"EN": "Flowing Purity",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Vorpal.webp",
-		"id": "14425",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"纺夜天镜": {
-		"cn": "纺夜天镜",
-		"EN": "Nightweaver's Looking Glass",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MenulisRing.webp",
-		"id": "14520",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"织月者的曙色": {
-		"cn": "织月者的曙色",
-		"EN": "Moonweaver's Dawn",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Miekka.webp",
-		"id": "11434",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"终末嗟叹之诗": {
-		"cn": "终末嗟叹之诗",
-		"EN": "Elegy for the End",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
-		"id": "15503",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"绝弦": {
-		"cn": "绝弦",
-		"EN": "The Stringless",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
-		"id": "15402",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"缀花之翎": {
-		"cn": "缀花之翎",
-		"EN": "Flower-Wreathed Feathers",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
-		"id": "15430",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"罗网勾针": {
-		"cn": "罗网勾针",
-		"EN": "Snare Hook",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ilmarinen.webp",
-		"id": "15433",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"翡玉法球": {
-		"cn": "翡玉法球",
-		"EN": "Emerald Orb",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Jade.webp",
-		"id": "14304",
-		"rank": 3,
-		"type": "WEAPON_CATALYST"
-	},
-	"聊聊棒": {
-		"cn": "聊聊棒",
-		"EN": "Talking Stick",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_BeastTamer.webp",
-		"id": "12424",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"腐殖之剑": {
-		"cn": "腐殖之剑",
-		"EN": "Festering Desire",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Magnum.webp",
-		"id": "11413",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"船坞长剑": {
-		"cn": "船坞长剑",
-		"EN": "The Dockhand's Assistant",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
-		"id": "11427",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"苇海信标": {
-		"cn": "苇海信标",
-		"EN": "Beacon of the Reed Sea",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Deshret.webp",
-		"id": "12511",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"苍古自由之誓": {
-		"cn": "苍古自由之誓",
-		"EN": "Freedom-Sworn",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
-		"id": "11503",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"苍纹角杯": {
-		"cn": "苍纹角杯",
-		"EN": "Ash-Graven Drinking Horn",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_ConchSprayer.webp",
-		"id": "14427",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"苍翠猎弓": {
-		"cn": "苍翠猎弓",
-		"EN": "The Viridescent Hunt",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Viridescent.webp",
-		"id": "15409",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"苍耀": {
-		"cn": "苍耀",
-		"EN": "Azurelight",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_OuterSword.webp",
-		"id": "11517",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"若水": {
-		"cn": "若水",
-		"EN": "Aqua Simulacra",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
-		"id": "15508",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"落霞": {
-		"cn": "落霞",
-		"EN": "Fading Twilight",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fallensun.webp",
-		"id": "15411",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"薙草之稻光": {
-		"cn": "薙草之稻光",
-		"EN": "Engulfing Lightning",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
-		"id": "13509",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"虹的行迹": {
-		"cn": "虹的行迹",
-		"EN": "Footprint of the Rainbow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Isikhulu.webp",
-		"id": "13431",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"虹蛇的雨弦": {
-		"cn": "虹蛇的雨弦",
-		"EN": "Rainbow Serpent's Rain Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
-		"id": "15434",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"蛇噬": {
-		"cn": "蛇噬",
-		"EN": "Serpent Devourer",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_MorphVinces_{0}.webp",
-		"id": "310001",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"蛇噬·真化": {
-		"cn": "蛇噬·真化",
-		"EN": "Serpent Devourer - Sublimation",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_MorphVinces_Great_{0}.webp",
-		"id": "310002",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"螭骨剑": {
-		"cn": "螭骨剑",
-		"EN": "Serpent Spine",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Kione.webp",
-		"id": "12409",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"血染荒城": {
-		"cn": "血染荒城",
-		"EN": "Bloodsoaked Ruins",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_TummaLyhty.webp",
-		"id": "13516",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"衔珠海皇": {
-		"cn": "衔珠海皇",
-		"EN": "Luxurious Sea-Lord",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_MillenniaTuna.webp",
-		"id": "12412",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"裁叶萃光": {
-		"cn": "裁叶萃光",
-		"EN": "Light of Foliar Incision",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
-		"id": "11512",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"裁断": {
-		"cn": "裁断",
-		"EN": "Verdict",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
-		"id": "12512",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"西福斯的月光": {
-		"cn": "西福斯的月光",
-		"EN": "Xiphos' Moonlight",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
-		"id": "11418",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"西风剑": {
-		"cn": "西风剑",
-		"EN": "Favonius Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
-		"id": "11401",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"西风大剑": {
-		"cn": "西风大剑",
-		"EN": "Favonius Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
-		"id": "12401",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"西风猎弓": {
-		"cn": "西风猎弓",
-		"EN": "Favonius Warbow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
-		"id": "15401",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"西风秘典": {
-		"cn": "西风秘典",
-		"EN": "Favonius Codex",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
-		"id": "14401",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"西风长枪": {
-		"cn": "西风长枪",
-		"EN": "Favonius Lance",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
-		"id": "13407",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"讨龙英杰谭": {
-		"cn": "讨龙英杰谭",
-		"EN": "Thrilling Tales of Dragon Slayers",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pulpfic.webp",
-		"id": "14302",
-		"rank": 3,
-		"type": "WEAPON_CATALYST"
-	},
-	"训练大剑": {
-		"cn": "训练大剑",
-		"EN": "Waster Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Aniki.webp",
-		"id": "12101",
-		"rank": 1,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"证誓之明瞳": {
-		"cn": "证誓之明瞳",
-		"EN": "Oathsworn Eye",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Jyanome.webp",
-		"id": "14415",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"试作古华": {
-		"cn": "试作古华",
-		"EN": "Prototype Archaic",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Proto.webp",
-		"id": "12406",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"试作斩岩": {
-		"cn": "试作斩岩",
-		"EN": "Prototype Rancour",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Proto.webp",
-		"id": "11406",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"试作星镰": {
-		"cn": "试作星镰",
-		"EN": "Prototype Starglitter",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Proto.webp",
-		"id": "13402",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"试作澹月": {
-		"cn": "试作澹月",
-		"EN": "Prototype Crescent",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Proto.webp",
-		"id": "15406",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"试作金珀": {
-		"cn": "试作金珀",
-		"EN": "Prototype Amber",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Proto.webp",
-		"id": "14406",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"谧音吹哨": {
-		"cn": "谧音吹哨",
-		"EN": "Serenity's Call",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Ilmarinen.webp",
-		"id": "11433",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"贯星": {
-		"cn": "贯星",
-		"EN": "Starpiercer",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_MorphChrod_{0}.webp",
-		"id": "350001",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"贯星·真化": {
-		"cn": "贯星·真化",
-		"EN": "Starpiercer - Sublimation",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_MorphChrod_Great_{0}.webp",
-		"id": "350002",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"贯月矢": {
-		"cn": "贯月矢",
-		"EN": "Moonpiercer",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Arakalari.webp",
-		"id": "13417",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"贯虹之槊": {
-		"cn": "贯虹之槊",
-		"EN": "Vortex Vanquisher",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
-		"id": "13504",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"赤月之形": {
-		"cn": "赤月之形",
-		"EN": "Crimson Moon's Semblance",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp",
-		"id": "13512",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"赤沙之杖": {
-		"cn": "赤沙之杖",
-		"EN": "Staff of the Scarlet Sands",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
-		"id": "13511",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"赤角石溃杵": {
-		"cn": "赤角石溃杵",
-		"EN": "Redhorn Stonethresher",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
-		"id": "12510",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"赦罪": {
-		"cn": "赦罪",
-		"EN": "Absolution",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Estoc.webp",
-		"id": "11515",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"赫烈": {
-		"cn": "赫烈",
-		"EN": "Ardent Storm",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_MorphGravitas_{0}.webp",
-		"id": "320001",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"赫烈·真化": {
-		"cn": "赫烈·真化",
-		"EN": "Ardent Storm - Sublimation",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_MorphGravitas_Great_{0}.webp",
-		"id": "320002",
-		"rank": 5,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"辰砂之纺锤": {
-		"cn": "辰砂之纺锤",
-		"EN": "Cinnabar Spindle",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Opus.webp",
-		"id": "11415",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"遗祀玉珑": {
-		"cn": "遗祀玉珑",
-		"EN": "Sacrificial Jade",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Yue.webp",
-		"id": "14424",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"金流监督": {
-		"cn": "金流监督",
-		"EN": "Cashflow Supervision",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Wheatley.webp",
-		"id": "14513",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"钟剑": {
-		"cn": "钟剑",
-		"EN": "The Bell",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
-		"id": "12402",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"钢轮弓": {
-		"cn": "钢轮弓",
-		"EN": "Compound Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Exotic.webp",
-		"id": "15407",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"钺矛": {
-		"cn": "钺矛",
-		"EN": "Halberd",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Halberd.webp",
-		"id": "13302",
-		"rank": 3,
-		"type": "WEAPON_POLE"
-	},
-	"铁尖枪": {
-		"cn": "铁尖枪",
-		"EN": "Iron Point",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Rod.webp",
-		"id": "13201",
-		"rank": 2,
-		"type": "WEAPON_POLE"
-	},
-	"铁影阔剑": {
-		"cn": "铁影阔剑",
-		"EN": "Ferrous Shadow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Glaive.webp",
-		"id": "12301",
-		"rank": 3,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"铁蜂刺": {
-		"cn": "铁蜂刺",
-		"EN": "Iron Sting",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Exotic.webp",
-		"id": "11407",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"银剑": {
-		"cn": "银剑",
-		"EN": "Silver Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Silver.webp",
-		"id": "11201",
-		"rank": 2,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"镇山之钉": {
-		"cn": "镇山之钉",
-		"EN": "Mountain-Bracing Bolt",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
-		"id": "13430",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"阿莫斯之弓": {
-		"cn": "阿莫斯之弓",
-		"EN": "Amos' Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
-		"id": "15502",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"降临之剑": {
-		"cn": "降临之剑",
-		"EN": "Sword of Descension",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Psalmus.webp",
-		"id": "11412",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"雨裁": {
-		"cn": "雨裁",
-		"EN": "Rainslasher",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
-		"id": "12405",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"雪葬的星银": {
-		"cn": "雪葬的星银",
-		"EN": "Snow-Tombed Starsilver",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Dragonfell.webp",
-		"id": "12411",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"雾切之回光": {
-		"cn": "雾切之回光",
-		"EN": "Mistsplitter Reforged",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
-		"id": "11509",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"霜辰": {
-		"cn": "霜辰",
-		"EN": "Dawning Frost",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ziedas.webp",
-		"id": "14434",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"静水流涌之辉": {
-		"cn": "静水流涌之辉",
-		"EN": "Splendor of Tranquil Waters",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
-		"id": "11513",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"静谧之曲": {
-		"cn": "静谧之曲",
-		"EN": "Song of Stillness",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Vorpal.webp",
-		"id": "15425",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"风信之锋": {
-		"cn": "风信之锋",
-		"EN": "Missive Windspear",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Windvane.webp",
-		"id": "13419",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"风花之颂": {
-		"cn": "风花之颂",
-		"EN": "Windblume Ode",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fleurfair.webp",
-		"id": "15413",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"风鹰剑": {
-		"cn": "风鹰剑",
-		"EN": "Aquila Favonia",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Falcon.webp",
-		"id": "11501",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"飞天大御剑": {
-		"cn": "飞天大御剑",
-		"EN": "Skyrider Greatsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Mitsurugi.webp",
-		"id": "12306",
-		"rank": 3,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"飞天御剑": {
-		"cn": "飞天御剑",
-		"EN": "Skyrider Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Mitsurugi.webp",
-		"id": "11306",
-		"rank": 3,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"飞雷之弦振": {
-		"cn": "飞雷之弦振",
-		"EN": "Thundering Pulse",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
-		"id": "15509",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"饰铁之花": {
-		"cn": "饰铁之花",
-		"EN": "Mailed Flower",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Fleurfair.webp",
-		"id": "12418",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"香韵奏者": {
-		"cn": "香韵奏者",
-		"EN": "Symphonist of Scents",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Trident.webp",
-		"id": "13514",
-		"rank": 5,
-		"type": "WEAPON_POLE"
-	},
-	"魔导绪论": {
-		"cn": "魔导绪论",
-		"EN": "Magic Guide",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Intro.webp",
-		"id": "14301",
-		"rank": 3,
-		"type": "WEAPON_CATALYST"
-	},
-	"鸦羽弓": {
-		"cn": "鸦羽弓",
-		"EN": "Raven Bow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Crowfeather.webp",
-		"id": "15301",
-		"rank": 3,
-		"type": "WEAPON_BOW"
-	},
-	"鹤鸣余音": {
-		"cn": "鹤鸣余音",
-		"EN": "Crane's Echoing Call",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MountainGale.webp",
-		"id": "14515",
-		"rank": 5,
-		"type": "WEAPON_CATALYST"
-	},
-	"鹮穿之喙": {
-		"cn": "鹮穿之喙",
-		"EN": "Ibis Piercer",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ibis.webp",
-		"id": "15419",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"黎明破晓之史": {
-		"cn": "黎明破晓之史",
-		"EN": "The Daybreak Chronicles",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
-		"id": "15515",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
-	"黎明神剑": {
-		"cn": "黎明神剑",
-		"EN": "Harbinger of Dawn",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Dawn.webp",
-		"id": "11302",
-		"rank": 3,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"黑剑": {
-		"cn": "黑剑",
-		"EN": "The Black Sword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Bloodstained.webp",
-		"id": "11409",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"黑岩刺枪": {
-		"cn": "黑岩刺枪",
-		"EN": "Blackcliff Pole",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Blackrock.webp",
-		"id": "13404",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	},
-	"黑岩战弓": {
-		"cn": "黑岩战弓",
-		"EN": "Blackcliff Warbow",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Blackrock.webp",
-		"id": "15408",
-		"rank": 4,
-		"type": "WEAPON_BOW"
-	},
-	"黑岩斩刀": {
-		"cn": "黑岩斩刀",
-		"EN": "Blackcliff Slasher",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Blackrock.webp",
-		"id": "12408",
-		"rank": 4,
-		"type": "WEAPON_CLAYMORE"
-	},
-	"黑岩绯玉": {
-		"cn": "黑岩绯玉",
-		"EN": "Blackcliff Agate",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Blackrock.webp",
-		"id": "14408",
-		"rank": 4,
-		"type": "WEAPON_CATALYST"
-	},
-	"黑岩长剑": {
-		"cn": "黑岩长剑",
-		"EN": "Blackcliff Longsword",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Blackrock.webp",
-		"id": "11408",
-		"rank": 4,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"黑缨枪": {
-		"cn": "黑缨枪",
-		"EN": "Black Tassel",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Noire.webp",
-		"id": "13303",
-		"rank": 3,
-		"type": "WEAPON_POLE"
-	},
-	"黑蚀": {
-		"cn": "黑蚀",
-		"EN": "Athame Artis",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
-		"id": "11518",
-		"rank": 5,
-		"type": "WEAPON_SWORD_ONE_HAND"
-	},
-	"龙脊长枪": {
-		"cn": "龙脊长枪",
-		"EN": "Dragonspine Spear",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Everfrost.webp",
-		"id": "13409",
-		"rank": 4,
-		"type": "WEAPON_POLE"
-	}
+  "无锋剑": {
+    "cn": "无锋剑",
+    "EN": "Dull Blade",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Blunt.webp",
+    "id": "11101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "银剑": {
+    "cn": "银剑",
+    "EN": "Silver Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Silver.webp",
+    "id": "11201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "冷刃": {
+    "cn": "冷刃",
+    "EN": "Cool Steel",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Steel.webp",
+    "id": "11301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黎明神剑": {
+    "cn": "黎明神剑",
+    "EN": "Harbinger of Dawn",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Dawn.webp",
+    "id": "11302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "旅行剑": {
+    "cn": "旅行剑",
+    "EN": "Traveler's Handy Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Traveler.webp",
+    "id": "11303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "暗铁剑": {
+    "cn": "暗铁剑",
+    "EN": "Dark Iron Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Darker.webp",
+    "id": "11304",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "吃虎鱼刀": {
+    "cn": "吃虎鱼刀",
+    "EN": "Fillet Blade",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Sashimi.webp",
+    "id": "11305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "飞天御剑": {
+    "cn": "飞天御剑",
+    "EN": "Skyrider Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Mitsurugi.webp",
+    "id": "11306",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "西风剑": {
+    "cn": "西风剑",
+    "EN": "Favonius Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
+    "id": "11401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "笛剑": {
+    "cn": "笛剑",
+    "EN": "The Flute",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+    "id": "11402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "祭礼剑": {
+    "cn": "祭礼剑",
+    "EN": "Sacrificial Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Fossil.webp",
+    "id": "11403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "宗室长剑": {
+    "cn": "宗室长剑",
+    "EN": "Royal Longsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Theocrat.webp",
+    "id": "11404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "匣里龙吟": {
+    "cn": "匣里龙吟",
+    "EN": "Lion's Roar",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
+    "id": "11405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "试作斩岩": {
+    "cn": "试作斩岩",
+    "EN": "Prototype Rancour",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Proto.webp",
+    "id": "11406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "铁蜂刺": {
+    "cn": "铁蜂刺",
+    "EN": "Iron Sting",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Exotic.webp",
+    "id": "11407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黑岩长剑": {
+    "cn": "黑岩长剑",
+    "EN": "Blackcliff Longsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Blackrock.webp",
+    "id": "11408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黑剑": {
+    "cn": "黑剑",
+    "EN": "The Black Sword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Bloodstained.webp",
+    "id": "11409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "暗巷闪光": {
+    "cn": "暗巷闪光",
+    "EN": "The Alley Flash",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Outlaw.webp",
+    "id": "11410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "降临之剑": {
+    "cn": "降临之剑",
+    "EN": "Sword of Descension",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Psalmus.webp",
+    "id": "11412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "腐殖之剑": {
+    "cn": "腐殖之剑",
+    "EN": "Festering Desire",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Magnum.webp",
+    "id": "11413",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "天目影打刀": {
+    "cn": "天目影打刀",
+    "EN": "Amenoma Kageuchi",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Bakufu.webp",
+    "id": "11414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "辰砂之纺锤": {
+    "cn": "辰砂之纺锤",
+    "EN": "Cinnabar Spindle",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Opus.webp",
+    "id": "11415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "笼钓瓶一心": {
+    "cn": "笼钓瓶一心",
+    "EN": "Kagotsurube Isshin",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Youtou.webp",
+    "id": "11416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "原木刀": {
+    "cn": "原木刀",
+    "EN": "Sapwood Blade",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Arakalari.webp",
+    "id": "11417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "西福斯的月光": {
+    "cn": "西福斯的月光",
+    "EN": "Xiphos' Moonlight",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
+    "id": "11418",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "东花坊时雨": {
+    "cn": "东花坊时雨",
+    "EN": "Toukabou Shigure",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Kasabouzu.webp",
+    "id": "11422",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "狼牙": {
+    "cn": "狼牙",
+    "EN": "Wolf-Fang",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Boreas.webp",
+    "id": "11424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "海渊终曲": {
+    "cn": "海渊终曲",
+    "EN": "Finale of the Deep",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Vorpal.webp",
+    "id": "11425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "灰河渡手": {
+    "cn": "灰河渡手",
+    "EN": "Fleuve Cendre Ferryman",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Machination.webp",
+    "id": "11426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "船坞长剑": {
+    "cn": "船坞长剑",
+    "EN": "The Dockhand's Assistant",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
+    "id": "11427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "水仙十字之剑": {
+    "cn": "水仙十字之剑",
+    "EN": "Sword of Narzissenkreuz",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Purewill.webp",
+    "id": "11428",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "弥坚骨": {
+    "cn": "弥坚骨",
+    "EN": "Sturdy Bone",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
+    "id": "11430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "息燧之笛": {
+    "cn": "息燧之笛",
+    "EN": "Flute of Ezpitzal",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Isikhulu.webp",
+    "id": "11431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "厄水之祸": {
+    "cn": "厄水之祸",
+    "EN": "Calamity of Eshu",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_SacrificialNgombe.webp",
+    "id": "11432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "谧音吹哨": {
+    "cn": "谧音吹哨",
+    "EN": "Serenity's Call",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Ilmarinen.webp",
+    "id": "11433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "织月者的曙色": {
+    "cn": "织月者的曙色",
+    "EN": "Moonweaver's Dawn",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Miekka.webp",
+    "id": "11434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "风鹰剑": {
+    "cn": "风鹰剑",
+    "EN": "Aquila Favonia",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Falcon.webp",
+    "id": "11501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "天空之刃": {
+    "cn": "天空之刃",
+    "EN": "Skyward Blade",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Dvalin.webp",
+    "id": "11502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "苍古自由之誓": {
+    "cn": "苍古自由之誓",
+    "EN": "Freedom-Sworn",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Widsith.webp",
+    "id": "11503",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "斫峰之刃": {
+    "cn": "斫峰之刃",
+    "EN": "Summit Shaper",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Kunwu.webp",
+    "id": "11504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "磐岩结绿": {
+    "cn": "磐岩结绿",
+    "EN": "Primordial Jade Cutter",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Morax.webp",
+    "id": "11505",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "雾切之回光": {
+    "cn": "雾切之回光",
+    "EN": "Mistsplitter Reforged",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Narukami.webp",
+    "id": "11509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "波乱月白经津": {
+    "cn": "波乱月白经津",
+    "EN": "Haran Geppaku Futsu",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Amenoma.webp",
+    "id": "11510",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "圣显之钥": {
+    "cn": "圣显之钥",
+    "EN": "Key of Khaj-Nisut",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Deshret.webp",
+    "id": "11511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "裁叶萃光": {
+    "cn": "裁叶萃光",
+    "EN": "Light of Foliar Incision",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Ayus.webp",
+    "id": "11512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "静水流涌之辉": {
+    "cn": "静水流涌之辉",
+    "EN": "Splendor of Tranquil Waters",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
+    "id": "11513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "有乐御簾切": {
+    "cn": "有乐御簾切",
+    "EN": "Uraku Misugiri",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Needle.webp",
+    "id": "11514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "赦罪": {
+    "cn": "赦罪",
+    "EN": "Absolution",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Estoc.webp",
+    "id": "11515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "岩峰巡歌": {
+    "cn": "岩峰巡歌",
+    "EN": "Peak Patrol Song",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_XochitlsTube.webp",
+    "id": "11516",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "苍耀": {
+    "cn": "苍耀",
+    "EN": "Azurelight",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_OuterSword.webp",
+    "id": "11517",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黑蚀": {
+    "cn": "黑蚀",
+    "EN": "Athame Artis",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
+    "id": "11518",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "朏魄含光": {
+    "cn": "朏魄含光",
+    "EN": "Lightbearing Moonshard",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
+    "id": "11519",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "训练大剑": {
+    "cn": "训练大剑",
+    "EN": "Waster Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Aniki.webp",
+    "id": "12101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "佣兵重剑": {
+    "cn": "佣兵重剑",
+    "EN": "Old Merc's Pal",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Oyaji.webp",
+    "id": "12201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "铁影阔剑": {
+    "cn": "铁影阔剑",
+    "EN": "Ferrous Shadow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Glaive.webp",
+    "id": "12301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "沐浴龙血的剑": {
+    "cn": "沐浴龙血的剑",
+    "EN": "Bloodtainted Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Siegfry.webp",
+    "id": "12302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "白铁大剑": {
+    "cn": "白铁大剑",
+    "EN": "White Iron Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Tin.webp",
+    "id": "12303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "以理服人": {
+    "cn": "以理服人",
+    "EN": "Debate Club",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Reasoning.webp",
+    "id": "12305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "飞天大御剑": {
+    "cn": "飞天大御剑",
+    "EN": "Skyrider Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Mitsurugi.webp",
+    "id": "12306",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "西风大剑": {
+    "cn": "西风大剑",
+    "EN": "Favonius Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
+    "id": "12401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "钟剑": {
+    "cn": "钟剑",
+    "EN": "The Bell",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
+    "id": "12402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "祭礼大剑": {
+    "cn": "祭礼大剑",
+    "EN": "Sacrificial Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+    "id": "12403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "宗室大剑": {
+    "cn": "宗室大剑",
+    "EN": "Royal Greatsword",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Theocrat.webp",
+    "id": "12404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "雨裁": {
+    "cn": "雨裁",
+    "EN": "Rainslasher",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Perdue.webp",
+    "id": "12405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "试作古华": {
+    "cn": "试作古华",
+    "EN": "Prototype Archaic",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Proto.webp",
+    "id": "12406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "白影剑": {
+    "cn": "白影剑",
+    "EN": "Whiteblind",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Exotic.webp",
+    "id": "12407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "黑���斩刀": {
+    "cn": "黑���斩刀",
+    "EN": "Blackcliff Slasher",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Blackrock.webp",
+    "id": "12408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "螭骨剑": {
+    "cn": "螭骨剑",
+    "EN": "Serpent Spine",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Kione.webp",
+    "id": "12409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "千岩古剑": {
+    "cn": "千岩古剑",
+    "EN": "Lithic Blade",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Lapis.webp",
+    "id": "12410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "雪葬的星银": {
+    "cn": "雪葬的星银",
+    "EN": "Snow-Tombed Starsilver",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Dragonfell.webp",
+    "id": "12411",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "衔珠海皇": {
+    "cn": "衔珠海皇",
+    "EN": "Luxurious Sea-Lord",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_MillenniaTuna.webp",
+    "id": "12412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "桂木斩长正": {
+    "cn": "桂木斩长正",
+    "EN": "Katsuragikiri Nagamasa",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Bakufu.webp",
+    "id": "12414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "玛海菈的水色": {
+    "cn": "玛海菈的水色",
+    "EN": "Makhaira Aquamarine",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
+    "id": "12415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "恶王丸": {
+    "cn": "恶王丸",
+    "EN": "Akuoumaru",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Maria.webp",
+    "id": "12416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "森林王器": {
+    "cn": "森林王器",
+    "EN": "Forest Regalia",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Arakalari.webp",
+    "id": "12417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "饰铁之花": {
+    "cn": "饰铁之花",
+    "EN": "Mailed Flower",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Fleurfair.webp",
+    "id": "12418",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "聊聊棒": {
+    "cn": "聊聊棒",
+    "EN": "Talking Stick",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_BeastTamer.webp",
+    "id": "12424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "浪影阔剑": {
+    "cn": "浪影阔剑",
+    "EN": "Tidal Shadow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Vorpal.webp",
+    "id": "12425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "「究极霸王超级魔剑」": {
+    "cn": "「究极霸王超级魔剑」",
+    "EN": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Champion.webp",
+    "id": "12426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "便携动力锯": {
+    "cn": "便携动力锯",
+    "EN": "Portable Power Saw",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
+    "id": "12427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "硕果钩": {
+    "cn": "硕果钩",
+    "EN": "Fruitful Hook",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
+    "id": "12430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "撼地者": {
+    "cn": "撼地者",
+    "EN": "Earth Shaker",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Isikhulu.webp",
+    "id": "12431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "拾慧铸熔": {
+    "cn": "拾慧铸熔",
+    "EN": "Flame-Forged Insight",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Polilith.webp",
+    "id": "12432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "万能钥匙": {
+    "cn": "万能钥匙",
+    "EN": "Master Key",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Ilmarinen.webp",
+    "id": "12433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "天空之傲": {
+    "cn": "天空之傲",
+    "EN": "Skyward Pride",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Dvalin.webp",
+    "id": "12501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "狼的末路": {
+    "cn": "狼的末路",
+    "EN": "Wolf's Gravestone",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Wolfmound.webp",
+    "id": "12502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "松籁响起之时": {
+    "cn": "松籁响起之时",
+    "EN": "Song of Broken Pines",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Widsith.webp",
+    "id": "12503",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "无工之剑": {
+    "cn": "无工之剑",
+    "EN": "The Unforged",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Kunwu.webp",
+    "id": "12504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "赤角石溃杵": {
+    "cn": "赤角石溃杵",
+    "EN": "Redhorn Stonethresher",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Itadorimaru.webp",
+    "id": "12510",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "苇海信标": {
+    "cn": "苇海信标",
+    "EN": "Beacon of the Reed Sea",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Deshret.webp",
+    "id": "12511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "裁断": {
+    "cn": "裁断",
+    "EN": "Verdict",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
+    "id": "12512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "山王长牙": {
+    "cn": "山王长牙",
+    "EN": "Fang of the Mountain King",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EmeraldSword.webp",
+    "id": "12513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "焚曜千阳": {
+    "cn": "焚曜千阳",
+    "EN": "A Thousand Blazing Suns",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_RadianceSword.webp",
+    "id": "12514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "狼的武功歌": {
+    "cn": "狼的武功歌",
+    "EN": "Gest of the Mighty Wolf",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EnsisAquilonis.webp",
+    "id": "12515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "新手长枪": {
+    "cn": "新手长枪",
+    "EN": "Beginner's Protector",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Gewalt.webp",
+    "id": "13101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "铁尖枪": {
+    "cn": "铁尖枪",
+    "EN": "Iron Point",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Rod.webp",
+    "id": "13201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "白缨枪": {
+    "cn": "白缨枪",
+    "EN": "White Tassel",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ruby.webp",
+    "id": "13301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "钺矛": {
+    "cn": "钺矛",
+    "EN": "Halberd",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Halberd.webp",
+    "id": "13302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "黑缨枪": {
+    "cn": "黑缨枪",
+    "EN": "Black Tassel",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Noire.webp",
+    "id": "13303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "匣里灭辰": {
+    "cn": "匣里灭辰",
+    "EN": "Dragon's Bane",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+    "id": "13401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "试作星镰": {
+    "cn": "试作星镰",
+    "EN": "Prototype Starglitter",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Proto.webp",
+    "id": "13402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "流月针": {
+    "cn": "流月针",
+    "EN": "Crescent Pike",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Exotic.webp",
+    "id": "13403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "黑岩刺枪": {
+    "cn": "黑岩刺枪",
+    "EN": "Blackcliff Pole",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Blackrock.webp",
+    "id": "13404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "决斗之枪": {
+    "cn": "决斗之枪",
+    "EN": "Deathmatch",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Gladiator.webp",
+    "id": "13405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "千岩长枪": {
+    "cn": "千岩长枪",
+    "EN": "Lithic Spear",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Lapis.webp",
+    "id": "13406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "西风长枪": {
+    "cn": "西风长枪",
+    "EN": "Favonius Lance",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+    "id": "13407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "宗室猎枪": {
+    "cn": "宗室猎枪",
+    "EN": "Royal Spear",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Theocrat.webp",
+    "id": "13408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "龙脊长枪": {
+    "cn": "龙脊长枪",
+    "EN": "Dragonspine Spear",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Everfrost.webp",
+    "id": "13409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "喜多院十文字": {
+    "cn": "喜多院十文字",
+    "EN": "Kitain Cross Spear",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Bakufu.webp",
+    "id": "13414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "「渔获」": {
+    "cn": "「渔获」",
+    "EN": "\"The Catch\"",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Mori.webp",
+    "id": "13415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "断浪长鳍": {
+    "cn": "断浪长鳍",
+    "EN": "Wavebreaker's Fin",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Maria.webp",
+    "id": "13416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "贯月矢": {
+    "cn": "贯月矢",
+    "EN": "Moonpiercer",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Arakalari.webp",
+    "id": "13417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "风信之锋": {
+    "cn": "风信之锋",
+    "EN": "Missive Windspear",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Windvane.webp",
+    "id": "13419",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "峡湾长歌": {
+    "cn": "峡湾长歌",
+    "EN": "Ballad of the Fjords",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Shanty.webp",
+    "id": "13424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "公义的酬报": {
+    "cn": "公义的酬报",
+    "EN": "Rightful Reward",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Vorpal.webp",
+    "id": "13425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "沙中伟贤的对答": {
+    "cn": "沙中伟贤的对答",
+    "EN": "Dialogues of the Desert Sages",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Caduceus.webp",
+    "id": "13426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "勘探钻机": {
+    "cn": "勘探钻机",
+    "EN": "Prospector's Drill",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
+    "id": "13427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "镇山之钉": {
+    "cn": "镇山之钉",
+    "EN": "Mountain-Bracing Bolt",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
+    "id": "13430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "虹的行迹": {
+    "cn": "虹的行迹",
+    "EN": "Footprint of the Rainbow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Isikhulu.webp",
+    "id": "13431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "且住亭御咄": {
+    "cn": "且住亭御咄",
+    "EN": "Tamayuratei no Ohanashi",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Aoandon.webp",
+    "id": "13432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "掘金之锹": {
+    "cn": "掘金之锹",
+    "EN": "Prospector's Shovel",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ilmarinen.webp",
+    "id": "13433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "圣祭者的辉杖": {
+    "cn": "圣祭者的辉杖",
+    "EN": "Sacrificer's Staff",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Krivule.webp",
+    "id": "13434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "护摩之杖": {
+    "cn": "护摩之杖",
+    "EN": "Staff of Homa",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Homa.webp",
+    "id": "13501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "天空之脊": {
+    "cn": "天空之脊",
+    "EN": "Skyward Spine",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Dvalin.webp",
+    "id": "13502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "贯虹之槊": {
+    "cn": "贯虹之槊",
+    "EN": "Vortex Vanquisher",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Kunwu.webp",
+    "id": "13504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "和璞鸢": {
+    "cn": "和璞鸢",
+    "EN": "Primordial Jade Winged-Spear",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Morax.webp",
+    "id": "13505",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "息灾": {
+    "cn": "息灾",
+    "EN": "Calamity Queller",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
+    "id": "13507",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "薙草之稻光": {
+    "cn": "薙草之稻光",
+    "EN": "Engulfing Lightning",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Narukami.webp",
+    "id": "13509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "赤沙之杖": {
+    "cn": "赤沙之杖",
+    "EN": "Staff of the Scarlet Sands",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Deshret.webp",
+    "id": "13511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "赤月之形": {
+    "cn": "赤月之形",
+    "EN": "Crimson Moon's Semblance",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp",
+    "id": "13512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "柔灯挽歌": {
+    "cn": "柔灯挽歌",
+    "EN": "Lumidouce Elegy",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Muguet.webp",
+    "id": "13513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "香韵奏者": {
+    "cn": "香韵奏者",
+    "EN": "Symphonist of Scents",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Trident.webp",
+    "id": "13514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "支离轮光": {
+    "cn": "支离轮光",
+    "EN": "Fractured Halo",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
+    "id": "13515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "血染荒城": {
+    "cn": "血染荒城",
+    "EN": "Bloodsoaked Ruins",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_TummaLyhty.webp",
+    "id": "13516",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "学徒笔记": {
+    "cn": "学徒笔记",
+    "EN": "Apprentice's Notes",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Apprentice.webp",
+    "id": "14101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "口袋魔导书": {
+    "cn": "口袋魔导书",
+    "EN": "Pocket Grimoire",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pocket.webp",
+    "id": "14201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "魔导绪论": {
+    "cn": "魔导绪论",
+    "EN": "Magic Guide",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Intro.webp",
+    "id": "14301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "讨龙英杰谭": {
+    "cn": "讨龙英杰谭",
+    "EN": "Thrilling Tales of Dragon Slayers",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pulpfic.webp",
+    "id": "14302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "异世界行记": {
+    "cn": "异世界行记",
+    "EN": "Otherworldly Story",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Lightnov.webp",
+    "id": "14303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "翡玉法球": {
+    "cn": "翡玉法球",
+    "EN": "Emerald Orb",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Jade.webp",
+    "id": "14304",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "甲级宝珏": {
+    "cn": "甲级宝珏",
+    "EN": "Twin Nephrite",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Phoney.webp",
+    "id": "14305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "西风秘典": {
+    "cn": "西风秘典",
+    "EN": "Favonius Codex",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
+    "id": "14401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "流浪乐章": {
+    "cn": "流浪乐章",
+    "EN": "The Widsith",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
+    "id": "14402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "祭礼残章": {
+    "cn": "祭礼残章",
+    "EN": "Sacrificial Fragments",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
+    "id": "14403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "宗室秘法录": {
+    "cn": "宗室秘法录",
+    "EN": "Royal Grimoire",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Theocrat.webp",
+    "id": "14404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "匣里日月": {
+    "cn": "匣里日月",
+    "EN": "Solar Pearl",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Resurrection.webp",
+    "id": "14405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "试作金珀": {
+    "cn": "试作金珀",
+    "EN": "Prototype Amber",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Proto.webp",
+    "id": "14406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "万国诸海图谱": {
+    "cn": "万国诸海图谱",
+    "EN": "Mappa Mare",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Exotic.webp",
+    "id": "14407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "黑岩绯玉": {
+    "cn": "黑岩绯玉",
+    "EN": "Blackcliff Agate",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Blackrock.webp",
+    "id": "14408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "昭心": {
+    "cn": "昭心",
+    "EN": "Eye of Perception",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
+    "id": "14409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "暗巷的酒与诗": {
+    "cn": "暗巷的酒与诗",
+    "EN": "Wine and Song",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Outlaw.webp",
+    "id": "14410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "忍冬之果": {
+    "cn": "忍冬之果",
+    "EN": "Frostbearer",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Everfrost.webp",
+    "id": "14412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "嘟嘟可故事集": {
+    "cn": "嘟嘟可故事集",
+    "EN": "Dodoco Tales",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ludiharpastum.webp",
+    "id": "14413",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "白辰之环": {
+    "cn": "白辰之环",
+    "EN": "Hakushin Ring",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Bakufu.webp",
+    "id": "14414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "证誓之明瞳": {
+    "cn": "证誓之明瞳",
+    "EN": "Oathsworn Eye",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Jyanome.webp",
+    "id": "14415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "流浪的晚星": {
+    "cn": "流浪的晚星",
+    "EN": "Wandering Evenstar",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
+    "id": "14416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "盈满之实": {
+    "cn": "盈满之实",
+    "EN": "Fruit of Fulfillment",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Arakalari.webp",
+    "id": "14417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "遗祀玉珑": {
+    "cn": "遗祀玉珑",
+    "EN": "Sacrificial Jade",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Yue.webp",
+    "id": "14424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "纯水流华": {
+    "cn": "纯水流华",
+    "EN": "Flowing Purity",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Vorpal.webp",
+    "id": "14425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "无垠蔚蓝之歌": {
+    "cn": "无垠蔚蓝之歌",
+    "EN": "Ballad of the Boundless Blue",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_DandelionPoem.webp",
+    "id": "14426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "苍纹角杯": {
+    "cn": "苍纹角杯",
+    "EN": "Ash-Graven Drinking Horn",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_ConchSprayer.webp",
+    "id": "14427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "乘浪的回旋": {
+    "cn": "乘浪的回旋",
+    "EN": "Waveriding Whirl",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
+    "id": "14430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "木棉之环": {
+    "cn": "木棉之环",
+    "EN": "Ring of Yaxche",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Isikhulu.webp",
+    "id": "14431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "天光的纺琴": {
+    "cn": "天光的纺琴",
+    "EN": "Etherlight Spindlelute",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SeeliesLute.webp",
+    "id": "14432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "乌髓孑灯": {
+    "cn": "乌髓孑灯",
+    "EN": "Blackmarrow Lantern",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ilmarinen.webp",
+    "id": "14433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "霜辰": {
+    "cn": "霜辰",
+    "EN": "Dawning Frost",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ziedas.webp",
+    "id": "14434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "天空之卷": {
+    "cn": "天空之卷",
+    "EN": "Skyward Atlas",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Dvalin.webp",
+    "id": "14501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "四风原典": {
+    "cn": "四风原典",
+    "EN": "Lost Prayer to the Sacred Winds",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fourwinds.webp",
+    "id": "14502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "尘世之锁": {
+    "cn": "尘世之锁",
+    "EN": "Memory of Dust",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kunwu.webp",
+    "id": "14504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "碧落之珑": {
+    "cn": "碧落之珑",
+    "EN": "Jadefall's Splendor",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Morax.webp",
+    "id": "14505",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "不灭月华": {
+    "cn": "不灭月华",
+    "EN": "Everlasting Moonglow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kaleido.webp",
+    "id": "14506",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "神乐之真意": {
+    "cn": "神乐之真意",
+    "EN": "Kagura's Verity",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Narukami.webp",
+    "id": "14509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "千夜浮梦": {
+    "cn": "千夜浮梦",
+    "EN": "A Thousand Floating Dreams",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
+    "id": "14511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "图莱杜拉的回忆": {
+    "cn": "图莱杜拉的回忆",
+    "EN": "Tulaytullah's Remembrance",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Alaya.webp",
+    "id": "14512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "金流监督": {
+    "cn": "金流监督",
+    "EN": "Cashflow Supervision",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Wheatley.webp",
+    "id": "14513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "万世流涌大典": {
+    "cn": "万世流涌大典",
+    "EN": "Tome of the Eternal Flow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
+    "id": "14514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "鹤鸣余音": {
+    "cn": "鹤鸣余音",
+    "EN": "Crane's Echoing Call",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MountainGale.webp",
+    "id": "14515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "冲浪时光": {
+    "cn": "冲浪时光",
+    "EN": "Surf's Up",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MechaPufferfish.webp",
+    "id": "14516",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "祭星者之望": {
+    "cn": "祭星者之望",
+    "EN": "Starcaller's Watch",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Figurines.webp",
+    "id": "14517",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "寝正月初晴": {
+    "cn": "寝正月初晴",
+    "EN": "Sunny Morning Sleep-In",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SakuraFan.webp",
+    "id": "14518",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "溢彩心念": {
+    "cn": "溢彩心念",
+    "EN": "Vivid Notions",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_VaresaTransformer.webp",
+    "id": "14519",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "纺夜天镜": {
+    "cn": "纺夜天镜",
+    "EN": "Nightweaver's Looking Glass",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MenulisRing.webp",
+    "id": "14520",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "真语秘匣": {
+    "cn": "真语秘匣",
+    "EN": "Reliquary of Truth",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Sistrum.webp",
+    "id": "14521",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "帷间夜曲": {
+    "cn": "帷间夜曲",
+    "EN": "Nocturne's Curtain Call",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
+    "id": "14522",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "猎弓": {
+    "cn": "猎弓",
+    "EN": "Hunter's Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Hunters.webp",
+    "id": "15101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "历练的猎弓": {
+    "cn": "历练的猎弓",
+    "EN": "Seasoned Hunter's Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Old.webp",
+    "id": "15201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "鸦羽弓": {
+    "cn": "鸦羽弓",
+    "EN": "Raven Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Crowfeather.webp",
+    "id": "15301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "神射手之誓": {
+    "cn": "神射手之誓",
+    "EN": "Sharpshooter's Oath",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arjuna.webp",
+    "id": "15302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "反曲弓": {
+    "cn": "反曲弓",
+    "EN": "Recurve Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Curve.webp",
+    "id": "15303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "弹弓": {
+    "cn": "弹弓",
+    "EN": "Slingshot",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Sling.webp",
+    "id": "15304",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "信使": {
+    "cn": "信使",
+    "EN": "Messenger",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Msg.webp",
+    "id": "15305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "西风猎弓": {
+    "cn": "西风猎弓",
+    "EN": "Favonius Warbow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
+    "id": "15401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "绝弦": {
+    "cn": "绝弦",
+    "EN": "The Stringless",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
+    "id": "15402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "祭礼弓": {
+    "cn": "祭礼弓",
+    "EN": "Sacrificial Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
+    "id": "15403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "宗室长弓": {
+    "cn": "宗室长弓",
+    "EN": "Royal Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Theocrat.webp",
+    "id": "15404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "弓藏": {
+    "cn": "弓藏",
+    "EN": "Rust",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
+    "id": "15405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "试作澹月": {
+    "cn": "试作澹月",
+    "EN": "Prototype Crescent",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Proto.webp",
+    "id": "15406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "钢轮弓": {
+    "cn": "钢轮弓",
+    "EN": "Compound Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Exotic.webp",
+    "id": "15407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "黑岩战弓": {
+    "cn": "黑岩战弓",
+    "EN": "Blackcliff Warbow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Blackrock.webp",
+    "id": "15408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "苍翠猎弓": {
+    "cn": "苍翠猎弓",
+    "EN": "The Viridescent Hunt",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Viridescent.webp",
+    "id": "15409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "暗巷猎手": {
+    "cn": "暗巷猎手",
+    "EN": "Alley Hunter",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Outlaw.webp",
+    "id": "15410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "落霞": {
+    "cn": "落霞",
+    "EN": "Fading Twilight",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fallensun.webp",
+    "id": "15411",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "幽夜华尔兹": {
+    "cn": "幽夜华尔兹",
+    "EN": "Mitternachts Waltz",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
+    "id": "15412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "风花之颂": {
+    "cn": "风花之颂",
+    "EN": "Windblume Ode",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fleurfair.webp",
+    "id": "15413",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "破魔之弓": {
+    "cn": "破魔之弓",
+    "EN": "Hamayumi",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Bakufu.webp",
+    "id": "15414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "掠食者": {
+    "cn": "掠食者",
+    "EN": "Predator",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Predator.webp",
+    "id": "15415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "曚云之月": {
+    "cn": "曚云之月",
+    "EN": "Mouun's Moon",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Maria.webp",
+    "id": "15416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "王下近侍": {
+    "cn": "王下近侍",
+    "EN": "King's Squire",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arakalari.webp",
+    "id": "15417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "竭泽": {
+    "cn": "竭泽",
+    "EN": "End of the Line",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Fin.webp",
+    "id": "15418",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "鹮穿之喙": {
+    "cn": "鹮穿之喙",
+    "EN": "Ibis Piercer",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ibis.webp",
+    "id": "15419",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "烈阳之嗣": {
+    "cn": "烈阳之嗣",
+    "EN": "Scion of the Blazing Sun",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Gurabad.webp",
+    "id": "15424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "静谧之曲": {
+    "cn": "静谧之曲",
+    "EN": "Song of Stillness",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Vorpal.webp",
+    "id": "15425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "筑云": {
+    "cn": "筑云",
+    "EN": "Cloudforged",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ultimatum.webp",
+    "id": "15426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "测距规": {
+    "cn": "测距规",
+    "EN": "Range Gauge",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
+    "id": "15427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "缀花之翎": {
+    "cn": "缀花之翎",
+    "EN": "Flower-Wreathed Feathers",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
+    "id": "15430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "碎链": {
+    "cn": "碎链",
+    "EN": "Chain Breaker",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Isikhulu.webp",
+    "id": "15431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "冷寂迸音": {
+    "cn": "冷寂迸音",
+    "EN": "Sequence of Solitude",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Stinger.webp",
+    "id": "15432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "罗网勾针": {
+    "cn": "罗网勾针",
+    "EN": "Snare Hook",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ilmarinen.webp",
+    "id": "15433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "虹蛇的雨弦": {
+    "cn": "虹蛇的雨弦",
+    "EN": "Rainbow Serpent's Rain Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
+    "id": "15434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "天空之翼": {
+    "cn": "天空之翼",
+    "EN": "Skyward Harp",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Dvalin.webp",
+    "id": "15501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "阿莫斯之弓": {
+    "cn": "阿莫斯之弓",
+    "EN": "Amos' Bow",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Amos.webp",
+    "id": "15502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "终末嗟叹之诗": {
+    "cn": "终末嗟叹之诗",
+    "EN": "Elegy for the End",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Widsith.webp",
+    "id": "15503",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "冬极白星": {
+    "cn": "冬极白星",
+    "EN": "Polar Star",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Worldbane.webp",
+    "id": "15507",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "若水": {
+    "cn": "若水",
+    "EN": "Aqua Simulacra",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
+    "id": "15508",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "飞雷之弦振": {
+    "cn": "飞雷之弦振",
+    "EN": "Thundering Pulse",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Narukami.webp",
+    "id": "15509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "猎人之径": {
+    "cn": "猎人之径",
+    "EN": "Hunter's Path",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ayus.webp",
+    "id": "15511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "最初的大魔术": {
+    "cn": "最初的大魔术",
+    "EN": "The First Great Magic",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Pledge.webp",
+    "id": "15512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "白雨心弦": {
+    "cn": "白雨心弦",
+    "EN": "Silvershower Heartstrings",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arcdange.webp",
+    "id": "15513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "星鹫赤羽": {
+    "cn": "星鹫赤羽",
+    "EN": "Astral Vulture's Crimson Plumage",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
+    "id": "15514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "黎明破晓之史": {
+    "cn": "黎明破晓之史",
+    "EN": "The Daybreak Chronicles",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+    "id": "15515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "蛇噬": {
+    "cn": "蛇噬",
+    "EN": "Serpent Devourer",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_MorphVinces_Wind.webp",
+    "id": "310001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "蛇噬·真化": {
+    "cn": "蛇噬·真化",
+    "EN": "Serpent Devourer - Sublimation",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Sword_MorphVinces_Great_Wind.webp",
+    "id": "310002",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "赫烈": {
+    "cn": "赫烈",
+    "EN": "Ardent Storm",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_MorphGravitas_Wind.webp",
+    "id": "320001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "赫烈·真化": {
+    "cn": "赫烈·真化",
+    "EN": "Ardent Storm - Sublimation",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_MorphGravitas_Great_Wind.webp",
+    "id": "320002",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "碎月": {
+    "cn": "碎月",
+    "EN": "Shattered Moon",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_MorphSpinifer_Wind.webp",
+    "id": "330001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "碎月·真化": {
+    "cn": "碎月·真化",
+    "EN": "Shattered Moon - Sublimation",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Pole_MorphSpinifer_Great_Wind.webp",
+    "id": "330002",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "圣缚": {
+    "cn": "圣缚",
+    "EN": "Hallowed Fetters",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MorphIlia_Wind.webp",
+    "id": "340001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "圣缚·真化": {
+    "cn": "圣缚·真化",
+    "EN": "Hallowed Fetters - Sublimation",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MorphIlia_Great_Wind.webp",
+    "id": "340002",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "贯星": {
+    "cn": "贯星",
+    "EN": "Starpiercer",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_MorphChrod_Wind.webp",
+    "id": "350001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "贯星·真化": {
+    "cn": "贯星·真化",
+    "EN": "Starpiercer - Sublimation",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Bow_MorphChrod_Great_Wind.webp",
+    "id": "350002",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "幻礼·星兆": {
+    "cn": "幻礼·星兆",
+    "EN": "Phantasmal Gift: Star Omen",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kristall.webp",
+    "id": "380001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "无毁·督兰嘉德": {
+    "cn": "无毁·督兰嘉德",
+    "EN": "Unbreakable: Durandarte",
+    "iconUrl": "/gi/UI/UI_EquipIcon_Claymore_VarkaTunkeldegen.webp",
+    "id": "390001",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  }
 }

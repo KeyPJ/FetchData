@@ -1,1028 +1,1028 @@
 {
-	"七七": {
-		"cn": "七七",
-		"element": "Cryo",
-		"EN": "Qiqi",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Qiqi.webp",
-		"id": "10000035",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"丝柯克": {
-		"cn": "丝柯克",
-		"element": "Cryo",
-		"EN": "Skirk",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_SkirkNew.webp",
-		"id": "10000114",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"丽莎": {
-		"cn": "丽莎",
-		"element": "Electro",
-		"EN": "Lisa",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Lisa.webp",
-		"id": "10000006",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"久岐忍": {
-		"cn": "久岐忍",
-		"element": "Electro",
-		"EN": "Kuki Shinobu",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
-		"id": "10000065",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"九条裟罗": {
-		"cn": "九条裟罗",
-		"element": "Electro",
-		"EN": "Kujou Sara",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
-		"id": "10000056",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"云堇": {
-		"cn": "云堇",
-		"element": "Geo",
-		"EN": "Yun Jin",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
-		"id": "10000064",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"五郎": {
-		"cn": "五郎",
-		"element": "Geo",
-		"EN": "Gorou",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
-		"id": "10000055",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"伊安珊": {
-		"cn": "伊安珊",
-		"element": "Electro",
-		"EN": "Iansan",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
-		"id": "10000110",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"伊法": {
-		"cn": "伊法",
-		"element": "Anemo",
-		"EN": "Ifa",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
-		"id": "10000113",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"伊涅芙": {
-		"cn": "伊涅芙",
-		"element": "Electro",
-		"EN": "Ineffa",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ineffa.webp",
-		"id": "10000116",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"优菈": {
-		"cn": "优菈",
-		"element": "Cryo",
-		"EN": "Eula",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Eula.webp",
-		"id": "10000051",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"克洛琳德": {
-		"cn": "克洛琳德",
-		"element": "Electro",
-		"EN": "Clorinde",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Clorinde.webp",
-		"id": "10000098",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"八重神子": {
-		"cn": "八重神子",
-		"element": "Electro",
-		"EN": "Yae Miko",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Yae.webp",
-		"id": "10000058",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"兹白": {
-		"cn": "兹白",
-		"element": "Geo",
-		"EN": "Zibai",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Zibai.webp",
-		"id": "10000126",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"凝光": {
-		"cn": "凝光",
-		"element": "Geo",
-		"EN": "Ningguang",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
-		"id": "10000027",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"凯亚": {
-		"cn": "凯亚",
-		"element": "Cryo",
-		"EN": "Kaeya",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Kaeya.webp",
-		"id": "10000015",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"刻晴": {
-		"cn": "刻晴",
-		"element": "Electro",
-		"EN": "Keqing",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Keqing.webp",
-		"id": "10000042",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"北斗": {
-		"cn": "北斗",
-		"element": "Electro",
-		"EN": "Beidou",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
-		"id": "10000024",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"千织": {
-		"cn": "千织",
-		"element": "Geo",
-		"EN": "Chiori",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Chiori.webp",
-		"id": "10000094",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"卡维": {
-		"cn": "卡维",
-		"element": "Dendro",
-		"EN": "Kaveh",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Kaveh.webp",
-		"id": "10000081",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"卡齐娜": {
-		"cn": "卡齐娜",
-		"element": "Geo",
-		"EN": "Kachina",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Kachina.webp",
-		"id": "10000100",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"可莉": {
-		"cn": "可莉",
-		"element": "Pyro",
-		"EN": "Klee",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
-		"id": "10000029",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"叶洛亚": {
-		"cn": "叶洛亚",
-		"element": "Geo",
-		"EN": "Illuga",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
-		"id": "10000127",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"哥伦比娅": {
-		"cn": "哥伦比娅",
-		"element": "Hydro",
-		"EN": "Columbina",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Columbina.webp",
-		"id": "10000125",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"嘉明": {
-		"cn": "嘉明",
-		"element": "Pyro",
-		"EN": "Gaming",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
-		"id": "10000092",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"坎蒂丝": {
-		"cn": "坎蒂丝",
-		"element": "Hydro",
-		"EN": "Candace",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
-		"id": "10000072",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"埃洛伊": {
-		"cn": "埃洛伊",
-		"element": "Cryo",
-		"EN": "Aloy",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Aloy.webp",
-		"id": "10000062",
-		"rank": "QUALITY_ORANGE_SP",
-		"weapon": "WEAPON_BOW"
-	},
-	"基尼奇": {
-		"cn": "基尼奇",
-		"element": "Dendro",
-		"EN": "Kinich",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Kinich.webp",
-		"id": "10000101",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"塔利雅": {
-		"cn": "塔利雅",
-		"element": "Hydro",
-		"EN": "Dahlia",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Dahlia.webp",
-		"id": "10000115",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"夏沃蕾": {
-		"cn": "夏沃蕾",
-		"element": "Pyro",
-		"EN": "Chevreuse",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Chevreuse.webp",
-		"id": "10000090",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"夏洛蒂": {
-		"cn": "夏洛蒂",
-		"element": "Cryo",
-		"EN": "Charlotte",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
-		"id": "10000088",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"多莉": {
-		"cn": "多莉",
-		"element": "Electro",
-		"EN": "Dori",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
-		"id": "10000068",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"夜兰": {
-		"cn": "夜兰",
-		"element": "Hydro",
-		"EN": "Yelan",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Yelan.webp",
-		"id": "10000060",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"奇偶·女性": {
-		"cn": "奇偶·女性",
-		"element": "Hydro",
-		"EN": "Manekina",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_MannequinGirl.webp",
-		"id": "10000118-3",
-		"rank": "QUALITY_ORANGE_SP",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"奇偶·男性": {
-		"cn": "奇偶·男性",
-		"element": "Anemo",
-		"EN": "Manekin",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_MannequinBoy.webp",
-		"id": "10000117-4",
-		"rank": "QUALITY_ORANGE_SP",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"奈芙尔": {
-		"cn": "奈芙尔",
-		"element": "Dendro",
-		"EN": "Nefer",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Nefer.webp",
-		"id": "10000122",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"妮露": {
-		"cn": "妮露",
-		"element": "Hydro",
-		"EN": "Nilou",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Nilou.webp",
-		"id": "10000070",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"娜维娅": {
-		"cn": "娜维娅",
-		"element": "Geo",
-		"EN": "Navia",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Navia.webp",
-		"id": "10000091",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"安柏": {
-		"cn": "安柏",
-		"element": "Pyro",
-		"EN": "Amber",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ambor.webp",
-		"id": "10000021",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"宵宫": {
-		"cn": "宵宫",
-		"element": "Pyro",
-		"EN": "Yoimiya",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
-		"id": "10000049",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"希格雯": {
-		"cn": "希格雯",
-		"element": "Hydro",
-		"EN": "Sigewinne",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Sigewinne.webp",
-		"id": "10000095",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"希诺宁": {
-		"cn": "希诺宁",
-		"element": "Geo",
-		"EN": "Xilonen",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Xilonen.webp",
-		"id": "10000103",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"恰斯卡": {
-		"cn": "恰斯卡",
-		"element": "Anemo",
-		"EN": "Chasca",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Chasca.webp",
-		"id": "10000104",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"托马": {
-		"cn": "托马",
-		"element": "Pyro",
-		"EN": "Thoma",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
-		"id": "10000050",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"提纳里": {
-		"cn": "提纳里",
-		"element": "Dendro",
-		"EN": "Tighnari",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Tighnari.webp",
-		"id": "10000069",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"旅行者": {
-		"cn": "旅行者",
-		"element": "Pyro",
-		"EN": "Traveler",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_PlayerBoy.webp",
-		"id": "10000005-2",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"早柚": {
-		"cn": "早柚",
-		"element": "Anemo",
-		"EN": "Sayu",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
-		"id": "10000053",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"杜林": {
-		"cn": "杜林",
-		"element": "Pyro",
-		"EN": "Durin",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Durin.webp",
-		"id": "10000123",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"林尼": {
-		"cn": "林尼",
-		"element": "Pyro",
-		"EN": "Lyney",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Liney.webp",
-		"id": "10000084",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"枫原万叶": {
-		"cn": "枫原万叶",
-		"element": "Anemo",
-		"EN": "Kaedehara Kazuha",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
-		"id": "10000047",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"柯莱": {
-		"cn": "柯莱",
-		"element": "Dendro",
-		"EN": "Collei",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
-		"id": "10000067",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"梦见月瑞希": {
-		"cn": "梦见月瑞希",
-		"element": "Anemo",
-		"EN": "Yumemizuki Mizuki",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Mizuki.webp",
-		"id": "10000109",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"欧洛伦": {
-		"cn": "欧洛伦",
-		"element": "Electro",
-		"EN": "Ororon",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Olorun.webp",
-		"id": "10000105",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"法尔伽": {
-		"cn": "法尔伽",
-		"element": "Anemo",
-		"EN": "Varka",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Varka.webp",
-		"id": "10000128",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"流浪者": {
-		"cn": "流浪者",
-		"element": "Anemo",
-		"EN": "Wanderer",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Wanderer.webp",
-		"id": "10000075",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"温迪": {
-		"cn": "温迪",
-		"element": "Anemo",
-		"EN": "Venti",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
-		"id": "10000022",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"烟绯": {
-		"cn": "烟绯",
-		"element": "Pyro",
-		"EN": "Yanfei",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
-		"id": "10000048",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"爱可菲": {
-		"cn": "爱可菲",
-		"element": "Cryo",
-		"EN": "Escoffier",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Escoffier.webp",
-		"id": "10000112",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"爱诺": {
-		"cn": "爱诺",
-		"element": "Hydro",
-		"EN": "Aino",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Aino.webp",
-		"id": "10000121",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"玛拉妮": {
-		"cn": "玛拉妮",
-		"element": "Hydro",
-		"EN": "Mualani",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Mualani.webp",
-		"id": "10000102",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"玛薇卡": {
-		"cn": "玛薇卡",
-		"element": "Pyro",
-		"EN": "Mavuika",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Mavuika.webp",
-		"id": "10000106",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"珊瑚宫心海": {
-		"cn": "珊瑚宫心海",
-		"element": "Hydro",
-		"EN": "Sangonomiya Kokomi",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Kokomi.webp",
-		"id": "10000054",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"珐露珊": {
-		"cn": "珐露珊",
-		"element": "Anemo",
-		"EN": "Faruzan",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
-		"id": "10000076",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"班尼特": {
-		"cn": "班尼特",
-		"element": "Pyro",
-		"EN": "Bennett",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
-		"id": "10000032",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"琳妮特": {
-		"cn": "琳妮特",
-		"element": "Anemo",
-		"EN": "Lynette",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Linette.webp",
-		"id": "10000083",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"琴": {
-		"cn": "琴",
-		"element": "Anemo",
-		"EN": "Jean",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Qin.webp",
-		"id": "10000003",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"瑶瑶": {
-		"cn": "瑶瑶",
-		"element": "Dendro",
-		"EN": "Yaoyao",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
-		"id": "10000077",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"瓦雷莎": {
-		"cn": "瓦雷莎",
-		"element": "Electro",
-		"EN": "Varesa",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Varesa.webp",
-		"id": "10000111",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"甘雨": {
-		"cn": "甘雨",
-		"element": "Cryo",
-		"EN": "Ganyu",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
-		"id": "10000037",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"申鹤": {
-		"cn": "申鹤",
-		"element": "Cryo",
-		"EN": "Shenhe",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Shenhe.webp",
-		"id": "10000063",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"白术": {
-		"cn": "白术",
-		"element": "Dendro",
-		"EN": "Baizhu",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Baizhuer.webp",
-		"id": "10000082",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"砂糖": {
-		"cn": "砂糖",
-		"element": "Anemo",
-		"EN": "Sucrose",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
-		"id": "10000043",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"神里绫人": {
-		"cn": "神里绫人",
-		"element": "Hydro",
-		"EN": "Kamisato Ayato",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ayato.webp",
-		"id": "10000066",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"神里绫华": {
-		"cn": "神里绫华",
-		"element": "Cryo",
-		"EN": "Kamisato Ayaka",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Ayaka.webp",
-		"id": "10000002",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"米卡": {
-		"cn": "米卡",
-		"element": "Cryo",
-		"EN": "Mika",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
-		"id": "10000080",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"纳西妲": {
-		"cn": "纳西妲",
-		"element": "Dendro",
-		"EN": "Nahida",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
-		"id": "10000073",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"绮良良": {
-		"cn": "绮良良",
-		"element": "Dendro",
-		"EN": "Kirara",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
-		"id": "10000061",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"罗莎莉亚": {
-		"cn": "罗莎莉亚",
-		"element": "Cryo",
-		"EN": "Rosaria",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
-		"id": "10000045",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"胡桃": {
-		"cn": "胡桃",
-		"element": "Pyro",
-		"EN": "Hu Tao",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
-		"id": "10000046",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"艾尔海森": {
-		"cn": "艾尔海森",
-		"element": "Dendro",
-		"EN": "Alhaitham",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Alhatham.webp",
-		"id": "10000078",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"艾梅莉埃": {
-		"cn": "艾梅莉埃",
-		"element": "Dendro",
-		"EN": "Emilie",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Emilie.webp",
-		"id": "10000099",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"芙宁娜": {
-		"cn": "芙宁娜",
-		"element": "Hydro",
-		"EN": "Furina",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
-		"id": "10000089",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"芭芭拉": {
-		"cn": "芭芭拉",
-		"element": "Hydro",
-		"EN": "Barbara",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
-		"id": "10000014",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"茜特菈莉": {
-		"cn": "茜特菈莉",
-		"element": "Cryo",
-		"EN": "Citlali",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Citlali.webp",
-		"id": "10000107",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"荒泷一斗": {
-		"cn": "荒泷一斗",
-		"element": "Geo",
-		"EN": "Arataki Itto",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Itto.webp",
-		"id": "10000057",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"莫娜": {
-		"cn": "莫娜",
-		"element": "Hydro",
-		"EN": "Mona",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Mona.webp",
-		"id": "10000041",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"莱依拉": {
-		"cn": "莱依拉",
-		"element": "Cryo",
-		"EN": "Layla",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
-		"id": "10000074",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"莱欧斯利": {
-		"cn": "莱欧斯利",
-		"element": "Cryo",
-		"EN": "Wriothesley",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Wriothesley.webp",
-		"id": "10000086",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"菈乌玛": {
-		"cn": "菈乌玛",
-		"element": "Dendro",
-		"EN": "Lauma",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Lauma.webp",
-		"id": "10000119",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"菲林斯": {
-		"cn": "菲林斯",
-		"element": "Electro",
-		"EN": "Flins",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Flins.webp",
-		"id": "10000120",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"菲米尼": {
-		"cn": "菲米尼",
-		"element": "Cryo",
-		"EN": "Freminet",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Freminet.webp",
-		"id": "10000085",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"菲谢尔": {
-		"cn": "菲谢尔",
-		"element": "Electro",
-		"EN": "Fischl",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
-		"id": "10000031",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"蓝砚": {
-		"cn": "蓝砚",
-		"element": "Anemo",
-		"EN": "Lan Yan",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Lanyan.webp",
-		"id": "10000108",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"行秋": {
-		"cn": "行秋",
-		"element": "Hydro",
-		"EN": "Xingqiu",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
-		"id": "10000025",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"诺艾尔": {
-		"cn": "诺艾尔",
-		"element": "Geo",
-		"EN": "Noelle",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
-		"id": "10000034",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"赛索斯": {
-		"cn": "赛索斯",
-		"element": "Electro",
-		"EN": "Sethos",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
-		"id": "10000097",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"赛诺": {
-		"cn": "赛诺",
-		"element": "Electro",
-		"EN": "Cyno",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Cyno.webp",
-		"id": "10000071",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"辛焱": {
-		"cn": "辛焱",
-		"element": "Pyro",
-		"EN": "Xinyan",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
-		"id": "10000044",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"达达利亚": {
-		"cn": "达达利亚",
-		"element": "Hydro",
-		"EN": "Tartaglia",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
-		"id": "10000033",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_BOW"
-	},
-	"迪卢克": {
-		"cn": "迪卢克",
-		"element": "Pyro",
-		"EN": "Diluc",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Diluc.webp",
-		"id": "10000016",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"迪奥娜": {
-		"cn": "迪奥娜",
-		"element": "Cryo",
-		"EN": "Diona",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
-		"id": "10000039",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"迪希雅": {
-		"cn": "迪希雅",
-		"element": "Pyro",
-		"EN": "Dehya",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Dehya.webp",
-		"id": "10000079",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"那维莱特": {
-		"cn": "那维莱特",
-		"element": "Hydro",
-		"EN": "Neuvillette",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Neuvillette.webp",
-		"id": "10000087",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"重云": {
-		"cn": "重云",
-		"element": "Cryo",
-		"EN": "Chongyun",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
-		"id": "10000036",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"钟离": {
-		"cn": "钟离",
-		"element": "Geo",
-		"EN": "Zhongli",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
-		"id": "10000030",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"闲云": {
-		"cn": "闲云",
-		"element": "Anemo",
-		"EN": "Xianyun",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Liuyun.webp",
-		"id": "10000093",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_CATALYST"
-	},
-	"阿蕾奇诺": {
-		"cn": "阿蕾奇诺",
-		"element": "Pyro",
-		"EN": "Arlecchino",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Arlecchino.webp",
-		"id": "10000096",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"阿贝多": {
-		"cn": "阿贝多",
-		"element": "Geo",
-		"EN": "Albedo",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Albedo.webp",
-		"id": "10000038",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_SWORD_ONE_HAND"
-	},
-	"雅珂达": {
-		"cn": "雅珂达",
-		"element": "Anemo",
-		"EN": "Jahoda",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Jahoda.webp",
-		"id": "10000124",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_BOW"
-	},
-	"雷泽": {
-		"cn": "雷泽",
-		"element": "Electro",
-		"EN": "Razor",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
-		"id": "10000020",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CLAYMORE"
-	},
-	"雷电将军": {
-		"cn": "雷电将军",
-		"element": "Electro",
-		"EN": "Raiden Shogun",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
-		"id": "10000052",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"香菱": {
-		"cn": "香菱",
-		"element": "Pyro",
-		"EN": "Xiangling",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
-		"id": "10000023",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_POLE"
-	},
-	"魈": {
-		"cn": "魈",
-		"element": "Anemo",
-		"EN": "Xiao",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
-		"id": "10000026",
-		"rank": "QUALITY_ORANGE",
-		"weapon": "WEAPON_POLE"
-	},
-	"鹿野院平藏": {
-		"cn": "鹿野院平藏",
-		"element": "Anemo",
-		"EN": "Shikanoin Heizou",
-		"iconUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
-		"id": "10000059",
-		"rank": "QUALITY_PURPLE",
-		"weapon": "WEAPON_CATALYST"
-	}
+  "神里绫华": {
+    "cn": "神里绫华",
+    "element": "Cryo",
+    "EN": "Kamisato Ayaka",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ayaka.webp",
+    "id": "10000002",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "琴": {
+    "cn": "琴",
+    "element": "Anemo",
+    "EN": "Jean",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Qin.webp",
+    "id": "10000003",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "丽莎": {
+    "cn": "丽莎",
+    "element": "Electro",
+    "EN": "Lisa",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Lisa.webp",
+    "id": "10000006",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "旅行者": {
+    "cn": "旅行者",
+    "element": "Dendro",
+    "EN": "Dendro Traveler Girl",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_PlayerGirl.webp",
+    "id": "10000007-dendro",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "芭芭拉": {
+    "cn": "芭芭拉",
+    "element": "Hydro",
+    "EN": "Barbara",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
+    "id": "10000014",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "凯亚": {
+    "cn": "凯亚",
+    "element": "Cryo",
+    "EN": "Kaeya",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Kaeya.webp",
+    "id": "10000015",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "迪卢克": {
+    "cn": "迪卢克",
+    "element": "Pyro",
+    "EN": "Diluc",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Diluc.webp",
+    "id": "10000016",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "雷泽": {
+    "cn": "雷泽",
+    "element": "Electro",
+    "EN": "Razor",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
+    "id": "10000020",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "安柏": {
+    "cn": "安柏",
+    "element": "Pyro",
+    "EN": "Amber",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ambor.webp",
+    "id": "10000021",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "温迪": {
+    "cn": "温迪",
+    "element": "Anemo",
+    "EN": "Venti",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
+    "id": "10000022",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "香菱": {
+    "cn": "香菱",
+    "element": "Pyro",
+    "EN": "Xiangling",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+    "id": "10000023",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "北斗": {
+    "cn": "北斗",
+    "element": "Electro",
+    "EN": "Beidou",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
+    "id": "10000024",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "行秋": {
+    "cn": "行秋",
+    "element": "Hydro",
+    "EN": "Xingqiu",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
+    "id": "10000025",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "魈": {
+    "cn": "魈",
+    "element": "Anemo",
+    "EN": "Xiao",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Xiao.webp",
+    "id": "10000026",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "凝光": {
+    "cn": "凝光",
+    "element": "Geo",
+    "EN": "Ningguang",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
+    "id": "10000027",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "可莉": {
+    "cn": "可莉",
+    "element": "Pyro",
+    "EN": "Klee",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Klee.webp",
+    "id": "10000029",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "钟离": {
+    "cn": "钟离",
+    "element": "Geo",
+    "EN": "Zhongli",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
+    "id": "10000030",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "菲谢尔": {
+    "cn": "菲谢尔",
+    "element": "Electro",
+    "EN": "Fischl",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
+    "id": "10000031",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "班尼特": {
+    "cn": "班尼特",
+    "element": "Pyro",
+    "EN": "Bennett",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
+    "id": "10000032",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "达达利亚": {
+    "cn": "达达利亚",
+    "element": "Hydro",
+    "EN": "Tartaglia",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Tartaglia.webp",
+    "id": "10000033",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "诺艾尔": {
+    "cn": "诺艾尔",
+    "element": "Geo",
+    "EN": "Noelle",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Noel.webp",
+    "id": "10000034",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "七七": {
+    "cn": "七七",
+    "element": "Cryo",
+    "EN": "Qiqi",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Qiqi.webp",
+    "id": "10000035",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "重云": {
+    "cn": "重云",
+    "element": "Cryo",
+    "EN": "Chongyun",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
+    "id": "10000036",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "甘雨": {
+    "cn": "甘雨",
+    "element": "Cryo",
+    "EN": "Ganyu",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
+    "id": "10000037",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "阿贝多": {
+    "cn": "阿贝多",
+    "element": "Geo",
+    "EN": "Albedo",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Albedo.webp",
+    "id": "10000038",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "迪奥娜": {
+    "cn": "迪奥娜",
+    "element": "Cryo",
+    "EN": "Diona",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
+    "id": "10000039",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "莫娜": {
+    "cn": "莫娜",
+    "element": "Hydro",
+    "EN": "Mona",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Mona.webp",
+    "id": "10000041",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "刻晴": {
+    "cn": "刻晴",
+    "element": "Electro",
+    "EN": "Keqing",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Keqing.webp",
+    "id": "10000042",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "砂糖": {
+    "cn": "砂糖",
+    "element": "Anemo",
+    "EN": "Sucrose",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
+    "id": "10000043",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "辛焱": {
+    "cn": "辛焱",
+    "element": "Pyro",
+    "EN": "Xinyan",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
+    "id": "10000044",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "罗莎莉亚": {
+    "cn": "罗莎莉亚",
+    "element": "Cryo",
+    "EN": "Rosaria",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
+    "id": "10000045",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "胡桃": {
+    "cn": "胡桃",
+    "element": "Pyro",
+    "EN": "Hu Tao",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
+    "id": "10000046",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "枫原万叶": {
+    "cn": "枫原万叶",
+    "element": "Anemo",
+    "EN": "Kaedehara Kazuha",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Kazuha.webp",
+    "id": "10000047",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "烟绯": {
+    "cn": "烟绯",
+    "element": "Pyro",
+    "EN": "Yanfei",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
+    "id": "10000048",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "宵宫": {
+    "cn": "宵宫",
+    "element": "Pyro",
+    "EN": "Yoimiya",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Yoimiya.webp",
+    "id": "10000049",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "托马": {
+    "cn": "托马",
+    "element": "Pyro",
+    "EN": "Thoma",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
+    "id": "10000050",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "优菈": {
+    "cn": "优菈",
+    "element": "Cryo",
+    "EN": "Eula",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Eula.webp",
+    "id": "10000051",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "雷电将军": {
+    "cn": "雷电将军",
+    "element": "Electro",
+    "EN": "Raiden Shogun",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
+    "id": "10000052",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "早柚": {
+    "cn": "早柚",
+    "element": "Anemo",
+    "EN": "Sayu",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Sayu.webp",
+    "id": "10000053",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "珊瑚宫心海": {
+    "cn": "珊瑚宫心海",
+    "element": "Hydro",
+    "EN": "Sangonomiya Kokomi",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Kokomi.webp",
+    "id": "10000054",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "五郎": {
+    "cn": "五郎",
+    "element": "Geo",
+    "EN": "Gorou",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
+    "id": "10000055",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "九条裟罗": {
+    "cn": "九条裟罗",
+    "element": "Electro",
+    "EN": "Kujou Sara",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
+    "id": "10000056",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "荒泷一斗": {
+    "cn": "荒泷一斗",
+    "element": "Geo",
+    "EN": "Arataki Itto",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Itto.webp",
+    "id": "10000057",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "八重神子": {
+    "cn": "八重神子",
+    "element": "Electro",
+    "EN": "Yae Miko",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Yae.webp",
+    "id": "10000058",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "鹿野院平藏": {
+    "cn": "鹿野院平藏",
+    "element": "Anemo",
+    "EN": "Shikanoin Heizou",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
+    "id": "10000059",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "夜兰": {
+    "cn": "夜兰",
+    "element": "Hydro",
+    "EN": "Yelan",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Yelan.webp",
+    "id": "10000060",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "绮良良": {
+    "cn": "绮良良",
+    "element": "Dendro",
+    "EN": "Kirara",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
+    "id": "10000061",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "埃洛伊": {
+    "cn": "埃洛伊",
+    "element": "Cryo",
+    "EN": "Aloy",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Aloy.webp",
+    "id": "10000062",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "申鹤": {
+    "cn": "申鹤",
+    "element": "Cryo",
+    "EN": "Shenhe",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Shenhe.webp",
+    "id": "10000063",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "云堇": {
+    "cn": "云堇",
+    "element": "Geo",
+    "EN": "Yun Jin",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
+    "id": "10000064",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "久岐忍": {
+    "cn": "久岐忍",
+    "element": "Electro",
+    "EN": "Kuki Shinobu",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
+    "id": "10000065",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "神里绫人": {
+    "cn": "神里绫人",
+    "element": "Hydro",
+    "EN": "Kamisato Ayato",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ayato.webp",
+    "id": "10000066",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "柯莱": {
+    "cn": "柯莱",
+    "element": "Dendro",
+    "EN": "Collei",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
+    "id": "10000067",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "多莉": {
+    "cn": "多莉",
+    "element": "Electro",
+    "EN": "Dori",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
+    "id": "10000068",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "提纳里": {
+    "cn": "提纳里",
+    "element": "Dendro",
+    "EN": "Tighnari",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Tighnari.webp",
+    "id": "10000069",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "妮露": {
+    "cn": "妮露",
+    "element": "Hydro",
+    "EN": "Nilou",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Nilou.webp",
+    "id": "10000070",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "赛诺": {
+    "cn": "赛诺",
+    "element": "Electro",
+    "EN": "Cyno",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Cyno.webp",
+    "id": "10000071",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "坎蒂丝": {
+    "cn": "坎蒂丝",
+    "element": "Hydro",
+    "EN": "Candace",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
+    "id": "10000072",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "纳西妲": {
+    "cn": "纳西妲",
+    "element": "Dendro",
+    "EN": "Nahida",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
+    "id": "10000073",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "莱依拉": {
+    "cn": "莱依拉",
+    "element": "Cryo",
+    "EN": "Layla",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
+    "id": "10000074",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "流浪者": {
+    "cn": "流浪者",
+    "element": "Anemo",
+    "EN": "Wanderer",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Wanderer.webp",
+    "id": "10000075",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "珐露珊": {
+    "cn": "珐露珊",
+    "element": "Anemo",
+    "EN": "Faruzan",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
+    "id": "10000076",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "瑶瑶": {
+    "cn": "瑶瑶",
+    "element": "Dendro",
+    "EN": "Yaoyao",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
+    "id": "10000077",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "艾尔海森": {
+    "cn": "艾尔海森",
+    "element": "Dendro",
+    "EN": "Alhaitham",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Alhatham.webp",
+    "id": "10000078",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "迪希雅": {
+    "cn": "迪希雅",
+    "element": "Pyro",
+    "EN": "Dehya",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Dehya.webp",
+    "id": "10000079",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "米卡": {
+    "cn": "米卡",
+    "element": "Cryo",
+    "EN": "Mika",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
+    "id": "10000080",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "卡维": {
+    "cn": "卡维",
+    "element": "Dendro",
+    "EN": "Kaveh",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Kaveh.webp",
+    "id": "10000081",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "白术": {
+    "cn": "白术",
+    "element": "Dendro",
+    "EN": "Baizhu",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Baizhuer.webp",
+    "id": "10000082",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "琳妮特": {
+    "cn": "琳妮特",
+    "element": "Anemo",
+    "EN": "Lynette",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Linette.webp",
+    "id": "10000083",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "林尼": {
+    "cn": "林尼",
+    "element": "Pyro",
+    "EN": "Lyney",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Liney.webp",
+    "id": "10000084",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "菲米尼": {
+    "cn": "菲米尼",
+    "element": "Cryo",
+    "EN": "Freminet",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Freminet.webp",
+    "id": "10000085",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "莱欧斯利": {
+    "cn": "莱欧斯利",
+    "element": "Cryo",
+    "EN": "Wriothesley",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Wriothesley.webp",
+    "id": "10000086",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "那维莱特": {
+    "cn": "那维莱特",
+    "element": "Hydro",
+    "EN": "Neuvillette",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Neuvillette.webp",
+    "id": "10000087",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "夏洛蒂": {
+    "cn": "夏洛蒂",
+    "element": "Cryo",
+    "EN": "Charlotte",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
+    "id": "10000088",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "芙宁娜": {
+    "cn": "芙宁娜",
+    "element": "Hydro",
+    "EN": "Furina",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
+    "id": "10000089",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "夏沃蕾": {
+    "cn": "夏沃蕾",
+    "element": "Pyro",
+    "EN": "Chevreuse",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Chevreuse.webp",
+    "id": "10000090",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "娜维娅": {
+    "cn": "娜维娅",
+    "element": "Geo",
+    "EN": "Navia",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Navia.webp",
+    "id": "10000091",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "嘉明": {
+    "cn": "嘉明",
+    "element": "Pyro",
+    "EN": "Gaming",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
+    "id": "10000092",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "闲云": {
+    "cn": "闲云",
+    "element": "Anemo",
+    "EN": "Xianyun",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Liuyun.webp",
+    "id": "10000093",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "千织": {
+    "cn": "千织",
+    "element": "Geo",
+    "EN": "Chiori",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Chiori.webp",
+    "id": "10000094",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "希格雯": {
+    "cn": "希格雯",
+    "element": "Hydro",
+    "EN": "Sigewinne",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Sigewinne.webp",
+    "id": "10000095",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "阿蕾奇诺": {
+    "cn": "阿蕾奇诺",
+    "element": "Pyro",
+    "EN": "Arlecchino",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Arlecchino.webp",
+    "id": "10000096",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "赛索斯": {
+    "cn": "赛索斯",
+    "element": "Electro",
+    "EN": "Sethos",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
+    "id": "10000097",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "克洛琳德": {
+    "cn": "克洛琳德",
+    "element": "Electro",
+    "EN": "Clorinde",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Clorinde.webp",
+    "id": "10000098",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "艾梅莉埃": {
+    "cn": "艾梅莉埃",
+    "element": "Dendro",
+    "EN": "Emilie",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Emilie.webp",
+    "id": "10000099",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "卡齐娜": {
+    "cn": "卡齐娜",
+    "element": "Geo",
+    "EN": "Kachina",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Kachina.webp",
+    "id": "10000100",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "基尼奇": {
+    "cn": "基尼奇",
+    "element": "Dendro",
+    "EN": "Kinich",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Kinich.webp",
+    "id": "10000101",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "玛拉妮": {
+    "cn": "玛拉妮",
+    "element": "Hydro",
+    "EN": "Mualani",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Mualani.webp",
+    "id": "10000102",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "希诺宁": {
+    "cn": "希诺宁",
+    "element": "Geo",
+    "EN": "Xilonen",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Xilonen.webp",
+    "id": "10000103",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "恰斯卡": {
+    "cn": "恰斯卡",
+    "element": "Anemo",
+    "EN": "Chasca",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Chasca.webp",
+    "id": "10000104",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW"
+  },
+  "欧洛伦": {
+    "cn": "欧洛伦",
+    "element": "Electro",
+    "EN": "Ororon",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Olorun.webp",
+    "id": "10000105",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "玛薇卡": {
+    "cn": "玛薇卡",
+    "element": "Pyro",
+    "EN": "Mavuika",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Mavuika.webp",
+    "id": "10000106",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "茜特菈莉": {
+    "cn": "茜特菈莉",
+    "element": "Cryo",
+    "EN": "Citlali",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Citlali.webp",
+    "id": "10000107",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "蓝砚": {
+    "cn": "蓝砚",
+    "element": "Anemo",
+    "EN": "Lan Yan",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Lanyan.webp",
+    "id": "10000108",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "梦见月瑞希": {
+    "cn": "梦见月瑞希",
+    "element": "Anemo",
+    "EN": "Yumemizuki Mizuki",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Mizuki.webp",
+    "id": "10000109",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "伊安珊": {
+    "cn": "伊安珊",
+    "element": "Electro",
+    "EN": "Iansan",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
+    "id": "10000110",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "瓦雷莎": {
+    "cn": "瓦雷莎",
+    "element": "Electro",
+    "EN": "Varesa",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Varesa.webp",
+    "id": "10000111",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "爱可菲": {
+    "cn": "爱可菲",
+    "element": "Cryo",
+    "EN": "Escoffier",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Escoffier.webp",
+    "id": "10000112",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "伊法": {
+    "cn": "伊法",
+    "element": "Anemo",
+    "EN": "Ifa",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
+    "id": "10000113",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "丝柯克": {
+    "cn": "丝柯克",
+    "element": "Cryo",
+    "EN": "Skirk",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_SkirkNew.webp",
+    "id": "10000114",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "塔利雅": {
+    "cn": "塔利雅",
+    "element": "Hydro",
+    "EN": "Dahlia",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Dahlia.webp",
+    "id": "10000115",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "伊涅芙": {
+    "cn": "伊涅芙",
+    "element": "Electro",
+    "EN": "Ineffa",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Ineffa.webp",
+    "id": "10000116",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "奇偶·男性": {
+    "cn": "奇偶·男性",
+    "element": null,
+    "EN": "Manekin",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_MannequinBoy.webp",
+    "id": "10000117",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "奇偶·女性": {
+    "cn": "奇偶·女性",
+    "element": null,
+    "EN": "Manekina",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_MannequinGirl.webp",
+    "id": "10000118",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "菈乌玛": {
+    "cn": "菈乌玛",
+    "element": "Dendro",
+    "EN": "Lauma",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Lauma.webp",
+    "id": "10000119",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "菲林斯": {
+    "cn": "菲林斯",
+    "element": "Electro",
+    "EN": "Flins",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Flins.webp",
+    "id": "10000120",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE"
+  },
+  "爱诺": {
+    "cn": "爱诺",
+    "element": "Hydro",
+    "EN": "Aino",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Aino.webp",
+    "id": "10000121",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE"
+  },
+  "奈芙尔": {
+    "cn": "奈芙尔",
+    "element": "Dendro",
+    "EN": "Nefer",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Nefer.webp",
+    "id": "10000122",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "杜林": {
+    "cn": "杜林",
+    "element": "Pyro",
+    "EN": "Durin",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Durin.webp",
+    "id": "10000123",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "雅珂达": {
+    "cn": "雅珂达",
+    "element": "Anemo",
+    "EN": "Jahoda",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Jahoda.webp",
+    "id": "10000124",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW"
+  },
+  "哥伦比娅": {
+    "cn": "哥伦比娅",
+    "element": "Hydro",
+    "EN": "Columbina",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Columbina.webp",
+    "id": "10000125",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST"
+  },
+  "兹白": {
+    "cn": "兹白",
+    "element": "Geo",
+    "EN": "Zibai",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Zibai.webp",
+    "id": "10000126",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND"
+  },
+  "叶洛亚": {
+    "cn": "叶洛亚",
+    "element": "Geo",
+    "EN": "Illuga",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
+    "id": "10000127",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE"
+  },
+  "法尔伽": {
+    "cn": "法尔伽",
+    "element": "Anemo",
+    "EN": "Varka",
+    "iconUrl": "/gi/UI/UI_AvatarIcon_Varka.webp",
+    "id": "10000128",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE"
+  }
 }

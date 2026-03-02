@@ -1,713 +1,704 @@
 {
-	"{NICKNAME}": {
-		"baseType": "Memory",
-		"cn": "{NICKNAME}",
-		"damageType": "Ice",
-		"EN": "{NICKNAME}",
-		"iconUrl": "/hsr/UI/avatarshopicon/8008.webp",
-		"id": "8008",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"Archer": {
-		"baseType": "Rogue",
-		"cn": "Archer",
-		"damageType": "Quantum",
-		"EN": "Archer",
-		"iconUrl": "/hsr/UI/avatarshopicon/1015.webp",
-		"id": "1015",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"Saber": {
-		"baseType": "Warrior",
-		"cn": "Saber",
-		"damageType": "Wind",
-		"EN": "Saber",
-		"iconUrl": "/hsr/UI/avatarshopicon/1014.webp",
-		"id": "1014",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"万敌": {
-		"baseType": "Warrior",
-		"cn": "万敌",
-		"damageType": "Imaginary",
-		"EN": "Mydei",
-		"iconUrl": "/hsr/UI/avatarshopicon/1404.webp",
-		"id": "1404",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"三月七": {
-		"baseType": "Rogue",
-		"cn": "三月七",
-		"damageType": "Imaginary",
-		"EN": "March 7th",
-		"iconUrl": "/hsr/UI/avatarshopicon/1224.webp",
-		"id": "1224",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"不死途": {
-		"baseType": "Rogue",
-		"cn": "不死途",
-		"damageType": "Thunder",
-		"EN": "Ashveil",
-		"iconUrl": "/hsr/UI/avatarshopicon/1504.webp",
-		"id": "1504",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"丹恒": {
-		"baseType": "Rogue",
-		"cn": "丹恒",
-		"damageType": "Wind",
-		"EN": "Dan Heng",
-		"iconUrl": "/hsr/UI/avatarshopicon/1002.webp",
-		"id": "1002",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"丹恒•腾荒": {
-		"baseType": "Knight",
-		"cn": "丹恒•腾荒",
-		"damageType": "Physical",
-		"EN": "Dan Heng • Permansor Terrae",
-		"iconUrl": "/hsr/UI/avatarshopicon/1414.webp",
-		"id": "1414",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"丹恒•饮月": {
-		"baseType": "Warrior",
-		"cn": "丹恒•饮月",
-		"damageType": "Imaginary",
-		"EN": "Dan Heng • Imbibitor Lunae",
-		"iconUrl": "/hsr/UI/avatarshopicon/1213.webp",
-		"id": "1213",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"乱破": {
-		"baseType": "Mage",
-		"cn": "乱破",
-		"damageType": "Imaginary",
-		"EN": "Rappa",
-		"iconUrl": "/hsr/UI/avatarshopicon/1317.webp",
-		"id": "1317",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"云璃": {
-		"baseType": "Warrior",
-		"cn": "云璃",
-		"damageType": "Physical",
-		"EN": "Yunli",
-		"iconUrl": "/hsr/UI/avatarshopicon/1221.webp",
-		"id": "1221",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"佩拉": {
-		"baseType": "Warlock",
-		"cn": "佩拉",
-		"damageType": "Ice",
-		"EN": "Pela",
-		"iconUrl": "/hsr/UI/avatarshopicon/1106.webp",
-		"id": "1106",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"停云": {
-		"baseType": "Shaman",
-		"cn": "停云",
-		"damageType": "Thunder",
-		"EN": "Tingyun",
-		"iconUrl": "/hsr/UI/avatarshopicon/1202.webp",
-		"id": "1202",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"克拉拉": {
-		"baseType": "Warrior",
-		"cn": "克拉拉",
-		"damageType": "Physical",
-		"EN": "Clara",
-		"iconUrl": "/hsr/UI/avatarshopicon/1107.webp",
-		"id": "1107",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"刃": {
-		"baseType": "Warrior",
-		"cn": "刃",
-		"damageType": "Wind",
-		"EN": "Blade",
-		"iconUrl": "/hsr/UI/avatarshopicon/1205.webp",
-		"id": "1205",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"刻律德菈": {
-		"baseType": "Shaman",
-		"cn": "刻律德菈",
-		"damageType": "Wind",
-		"EN": "Cerydra",
-		"iconUrl": "/hsr/UI/avatarshopicon/1412.webp",
-		"id": "1412",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"加拉赫": {
-		"baseType": "Priest",
-		"cn": "加拉赫",
-		"damageType": "Fire",
-		"EN": "Gallagher",
-		"iconUrl": "/hsr/UI/avatarshopicon/1301.webp",
-		"id": "1301",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"卡芙卡": {
-		"baseType": "Warlock",
-		"cn": "卡芙卡",
-		"damageType": "Thunder",
-		"EN": "Kafka",
-		"iconUrl": "/hsr/UI/avatarshopicon/1005.webp",
-		"id": "1005",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"卢卡": {
-		"baseType": "Warlock",
-		"cn": "卢卡",
-		"damageType": "Physical",
-		"EN": "Luka",
-		"iconUrl": "/hsr/UI/avatarshopicon/1111.webp",
-		"id": "1111",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"大丽花": {
-		"baseType": "Warlock",
-		"cn": "大丽花",
-		"damageType": "Fire",
-		"EN": "The Dahlia",
-		"iconUrl": "/hsr/UI/avatarshopicon/1321.webp",
-		"id": "1321",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"大黑塔": {
-		"baseType": "Mage",
-		"cn": "大黑塔",
-		"damageType": "Ice",
-		"EN": "The Herta",
-		"iconUrl": "/hsr/UI/avatarshopicon/1401.webp",
-		"id": "1401",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"姬子": {
-		"baseType": "Mage",
-		"cn": "姬子",
-		"damageType": "Fire",
-		"EN": "Himeko",
-		"iconUrl": "/hsr/UI/avatarshopicon/1003.webp",
-		"id": "1003",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"娜塔莎": {
-		"baseType": "Priest",
-		"cn": "娜塔莎",
-		"damageType": "Physical",
-		"EN": "Natasha",
-		"iconUrl": "/hsr/UI/avatarshopicon/1105.webp",
-		"id": "1105",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"寒鸦": {
-		"baseType": "Shaman",
-		"cn": "寒鸦",
-		"damageType": "Physical",
-		"EN": "Hanya",
-		"iconUrl": "/hsr/UI/avatarshopicon/1215.webp",
-		"id": "1215",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"布洛妮娅": {
-		"baseType": "Shaman",
-		"cn": "布洛妮娅",
-		"damageType": "Wind",
-		"EN": "Bronya",
-		"iconUrl": "/hsr/UI/avatarshopicon/1101.webp",
-		"id": "1101",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"希儿": {
-		"baseType": "Rogue",
-		"cn": "希儿",
-		"damageType": "Quantum",
-		"EN": "Seele",
-		"iconUrl": "/hsr/UI/avatarshopicon/1102.webp",
-		"id": "1102",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"希露瓦": {
-		"baseType": "Mage",
-		"cn": "希露瓦",
-		"damageType": "Thunder",
-		"EN": "Serval",
-		"iconUrl": "/hsr/UI/avatarshopicon/1103.webp",
-		"id": "1103",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"彦卿": {
-		"baseType": "Rogue",
-		"cn": "彦卿",
-		"damageType": "Ice",
-		"EN": "Yanqing",
-		"iconUrl": "/hsr/UI/avatarshopicon/1209.webp",
-		"id": "1209",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"忘归人": {
-		"baseType": "Warlock",
-		"cn": "忘归人",
-		"damageType": "Fire",
-		"EN": "Fugue",
-		"iconUrl": "/hsr/UI/avatarshopicon/1225.webp",
-		"id": "1225",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"托帕&账账": {
-		"baseType": "Rogue",
-		"cn": "托帕&账账",
-		"damageType": "Fire",
-		"EN": "Topaz & Numby",
-		"iconUrl": "/hsr/UI/avatarshopicon/1112.webp",
-		"id": "1112",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"昔涟": {
-		"baseType": "Memory",
-		"cn": "昔涟",
-		"damageType": "Ice",
-		"EN": "Cyrene",
-		"iconUrl": "/hsr/UI/avatarshopicon/1415.webp",
-		"id": "1415",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"星期日": {
-		"baseType": "Shaman",
-		"cn": "星期日",
-		"damageType": "Imaginary",
-		"EN": "Sunday",
-		"iconUrl": "/hsr/UI/avatarshopicon/1313.webp",
-		"id": "1313",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"景元": {
-		"baseType": "Mage",
-		"cn": "景元",
-		"damageType": "Thunder",
-		"EN": "Jing Yuan",
-		"iconUrl": "/hsr/UI/avatarshopicon/1204.webp",
-		"id": "1204",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"杰帕德": {
-		"baseType": "Knight",
-		"cn": "杰帕德",
-		"damageType": "Ice",
-		"EN": "Gepard",
-		"iconUrl": "/hsr/UI/avatarshopicon/1104.webp",
-		"id": "1104",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"桂乃芬": {
-		"baseType": "Warlock",
-		"cn": "桂乃芬",
-		"damageType": "Fire",
-		"EN": "Guinaifen",
-		"iconUrl": "/hsr/UI/avatarshopicon/1210.webp",
-		"id": "1210",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"桑博": {
-		"baseType": "Warlock",
-		"cn": "桑博",
-		"damageType": "Wind",
-		"EN": "Sampo",
-		"iconUrl": "/hsr/UI/avatarshopicon/1108.webp",
-		"id": "1108",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"椒丘": {
-		"baseType": "Warlock",
-		"cn": "椒丘",
-		"damageType": "Fire",
-		"EN": "Jiaoqiu",
-		"iconUrl": "/hsr/UI/avatarshopicon/1218.webp",
-		"id": "1218",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"波提欧": {
-		"baseType": "Rogue",
-		"cn": "波提欧",
-		"damageType": "Physical",
-		"EN": "Boothill",
-		"iconUrl": "/hsr/UI/avatarshopicon/1315.webp",
-		"id": "1315",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"流萤": {
-		"baseType": "Warrior",
-		"cn": "流萤",
-		"damageType": "Fire",
-		"EN": "Firefly",
-		"iconUrl": "/hsr/UI/avatarshopicon/1310.webp",
-		"id": "1310",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"海瑟音": {
-		"baseType": "Warlock",
-		"cn": "海瑟音",
-		"damageType": "Physical",
-		"EN": "Hysilens",
-		"iconUrl": "/hsr/UI/avatarshopicon/1410.webp",
-		"id": "1410",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"火花": {
-		"baseType": "Elation",
-		"cn": "火花",
-		"damageType": "Fire",
-		"EN": "Sparxie",
-		"iconUrl": "/hsr/UI/avatarshopicon/1501.webp",
-		"id": "1501",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"灵砂": {
-		"baseType": "Priest",
-		"cn": "灵砂",
-		"damageType": "Fire",
-		"EN": "Lingsha",
-		"iconUrl": "/hsr/UI/avatarshopicon/1222.webp",
-		"id": "1222",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"爻光": {
-		"baseType": "Elation",
-		"cn": "爻光",
-		"damageType": "Physical",
-		"EN": "Yao Guang",
-		"iconUrl": "/hsr/UI/avatarshopicon/1502.webp",
-		"id": "1502",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"玲可": {
-		"baseType": "Priest",
-		"cn": "玲可",
-		"damageType": "Quantum",
-		"EN": "Lynx",
-		"iconUrl": "/hsr/UI/avatarshopicon/1110.webp",
-		"id": "1110",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"瓦尔特": {
-		"baseType": "Warlock",
-		"cn": "瓦尔特",
-		"damageType": "Imaginary",
-		"EN": "Welt",
-		"iconUrl": "/hsr/UI/avatarshopicon/1004.webp",
-		"id": "1004",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"白厄": {
-		"baseType": "Warrior",
-		"cn": "白厄",
-		"damageType": "Physical",
-		"EN": "Phainon",
-		"iconUrl": "/hsr/UI/avatarshopicon/1408.webp",
-		"id": "1408",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"白露": {
-		"baseType": "Priest",
-		"cn": "白露",
-		"damageType": "Thunder",
-		"EN": "Bailu",
-		"iconUrl": "/hsr/UI/avatarshopicon/1211.webp",
-		"id": "1211",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"真理医生": {
-		"baseType": "Rogue",
-		"cn": "真理医生",
-		"damageType": "Imaginary",
-		"EN": "Dr. Ratio",
-		"iconUrl": "/hsr/UI/avatarshopicon/1305.webp",
-		"id": "1305",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"知更鸟": {
-		"baseType": "Shaman",
-		"cn": "知更鸟",
-		"damageType": "Physical",
-		"EN": "Robin",
-		"iconUrl": "/hsr/UI/avatarshopicon/1309.webp",
-		"id": "1309",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"砂金": {
-		"baseType": "Knight",
-		"cn": "砂金",
-		"damageType": "Imaginary",
-		"EN": "Aventurine",
-		"iconUrl": "/hsr/UI/avatarshopicon/1304.webp",
-		"id": "1304",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"符玄": {
-		"baseType": "Knight",
-		"cn": "符玄",
-		"damageType": "Quantum",
-		"EN": "Fu Xuan",
-		"iconUrl": "/hsr/UI/avatarshopicon/1208.webp",
-		"id": "1208",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"米沙": {
-		"baseType": "Warrior",
-		"cn": "米沙",
-		"damageType": "Ice",
-		"EN": "Misha",
-		"iconUrl": "/hsr/UI/avatarshopicon/1312.webp",
-		"id": "1312",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"素裳": {
-		"baseType": "Rogue",
-		"cn": "素裳",
-		"damageType": "Physical",
-		"EN": "Sushang",
-		"iconUrl": "/hsr/UI/avatarshopicon/1206.webp",
-		"id": "1206",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"缇宝": {
-		"baseType": "Shaman",
-		"cn": "缇宝",
-		"damageType": "Quantum",
-		"EN": "Tribbie",
-		"iconUrl": "/hsr/UI/avatarshopicon/1403.webp",
-		"id": "1403",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"罗刹": {
-		"baseType": "Priest",
-		"cn": "罗刹",
-		"damageType": "Imaginary",
-		"EN": "Luocha",
-		"iconUrl": "/hsr/UI/avatarshopicon/1203.webp",
-		"id": "1203",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"翡翠": {
-		"baseType": "Mage",
-		"cn": "翡翠",
-		"damageType": "Quantum",
-		"EN": "Jade",
-		"iconUrl": "/hsr/UI/avatarshopicon/1314.webp",
-		"id": "1314",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"艾丝妲": {
-		"baseType": "Shaman",
-		"cn": "艾丝妲",
-		"damageType": "Fire",
-		"EN": "Asta",
-		"iconUrl": "/hsr/UI/avatarshopicon/1009.webp",
-		"id": "1009",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"花火": {
-		"baseType": "Shaman",
-		"cn": "花火",
-		"damageType": "Quantum",
-		"EN": "Sparkle",
-		"iconUrl": "/hsr/UI/avatarshopicon/1306.webp",
-		"id": "1306",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"藿藿": {
-		"baseType": "Priest",
-		"cn": "藿藿",
-		"damageType": "Wind",
-		"EN": "Huohuo",
-		"iconUrl": "/hsr/UI/avatarshopicon/1217.webp",
-		"id": "1217",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"虎克": {
-		"baseType": "Warrior",
-		"cn": "虎克",
-		"damageType": "Fire",
-		"EN": "Hook",
-		"iconUrl": "/hsr/UI/avatarshopicon/1109.webp",
-		"id": "1109",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"貊泽": {
-		"baseType": "Rogue",
-		"cn": "貊泽",
-		"damageType": "Thunder",
-		"EN": "Moze",
-		"iconUrl": "/hsr/UI/avatarshopicon/1223.webp",
-		"id": "1223",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"赛飞儿": {
-		"baseType": "Warlock",
-		"cn": "赛飞儿",
-		"damageType": "Quantum",
-		"EN": "Cipher",
-		"iconUrl": "/hsr/UI/avatarshopicon/1406.webp",
-		"id": "1406",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"遐蝶": {
-		"baseType": "Memory",
-		"cn": "遐蝶",
-		"damageType": "Quantum",
-		"EN": "Castorice",
-		"iconUrl": "/hsr/UI/avatarshopicon/1407.webp",
-		"id": "1407",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"那刻夏": {
-		"baseType": "Mage",
-		"cn": "那刻夏",
-		"damageType": "Wind",
-		"EN": "Anaxa",
-		"iconUrl": "/hsr/UI/avatarshopicon/1405.webp",
-		"id": "1405",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"银枝": {
-		"baseType": "Mage",
-		"cn": "银枝",
-		"damageType": "Physical",
-		"EN": "Argenti",
-		"iconUrl": "/hsr/UI/avatarshopicon/1302.webp",
-		"id": "1302",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"银狼": {
-		"baseType": "Warlock",
-		"cn": "银狼",
-		"damageType": "Quantum",
-		"EN": "Silver Wolf",
-		"iconUrl": "/hsr/UI/avatarshopicon/1006.webp",
-		"id": "1006",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"镜流": {
-		"baseType": "Warrior",
-		"cn": "镜流",
-		"damageType": "Ice",
-		"EN": "Jingliu",
-		"iconUrl": "/hsr/UI/avatarshopicon/1212.webp",
-		"id": "1212",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"长夜月": {
-		"baseType": "Memory",
-		"cn": "长夜月",
-		"damageType": "Ice",
-		"EN": "Evernight",
-		"iconUrl": "/hsr/UI/avatarshopicon/1413.webp",
-		"id": "1413",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"阮•梅": {
-		"baseType": "Shaman",
-		"cn": "阮•梅",
-		"damageType": "Ice",
-		"EN": "Ruan Mei",
-		"iconUrl": "/hsr/UI/avatarshopicon/1303.webp",
-		"id": "1303",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"阿兰": {
-		"baseType": "Warrior",
-		"cn": "阿兰",
-		"damageType": "Thunder",
-		"EN": "Arlan",
-		"iconUrl": "/hsr/UI/avatarshopicon/1008.webp",
-		"id": "1008",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"阿格莱雅": {
-		"baseType": "Memory",
-		"cn": "阿格莱雅",
-		"damageType": "Thunder",
-		"EN": "Aglaea",
-		"iconUrl": "/hsr/UI/avatarshopicon/1402.webp",
-		"id": "1402",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"雪衣": {
-		"baseType": "Warrior",
-		"cn": "雪衣",
-		"damageType": "Quantum",
-		"EN": "Xueyi",
-		"iconUrl": "/hsr/UI/avatarshopicon/1214.webp",
-		"id": "1214",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"青雀": {
-		"baseType": "Mage",
-		"cn": "青雀",
-		"damageType": "Quantum",
-		"EN": "Qingque",
-		"iconUrl": "/hsr/UI/avatarshopicon/1201.webp",
-		"id": "1201",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"风堇": {
-		"baseType": "Memory",
-		"cn": "风堇",
-		"damageType": "Wind",
-		"EN": "Hyacine",
-		"iconUrl": "/hsr/UI/avatarshopicon/1409.webp",
-		"id": "1409",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"飞霄": {
-		"baseType": "Rogue",
-		"cn": "飞霄",
-		"damageType": "Wind",
-		"EN": "Feixiao",
-		"iconUrl": "/hsr/UI/avatarshopicon/1220.webp",
-		"id": "1220",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"驭空": {
-		"baseType": "Shaman",
-		"cn": "驭空",
-		"damageType": "Imaginary",
-		"EN": "Yukong",
-		"iconUrl": "/hsr/UI/avatarshopicon/1207.webp",
-		"id": "1207",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"黄泉": {
-		"baseType": "Warlock",
-		"cn": "黄泉",
-		"damageType": "Thunder",
-		"EN": "Acheron",
-		"iconUrl": "/hsr/UI/avatarshopicon/1308.webp",
-		"id": "1308",
-		"rank": "CombatPowerAvatarRarityType5"
-	},
-	"黑塔": {
-		"baseType": "Mage",
-		"cn": "黑塔",
-		"damageType": "Ice",
-		"EN": "Herta",
-		"iconUrl": "/hsr/UI/avatarshopicon/1013.webp",
-		"id": "1013",
-		"rank": "CombatPowerAvatarRarityType4"
-	},
-	"黑天鹅": {
-		"baseType": "Warlock",
-		"cn": "黑天鹅",
-		"damageType": "Wind",
-		"EN": "Black Swan",
-		"iconUrl": "/hsr/UI/avatarshopicon/1307.webp",
-		"id": "1307",
-		"rank": "CombatPowerAvatarRarityType5"
-	}
+  "丹恒": {
+    "baseType": "Rogue",
+    "cn": "丹恒",
+    "damageType": "Wind",
+    "EN": "Dan Heng",
+    "iconUrl": "/hsr/UI/avatarshopicon/1002.webp",
+    "id": "1002",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "姬子": {
+    "baseType": "Mage",
+    "cn": "姬子",
+    "damageType": "Fire",
+    "EN": "Himeko",
+    "iconUrl": "/hsr/UI/avatarshopicon/1003.webp",
+    "id": "1003",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "瓦尔特": {
+    "baseType": "Warlock",
+    "cn": "瓦尔特",
+    "damageType": "Imaginary",
+    "EN": "Welt",
+    "iconUrl": "/hsr/UI/avatarshopicon/1004.webp",
+    "id": "1004",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "卡芙卡": {
+    "baseType": "Warlock",
+    "cn": "卡芙卡",
+    "damageType": "Thunder",
+    "EN": "Kafka",
+    "iconUrl": "/hsr/UI/avatarshopicon/1005.webp",
+    "id": "1005",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "银狼": {
+    "baseType": "Warlock",
+    "cn": "银狼",
+    "damageType": "Quantum",
+    "EN": "Silver Wolf",
+    "iconUrl": "/hsr/UI/avatarshopicon/1006.webp",
+    "id": "1006",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "阿兰": {
+    "baseType": "Warrior",
+    "cn": "阿兰",
+    "damageType": "Thunder",
+    "EN": "Arlan",
+    "iconUrl": "/hsr/UI/avatarshopicon/1008.webp",
+    "id": "1008",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "艾丝妲": {
+    "baseType": "Shaman",
+    "cn": "艾丝妲",
+    "damageType": "Fire",
+    "EN": "Asta",
+    "iconUrl": "/hsr/UI/avatarshopicon/1009.webp",
+    "id": "1009",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "黑塔": {
+    "baseType": "Mage",
+    "cn": "黑塔",
+    "damageType": "Ice",
+    "EN": "Herta",
+    "iconUrl": "/hsr/UI/avatarshopicon/1013.webp",
+    "id": "1013",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "Saber": {
+    "baseType": "Warrior",
+    "cn": "Saber",
+    "damageType": "Wind",
+    "EN": "Saber",
+    "iconUrl": "/hsr/UI/avatarshopicon/1014.webp",
+    "id": "1014",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "Archer": {
+    "baseType": "Rogue",
+    "cn": "Archer",
+    "damageType": "Quantum",
+    "EN": "Archer",
+    "iconUrl": "/hsr/UI/avatarshopicon/1015.webp",
+    "id": "1015",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "布洛妮娅": {
+    "baseType": "Shaman",
+    "cn": "布洛妮娅",
+    "damageType": "Wind",
+    "EN": "Bronya",
+    "iconUrl": "/hsr/UI/avatarshopicon/1101.webp",
+    "id": "1101",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "希儿": {
+    "baseType": "Rogue",
+    "cn": "希儿",
+    "damageType": "Quantum",
+    "EN": "Seele",
+    "iconUrl": "/hsr/UI/avatarshopicon/1102.webp",
+    "id": "1102",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "希露瓦": {
+    "baseType": "Mage",
+    "cn": "希露瓦",
+    "damageType": "Thunder",
+    "EN": "Serval",
+    "iconUrl": "/hsr/UI/avatarshopicon/1103.webp",
+    "id": "1103",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "杰帕德": {
+    "baseType": "Knight",
+    "cn": "杰帕德",
+    "damageType": "Ice",
+    "EN": "Gepard",
+    "iconUrl": "/hsr/UI/avatarshopicon/1104.webp",
+    "id": "1104",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "娜塔莎": {
+    "baseType": "Priest",
+    "cn": "娜塔莎",
+    "damageType": "Physical",
+    "EN": "Natasha",
+    "iconUrl": "/hsr/UI/avatarshopicon/1105.webp",
+    "id": "1105",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "佩拉": {
+    "baseType": "Warlock",
+    "cn": "佩拉",
+    "damageType": "Ice",
+    "EN": "Pela",
+    "iconUrl": "/hsr/UI/avatarshopicon/1106.webp",
+    "id": "1106",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "克拉拉": {
+    "baseType": "Warrior",
+    "cn": "克拉拉",
+    "damageType": "Physical",
+    "EN": "Clara",
+    "iconUrl": "/hsr/UI/avatarshopicon/1107.webp",
+    "id": "1107",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "桑博": {
+    "baseType": "Warlock",
+    "cn": "桑博",
+    "damageType": "Wind",
+    "EN": "Sampo",
+    "iconUrl": "/hsr/UI/avatarshopicon/1108.webp",
+    "id": "1108",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "虎克": {
+    "baseType": "Warrior",
+    "cn": "虎克",
+    "damageType": "Fire",
+    "EN": "Hook",
+    "iconUrl": "/hsr/UI/avatarshopicon/1109.webp",
+    "id": "1109",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "玲可": {
+    "baseType": "Priest",
+    "cn": "玲可",
+    "damageType": "Quantum",
+    "EN": "Lynx",
+    "iconUrl": "/hsr/UI/avatarshopicon/1110.webp",
+    "id": "1110",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "卢卡": {
+    "baseType": "Warlock",
+    "cn": "卢卡",
+    "damageType": "Physical",
+    "EN": "Luka",
+    "iconUrl": "/hsr/UI/avatarshopicon/1111.webp",
+    "id": "1111",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "托帕&账账": {
+    "baseType": "Rogue",
+    "cn": "托帕&账账",
+    "damageType": "Fire",
+    "EN": "Topaz & Numby",
+    "iconUrl": "/hsr/UI/avatarshopicon/1112.webp",
+    "id": "1112",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "青雀": {
+    "baseType": "Mage",
+    "cn": "青雀",
+    "damageType": "Quantum",
+    "EN": "Qingque",
+    "iconUrl": "/hsr/UI/avatarshopicon/1201.webp",
+    "id": "1201",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "停云": {
+    "baseType": "Shaman",
+    "cn": "停云",
+    "damageType": "Thunder",
+    "EN": "Tingyun",
+    "iconUrl": "/hsr/UI/avatarshopicon/1202.webp",
+    "id": "1202",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "罗刹": {
+    "baseType": "Priest",
+    "cn": "罗刹",
+    "damageType": "Imaginary",
+    "EN": "Luocha",
+    "iconUrl": "/hsr/UI/avatarshopicon/1203.webp",
+    "id": "1203",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "景元": {
+    "baseType": "Mage",
+    "cn": "景元",
+    "damageType": "Thunder",
+    "EN": "Jing Yuan",
+    "iconUrl": "/hsr/UI/avatarshopicon/1204.webp",
+    "id": "1204",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "刃": {
+    "baseType": "Warrior",
+    "cn": "刃",
+    "damageType": "Wind",
+    "EN": "Blade",
+    "iconUrl": "/hsr/UI/avatarshopicon/1205.webp",
+    "id": "1205",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "素裳": {
+    "baseType": "Rogue",
+    "cn": "素裳",
+    "damageType": "Physical",
+    "EN": "Sushang",
+    "iconUrl": "/hsr/UI/avatarshopicon/1206.webp",
+    "id": "1206",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "驭空": {
+    "baseType": "Shaman",
+    "cn": "驭空",
+    "damageType": "Imaginary",
+    "EN": "Yukong",
+    "iconUrl": "/hsr/UI/avatarshopicon/1207.webp",
+    "id": "1207",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "符玄": {
+    "baseType": "Knight",
+    "cn": "符玄",
+    "damageType": "Quantum",
+    "EN": "Fu Xuan",
+    "iconUrl": "/hsr/UI/avatarshopicon/1208.webp",
+    "id": "1208",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "彦卿": {
+    "baseType": "Rogue",
+    "cn": "彦卿",
+    "damageType": "Ice",
+    "EN": "Yanqing",
+    "iconUrl": "/hsr/UI/avatarshopicon/1209.webp",
+    "id": "1209",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "桂乃芬": {
+    "baseType": "Warlock",
+    "cn": "桂乃芬",
+    "damageType": "Fire",
+    "EN": "Guinaifen",
+    "iconUrl": "/hsr/UI/avatarshopicon/1210.webp",
+    "id": "1210",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "白露": {
+    "baseType": "Priest",
+    "cn": "白露",
+    "damageType": "Thunder",
+    "EN": "Bailu",
+    "iconUrl": "/hsr/UI/avatarshopicon/1211.webp",
+    "id": "1211",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "镜流": {
+    "baseType": "Warrior",
+    "cn": "镜流",
+    "damageType": "Ice",
+    "EN": "Jingliu",
+    "iconUrl": "/hsr/UI/avatarshopicon/1212.webp",
+    "id": "1212",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "丹恒•饮月": {
+    "baseType": "Warrior",
+    "cn": "丹恒•饮月",
+    "damageType": "Imaginary",
+    "EN": "Dan Heng • Imbibitor Lunae",
+    "iconUrl": "/hsr/UI/avatarshopicon/1213.webp",
+    "id": "1213",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "雪衣": {
+    "baseType": "Warrior",
+    "cn": "雪衣",
+    "damageType": "Quantum",
+    "EN": "Xueyi",
+    "iconUrl": "/hsr/UI/avatarshopicon/1214.webp",
+    "id": "1214",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "寒鸦": {
+    "baseType": "Shaman",
+    "cn": "寒鸦",
+    "damageType": "Physical",
+    "EN": "Hanya",
+    "iconUrl": "/hsr/UI/avatarshopicon/1215.webp",
+    "id": "1215",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "藿藿": {
+    "baseType": "Priest",
+    "cn": "藿藿",
+    "damageType": "Wind",
+    "EN": "Huohuo",
+    "iconUrl": "/hsr/UI/avatarshopicon/1217.webp",
+    "id": "1217",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "椒丘": {
+    "baseType": "Warlock",
+    "cn": "椒丘",
+    "damageType": "Fire",
+    "EN": "Jiaoqiu",
+    "iconUrl": "/hsr/UI/avatarshopicon/1218.webp",
+    "id": "1218",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "飞霄": {
+    "baseType": "Rogue",
+    "cn": "飞霄",
+    "damageType": "Wind",
+    "EN": "Feixiao",
+    "iconUrl": "/hsr/UI/avatarshopicon/1220.webp",
+    "id": "1220",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "云璃": {
+    "baseType": "Warrior",
+    "cn": "云璃",
+    "damageType": "Physical",
+    "EN": "Yunli",
+    "iconUrl": "/hsr/UI/avatarshopicon/1221.webp",
+    "id": "1221",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "灵砂": {
+    "baseType": "Priest",
+    "cn": "灵砂",
+    "damageType": "Fire",
+    "EN": "Lingsha",
+    "iconUrl": "/hsr/UI/avatarshopicon/1222.webp",
+    "id": "1222",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "貊泽": {
+    "baseType": "Rogue",
+    "cn": "貊泽",
+    "damageType": "Thunder",
+    "EN": "Moze",
+    "iconUrl": "/hsr/UI/avatarshopicon/1223.webp",
+    "id": "1223",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "三月七": {
+    "baseType": "Rogue",
+    "cn": "三月七",
+    "damageType": "Imaginary",
+    "EN": "March 7th",
+    "iconUrl": "/hsr/UI/avatarshopicon/1224.webp",
+    "id": "1224",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "忘归人": {
+    "baseType": "Warlock",
+    "cn": "忘归人",
+    "damageType": "Fire",
+    "EN": "Fugue",
+    "iconUrl": "/hsr/UI/avatarshopicon/1225.webp",
+    "id": "1225",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "加拉赫": {
+    "baseType": "Priest",
+    "cn": "加拉赫",
+    "damageType": "Fire",
+    "EN": "Gallagher",
+    "iconUrl": "/hsr/UI/avatarshopicon/1301.webp",
+    "id": "1301",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "银枝": {
+    "baseType": "Mage",
+    "cn": "银枝",
+    "damageType": "Physical",
+    "EN": "Argenti",
+    "iconUrl": "/hsr/UI/avatarshopicon/1302.webp",
+    "id": "1302",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "阮•梅": {
+    "baseType": "Shaman",
+    "cn": "阮•梅",
+    "damageType": "Ice",
+    "EN": "Ruan Mei",
+    "iconUrl": "/hsr/UI/avatarshopicon/1303.webp",
+    "id": "1303",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "砂金": {
+    "baseType": "Knight",
+    "cn": "砂金",
+    "damageType": "Imaginary",
+    "EN": "Aventurine",
+    "iconUrl": "/hsr/UI/avatarshopicon/1304.webp",
+    "id": "1304",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "真理医生": {
+    "baseType": "Rogue",
+    "cn": "真理医生",
+    "damageType": "Imaginary",
+    "EN": "Dr. Ratio",
+    "iconUrl": "/hsr/UI/avatarshopicon/1305.webp",
+    "id": "1305",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "花火": {
+    "baseType": "Shaman",
+    "cn": "花火",
+    "damageType": "Quantum",
+    "EN": "Sparkle",
+    "iconUrl": "/hsr/UI/avatarshopicon/1306.webp",
+    "id": "1306",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "黑天鹅": {
+    "baseType": "Warlock",
+    "cn": "黑天鹅",
+    "damageType": "Wind",
+    "EN": "Black Swan",
+    "iconUrl": "/hsr/UI/avatarshopicon/1307.webp",
+    "id": "1307",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "黄泉": {
+    "baseType": "Warlock",
+    "cn": "黄泉",
+    "damageType": "Thunder",
+    "EN": "Acheron",
+    "iconUrl": "/hsr/UI/avatarshopicon/1308.webp",
+    "id": "1308",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "知更鸟": {
+    "baseType": "Shaman",
+    "cn": "知更鸟",
+    "damageType": "Physical",
+    "EN": "Robin",
+    "iconUrl": "/hsr/UI/avatarshopicon/1309.webp",
+    "id": "1309",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "流萤": {
+    "baseType": "Warrior",
+    "cn": "流萤",
+    "damageType": "Fire",
+    "EN": "Firefly",
+    "iconUrl": "/hsr/UI/avatarshopicon/1310.webp",
+    "id": "1310",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "米沙": {
+    "baseType": "Warrior",
+    "cn": "米沙",
+    "damageType": "Ice",
+    "EN": "Misha",
+    "iconUrl": "/hsr/UI/avatarshopicon/1312.webp",
+    "id": "1312",
+    "rank": "CombatPowerAvatarRarityType4"
+  },
+  "星期日": {
+    "baseType": "Shaman",
+    "cn": "星期日",
+    "damageType": "Imaginary",
+    "EN": "Sunday",
+    "iconUrl": "/hsr/UI/avatarshopicon/1313.webp",
+    "id": "1313",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "翡翠": {
+    "baseType": "Mage",
+    "cn": "翡翠",
+    "damageType": "Quantum",
+    "EN": "Jade",
+    "iconUrl": "/hsr/UI/avatarshopicon/1314.webp",
+    "id": "1314",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "波提欧": {
+    "baseType": "Rogue",
+    "cn": "波提欧",
+    "damageType": "Physical",
+    "EN": "Boothill",
+    "iconUrl": "/hsr/UI/avatarshopicon/1315.webp",
+    "id": "1315",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "乱破": {
+    "baseType": "Mage",
+    "cn": "乱破",
+    "damageType": "Imaginary",
+    "EN": "Rappa",
+    "iconUrl": "/hsr/UI/avatarshopicon/1317.webp",
+    "id": "1317",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "大丽花": {
+    "baseType": "Warlock",
+    "cn": "大丽花",
+    "damageType": "Fire",
+    "EN": "The Dahlia",
+    "iconUrl": "/hsr/UI/avatarshopicon/1321.webp",
+    "id": "1321",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "大黑塔": {
+    "baseType": "Mage",
+    "cn": "大黑塔",
+    "damageType": "Ice",
+    "EN": "The Herta",
+    "iconUrl": "/hsr/UI/avatarshopicon/1401.webp",
+    "id": "1401",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "阿格莱雅": {
+    "baseType": "Memory",
+    "cn": "阿格莱雅",
+    "damageType": "Thunder",
+    "EN": "Aglaea",
+    "iconUrl": "/hsr/UI/avatarshopicon/1402.webp",
+    "id": "1402",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "缇宝": {
+    "baseType": "Shaman",
+    "cn": "缇宝",
+    "damageType": "Quantum",
+    "EN": "Tribbie",
+    "iconUrl": "/hsr/UI/avatarshopicon/1403.webp",
+    "id": "1403",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "万敌": {
+    "baseType": "Warrior",
+    "cn": "万敌",
+    "damageType": "Imaginary",
+    "EN": "Mydei",
+    "iconUrl": "/hsr/UI/avatarshopicon/1404.webp",
+    "id": "1404",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "那刻夏": {
+    "baseType": "Mage",
+    "cn": "那刻夏",
+    "damageType": "Wind",
+    "EN": "Anaxa",
+    "iconUrl": "/hsr/UI/avatarshopicon/1405.webp",
+    "id": "1405",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "赛飞儿": {
+    "baseType": "Warlock",
+    "cn": "赛飞儿",
+    "damageType": "Quantum",
+    "EN": "Cipher",
+    "iconUrl": "/hsr/UI/avatarshopicon/1406.webp",
+    "id": "1406",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "遐蝶": {
+    "baseType": "Memory",
+    "cn": "遐蝶",
+    "damageType": "Quantum",
+    "EN": "Castorice",
+    "iconUrl": "/hsr/UI/avatarshopicon/1407.webp",
+    "id": "1407",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "白厄": {
+    "baseType": "Warrior",
+    "cn": "白厄",
+    "damageType": "Physical",
+    "EN": "Phainon",
+    "iconUrl": "/hsr/UI/avatarshopicon/1408.webp",
+    "id": "1408",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "风堇": {
+    "baseType": "Memory",
+    "cn": "风堇",
+    "damageType": "Wind",
+    "EN": "Hyacine",
+    "iconUrl": "/hsr/UI/avatarshopicon/1409.webp",
+    "id": "1409",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "海瑟音": {
+    "baseType": "Warlock",
+    "cn": "海瑟音",
+    "damageType": "Physical",
+    "EN": "Hysilens",
+    "iconUrl": "/hsr/UI/avatarshopicon/1410.webp",
+    "id": "1410",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "刻律德菈": {
+    "baseType": "Shaman",
+    "cn": "刻律德菈",
+    "damageType": "Wind",
+    "EN": "Cerydra",
+    "iconUrl": "/hsr/UI/avatarshopicon/1412.webp",
+    "id": "1412",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "长夜月": {
+    "baseType": "Memory",
+    "cn": "长夜月",
+    "damageType": "Ice",
+    "EN": "Evernight",
+    "iconUrl": "/hsr/UI/avatarshopicon/1413.webp",
+    "id": "1413",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "丹恒•腾荒": {
+    "baseType": "Knight",
+    "cn": "丹恒•腾荒",
+    "damageType": "Physical",
+    "EN": "Dan Heng • Permansor Terrae",
+    "iconUrl": "/hsr/UI/avatarshopicon/1414.webp",
+    "id": "1414",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "昔涟": {
+    "baseType": "Memory",
+    "cn": "昔涟",
+    "damageType": "Ice",
+    "EN": "Cyrene",
+    "iconUrl": "/hsr/UI/avatarshopicon/1415.webp",
+    "id": "1415",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "火花": {
+    "baseType": "Elation",
+    "cn": "火花",
+    "damageType": "Fire",
+    "EN": "Sparxie",
+    "iconUrl": "/hsr/UI/avatarshopicon/1501.webp",
+    "id": "1501",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "爻光": {
+    "baseType": "Elation",
+    "cn": "爻光",
+    "damageType": "Physical",
+    "EN": "Yao Guang",
+    "iconUrl": "/hsr/UI/avatarshopicon/1502.webp",
+    "id": "1502",
+    "rank": "CombatPowerAvatarRarityType5"
+  },
+  "开拓者": {
+    "baseType": "Memory",
+    "cn": "开拓者",
+    "damageType": "Ice",
+    "EN": "Trailblazer",
+    "iconUrl": "/hsr/UI/avatarshopicon/8008.webp",
+    "id": "8008",
+    "rank": "CombatPowerAvatarRarityType5"
+  }
 }

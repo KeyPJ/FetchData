@@ -5,14 +5,14 @@ on:
   workflow_dispatch:
     inputs:
       item:
-        description: 'Choose a game (leave empty for all)'
+        description: 'Choose a game or all'
         type: choice
-        default: 'zzz'
+        default: 'all'
         options:
           - 'gi'
           - 'hsr'
           - 'zzz'
-          - ''
+          - 'all'
   # 定时执行：每周四 UTC 时间 0 点（北京时间早上 8 点）
   schedule:
     - cron: '0 0 * * 4'
@@ -45,9 +45,16 @@ jobs:
 
       - name: Get Gacha Data
         # 定时任务调度时使用空参数（处理所有游戏），手动触发时使用输入的参数
+        env:
+          MIHOYO_COOKIE: ${{ secrets.MIHOYO_COOKIE }}
+          MIHOYO_GI_COOKIE: ${{ secrets.MIHOYO_GI_COOKIE }}
+          MIHOYO_HSR_COOKIE: ${{ secrets.MIHOYO_HSR_COOKIE }}
+          MIHOYO_3Z_COOKIE: ${{ secrets.MIHOYO_3Z_COOKIE }}
+          MIHOYO_DEVICE_ID: ${{ secrets.MIHOYO_DEVICE_ID }}
+          MIHOYO_DEVICE_FP: ${{ secrets.MIHOYO_DEVICE_FP }}
         run: |
           node src/mihoyo.js ${{ github.event.inputs.item || '' }} 
-          node src/hakush.js ${{ github.event.inputs.item || '' }} 
+          node src/miyoushe.js ${{ github.event.inputs.item || '' }} 
           node src/fetchGachaDataV2.js ${{ github.event.inputs.item || '' }}
 
       - name: Update Data

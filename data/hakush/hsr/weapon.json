@@ -1,1266 +1,1250 @@
 {
-	"「我」的诞生": {
-		"baseType": "Mage",
-		"cn": "「我」的诞生",
-		"EN": "The Birth of the Self",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-		"id": "21006",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"一场术后对话": {
-		"baseType": "Priest",
-		"cn": "一场术后对话",
-		"EN": "Post-Op Conversation",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21000.webp",
-		"id": "21000",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"一场谎言的终幕": {
-		"baseType": "Rogue",
-		"cn": "一场谎言的终幕",
-		"EN": "The Finale of a Lie",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23056.webp",
-		"id": "23056",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"一行往日的血": {
-		"baseType": "Warrior",
-		"cn": "一行往日的血",
-		"EN": "A Trail of Bygone Blood",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21058.webp",
-		"id": "21058",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"不息的演算": {
-		"baseType": "Mage",
-		"cn": "不息的演算",
-		"EN": "Eternal Calculus",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24004.webp",
-		"id": "24004",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"与行星相会": {
-		"baseType": "Shaman",
-		"cn": "与行星相会",
-		"EN": "Planetary Rendezvous",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-		"id": "21011",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"两个人的演唱会": {
-		"baseType": "Knight",
-		"cn": "两个人的演唱会",
-		"EN": "Concert for Two",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21043.webp",
-		"id": "21043",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"为了明日的旅途": {
-		"baseType": "Shaman",
-		"cn": "为了明日的旅途",
-		"EN": "For Tomorrow's Journey",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22002.webp",
-		"id": "22002",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"乐圮": {
-		"baseType": "Warrior",
-		"cn": "乐圮",
-		"EN": "Shattered Home",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20009.webp",
-		"id": "20009",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"于夜色中": {
-		"baseType": "Rogue",
-		"cn": "于夜色中",
-		"EN": "In the Night",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23001.webp",
-		"id": "23001",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"于那终点再见": {
-		"baseType": "Rogue",
-		"cn": "于那终点再见",
-		"EN": "See You at the End",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21062.webp",
-		"id": "21062",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"今日亦是和平的一日": {
-		"baseType": "Mage",
-		"cn": "今日亦是和平的一日",
-		"EN": "Today Is Another Peaceful Day",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21034.webp",
-		"id": "21034",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"今日好手气": {
-		"baseType": "Elation",
-		"cn": "今日好手气",
-		"EN": "Today's Good Luck",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21065.webp",
-		"id": "21065",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"以世界之名": {
-		"baseType": "Warlock",
-		"cn": "以世界之名",
-		"EN": "In the Name of the World",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23004.webp",
-		"id": "23004",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"但战斗还未结束": {
-		"baseType": "Shaman",
-		"cn": "但战斗还未结束",
-		"EN": "But the Battle Isn't Over",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23003.webp",
-		"id": "23003",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"何物为真": {
-		"baseType": "Priest",
-		"cn": "何物为真",
-		"EN": "What Is Real?",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21035.webp",
-		"id": "21035",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"余生的第一天": {
-		"baseType": "Knight",
-		"cn": "余生的第一天",
-		"EN": "Day One of My New Life",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21002.webp",
-		"id": "21002",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"俱殁": {
-		"baseType": "Warrior",
-		"cn": "俱殁",
-		"EN": "Mutual Demise",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20016.webp",
-		"id": "20016",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"假日浴场大冒险": {
-		"baseType": "Warlock",
-		"cn": "假日浴场大冒险",
-		"EN": "Holiday Thermae Escapade",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21061.webp",
-		"id": "21061",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"偏偏希望无价": {
-		"baseType": "Mage",
-		"cn": "偏偏希望无价",
-		"EN": "Yet Hope Is Priceless",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23028.webp",
-		"id": "23028",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"最后的赢家": {
-		"baseType": "Rogue",
-		"cn": "最后的赢家",
-		"EN": "Final Victor",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21037.webp",
-		"id": "21037",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"决心如汗珠般闪耀": {
-		"baseType": "Warlock",
-		"cn": "决心如汗珠般闪耀",
-		"EN": "Resolution Shines As Pearls of Sweat",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-		"id": "21015",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"别让世界静下来": {
-		"baseType": "Mage",
-		"cn": "别让世界静下来",
-		"EN": "Make the World Clamor",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21013.webp",
-		"id": "21013",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"到不了的彼岸": {
-		"baseType": "Warrior",
-		"cn": "到不了的彼岸",
-		"EN": "The Unreachable Side",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23009.webp",
-		"id": "23009",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"制胜的瞬间": {
-		"baseType": "Knight",
-		"cn": "制胜的瞬间",
-		"EN": "Moment of Victory",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23005.webp",
-		"id": "23005",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"勿忘她的火焰": {
-		"baseType": "Warlock",
-		"cn": "勿忘她的火焰",
-		"EN": "Never Forget Her Flame",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23050.webp",
-		"id": "23050",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"匿影": {
-		"baseType": "Warlock",
-		"cn": "匿影",
-		"EN": "Hidden Shadow",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20018.webp",
-		"id": "20018",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"只需等待": {
-		"baseType": "Warlock",
-		"cn": "只需等待",
-		"EN": "Patience Is All You Need",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23006.webp",
-		"id": "23006",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"同一种心情": {
-		"baseType": "Priest",
-		"cn": "同一种心情",
-		"EN": "Shared Feeling",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-		"id": "21007",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"后会有期": {
-		"baseType": "Warlock",
-		"cn": "后会有期",
-		"EN": "We Will Meet Again",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21029.webp",
-		"id": "21029",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"向着不可追问处": {
-		"baseType": "Mage",
-		"cn": "向着不可追问处",
-		"EN": "Into the Unreachable Veil",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23037.webp",
-		"id": "23037",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"命运从未公平": {
-		"baseType": "Knight",
-		"cn": "命运从未公平",
-		"EN": "Inherently Unjust Destiny",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23023.webp",
-		"id": "23023",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"唯有沉默": {
-		"baseType": "Rogue",
-		"cn": "唯有沉默",
-		"EN": "Only Silence Remains",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21003.webp",
-		"id": "21003",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"唯有香如故": {
-		"baseType": "Priest",
-		"cn": "唯有香如故",
-		"EN": "Scent Alone Stays True",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23032.webp",
-		"id": "23032",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"嗤笑": {
-		"baseType": "Elation",
-		"cn": "嗤笑",
-		"EN": "Sneering",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20023.webp",
-		"id": "20023",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"嘉果": {
-		"baseType": "Priest",
-		"cn": "嘉果",
-		"EN": "Fine Fruit",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20008.webp",
-		"id": "20008",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"嘿，我在这儿": {
-		"baseType": "Priest",
-		"cn": "嘿，我在这儿",
-		"EN": "Hey, Over Here",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22001.webp",
-		"id": "22001",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"回到大地的飞行": {
-		"baseType": "Shaman",
-		"cn": "回到大地的飞行",
-		"EN": "A Grounded Ascent",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23034.webp",
-		"id": "23034",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"在火的远处": {
-		"baseType": "Warrior",
-		"cn": "在火的远处",
-		"EN": "Flames Afar",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21038.webp",
-		"id": "21038",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"在蓝天下": {
-		"baseType": "Warrior",
-		"cn": "在蓝天下",
-		"EN": "Under the Blue Sky",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21019.webp",
-		"id": "21019",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"多流汗，少流泪": {
-		"baseType": "Memory",
-		"cn": "多流汗，少流泪",
-		"EN": "Sweat Now, Cry Less",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21052.webp",
-		"id": "21052",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"夜色流光溢彩": {
-		"baseType": "Shaman",
-		"cn": "夜色流光溢彩",
-		"EN": "Flowing Nightglow",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23026.webp",
-		"id": "23026",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"天倾": {
-		"baseType": "Warrior",
-		"cn": "天倾",
-		"EN": "Collapsing Sky",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20002.webp",
-		"id": "20002",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"天才们的休憩": {
-		"baseType": "Mage",
-		"cn": "天才们的休憩",
-		"EN": "Geniuses' Repose",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21020.webp",
-		"id": "21020",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"天才们的问候": {
-		"baseType": "Memory",
-		"cn": "天才们的问候",
-		"EN": "Geniuses' Greetings",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21051.webp",
-		"id": "21051",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"她已闭上双眼": {
-		"baseType": "Knight",
-		"cn": "她已闭上双眼",
-		"EN": "She Already Shut Her Eyes",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23011.webp",
-		"id": "23011",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"好戏开演": {
-		"baseType": "Warlock",
-		"cn": "好戏开演",
-		"EN": "It's Showtime",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21041.webp",
-		"id": "21041",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"如果时间是一朵花": {
-		"baseType": "Shaman",
-		"cn": "如果时间是一朵花",
-		"EN": "If Time Were a Flower",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23038.webp",
-		"id": "23038",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"如泥酣眠": {
-		"baseType": "Rogue",
-		"cn": "如泥酣眠",
-		"EN": "Sleep Like the Dead",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23012.webp",
-		"id": "23012",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"孤独的疗愈": {
-		"baseType": "Warlock",
-		"cn": "孤独的疗愈",
-		"EN": "Solitary Healing",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24003.webp",
-		"id": "24003",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"宇宙大生意": {
-		"baseType": "Mage",
-		"cn": "宇宙大生意",
-		"EN": "The Great Cosmic Enterprise",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22004.webp",
-		"id": "22004",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"宇宙市场趋势": {
-		"baseType": "Knight",
-		"cn": "宇宙市场趋势",
-		"EN": "Trend of the Universal Market",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-		"id": "21016",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"将光阴织成黄金": {
-		"baseType": "Memory",
-		"cn": "将光阴织成黄金",
-		"EN": "Time Woven Into Gold",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23036.webp",
-		"id": "23036",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"幽邃": {
-		"baseType": "Warlock",
-		"cn": "幽邃",
-		"EN": "Void",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20004.webp",
-		"id": "20004",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"延长记号": {
-		"baseType": "Warlock",
-		"cn": "延长记号",
-		"EN": "Fermata",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21022.webp",
-		"id": "21022",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"开疆": {
-		"baseType": "Knight",
-		"cn": "开疆",
-		"EN": "Pioneering",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20017.webp",
-		"id": "20017",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"当她决定看见": {
-		"baseType": "Elation",
-		"cn": "当她决定看见",
-		"EN": "When She Decided to See",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23054.webp",
-		"id": "23054",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"忍事录•音律狩猎": {
-		"baseType": "Warrior",
-		"cn": "忍事录•音律狩猎",
-		"EN": "Ninja Record: Sound Hunt",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22003.webp",
-		"id": "22003",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"忍法帖•缭乱破魔": {
-		"baseType": "Mage",
-		"cn": "忍法帖•缭乱破魔",
-		"EN": "Ninjutsu Inscription: Dazzling Evilbreaker",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23033.webp",
-		"id": "23033",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"惊魂夜": {
-		"baseType": "Priest",
-		"cn": "惊魂夜",
-		"EN": "Night of Fright",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23017.webp",
-		"id": "23017",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"愿旅途永远坦然": {
-		"baseType": "Knight",
-		"cn": "愿旅途永远坦然",
-		"EN": "Journey, Forever Peaceful",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21053.webp",
-		"id": "21053",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"愿虹光永驻天空": {
-		"baseType": "Memory",
-		"cn": "愿虹光永驻天空",
-		"EN": "Long May Rainbows Adorn the Sky",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23042.webp",
-		"id": "23042",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"戍御": {
-		"baseType": "Knight",
-		"cn": "戍御",
-		"EN": "Defense",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20010.webp",
-		"id": "20010",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"我们是地火": {
-		"baseType": "Knight",
-		"cn": "我们是地火",
-		"EN": "We Are Wildfire",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21023.webp",
-		"id": "21023",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"我将，巡征追猎": {
-		"baseType": "Rogue",
-		"cn": "我将，巡征追猎",
-		"EN": "I Venture Forth to Hunt",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23031.webp",
-		"id": "23031",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"拂晓之前": {
-		"baseType": "Mage",
-		"cn": "拂晓之前",
-		"EN": "Before Dawn",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23010.webp",
-		"id": "23010",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"故事的下一页": {
-		"baseType": "Memory",
-		"cn": "故事的下一页",
-		"EN": "The Story's Next Page",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21054.webp",
-		"id": "21054",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"新手任务开始前": {
-		"baseType": "Warlock",
-		"cn": "新手任务开始前",
-		"EN": "Before the Tutorial Mission Starts",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22000.webp",
-		"id": "22000",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"无可取代的东西": {
-		"baseType": "Warrior",
-		"cn": "无可取代的东西",
-		"EN": "Something Irreplaceable",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23002.webp",
-		"id": "23002",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"无处可逃": {
-		"baseType": "Warrior",
-		"cn": "无处可逃",
-		"EN": "Nowhere to Run",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21033.webp",
-		"id": "21033",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"无边曼舞": {
-		"baseType": "Warlock",
-		"cn": "无边曼舞",
-		"EN": "Boundless Choreo",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21044.webp",
-		"id": "21044",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"早餐的仪式感": {
-		"baseType": "Mage",
-		"cn": "早餐的仪式感",
-		"EN": "The Seriousness of Breakfast",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21027.webp",
-		"id": "21027",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"时节不居": {
-		"baseType": "Priest",
-		"cn": "时节不居",
-		"EN": "Time Waits for No One",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23013.webp",
-		"id": "23013",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"星海巡航": {
-		"baseType": "Rogue",
-		"cn": "星海巡航",
-		"EN": "Cruising in the Stellar Sea",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24001.webp",
-		"id": "24001",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"春水初生": {
-		"baseType": "Rogue",
-		"cn": "春水初生",
-		"EN": "River Flows in Spring",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21024.webp",
-		"id": "21024",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"晚安与睡颜": {
-		"baseType": "Warlock",
-		"cn": "晚安与睡颜",
-		"EN": "Good Night and Sleep Well",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21001.webp",
-		"id": "21001",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"智库": {
-		"baseType": "Mage",
-		"cn": "智库",
-		"EN": "Data Bank",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20006.webp",
-		"id": "20006",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"暖夜不会漫长": {
-		"baseType": "Priest",
-		"cn": "暖夜不会漫长",
-		"EN": "Warmth Shortens Cold Nights",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21028.webp",
-		"id": "21028",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"朗道的选择": {
-		"baseType": "Knight",
-		"cn": "朗道的选择",
-		"EN": "Landau's Choice",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21009.webp",
-		"id": "21009",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"梦应归于何处": {
-		"baseType": "Warrior",
-		"cn": "梦应归于何处",
-		"EN": "Whereabouts Should Dreams Rest",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23025.webp",
-		"id": "23025",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"梦的蒙太奇": {
-		"baseType": "Priest",
-		"cn": "梦的蒙太奇",
-		"EN": "Dream's Montage",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21048.webp",
-		"id": "21048",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"棺的回响": {
-		"baseType": "Priest",
-		"cn": "棺的回响",
-		"EN": "Echoes of the Coffin",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23008.webp",
-		"id": "23008",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"欢愉满溢祝福": {
-		"baseType": "Elation",
-		"cn": "欢愉满溢祝福",
-		"EN": "Elation Brimming With Blessings",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24006.webp",
-		"id": "24006",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"此时恰好": {
-		"baseType": "Priest",
-		"cn": "此时恰好",
-		"EN": "Perfect Timing",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21014.webp",
-		"id": "21014",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"此身为剑": {
-		"baseType": "Warrior",
-		"cn": "此身为剑",
-		"EN": "I Shall Be My Own Sword",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23014.webp",
-		"id": "23014",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"残泪": {
-		"baseType": "Elation",
-		"cn": "残泪",
-		"EN": "Lingering Tear",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20024.webp",
-		"id": "20024",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"比阳光更明亮的": {
-		"baseType": "Warrior",
-		"cn": "比阳光更明亮的",
-		"EN": "Brighter Than the Sun",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23015.webp",
-		"id": "23015",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"氤氲麦香的梦": {
-		"baseType": "Mage",
-		"cn": "氤氲麦香的梦",
-		"EN": "A Dream Scented in Wheat",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21060.webp",
-		"id": "21060",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"永远的迷境饭": {
-		"baseType": "Shaman",
-		"cn": "永远的迷境饭",
-		"EN": "The Forever Victual",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22005.webp",
-		"id": "22005",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"汪！散步时间！": {
-		"baseType": "Warrior",
-		"cn": "汪！散步时间！",
-		"EN": "Woof! Walk Time!",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21026.webp",
-		"id": "21026",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"没有回报的加冕": {
-		"baseType": "Warrior",
-		"cn": "没有回报的加冕",
-		"EN": "A Thankless Coronation",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23045.webp",
-		"id": "23045",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"海洋为何而歌": {
-		"baseType": "Warlock",
-		"cn": "海洋为何而歌",
-		"EN": "Why Does the Ocean Sing",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23047.webp",
-		"id": "23047",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"渊环": {
-		"baseType": "Warlock",
-		"cn": "渊环",
-		"EN": "Loop",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20011.webp",
-		"id": "20011",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"游戏尘寰": {
-		"baseType": "Shaman",
-		"cn": "游戏尘寰",
-		"EN": "Earthly Escapade",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23021.webp",
-		"id": "23021",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"溯忆": {
-		"baseType": "Memory",
-		"cn": "溯忆",
-		"EN": "Reminiscence",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20022.webp",
-		"id": "20022",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"灵钥": {
-		"baseType": "Mage",
-		"cn": "灵钥",
-		"EN": "Passkey",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20013.webp",
-		"id": "20013",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"点个关注吧！": {
-		"baseType": "Rogue",
-		"cn": "点个关注吧！",
-		"EN": "Subscribe for More!",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21017.webp",
-		"id": "21017",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"烦恼着，幸福着": {
-		"baseType": "Rogue",
-		"cn": "烦恼着，幸福着",
-		"EN": "Worrisome, Blissful",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23016.webp",
-		"id": "23016",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"焚影": {
-		"baseType": "Memory",
-		"cn": "焚影",
-		"EN": "Shadowburn",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20021.webp",
-		"id": "20021",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"爱如此刻永恒": {
-		"baseType": "Memory",
-		"cn": "爱如此刻永恒",
-		"EN": "This Love, Forever",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23052.webp",
-		"id": "23052",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"片刻，留在眼底": {
-		"baseType": "Mage",
-		"cn": "片刻，留在眼底",
-		"EN": "An Instant Before A Gaze",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23018.webp",
-		"id": "23018",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"物穰": {
-		"baseType": "Priest",
-		"cn": "物穰",
-		"EN": "Cornucopia",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20001.webp",
-		"id": "20001",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"猎物的视线": {
-		"baseType": "Warlock",
-		"cn": "猎物的视线",
-		"EN": "Eyes of the Prey",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-		"id": "21008",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"理想燃烧的地狱": {
-		"baseType": "Rogue",
-		"cn": "理想燃烧的地狱",
-		"EN": "The Hell Where Ideals Burn",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23046.webp",
-		"id": "23046",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"琥珀": {
-		"baseType": "Knight",
-		"cn": "琥珀",
-		"EN": "Amber",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20003.webp",
-		"id": "20003",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"生命当付之一炬": {
-		"baseType": "Mage",
-		"cn": "生命当付之一炬",
-		"EN": "Life Should Be Cast to Flames",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23041.webp",
-		"id": "23041",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"直到明天的明天": {
-		"baseType": "Priest",
-		"cn": "直到明天的明天",
-		"EN": "Unto Tomorrow's Morrow",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21055.webp",
-		"id": "21055",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"相抗": {
-		"baseType": "Rogue",
-		"cn": "相抗",
-		"EN": "Adversarial",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20014.webp",
-		"id": "20014",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"睿见": {
-		"baseType": "Mage",
-		"cn": "睿见",
-		"EN": "Sagacity",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20020.webp",
-		"id": "20020",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"离弦": {
-		"baseType": "Rogue",
-		"cn": "离弦",
-		"EN": "Darting Arrow",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20007.webp",
-		"id": "20007",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"秘密誓心": {
-		"baseType": "Warrior",
-		"cn": "秘密誓心",
-		"EN": "A Secret Vow",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-		"id": "21012",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"等价交换": {
-		"baseType": "Priest",
-		"cn": "等价交换",
-		"EN": "Quid Pro Quo",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21021.webp",
-		"id": "21021",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"纯粹思维的洗礼": {
-		"baseType": "Rogue",
-		"cn": "纯粹思维的洗礼",
-		"EN": "Baptism of Pure Thought",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23020.webp",
-		"id": "23020",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"纵然山河万程": {
-		"baseType": "Knight",
-		"cn": "纵然山河万程",
-		"EN": "Though Worlds Apart",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23051.webp",
-		"id": "23051",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"织造命运之线": {
-		"baseType": "Knight",
-		"cn": "织造命运之线",
-		"EN": "Destiny's Threads Forewoven",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21039.webp",
-		"id": "21039",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"美梦小镇大冒险": {
-		"baseType": "Shaman",
-		"cn": "美梦小镇大冒险",
-		"EN": "Dreamville Adventure",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21036.webp",
-		"id": "21036",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"胜利只在朝夕间": {
-		"baseType": "Memory",
-		"cn": "胜利只在朝夕间",
-		"EN": "Victory In a Blink",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21050.webp",
-		"id": "21050",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"致长夜的星光": {
-		"baseType": "Memory",
-		"cn": "致长夜的星光",
-		"EN": "To Evernight's Stars",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23049.webp",
-		"id": "23049",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"舞！舞！舞！": {
-		"baseType": "Shaman",
-		"cn": "舞！舞！舞！",
-		"EN": "Dance! Dance! Dance!",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21018.webp",
-		"id": "21018",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"花儿不会忘记": {
-		"baseType": "Memory",
-		"cn": "花儿不会忘记",
-		"EN": "The Flower Remembers",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21057.webp",
-		"id": "21057",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"花花世界迷人眼": {
-		"baseType": "Elation",
-		"cn": "花花世界迷人眼",
-		"EN": "Dazzled by a Flowery World",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23053.webp",
-		"id": "23053",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"芳华待灼": {
-		"baseType": "Shaman",
-		"cn": "芳华待灼",
-		"EN": "Poised to Bloom",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21046.webp",
-		"id": "21046",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"菇菇嘎嘎历险记": {
-		"baseType": "Elation",
-		"cn": "菇菇嘎嘎历险记",
-		"EN": "Mushy Shroomy's Adventures",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21064.webp",
-		"id": "21064",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"落日时起舞": {
-		"baseType": "Warrior",
-		"cn": "落日时起舞",
-		"EN": "Dance at Sunset",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23030.webp",
-		"id": "23030",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"蕃息": {
-		"baseType": "Priest",
-		"cn": "蕃息",
-		"EN": "Multiplication",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20015.webp",
-		"id": "20015",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"血火啊，燃烧前路": {
-		"baseType": "Warrior",
-		"cn": "血火啊，燃烧前路",
-		"EN": "Flame of Blood, Blaze My Path",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23039.webp",
-		"id": "23039",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"行于流逝的岸": {
-		"baseType": "Warlock",
-		"cn": "行于流逝的岸",
-		"EN": "Along the Passing Shore",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23024.webp",
-		"id": "23024",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"让告别，更美一些": {
-		"baseType": "Memory",
-		"cn": "让告别，更美一些",
-		"EN": "Make Farewells More Beautiful",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23040.webp",
-		"id": "23040",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"记一位星神的陨落": {
-		"baseType": "Warrior",
-		"cn": "记一位星神的陨落",
-		"EN": "On the Fall of an Aeon",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24000.webp",
-		"id": "24000",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"记忆中的模样": {
-		"baseType": "Shaman",
-		"cn": "记忆中的模样",
-		"EN": "Memories of the Past",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21004.webp",
-		"id": "21004",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"记忆永不落幕": {
-		"baseType": "Memory",
-		"cn": "记忆永不落幕",
-		"EN": "Memory's Curtain Never Falls",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24005.webp",
-		"id": "24005",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"记忆的质料": {
-		"baseType": "Knight",
-		"cn": "记忆的质料",
-		"EN": "Texture of Memories",
-		"iconUrl": "/hsr/UI/lightconemediumicon/24002.webp",
-		"id": "24002",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"论剑": {
-		"baseType": "Rogue",
-		"cn": "论剑",
-		"EN": "Swordplay",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21010.webp",
-		"id": "21010",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"调和": {
-		"baseType": "Shaman",
-		"cn": "调和",
-		"EN": "Mediation",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20019.webp",
-		"id": "20019",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"谎言在风中飘扬": {
-		"baseType": "Warlock",
-		"cn": "谎言在风中飘扬",
-		"EN": "Lies Dance on the Breeze",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23043.webp",
-		"id": "23043",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"谐乐静默之后": {
-		"baseType": "Mage",
-		"cn": "谐乐静默之后",
-		"EN": "After the Charmony Fall",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21045.webp",
-		"id": "21045",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"轮契": {
-		"baseType": "Shaman",
-		"cn": "轮契",
-		"EN": "Meshing Cogs",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20012.webp",
-		"id": "20012",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"过往未来": {
-		"baseType": "Shaman",
-		"cn": "过往未来",
-		"EN": "Past and Future",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21025.webp",
-		"id": "21025",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"这就是我啦！": {
-		"baseType": "Knight",
-		"cn": "这就是我啦！",
-		"EN": "This Is Me!",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21030.webp",
-		"id": "21030",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"追逐风的时候": {
-		"baseType": "Shaman",
-		"cn": "追逐风的时候",
-		"EN": "In Pursuit of the Wind",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21056.webp",
-		"id": "21056",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"那无数个春天": {
-		"baseType": "Warlock",
-		"cn": "那无数个春天",
-		"EN": "Those Many Springs",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23029.webp",
-		"id": "23029",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"重塑时光之忆": {
-		"baseType": "Warlock",
-		"cn": "重塑时光之忆",
-		"EN": "Reforged Remembrance",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23022.webp",
-		"id": "23022",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"重返幽冥": {
-		"baseType": "Rogue",
-		"cn": "重返幽冥",
-		"EN": "Return to Darkness",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21031.webp",
-		"id": "21031",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"金血铭刻的时代": {
-		"baseType": "Shaman",
-		"cn": "金血铭刻的时代",
-		"EN": "Epoch Etched in Golden Blood",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23048.webp",
-		"id": "23048",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"铭记于心的约定": {
-		"baseType": "Warrior",
-		"cn": "铭记于心的约定",
-		"EN": "Indelible Promise",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21042.webp",
-		"id": "21042",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"银河沦陷日": {
-		"baseType": "Mage",
-		"cn": "银河沦陷日",
-		"EN": "The Day The Cosmos Fell",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21040.webp",
-		"id": "21040",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"银河铁道之夜": {
-		"baseType": "Mage",
-		"cn": "银河铁道之夜",
-		"EN": "Night on the Milky Way",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23000.webp",
-		"id": "23000",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"锋镝": {
-		"baseType": "Rogue",
-		"cn": "锋镝",
-		"EN": "Arrows",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20000.webp",
-		"id": "20000",
-		"rank": "CombatPowerLightconeRarity3"
-	},
-	"镂月裁云之意": {
-		"baseType": "Shaman",
-		"cn": "镂月裁云之意",
-		"EN": "Carve the Moon, Weave the Clouds",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21032.webp",
-		"id": "21032",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"镜中故我": {
-		"baseType": "Shaman",
-		"cn": "镜中故我",
-		"EN": "Past Self in Mirror",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23019.webp",
-		"id": "23019",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"长路终有归途": {
-		"baseType": "Warlock",
-		"cn": "长路终有归途",
-		"EN": "Long Road Leads Home",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23035.webp",
-		"id": "23035",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"雨一直下": {
-		"baseType": "Warlock",
-		"cn": "雨一直下",
-		"EN": "Incessant Rain",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23007.webp",
-		"id": "23007",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"飞向粉色的明天": {
-		"baseType": "Memory",
-		"cn": "飞向粉色的明天",
-		"EN": "Fly Into a Pink Tomorrow",
-		"iconUrl": "/hsr/UI/lightconemediumicon/22006.webp",
-		"id": "22006",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"驶向第二次生命": {
-		"baseType": "Rogue",
-		"cn": "驶向第二次生命",
-		"EN": "Sailing Towards a Second Life",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23027.webp",
-		"id": "23027",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"黎明恰如此燃烧": {
-		"baseType": "Warrior",
-		"cn": "黎明恰如此燃烧",
-		"EN": "Thus Burns the Dawn",
-		"iconUrl": "/hsr/UI/lightconemediumicon/23044.webp",
-		"id": "23044",
-		"rank": "CombatPowerLightconeRarity5"
-	},
-	"黑夜如影随行": {
-		"baseType": "Rogue",
-		"cn": "黑夜如影随行",
-		"EN": "Shadowed by Night",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21047.webp",
-		"id": "21047",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"鼹鼠党欢迎你": {
-		"baseType": "Warrior",
-		"cn": "鼹鼠党欢迎你",
-		"EN": "The Moles Welcome You",
-		"iconUrl": "/hsr/UI/lightconemediumicon/21005.webp",
-		"id": "21005",
-		"rank": "CombatPowerLightconeRarity4"
-	},
-	"齐颂": {
-		"baseType": "Shaman",
-		"cn": "齐颂",
-		"EN": "Chorus",
-		"iconUrl": "/hsr/UI/lightconemediumicon/20005.webp",
-		"id": "20005",
-		"rank": "CombatPowerLightconeRarity3"
-	}
+  "锋镝": {
+    "baseType": "Rogue",
+    "cn": "锋镝",
+    "EN": "Arrows",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20000.webp",
+    "id": "20000",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "物穰": {
+    "baseType": "Priest",
+    "cn": "物穰",
+    "EN": "Cornucopia",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20001.webp",
+    "id": "20001",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "天倾": {
+    "baseType": "Warrior",
+    "cn": "天倾",
+    "EN": "Collapsing Sky",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20002.webp",
+    "id": "20002",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "琥珀": {
+    "baseType": "Knight",
+    "cn": "琥珀",
+    "EN": "Amber",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20003.webp",
+    "id": "20003",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "幽邃": {
+    "baseType": "Warlock",
+    "cn": "幽邃",
+    "EN": "Void",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20004.webp",
+    "id": "20004",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "齐颂": {
+    "baseType": "Shaman",
+    "cn": "齐颂",
+    "EN": "Chorus",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20005.webp",
+    "id": "20005",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "智库": {
+    "baseType": "Mage",
+    "cn": "智库",
+    "EN": "Data Bank",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20006.webp",
+    "id": "20006",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "离弦": {
+    "baseType": "Rogue",
+    "cn": "离弦",
+    "EN": "Darting Arrow",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20007.webp",
+    "id": "20007",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "嘉果": {
+    "baseType": "Priest",
+    "cn": "嘉果",
+    "EN": "Fine Fruit",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20008.webp",
+    "id": "20008",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "乐圮": {
+    "baseType": "Warrior",
+    "cn": "乐圮",
+    "EN": "Shattered Home",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20009.webp",
+    "id": "20009",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "戍御": {
+    "baseType": "Knight",
+    "cn": "戍御",
+    "EN": "Defense",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20010.webp",
+    "id": "20010",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "渊环": {
+    "baseType": "Warlock",
+    "cn": "渊环",
+    "EN": "Loop",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20011.webp",
+    "id": "20011",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "轮契": {
+    "baseType": "Shaman",
+    "cn": "轮契",
+    "EN": "Meshing Cogs",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20012.webp",
+    "id": "20012",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "灵钥": {
+    "baseType": "Mage",
+    "cn": "灵钥",
+    "EN": "Passkey",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20013.webp",
+    "id": "20013",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "相抗": {
+    "baseType": "Rogue",
+    "cn": "相抗",
+    "EN": "Adversarial",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20014.webp",
+    "id": "20014",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "蕃息": {
+    "baseType": "Priest",
+    "cn": "蕃息",
+    "EN": "Multiplication",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20015.webp",
+    "id": "20015",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "俱殁": {
+    "baseType": "Warrior",
+    "cn": "俱殁",
+    "EN": "Mutual Demise",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20016.webp",
+    "id": "20016",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "开疆": {
+    "baseType": "Knight",
+    "cn": "开疆",
+    "EN": "Pioneering",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20017.webp",
+    "id": "20017",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "匿影": {
+    "baseType": "Warlock",
+    "cn": "匿影",
+    "EN": "Hidden Shadow",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20018.webp",
+    "id": "20018",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "调和": {
+    "baseType": "Shaman",
+    "cn": "调和",
+    "EN": "Mediation",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20019.webp",
+    "id": "20019",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "睿见": {
+    "baseType": "Mage",
+    "cn": "睿见",
+    "EN": "Sagacity",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20020.webp",
+    "id": "20020",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "焚影": {
+    "baseType": "Memory",
+    "cn": "焚影",
+    "EN": "Shadowburn",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20021.webp",
+    "id": "20021",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "溯忆": {
+    "baseType": "Memory",
+    "cn": "溯忆",
+    "EN": "Reminiscence",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20022.webp",
+    "id": "20022",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "嗤笑": {
+    "baseType": "Elation",
+    "cn": "嗤笑",
+    "EN": "Sneering",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20023.webp",
+    "id": "20023",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "残泪": {
+    "baseType": "Elation",
+    "cn": "残泪",
+    "EN": "Lingering Tear",
+    "iconUrl": "/hsr/UI/lightconemediumicon/20024.webp",
+    "id": "20024",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "一场术后对话": {
+    "baseType": "Priest",
+    "cn": "一场术后对话",
+    "EN": "Post-Op Conversation",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+    "id": "21000",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "晚安与睡颜": {
+    "baseType": "Warlock",
+    "cn": "晚安与睡颜",
+    "EN": "Good Night and Sleep Well",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+    "id": "21001",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "余生的第一天": {
+    "baseType": "Knight",
+    "cn": "余生的第一天",
+    "EN": "Day One of My New Life",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+    "id": "21002",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "唯有沉默": {
+    "baseType": "Rogue",
+    "cn": "唯有沉默",
+    "EN": "Only Silence Remains",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21003.webp",
+    "id": "21003",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "记忆中的模样": {
+    "baseType": "Shaman",
+    "cn": "记忆中的模样",
+    "EN": "Memories of the Past",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+    "id": "21004",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "鼹鼠党欢迎你": {
+    "baseType": "Warrior",
+    "cn": "鼹鼠党欢迎你",
+    "EN": "The Moles Welcome You",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+    "id": "21005",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "「我」的诞生": {
+    "baseType": "Mage",
+    "cn": "「我」的诞生",
+    "EN": "The Birth of the Self",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+    "id": "21006",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "同一种心情": {
+    "baseType": "Priest",
+    "cn": "同一种心情",
+    "EN": "Shared Feeling",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+    "id": "21007",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "猎物的视线": {
+    "baseType": "Warlock",
+    "cn": "猎物的视线",
+    "EN": "Eyes of the Prey",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+    "id": "21008",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "朗道的选择": {
+    "baseType": "Knight",
+    "cn": "朗道的选择",
+    "EN": "Landau's Choice",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21009.webp",
+    "id": "21009",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "论剑": {
+    "baseType": "Rogue",
+    "cn": "论剑",
+    "EN": "Swordplay",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+    "id": "21010",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "与行星相会": {
+    "baseType": "Shaman",
+    "cn": "与行星相会",
+    "EN": "Planetary Rendezvous",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+    "id": "21011",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "秘密誓心": {
+    "baseType": "Warrior",
+    "cn": "秘密誓心",
+    "EN": "A Secret Vow",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+    "id": "21012",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "别让世界静下来": {
+    "baseType": "Mage",
+    "cn": "别让世界静下来",
+    "EN": "Make the World Clamor",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+    "id": "21013",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "此时恰好": {
+    "baseType": "Priest",
+    "cn": "此时恰好",
+    "EN": "Perfect Timing",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+    "id": "21014",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "决心如汗珠般闪耀": {
+    "baseType": "Warlock",
+    "cn": "决心如汗珠般闪耀",
+    "EN": "Resolution Shines As Pearls of Sweat",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+    "id": "21015",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "宇宙市场趋势": {
+    "baseType": "Knight",
+    "cn": "宇宙市场趋势",
+    "EN": "Trend of the Universal Market",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+    "id": "21016",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "点个关注吧！": {
+    "baseType": "Rogue",
+    "cn": "点个关注吧！",
+    "EN": "Subscribe for More!",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+    "id": "21017",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "舞！舞！舞！": {
+    "baseType": "Shaman",
+    "cn": "舞！舞！舞！",
+    "EN": "Dance! Dance! Dance!",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+    "id": "21018",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "在蓝天下": {
+    "baseType": "Warrior",
+    "cn": "在蓝天下",
+    "EN": "Under the Blue Sky",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+    "id": "21019",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "天才们的休憩": {
+    "baseType": "Mage",
+    "cn": "天才们的休憩",
+    "EN": "Geniuses' Repose",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+    "id": "21020",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "等价交换": {
+    "baseType": "Priest",
+    "cn": "等价交换",
+    "EN": "Quid Pro Quo",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21021.webp",
+    "id": "21021",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "延长记号": {
+    "baseType": "Warlock",
+    "cn": "延长记号",
+    "EN": "Fermata",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21022.webp",
+    "id": "21022",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "我们是地火": {
+    "baseType": "Knight",
+    "cn": "我们是地火",
+    "EN": "We Are Wildfire",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21023.webp",
+    "id": "21023",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "春水初生": {
+    "baseType": "Rogue",
+    "cn": "春水初生",
+    "EN": "River Flows in Spring",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21024.webp",
+    "id": "21024",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "过往未来": {
+    "baseType": "Shaman",
+    "cn": "过往未来",
+    "EN": "Past and Future",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21025.webp",
+    "id": "21025",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "汪！散步时间！": {
+    "baseType": "Warrior",
+    "cn": "汪！散步时间！",
+    "EN": "Woof! Walk Time!",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21026.webp",
+    "id": "21026",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "早餐的仪式感": {
+    "baseType": "Mage",
+    "cn": "早餐的仪式感",
+    "EN": "The Seriousness of Breakfast",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21027.webp",
+    "id": "21027",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "暖夜不会漫长": {
+    "baseType": "Priest",
+    "cn": "暖夜不会漫长",
+    "EN": "Warmth Shortens Cold Nights",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21028.webp",
+    "id": "21028",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "后会有期": {
+    "baseType": "Warlock",
+    "cn": "后会有期",
+    "EN": "We Will Meet Again",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21029.webp",
+    "id": "21029",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "这就是我啦！": {
+    "baseType": "Knight",
+    "cn": "这就是我啦！",
+    "EN": "This Is Me!",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21030.webp",
+    "id": "21030",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "重返幽冥": {
+    "baseType": "Rogue",
+    "cn": "重返幽冥",
+    "EN": "Return to Darkness",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21031.webp",
+    "id": "21031",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "镂月裁云之意": {
+    "baseType": "Shaman",
+    "cn": "镂月裁云之意",
+    "EN": "Carve the Moon, Weave the Clouds",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21032.webp",
+    "id": "21032",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "无处可逃": {
+    "baseType": "Warrior",
+    "cn": "无处可逃",
+    "EN": "Nowhere to Run",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21033.webp",
+    "id": "21033",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "今日亦是和平的一日": {
+    "baseType": "Mage",
+    "cn": "今日亦是和平的一日",
+    "EN": "Today Is Another Peaceful Day",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21034.webp",
+    "id": "21034",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "何物为真": {
+    "baseType": "Priest",
+    "cn": "何物为真",
+    "EN": "What Is Real?",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21035.webp",
+    "id": "21035",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "美梦小镇大冒险": {
+    "baseType": "Shaman",
+    "cn": "美梦小镇大冒险",
+    "EN": "Dreamville Adventure",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21036.webp",
+    "id": "21036",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "最后的赢家": {
+    "baseType": "Rogue",
+    "cn": "最后的赢家",
+    "EN": "Final Victor",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21037.webp",
+    "id": "21037",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "在火的远处": {
+    "baseType": "Warrior",
+    "cn": "在火的远处",
+    "EN": "Flames Afar",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21038.webp",
+    "id": "21038",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "织造命运之线": {
+    "baseType": "Knight",
+    "cn": "织造命运之线",
+    "EN": "Destiny's Threads Forewoven",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21039.webp",
+    "id": "21039",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "银河沦陷日": {
+    "baseType": "Mage",
+    "cn": "银河沦陷日",
+    "EN": "The Day The Cosmos Fell",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21040.webp",
+    "id": "21040",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "好戏开演": {
+    "baseType": "Warlock",
+    "cn": "好戏开演",
+    "EN": "It's Showtime",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21041.webp",
+    "id": "21041",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "铭记于心的约定": {
+    "baseType": "Warrior",
+    "cn": "铭记于心的约定",
+    "EN": "Indelible Promise",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21042.webp",
+    "id": "21042",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "两个人的演唱会": {
+    "baseType": "Knight",
+    "cn": "两个人的演唱会",
+    "EN": "Concert for Two",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+    "id": "21043",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "无边曼舞": {
+    "baseType": "Warlock",
+    "cn": "无边曼舞",
+    "EN": "Boundless Choreo",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+    "id": "21044",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "谐乐静默之后": {
+    "baseType": "Mage",
+    "cn": "谐乐静默之后",
+    "EN": "After the Charmony Fall",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+    "id": "21045",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "芳华待灼": {
+    "baseType": "Shaman",
+    "cn": "芳华待灼",
+    "EN": "Poised to Bloom",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21046.webp",
+    "id": "21046",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "黑夜如影随行": {
+    "baseType": "Rogue",
+    "cn": "黑夜如影随行",
+    "EN": "Shadowed by Night",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21047.webp",
+    "id": "21047",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "梦的蒙太奇": {
+    "baseType": "Priest",
+    "cn": "梦的蒙太奇",
+    "EN": "Dream's Montage",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21048.webp",
+    "id": "21048",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "胜利只在朝夕间": {
+    "baseType": "Memory",
+    "cn": "胜利只在朝夕间",
+    "EN": "Victory In a Blink",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21050.webp",
+    "id": "21050",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "天才们的问候": {
+    "baseType": "Memory",
+    "cn": "天才们的问候",
+    "EN": "Geniuses' Greetings",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+    "id": "21051",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "多流汗，少流泪": {
+    "baseType": "Memory",
+    "cn": "多流汗，少流泪",
+    "EN": "Sweat Now, Cry Less",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21052.webp",
+    "id": "21052",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "愿旅途永远坦然": {
+    "baseType": "Knight",
+    "cn": "愿旅途永远坦然",
+    "EN": "Journey, Forever Peaceful",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21053.webp",
+    "id": "21053",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "故事的下一页": {
+    "baseType": "Memory",
+    "cn": "故事的下一页",
+    "EN": "The Story's Next Page",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+    "id": "21054",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "直到明天的明天": {
+    "baseType": "Priest",
+    "cn": "直到明天的明天",
+    "EN": "Unto Tomorrow's Morrow",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21055.webp",
+    "id": "21055",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "追逐风的时候": {
+    "baseType": "Shaman",
+    "cn": "追逐风的时候",
+    "EN": "In Pursuit of the Wind",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21056.webp",
+    "id": "21056",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "花儿不会忘记": {
+    "baseType": "Memory",
+    "cn": "花儿不会忘记",
+    "EN": "The Flower Remembers",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21057.webp",
+    "id": "21057",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "一行往日的血": {
+    "baseType": "Warrior",
+    "cn": "一行往日的血",
+    "EN": "A Trail of Bygone Blood",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21058.webp",
+    "id": "21058",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "氤氲麦香的梦": {
+    "baseType": "Mage",
+    "cn": "氤氲麦香的梦",
+    "EN": "A Dream Scented in Wheat",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21060.webp",
+    "id": "21060",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "假日浴场大冒险": {
+    "baseType": "Warlock",
+    "cn": "假日浴场大冒险",
+    "EN": "Holiday Thermae Escapade",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21061.webp",
+    "id": "21061",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "于那终点再见": {
+    "baseType": "Rogue",
+    "cn": "于那终点再见",
+    "EN": "See You at the End",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21062.webp",
+    "id": "21062",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "菇菇嘎嘎历险记": {
+    "baseType": "Elation",
+    "cn": "菇菇嘎嘎历险记",
+    "EN": "Mushy Shroomy's Adventures",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21064.webp",
+    "id": "21064",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "今日好手气": {
+    "baseType": "Elation",
+    "cn": "今日好手气",
+    "EN": "Today's Good Luck",
+    "iconUrl": "/hsr/UI/lightconemediumicon/21065.webp",
+    "id": "21065",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "新手任务开始前": {
+    "baseType": "Warlock",
+    "cn": "新手任务开始前",
+    "EN": "Before the Tutorial Mission Starts",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22000.webp",
+    "id": "22000",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "嘿，我在这儿": {
+    "baseType": "Priest",
+    "cn": "嘿，我在这儿",
+    "EN": "Hey, Over Here",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22001.webp",
+    "id": "22001",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "为了明日的旅途": {
+    "baseType": "Shaman",
+    "cn": "为了明日的旅途",
+    "EN": "For Tomorrow's Journey",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22002.webp",
+    "id": "22002",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "忍事录•音律狩猎": {
+    "baseType": "Warrior",
+    "cn": "忍事录•音律狩猎",
+    "EN": "Ninja Record: Sound Hunt",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22003.webp",
+    "id": "22003",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "宇宙大生意": {
+    "baseType": "Mage",
+    "cn": "宇宙大生意",
+    "EN": "The Great Cosmic Enterprise",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22004.webp",
+    "id": "22004",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "永远的迷境饭": {
+    "baseType": "Shaman",
+    "cn": "永远的迷境饭",
+    "EN": "The Forever Victual",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22005.webp",
+    "id": "22005",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "飞向粉色的明天": {
+    "baseType": "Memory",
+    "cn": "飞向粉色的明天",
+    "EN": "Fly Into a Pink Tomorrow",
+    "iconUrl": "/hsr/UI/lightconemediumicon/22006.webp",
+    "id": "22006",
+    "rank": "CombatPowerLightconeRarity4"
+  },
+  "银河铁道之夜": {
+    "baseType": "Mage",
+    "cn": "银河铁道之夜",
+    "EN": "Night on the Milky Way",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23000.webp",
+    "id": "23000",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "于夜色中": {
+    "baseType": "Rogue",
+    "cn": "于夜色中",
+    "EN": "In the Night",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23001.webp",
+    "id": "23001",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "无可取代的东西": {
+    "baseType": "Warrior",
+    "cn": "无可取代的东西",
+    "EN": "Something Irreplaceable",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23002.webp",
+    "id": "23002",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "但战斗还未结束": {
+    "baseType": "Shaman",
+    "cn": "但战斗还未结束",
+    "EN": "But the Battle Isn't Over",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23003.webp",
+    "id": "23003",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "以世界之名": {
+    "baseType": "Warlock",
+    "cn": "以世界之名",
+    "EN": "In the Name of the World",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23004.webp",
+    "id": "23004",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "制胜的瞬间": {
+    "baseType": "Knight",
+    "cn": "制胜的瞬间",
+    "EN": "Moment of Victory",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23005.webp",
+    "id": "23005",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "只需等待": {
+    "baseType": "Warlock",
+    "cn": "只需等待",
+    "EN": "Patience Is All You Need",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23006.webp",
+    "id": "23006",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "雨一直下": {
+    "baseType": "Warlock",
+    "cn": "雨一直下",
+    "EN": "Incessant Rain",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23007.webp",
+    "id": "23007",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "棺的回响": {
+    "baseType": "Priest",
+    "cn": "棺的回响",
+    "EN": "Echoes of the Coffin",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23008.webp",
+    "id": "23008",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "到不了的彼岸": {
+    "baseType": "Warrior",
+    "cn": "到不了的彼岸",
+    "EN": "The Unreachable Side",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23009.webp",
+    "id": "23009",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "拂晓之前": {
+    "baseType": "Mage",
+    "cn": "拂晓之前",
+    "EN": "Before Dawn",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23010.webp",
+    "id": "23010",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "她已闭上双眼": {
+    "baseType": "Knight",
+    "cn": "她已闭上双眼",
+    "EN": "She Already Shut Her Eyes",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23011.webp",
+    "id": "23011",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "如泥酣眠": {
+    "baseType": "Rogue",
+    "cn": "如泥酣眠",
+    "EN": "Sleep Like the Dead",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23012.webp",
+    "id": "23012",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "时节不居": {
+    "baseType": "Priest",
+    "cn": "时节不居",
+    "EN": "Time Waits for No One",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23013.webp",
+    "id": "23013",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "此身为剑": {
+    "baseType": "Warrior",
+    "cn": "此身为剑",
+    "EN": "I Shall Be My Own Sword",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23014.webp",
+    "id": "23014",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "比阳光更明亮的": {
+    "baseType": "Warrior",
+    "cn": "比阳光更明亮的",
+    "EN": "Brighter Than the Sun",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23015.webp",
+    "id": "23015",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "烦恼着，幸福着": {
+    "baseType": "Rogue",
+    "cn": "烦恼着，幸福着",
+    "EN": "Worrisome, Blissful",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23016.webp",
+    "id": "23016",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "惊魂夜": {
+    "baseType": "Priest",
+    "cn": "惊魂夜",
+    "EN": "Night of Fright",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23017.webp",
+    "id": "23017",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "片刻，留在眼底": {
+    "baseType": "Mage",
+    "cn": "片刻，留在眼底",
+    "EN": "An Instant Before A Gaze",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23018.webp",
+    "id": "23018",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "镜中故我": {
+    "baseType": "Shaman",
+    "cn": "镜中故我",
+    "EN": "Past Self in Mirror",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23019.webp",
+    "id": "23019",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "纯粹思维的洗礼": {
+    "baseType": "Rogue",
+    "cn": "纯粹思维的洗礼",
+    "EN": "Baptism of Pure Thought",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23020.webp",
+    "id": "23020",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "游戏尘寰": {
+    "baseType": "Shaman",
+    "cn": "游戏尘寰",
+    "EN": "Earthly Escapade",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+    "id": "23021",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "重塑时光之忆": {
+    "baseType": "Warlock",
+    "cn": "重塑时光之忆",
+    "EN": "Reforged Remembrance",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23022.webp",
+    "id": "23022",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "命运从未公平": {
+    "baseType": "Knight",
+    "cn": "命运从未公平",
+    "EN": "Inherently Unjust Destiny",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23023.webp",
+    "id": "23023",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "行于流逝的岸": {
+    "baseType": "Warlock",
+    "cn": "行于流逝的岸",
+    "EN": "Along the Passing Shore",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23024.webp",
+    "id": "23024",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "梦应归于何处": {
+    "baseType": "Warrior",
+    "cn": "梦应归于何处",
+    "EN": "Whereabouts Should Dreams Rest",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+    "id": "23025",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "夜色流光溢彩": {
+    "baseType": "Shaman",
+    "cn": "夜色流光溢彩",
+    "EN": "Flowing Nightglow",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23026.webp",
+    "id": "23026",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "驶向第二次生命": {
+    "baseType": "Rogue",
+    "cn": "驶向第二次生命",
+    "EN": "Sailing Towards a Second Life",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23027.webp",
+    "id": "23027",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "偏偏希望无价": {
+    "baseType": "Mage",
+    "cn": "偏偏希望无价",
+    "EN": "Yet Hope Is Priceless",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23028.webp",
+    "id": "23028",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "那��数个春天": {
+    "baseType": "Warlock",
+    "cn": "那��数个春天",
+    "EN": "Those Many Springs",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23029.webp",
+    "id": "23029",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "落日时起舞": {
+    "baseType": "Warrior",
+    "cn": "落日时起舞",
+    "EN": "Dance at Sunset",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23030.webp",
+    "id": "23030",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "我将，巡征追猎": {
+    "baseType": "Rogue",
+    "cn": "我将，巡征追猎",
+    "EN": "I Venture Forth to Hunt",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23031.webp",
+    "id": "23031",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "唯有香如故": {
+    "baseType": "Priest",
+    "cn": "唯有香如故",
+    "EN": "Scent Alone Stays True",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23032.webp",
+    "id": "23032",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "忍法帖•缭乱破魔": {
+    "baseType": "Mage",
+    "cn": "忍法帖•缭乱破魔",
+    "EN": "Ninjutsu Inscription: Dazzling Evilbreaker",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23033.webp",
+    "id": "23033",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "回到大地的飞行": {
+    "baseType": "Shaman",
+    "cn": "回到大地的飞行",
+    "EN": "A Grounded Ascent",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+    "id": "23034",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "长路终有归途": {
+    "baseType": "Warlock",
+    "cn": "长路终有归途",
+    "EN": "Long Road Leads Home",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23035.webp",
+    "id": "23035",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "将光阴织成黄金": {
+    "baseType": "Memory",
+    "cn": "将光阴织成黄金",
+    "EN": "Time Woven Into Gold",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+    "id": "23036",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "向着不可追问处": {
+    "baseType": "Mage",
+    "cn": "向着不可追问处",
+    "EN": "Into the Unreachable Veil",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+    "id": "23037",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "如果时间是一朵花": {
+    "baseType": "Shaman",
+    "cn": "如果时间是一朵花",
+    "EN": "If Time Were a Flower",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+    "id": "23038",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "血火啊，燃烧前路": {
+    "baseType": "Warrior",
+    "cn": "血火啊，燃烧前路",
+    "EN": "Flame of Blood, Blaze My Path",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23039.webp",
+    "id": "23039",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "让告别，更美一些": {
+    "baseType": "Memory",
+    "cn": "让告别，更美一些",
+    "EN": "Make Farewells More Beautiful",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23040.webp",
+    "id": "23040",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "生命当付之一炬": {
+    "baseType": "Mage",
+    "cn": "生命当付之一炬",
+    "EN": "Life Should Be Cast to Flames",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23041.webp",
+    "id": "23041",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "愿虹光永驻天空": {
+    "baseType": "Memory",
+    "cn": "愿虹光永驻天空",
+    "EN": "Long May Rainbows Adorn the Sky",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23042.webp",
+    "id": "23042",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "谎言在风中飘扬": {
+    "baseType": "Warlock",
+    "cn": "谎言在风中飘扬",
+    "EN": "Lies Dance on the Breeze",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23043.webp",
+    "id": "23043",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "黎明恰如此燃烧": {
+    "baseType": "Warrior",
+    "cn": "黎明恰如此燃烧",
+    "EN": "Thus Burns the Dawn",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+    "id": "23044",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "没有回报的加冕": {
+    "baseType": "Warrior",
+    "cn": "没有回报的加冕",
+    "EN": "A Thankless Coronation",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23045.webp",
+    "id": "23045",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "理想燃烧的地狱": {
+    "baseType": "Rogue",
+    "cn": "理想燃烧的地狱",
+    "EN": "The Hell Where Ideals Burn",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23046.webp",
+    "id": "23046",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "海洋为何而歌": {
+    "baseType": "Warlock",
+    "cn": "海洋为何而歌",
+    "EN": "Why Does the Ocean Sing",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23047.webp",
+    "id": "23047",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "金血铭刻的时代": {
+    "baseType": "Shaman",
+    "cn": "金血铭刻的时代",
+    "EN": "Epoch Etched in Golden Blood",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23048.webp",
+    "id": "23048",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "致长夜的星光": {
+    "baseType": "Memory",
+    "cn": "致长夜的星光",
+    "EN": "To Evernight's Stars",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23049.webp",
+    "id": "23049",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "勿忘她的火焰": {
+    "baseType": "Warlock",
+    "cn": "勿忘她的火焰",
+    "EN": "Never Forget Her Flame",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23050.webp",
+    "id": "23050",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "纵然山河万程": {
+    "baseType": "Knight",
+    "cn": "纵然山河万程",
+    "EN": "Though Worlds Apart",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23051.webp",
+    "id": "23051",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "爱如此刻永恒": {
+    "baseType": "Memory",
+    "cn": "爱如此刻永恒",
+    "EN": "This Love, Forever",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23052.webp",
+    "id": "23052",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "花花世界迷人眼": {
+    "baseType": "Elation",
+    "cn": "花花世界迷人眼",
+    "EN": "Dazzled by a Flowery World",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23053.webp",
+    "id": "23053",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "当她决定看见": {
+    "baseType": "Elation",
+    "cn": "当她决定看见",
+    "EN": "When She Decided to See",
+    "iconUrl": "/hsr/UI/lightconemediumicon/23054.webp",
+    "id": "23054",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "记一位星神的陨落": {
+    "baseType": "Warrior",
+    "cn": "记一位星神的陨落",
+    "EN": "On the Fall of an Aeon",
+    "iconUrl": "/hsr/UI/lightconemediumicon/24000.webp",
+    "id": "24000",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "星海巡航": {
+    "baseType": "Rogue",
+    "cn": "星海巡航",
+    "EN": "Cruising in the Stellar Sea",
+    "iconUrl": "/hsr/UI/lightconemediumicon/24001.webp",
+    "id": "24001",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "记忆的质料": {
+    "baseType": "Knight",
+    "cn": "记忆的质料",
+    "EN": "Texture of Memories",
+    "iconUrl": "/hsr/UI/lightconemediumicon/24002.webp",
+    "id": "24002",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "孤独的疗愈": {
+    "baseType": "Warlock",
+    "cn": "孤独的疗愈",
+    "EN": "Solitary Healing",
+    "iconUrl": "/hsr/UI/lightconemediumicon/24003.webp",
+    "id": "24003",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "不息的演算": {
+    "baseType": "Mage",
+    "cn": "不息的演算",
+    "EN": "Eternal Calculus",
+    "iconUrl": "/hsr/UI/lightconemediumicon/24004.webp",
+    "id": "24004",
+    "rank": "CombatPowerLightconeRarity5"
+  },
+  "记忆永不落幕": {
+    "baseType": "Memory",
+    "cn": "记忆永不落幕",
+    "EN": "Memory's Curtain Never Falls",
+    "iconUrl": "/hsr/UI/lightconemediumicon/24005.webp",
+    "id": "24005",
+    "rank": "CombatPowerLightconeRarity5"
+  }
 }

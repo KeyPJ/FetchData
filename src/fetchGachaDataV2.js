@@ -34,7 +34,7 @@ function getImg(game, type, name) {
     if (name === "三月七 - 存护") {
         return ""
     }
-    let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
+    let data = requireJson(`../data/miyoushe/${game}/${type.toLowerCase()}.json`)
     if (!data || !(data[name])) {
         console.log("getImg failed ", name, data)
     }
@@ -42,7 +42,7 @@ function getImg(game, type, name) {
 }
 
 function getRelativePath(game, type) {
-    return `../data/hakush/${game}/${type}.json`
+    return `../data/miyoushe/${game}/${type}.json`
 }
 
 //首字母大写
@@ -335,7 +335,7 @@ const fetchGachaData = async (pool, game, type) => {
 async function fetchData(id) {
     for (let key of Object.keys(params)) {
         let {game, type} = params[key]
-        if (!id || game === id) {
+        if (!id || id === 'all' || game === id) {
             await fetchGachaData(+key, game, type)
         }
     }
