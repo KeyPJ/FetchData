@@ -3,15 +3,27 @@
 		"version": "4.0.2",
 		"items": [
 			{
+				"itemId": 1502,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a8953fb6d3013c17c6122dee523e0e9f.png",
+				"itemType": "Character",
+				"name": "爻光",
+				"nameEn": "爻光",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
 				"itemId": 1501,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/48599b938bfa1cd6864294dba504d2da.png",
 				"itemType": "Character",
 				"name": "火花",
 				"nameEn": "火花",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "elation",
+				"avatarBaseType": "9",
 				"weaponType": "elation"
 			},
 			{
@@ -20,10 +32,10 @@
 				"itemType": "Character",
 				"name": "刻律德菈",
 				"nameEn": "刻律德菈",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -32,10 +44,10 @@
 				"itemType": "Character",
 				"name": "乱破",
 				"nameEn": "乱破",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -44,10 +56,10 @@
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -56,10 +68,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -68,10 +80,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -80,10 +92,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -99,10 +111,10 @@
 				"itemType": "Character",
 				"name": "爻光",
 				"nameEn": "爻光",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "elation",
+				"avatarBaseType": "9",
 				"weaponType": "elation"
 			},
 			{
@@ -111,10 +123,10 @@
 				"itemType": "Character",
 				"name": "长夜月",
 				"nameEn": "长夜月",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -123,10 +135,10 @@
 				"itemType": "Character",
 				"name": "海瑟音",
 				"nameEn": "海瑟音",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -135,10 +147,10 @@
 				"itemType": "Character",
 				"name": "黑天鹅",
 				"nameEn": "黑天鹅",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -147,10 +159,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -159,10 +171,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -171,10 +183,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -190,10 +202,10 @@
 				"itemType": "Character",
 				"name": "阿格莱雅",
 				"nameEn": "阿格莱雅",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -202,10 +214,10 @@
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -214,10 +226,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -226,10 +238,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -238,10 +250,10 @@
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -257,10 +269,10 @@
 				"itemType": "Character",
 				"name": "忘归人",
 				"nameEn": "忘归人",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -269,10 +281,10 @@
 				"itemType": "Character",
 				"name": "灵砂",
 				"nameEn": "灵砂",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -281,10 +293,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -293,10 +305,10 @@
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -305,10 +317,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -324,10 +336,10 @@
 				"itemType": "Character",
 				"name": "大丽花",
 				"nameEn": "大丽花",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -336,10 +348,10 @@
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -348,10 +360,10 @@
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -360,10 +372,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -372,10 +384,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -391,10 +403,10 @@
 				"itemType": "Character",
 				"name": "昔涟",
 				"nameEn": "昔涟",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -403,10 +415,10 @@
 				"itemType": "Character",
 				"name": "白厄",
 				"nameEn": "白厄",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -415,10 +427,10 @@
 				"itemType": "Character",
 				"name": "赛飞儿",
 				"nameEn": "赛飞儿",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -427,10 +439,10 @@
 				"itemType": "Character",
 				"name": "万敌",
 				"nameEn": "万敌",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -439,10 +451,10 @@
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -451,10 +463,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -463,10 +475,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -482,10 +494,10 @@
 				"itemType": "Character",
 				"name": "昔涟",
 				"nameEn": "昔涟",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -494,10 +506,10 @@
 				"itemType": "Character",
 				"name": "风堇",
 				"nameEn": "风堇",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -506,10 +518,10 @@
 				"itemType": "Character",
 				"name": "遐蝶",
 				"nameEn": "遐蝶",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -518,10 +530,10 @@
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -530,10 +542,10 @@
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -542,10 +554,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -554,10 +566,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -573,10 +585,10 @@
 				"itemType": "Character",
 				"name": "丹恒•腾荒",
 				"nameEn": "丹恒•腾荒",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -585,10 +597,10 @@
 				"itemType": "Character",
 				"name": "那刻夏",
 				"nameEn": "那刻夏",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -597,10 +609,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -609,10 +621,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -621,10 +633,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -640,10 +652,10 @@
 				"itemType": "Character",
 				"name": "长夜月",
 				"nameEn": "长夜月",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -652,10 +664,10 @@
 				"itemType": "Character",
 				"name": "大黑塔",
 				"nameEn": "大黑塔",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -664,10 +676,10 @@
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -676,10 +688,10 @@
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -688,10 +700,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -707,10 +719,10 @@
 				"itemType": "Character",
 				"name": "刻律德菈",
 				"nameEn": "刻律德菈",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -719,10 +731,10 @@
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -731,10 +743,10 @@
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -743,10 +755,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -755,10 +767,10 @@
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -774,10 +786,10 @@
 				"itemType": "Character",
 				"name": "海瑟音",
 				"nameEn": "海瑟音",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -786,10 +798,10 @@
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -798,10 +810,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -810,10 +822,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -822,10 +834,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -841,10 +853,10 @@
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -853,10 +865,10 @@
 				"itemType": "Character",
 				"name": "镜流",
 				"nameEn": "镜流",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -865,10 +877,10 @@
 				"itemType": "Character",
 				"name": "刃",
 				"nameEn": "刃",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -877,10 +889,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -889,10 +901,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -901,10 +913,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -920,10 +932,10 @@
 				"itemType": "Character",
 				"name": "白厄",
 				"nameEn": "白厄",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -932,10 +944,10 @@
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -944,10 +956,10 @@
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -956,10 +968,10 @@
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -968,10 +980,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -980,10 +992,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -992,10 +1004,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -1011,10 +1023,10 @@
 				"itemType": "Character",
 				"name": "赛飞儿",
 				"nameEn": "赛飞儿",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1023,10 +1035,10 @@
 				"itemType": "Character",
 				"name": "阿格莱雅",
 				"nameEn": "阿格莱雅",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1035,10 +1047,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1047,10 +1059,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1059,10 +1071,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -1078,10 +1090,10 @@
 				"itemType": "Character",
 				"name": "风堇",
 				"nameEn": "风堇",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1090,10 +1102,10 @@
 				"itemType": "Character",
 				"name": "大黑塔",
 				"nameEn": "大黑塔",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1102,10 +1114,10 @@
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1114,10 +1126,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1126,10 +1138,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -1145,10 +1157,10 @@
 				"itemType": "Character",
 				"name": "那刻夏",
 				"nameEn": "那刻夏",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1157,10 +1169,10 @@
 				"itemType": "Character",
 				"name": "真理医生",
 				"nameEn": "真理医生",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1169,10 +1181,10 @@
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1181,10 +1193,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1193,10 +1205,10 @@
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -1212,10 +1224,10 @@
 				"itemType": "Character",
 				"name": "遐蝶",
 				"nameEn": "遐蝶",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1224,10 +1236,10 @@
 				"itemType": "Character",
 				"name": "忘归人",
 				"nameEn": "忘归人",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1236,10 +1248,10 @@
 				"itemType": "Character",
 				"name": "椒丘",
 				"nameEn": "椒丘",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1248,10 +1260,10 @@
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "黄泉",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1260,10 +1272,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1272,10 +1284,10 @@
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1284,10 +1296,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -1303,10 +1315,10 @@
 				"itemType": "Character",
 				"name": "万敌",
 				"nameEn": "万敌",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1315,10 +1327,10 @@
 				"itemType": "Character",
 				"name": "藿藿",
 				"nameEn": "藿藿",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1327,10 +1339,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1339,10 +1351,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1351,10 +1363,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -1370,10 +1382,10 @@
 				"itemType": "Character",
 				"name": "缇宝",
 				"nameEn": "缇宝",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1382,10 +1394,10 @@
 				"itemType": "Character",
 				"name": "云璃",
 				"nameEn": "云璃",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1394,10 +1406,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1406,10 +1418,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1418,10 +1430,10 @@
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -1437,10 +1449,10 @@
 				"itemType": "Character",
 				"name": "阿格莱雅",
 				"nameEn": "阿格莱雅",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1449,10 +1461,10 @@
 				"itemType": "Character",
 				"name": "波提欧",
 				"nameEn": "波提欧",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1461,10 +1473,10 @@
 				"itemType": "Character",
 				"name": "知更鸟",
 				"nameEn": "知更鸟",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1473,10 +1485,10 @@
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1485,10 +1497,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1497,10 +1509,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1509,10 +1521,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -1528,10 +1540,10 @@
 				"itemType": "Character",
 				"name": "大黑塔",
 				"nameEn": "大黑塔",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1540,10 +1552,10 @@
 				"itemType": "Character",
 				"name": "灵砂",
 				"nameEn": "灵砂",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1552,10 +1564,10 @@
 				"itemType": "Character",
 				"name": "飞霄",
 				"nameEn": "飞霄",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1564,10 +1576,10 @@
 				"itemType": "Character",
 				"name": "翡翠",
 				"nameEn": "翡翠",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1576,10 +1588,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1588,10 +1600,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1600,10 +1612,10 @@
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -1619,10 +1631,10 @@
 				"itemType": "Character",
 				"name": "忘归人",
 				"nameEn": "忘归人",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1631,10 +1643,10 @@
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1643,10 +1655,10 @@
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1655,10 +1667,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1667,10 +1679,10 @@
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -1686,10 +1698,10 @@
 				"itemType": "Character",
 				"name": "星期日",
 				"nameEn": "星期日",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1698,10 +1710,10 @@
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "景元",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1710,10 +1722,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1722,10 +1734,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1734,10 +1746,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -1753,10 +1765,10 @@
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "黄泉",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1765,10 +1777,10 @@
 				"itemType": "Character",
 				"name": "砂金",
 				"nameEn": "砂金",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1777,10 +1789,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1789,10 +1801,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1801,10 +1813,10 @@
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -1820,10 +1832,10 @@
 				"itemType": "Character",
 				"name": "乱破",
 				"nameEn": "乱破",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1832,10 +1844,10 @@
 				"itemType": "Character",
 				"name": "丹恒•饮月",
 				"nameEn": "丹恒•饮月",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1844,10 +1856,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1856,10 +1868,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1868,10 +1880,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -1887,10 +1899,10 @@
 				"itemType": "Character",
 				"name": "灵砂",
 				"nameEn": "灵砂",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1899,10 +1911,10 @@
 				"itemType": "Character",
 				"name": "托帕&账账",
 				"nameEn": "托帕&账账",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1911,10 +1923,10 @@
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1923,10 +1935,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1935,10 +1947,10 @@
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -1954,10 +1966,10 @@
 				"itemType": "Character",
 				"name": "飞霄",
 				"nameEn": "飞霄",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1966,10 +1978,10 @@
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1978,10 +1990,10 @@
 				"itemType": "Character",
 				"name": "黑天鹅",
 				"nameEn": "黑天鹅",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1990,10 +2002,10 @@
 				"itemType": "Character",
 				"name": "知更鸟",
 				"nameEn": "知更鸟",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2002,10 +2014,10 @@
 				"itemType": "Character",
 				"name": "貊泽",
 				"nameEn": "貊泽",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2014,10 +2026,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2026,10 +2038,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -2045,10 +2057,10 @@
 				"itemType": "Character",
 				"name": "椒丘",
 				"nameEn": "椒丘",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2057,10 +2069,10 @@
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2069,10 +2081,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2081,10 +2093,10 @@
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2093,10 +2105,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2112,10 +2124,10 @@
 				"itemType": "Character",
 				"name": "云璃",
 				"nameEn": "云璃",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2124,10 +2136,10 @@
 				"itemType": "Character",
 				"name": "藿藿",
 				"nameEn": "藿藿",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2136,10 +2148,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2148,10 +2160,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2160,10 +2172,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -2179,10 +2191,10 @@
 				"itemType": "Character",
 				"name": "翡翠",
 				"nameEn": "翡翠",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2191,10 +2203,10 @@
 				"itemType": "Character",
 				"name": "银枝",
 				"nameEn": "银枝",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2203,10 +2215,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2215,10 +2227,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2227,10 +2239,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -2246,10 +2258,10 @@
 				"itemType": "Character",
 				"name": "流萤",
 				"nameEn": "流萤",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2258,10 +2270,10 @@
 				"itemType": "Character",
 				"name": "阮•梅",
 				"nameEn": "阮•梅",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2270,10 +2282,10 @@
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2282,10 +2294,10 @@
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2294,10 +2306,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2313,10 +2325,10 @@
 				"itemType": "Character",
 				"name": "波提欧",
 				"nameEn": "波提欧",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2325,10 +2337,10 @@
 				"itemType": "Character",
 				"name": "符玄",
 				"nameEn": "符玄",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2337,10 +2349,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2349,10 +2361,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2361,10 +2373,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2380,10 +2392,10 @@
 				"itemType": "Character",
 				"name": "知更鸟",
 				"nameEn": "知更鸟",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2392,10 +2404,10 @@
 				"itemType": "Character",
 				"name": "托帕&账账",
 				"nameEn": "托帕&账账",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2404,10 +2416,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2416,10 +2428,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2428,10 +2440,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2447,10 +2459,10 @@
 				"itemType": "Character",
 				"name": "砂金",
 				"nameEn": "砂金",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2459,10 +2471,10 @@
 				"itemType": "Character",
 				"name": "镜流",
 				"nameEn": "镜流",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2471,10 +2483,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2483,10 +2495,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2495,10 +2507,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2514,10 +2526,10 @@
 				"itemType": "Character",
 				"name": "黄泉",
 				"nameEn": "黄泉",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2526,10 +2538,10 @@
 				"itemType": "Character",
 				"name": "罗刹",
 				"nameEn": "罗刹",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2538,10 +2550,10 @@
 				"itemType": "Character",
 				"name": "加拉赫",
 				"nameEn": "加拉赫",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2550,10 +2562,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2562,10 +2574,10 @@
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -2581,10 +2593,10 @@
 				"itemType": "Character",
 				"name": "花火",
 				"nameEn": "花火",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2593,10 +2605,10 @@
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "景元",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2605,10 +2617,10 @@
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2617,10 +2629,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2629,10 +2641,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -2648,10 +2660,10 @@
 				"itemType": "Character",
 				"name": "黑天鹅",
 				"nameEn": "黑天鹅",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2660,10 +2672,10 @@
 				"itemType": "Character",
 				"name": "丹恒•饮月",
 				"nameEn": "丹恒•饮月",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2672,10 +2684,10 @@
 				"itemType": "Character",
 				"name": "米沙",
 				"nameEn": "米沙",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2684,10 +2696,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2696,10 +2708,10 @@
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -2715,10 +2727,10 @@
 				"itemType": "Character",
 				"name": "真理医生",
 				"nameEn": "真理医生",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2727,10 +2739,10 @@
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2739,10 +2751,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2751,10 +2763,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2763,10 +2775,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2782,10 +2794,10 @@
 				"itemType": "Character",
 				"name": "阮•梅",
 				"nameEn": "阮•梅",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2794,10 +2806,10 @@
 				"itemType": "Character",
 				"name": "刃",
 				"nameEn": "刃",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2806,10 +2818,10 @@
 				"itemType": "Character",
 				"name": "雪衣",
 				"nameEn": "雪衣",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2818,10 +2830,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2830,10 +2842,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -2849,10 +2861,10 @@
 				"itemType": "Character",
 				"name": "银枝",
 				"nameEn": "银枝",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2861,10 +2873,10 @@
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2873,10 +2885,10 @@
 				"itemType": "Character",
 				"name": "寒鸦",
 				"nameEn": "寒鸦",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2885,10 +2897,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2897,10 +2909,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -2916,10 +2928,10 @@
 				"itemType": "Character",
 				"name": "藿藿",
 				"nameEn": "藿藿",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2928,10 +2940,10 @@
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2940,10 +2952,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2952,10 +2964,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2971,10 +2983,10 @@
 				"itemType": "Character",
 				"name": "托帕&账账",
 				"nameEn": "托帕&账账",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2983,10 +2995,10 @@
 				"itemType": "Character",
 				"name": "希儿",
 				"nameEn": "希儿",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2995,10 +3007,10 @@
 				"itemType": "Character",
 				"name": "桂乃芬",
 				"nameEn": "桂乃芬",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3007,10 +3019,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3019,10 +3031,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -3038,10 +3050,10 @@
 				"itemType": "Character",
 				"name": "镜流",
 				"nameEn": "镜流",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -3050,10 +3062,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -3062,10 +3074,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -3074,10 +3086,10 @@
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -3093,10 +3105,10 @@
 				"itemType": "Character",
 				"name": "符玄",
 				"nameEn": "符玄",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -3105,10 +3117,10 @@
 				"itemType": "Character",
 				"name": "玲可",
 				"nameEn": "玲可",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -3117,10 +3129,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -3129,10 +3141,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -3148,10 +3160,10 @@
 				"itemType": "Character",
 				"name": "丹恒•饮月",
 				"nameEn": "丹恒•饮月",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -3160,10 +3172,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -3172,10 +3184,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -3184,10 +3196,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -3203,10 +3215,10 @@
 				"itemType": "Character",
 				"name": "卡芙卡",
 				"nameEn": "卡芙卡",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3215,10 +3227,10 @@
 				"itemType": "Character",
 				"name": "卢卡",
 				"nameEn": "卢卡",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3227,10 +3239,10 @@
 				"itemType": "Character",
 				"name": "桑博",
 				"nameEn": "桑博",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3239,10 +3251,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -3258,10 +3270,10 @@
 				"itemType": "Character",
 				"name": "刃",
 				"nameEn": "刃",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -3270,10 +3282,10 @@
 				"itemType": "Character",
 				"name": "阿兰",
 				"nameEn": "阿兰",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -3282,10 +3294,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -3294,10 +3306,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -3313,10 +3325,10 @@
 				"itemType": "Character",
 				"name": "罗刹",
 				"nameEn": "罗刹",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -3325,10 +3337,10 @@
 				"itemType": "Character",
 				"name": "驭空",
 				"nameEn": "驭空",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -3337,10 +3349,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3349,10 +3361,10 @@
 				"itemType": "Character",
 				"name": "青雀",
 				"nameEn": "青雀",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -3368,10 +3380,10 @@
 				"itemType": "Character",
 				"name": "银狼",
 				"nameEn": "银狼",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -3380,10 +3392,10 @@
 				"itemType": "Character",
 				"name": "丹恒",
 				"nameEn": "丹恒",
-				"damageType": "wind",
+				"damageType": "16",
 				"element": "wind",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -3392,10 +3404,10 @@
 				"itemType": "Character",
 				"name": "艾丝妲",
 				"nameEn": "艾丝妲",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -3404,10 +3416,10 @@
 				"itemType": "Character",
 				"name": "希露瓦",
 				"nameEn": "希露瓦",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -3423,10 +3435,10 @@
 				"itemType": "Character",
 				"name": "景元",
 				"nameEn": "景元",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -3435,10 +3447,10 @@
 				"itemType": "Character",
 				"name": "停云",
 				"nameEn": "停云",
-				"damageType": "lightning",
+				"damageType": "8",
 				"element": "lightning",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -3447,10 +3459,10 @@
 				"itemType": "Character",
 				"name": "素裳",
 				"nameEn": "素裳",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -3459,10 +3471,10 @@
 				"itemType": "Character",
 				"name": "三月七",
 				"nameEn": "三月七",
-				"damageType": "imaginary",
+				"damageType": "64",
 				"element": "imaginary",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -3478,10 +3490,10 @@
 				"itemType": "Character",
 				"name": "希儿",
 				"nameEn": "希儿",
-				"damageType": "quantum",
+				"damageType": "32",
 				"element": "quantum",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -3490,10 +3502,10 @@
 				"itemType": "Character",
 				"name": "娜塔莎",
 				"nameEn": "娜塔莎",
-				"damageType": "physical",
+				"damageType": "1",
 				"element": "physical",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -3502,10 +3514,10 @@
 				"itemType": "Character",
 				"name": "虎克",
 				"nameEn": "虎克",
-				"damageType": "fire",
+				"damageType": "2",
 				"element": "fire",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -3514,10 +3526,10 @@
 				"itemType": "Character",
 				"name": "佩拉",
 				"nameEn": "佩拉",
-				"damageType": "ice",
+				"damageType": "4",
 				"element": "ice",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],

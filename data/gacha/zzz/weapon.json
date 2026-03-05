@@ -10,7 +10,7 @@
 				"nameEn": "壳中之灵",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14141,
@@ -20,7 +20,7 @@
 				"nameEn": "狸法七变化",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13111,
@@ -30,7 +30,7 @@
 				"nameEn": "旋钻机-赤轴",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13127,
@@ -40,7 +40,7 @@
 				"nameEn": "维序者-特化型",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2026-03-04 12:00:00",
@@ -57,7 +57,7 @@
 				"nameEn": "思络成歌",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14137,
@@ -67,7 +67,7 @@
 				"nameEn": "青溟笼舍",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13106,
@@ -77,7 +77,7 @@
 				"nameEn": "家政员",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13108,
@@ -87,7 +87,7 @@
 				"nameEn": "仿制星徽引擎",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2026-02-06 06:00:00",
@@ -104,7 +104,7 @@
 				"nameEn": "云霓孤光",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14134,
@@ -114,7 +114,7 @@
 				"nameEn": "半糖雪兔",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14138,
@@ -124,7 +124,7 @@
 				"nameEn": "牺牲洁纯",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14140,
@@ -134,7 +134,7 @@
 				"nameEn": "十方锻星",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14131,
@@ -144,7 +144,7 @@
 				"nameEn": "玲珑妆匣",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13103,
@@ -154,7 +154,7 @@
 				"nameEn": "聚宝箱",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13115,
@@ -164,7 +164,7 @@
 				"nameEn": "好斗的阿炮",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13101,
@@ -174,7 +174,7 @@
 				"nameEn": "德玛拉电池Ⅱ型",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13112,
@@ -184,7 +184,7 @@
 				"nameEn": "比格气缸",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-12-30 06:00:00",
@@ -201,7 +201,7 @@
 				"nameEn": "云霓孤光",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14134,
@@ -211,7 +211,7 @@
 				"nameEn": "半糖雪兔",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13103,
@@ -221,7 +221,7 @@
 				"nameEn": "聚宝箱",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13115,
@@ -231,7 +231,7 @@
 				"nameEn": "好斗的阿炮",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13101,
@@ -241,7 +241,7 @@
 				"nameEn": "德玛拉电池Ⅱ型",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13112,
@@ -251,7 +251,7 @@
 				"nameEn": "比格气缸",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-12-30 06:00:00",
@@ -268,7 +268,7 @@
 				"nameEn": "怒目金刚",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14119,
@@ -278,7 +278,7 @@
 				"nameEn": "深海访客",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13113,
@@ -288,7 +288,7 @@
 				"nameEn": "含羞恶面",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13127,
@@ -298,7 +298,7 @@
 				"nameEn": "维序者-特化型",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-12-17 12:00:00",
@@ -315,7 +315,7 @@
 				"nameEn": "昨夜来电",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14129,
@@ -325,7 +325,7 @@
 				"nameEn": "千面日陨",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13106,
@@ -335,7 +335,7 @@
 				"nameEn": "家政员",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13108,
@@ -345,7 +345,7 @@
 				"nameEn": "仿制星徽引擎",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-11-26 06:00:00",
@@ -362,7 +362,7 @@
 				"nameEn": "海妖摇篮",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14139,
@@ -372,7 +372,7 @@
 				"nameEn": "福虓炉炉",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13142,
@@ -382,7 +382,7 @@
 				"nameEn": "震元奇枢",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13135,
@@ -392,7 +392,7 @@
 				"nameEn": "裁纸刀",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-11-05 12:00:00",
@@ -409,7 +409,7 @@
 				"nameEn": "铸梦炉歌",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14133,
@@ -419,7 +419,7 @@
 				"nameEn": "飞鸟星梦",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13144,
@@ -429,7 +429,7 @@
 				"nameEn": "燔火胧夜",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13128,
@@ -439,7 +439,7 @@
 				"nameEn": "轰鸣座驾",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-10-15 06:00:00",
@@ -456,7 +456,7 @@
 				"nameEn": "嚣枪喧焰",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14132,
@@ -466,7 +466,7 @@
 				"nameEn": "心弦夜响",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13115,
@@ -476,7 +476,7 @@
 				"nameEn": "好斗的阿炮",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13111,
@@ -486,7 +486,7 @@
 				"nameEn": "旋钻机-赤轴",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-09-24 12:00:00",
@@ -503,7 +503,7 @@
 				"nameEn": "机巧心种",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14136,
@@ -513,7 +513,7 @@
 				"nameEn": "索魂影眸",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13103,
@@ -523,7 +523,7 @@
 				"nameEn": "聚宝箱",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13101,
@@ -533,7 +533,7 @@
 				"nameEn": "德玛拉电池Ⅱ型",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-09-04 06:00:00",
@@ -550,7 +550,7 @@
 				"nameEn": "十方锻星",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14122,
@@ -560,7 +560,7 @@
 				"nameEn": "时流贤者",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13113,
@@ -570,7 +570,7 @@
 				"nameEn": "含羞恶面",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13127,
@@ -580,7 +580,7 @@
 				"nameEn": "维序者-特化型",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-08-06 12:00:00",
@@ -597,7 +597,7 @@
 				"nameEn": "狸法七变化",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14109,
@@ -607,7 +607,7 @@
 				"nameEn": "霰落星殿",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13128,
@@ -617,7 +617,7 @@
 				"nameEn": "轰鸣座驾",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13108,
@@ -627,7 +627,7 @@
 				"nameEn": "仿制星徽引擎",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-07-16 06:00:00",
@@ -644,7 +644,7 @@
 				"nameEn": "福虓炉炉",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14107,
@@ -654,7 +654,7 @@
 				"nameEn": "奔袭獠牙",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13112,
@@ -664,7 +664,7 @@
 				"nameEn": "比格气缸",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13106,
@@ -674,7 +674,7 @@
 				"nameEn": "家政员",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-06-25 12:00:00",
@@ -691,7 +691,7 @@
 				"nameEn": "青溟笼舍",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14131,
@@ -701,7 +701,7 @@
 				"nameEn": "玲珑妆匣",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13142,
@@ -711,7 +711,7 @@
 				"nameEn": "震元奇枢",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13135,
@@ -721,7 +721,7 @@
 				"nameEn": "裁纸刀",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-06-06 06:00:00",
@@ -738,7 +738,7 @@
 				"nameEn": "千面日陨",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14116,
@@ -748,7 +748,7 @@
 				"nameEn": "焰心桂冠",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13113,
@@ -758,7 +758,7 @@
 				"nameEn": "含羞恶面",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13111,
@@ -768,7 +768,7 @@
 				"nameEn": "旋钻机-赤轴",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-05-14 12:00:00",
@@ -785,7 +785,7 @@
 				"nameEn": "飞鸟星梦",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14126,
@@ -795,7 +795,7 @@
 				"nameEn": "淬锋钳刺",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13128,
@@ -805,7 +805,7 @@
 				"nameEn": "轰鸣座驾",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13127,
@@ -815,7 +815,7 @@
 				"nameEn": "维序者-特化型",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-04-23 06:00:00",
@@ -832,7 +832,7 @@
 				"nameEn": "索魂影眸",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14124,
@@ -842,7 +842,7 @@
 				"nameEn": "防暴者Ⅵ型",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13115,
@@ -852,7 +852,7 @@
 				"nameEn": "好斗的阿炮",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13108,
@@ -862,7 +862,7 @@
 				"nameEn": "仿制星徽引擎",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-04-02 12:00:00",
@@ -879,7 +879,7 @@
 				"nameEn": "牺牲洁纯",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14117,
@@ -889,7 +889,7 @@
 				"nameEn": "灼心摇壶",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13135,
@@ -899,7 +899,7 @@
 				"nameEn": "裁纸刀",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13112,
@@ -909,7 +909,7 @@
 				"nameEn": "比格气缸",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-03-12 06:00:00",
@@ -926,7 +926,7 @@
 				"nameEn": "心弦夜响",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14125,
@@ -936,7 +936,7 @@
 				"nameEn": "玉壶青冰",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13111,
@@ -946,7 +946,7 @@
 				"nameEn": "旋钻机-赤轴",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13103,
@@ -956,7 +956,7 @@
 				"nameEn": "聚宝箱",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-02-12 06:00:00",
@@ -973,7 +973,7 @@
 				"nameEn": "玲珑妆匣",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14119,
@@ -983,7 +983,7 @@
 				"nameEn": "深海访客",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13101,
@@ -993,7 +993,7 @@
 				"nameEn": "德玛拉电池Ⅱ型",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13106,
@@ -1003,7 +1003,7 @@
 				"nameEn": "家政员",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2025-01-22 06:00:00",
@@ -1020,7 +1020,7 @@
 				"nameEn": "霰落星殿",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 14120,
@@ -1030,7 +1030,7 @@
 				"nameEn": "残心青囊",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13128,
@@ -1040,7 +1040,7 @@
 				"nameEn": "轰鸣座驾",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13113,
@@ -1050,7 +1050,7 @@
 				"nameEn": "含羞恶面",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13115,
@@ -1060,7 +1060,7 @@
 				"nameEn": "好斗的阿炮",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13127,
@@ -1070,7 +1070,7 @@
 				"nameEn": "维序者-特化型",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-12-18 06:00:00",
@@ -1087,7 +1087,7 @@
 				"nameEn": "焰心桂冠",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13112,
@@ -1097,7 +1097,7 @@
 				"nameEn": "比格气缸",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13106,
@@ -1107,7 +1107,7 @@
 				"nameEn": "家政员",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-11-27 12:00:00",
@@ -1124,7 +1124,7 @@
 				"nameEn": "时流贤者",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13101,
@@ -1134,7 +1134,7 @@
 				"nameEn": "德玛拉电池Ⅱ型",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13108,
@@ -1144,7 +1144,7 @@
 				"nameEn": "仿制星徽引擎",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-11-06 06:00:00",
@@ -1161,7 +1161,7 @@
 				"nameEn": "灼心摇壶",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13115,
@@ -1171,7 +1171,7 @@
 				"nameEn": "好斗的阿炮",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13103,
@@ -1181,7 +1181,7 @@
 				"nameEn": "聚宝箱",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-10-16 12:00:00",
@@ -1198,7 +1198,7 @@
 				"nameEn": "奔袭獠牙",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13128,
@@ -1208,7 +1208,7 @@
 				"nameEn": "轰鸣座驾",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13111,
@@ -1218,7 +1218,7 @@
 				"nameEn": "旋钻机-赤轴",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-09-25 06:00:00",
@@ -1235,7 +1235,7 @@
 				"nameEn": "淬锋钳刺",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13127,
@@ -1245,7 +1245,7 @@
 				"nameEn": "维序者-特化型",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13101,
@@ -1255,7 +1255,7 @@
 				"nameEn": "德玛拉电池Ⅱ型",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-09-04 12:00:00",
@@ -1272,7 +1272,7 @@
 				"nameEn": "玉壶青冰",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13108,
@@ -1282,7 +1282,7 @@
 				"nameEn": "仿制星徽引擎",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13106,
@@ -1292,7 +1292,7 @@
 				"nameEn": "家政员",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-08-14 06:00:00",
@@ -1309,7 +1309,7 @@
 				"nameEn": "防暴者Ⅵ型",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13103,
@@ -1319,7 +1319,7 @@
 				"nameEn": "聚宝箱",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13112,
@@ -1329,7 +1329,7 @@
 				"nameEn": "比格气缸",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-07-24 12:00:00",
@@ -1346,7 +1346,7 @@
 				"nameEn": "深海访客",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6
+				"rankType": 5
 			},
 			{
 				"itemId": 13113,
@@ -1356,7 +1356,7 @@
 				"nameEn": "含羞恶面",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5
+				"rankType": 4
 			},
 			{
 				"itemId": 13111,
@@ -1366,7 +1366,7 @@
 				"nameEn": "旋钻机-赤轴",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5
+				"rankType": 4
 			}
 		],
 		"start": "2024-07-04 06:00:00",

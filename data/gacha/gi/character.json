@@ -67,7 +67,7 @@
 				"nameEn": "兹白",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000087,
@@ -87,7 +87,7 @@
 				"nameEn": "叶洛亚",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000121,
@@ -107,7 +107,7 @@
 				"nameEn": "五郎",
 				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2026-02-03 18:00:00",
@@ -191,7 +191,7 @@
 				"nameEn": "希诺宁",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000110,
@@ -305,7 +305,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000108,
@@ -335,7 +335,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2025-11-11 18:00:00",
@@ -818,7 +818,7 @@
 				"nameEn": "娜维娅",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000113,
@@ -865,7 +865,7 @@
 				"nameEn": "希诺宁",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000022,
@@ -1056,7 +1056,7 @@
 				"nameEn": "五郎",
 				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000053,
@@ -1170,7 +1170,7 @@
 				"nameEn": "卡齐娜",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000032,
@@ -1217,7 +1217,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000059,
@@ -1378,7 +1378,7 @@
 				"nameEn": "希诺宁",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000094,
@@ -1388,7 +1388,7 @@
 				"nameEn": "千织",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000068,
@@ -1512,7 +1512,7 @@
 				"nameEn": "卡齐娜",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000044,
@@ -1606,7 +1606,7 @@
 				"nameEn": "娜维娅",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000070,
@@ -1646,7 +1646,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2024-07-17 06:00:00",
@@ -1693,7 +1693,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000092,
@@ -1948,7 +1948,7 @@
 				"nameEn": "千织",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000057,
@@ -1958,7 +1958,7 @@
 				"nameEn": "荒泷一斗",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000055,
@@ -1968,7 +1968,7 @@
 				"nameEn": "五郎",
 				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000064,
@@ -1978,7 +1978,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000068,
@@ -2045,7 +2045,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2024-02-20 18:00:00",
@@ -2102,7 +2102,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2024-01-31 06:00:00",
@@ -2176,7 +2176,7 @@
 				"nameEn": "娜维娅",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000002,
@@ -2461,7 +2461,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000033,
@@ -2501,7 +2501,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2023-09-05 18:00:00",
@@ -2776,7 +2776,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000036,
@@ -3061,7 +3061,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000024,
@@ -3118,7 +3118,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000077,
@@ -3212,7 +3212,7 @@
 				"nameEn": "荒泷一斗",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000076,
@@ -3232,7 +3232,7 @@
 				"nameEn": "五郎",
 				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000048,
@@ -3356,7 +3356,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2022-11-02 06:00:00",
@@ -3383,7 +3383,7 @@
 				"nameEn": "阿贝多",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000024,
@@ -3554,7 +3554,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000067,
@@ -3611,7 +3611,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000044,
@@ -3668,7 +3668,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000059,
@@ -3705,7 +3705,7 @@
 				"nameEn": "荒泷一斗",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000036,
@@ -3725,7 +3725,7 @@
 				"nameEn": "五郎",
 				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000065,
@@ -3792,7 +3792,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2022-05-31 06:00:00",
@@ -3896,7 +3896,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2022-03-30 06:00:00",
@@ -4027,7 +4027,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000025,
@@ -4094,7 +4094,7 @@
 				"nameEn": "云堇",
 				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000027,
@@ -4104,7 +4104,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000036,
@@ -4131,7 +4131,7 @@
 				"nameEn": "荒泷一斗",
 				"weaponType": "Claymore",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000055,
@@ -4141,7 +4141,7 @@
 				"nameEn": "五郎",
 				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000014,
@@ -4178,7 +4178,7 @@
 				"nameEn": "阿贝多",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000051,
@@ -4208,7 +4208,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000045,
@@ -4292,7 +4292,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000036,
@@ -4480,7 +4480,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000036,
@@ -4658,7 +4658,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000048,
@@ -4678,7 +4678,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000039,
@@ -4782,7 +4782,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2021-03-17 06:00:00",
@@ -4856,7 +4856,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000032,
@@ -4970,7 +4970,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2021-01-12 18:00:00",
@@ -4987,7 +4987,7 @@
 				"nameEn": "阿贝多",
 				"weaponType": "Sword",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000031,
@@ -5034,7 +5034,7 @@
 				"nameEn": "钟离",
 				"weaponType": "Polearm",
 				"rankType": 5,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000044,
@@ -5111,7 +5111,7 @@
 				"nameEn": "凝光",
 				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			}
 		],
 		"start": "2020-11-11 06:00:00",
@@ -5148,7 +5148,7 @@
 				"nameEn": "诺艾尔",
 				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000043,

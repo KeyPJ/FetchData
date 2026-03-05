@@ -10,7 +10,7 @@
 				"nameEn": "爱芮",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -22,7 +22,7 @@
 				"nameEn": "柚叶",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -34,7 +34,7 @@
 				"nameEn": "安东",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -46,7 +46,7 @@
 				"nameEn": "赛斯",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -65,7 +65,7 @@
 				"nameEn": "千夏",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -77,7 +77,7 @@
 				"nameEn": "仪玄",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -89,7 +89,7 @@
 				"nameEn": "可琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -101,7 +101,7 @@
 				"nameEn": "比利",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -120,7 +120,7 @@
 				"nameEn": "叶瞬光",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -132,7 +132,7 @@
 				"nameEn": "照",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -144,7 +144,7 @@
 				"nameEn": "零号·安比",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -156,7 +156,7 @@
 				"nameEn": "爱丽丝",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -168,7 +168,7 @@
 				"nameEn": "耀嘉音",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -180,7 +180,7 @@
 				"nameEn": "妮可",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -192,7 +192,7 @@
 				"nameEn": "露西",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -204,7 +204,7 @@
 				"nameEn": "安比",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -216,7 +216,7 @@
 				"nameEn": "本",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			}
@@ -235,7 +235,7 @@
 				"nameEn": "叶瞬光",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -247,7 +247,7 @@
 				"nameEn": "照",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -259,7 +259,7 @@
 				"nameEn": "妮可",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -271,7 +271,7 @@
 				"nameEn": "露西",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -283,7 +283,7 @@
 				"nameEn": "安比",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -295,7 +295,7 @@
 				"nameEn": "本",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			}
@@ -314,7 +314,7 @@
 				"nameEn": "般岳",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -326,7 +326,7 @@
 				"nameEn": "艾莲",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -338,7 +338,7 @@
 				"nameEn": "苍角",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -350,7 +350,7 @@
 				"nameEn": "赛斯",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -369,7 +369,7 @@
 				"nameEn": "琉音",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -381,7 +381,7 @@
 				"nameEn": "雨果",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -393,7 +393,7 @@
 				"nameEn": "可琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -405,7 +405,7 @@
 				"nameEn": "比利",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -424,7 +424,7 @@
 				"nameEn": "伊德海莉",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -436,7 +436,7 @@
 				"nameEn": "橘福福",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -448,7 +448,7 @@
 				"nameEn": "潘引壶",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -460,7 +460,7 @@
 				"nameEn": "波可娜",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -479,7 +479,7 @@
 				"nameEn": "卢西娅",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -491,7 +491,7 @@
 				"nameEn": "薇薇安",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -503,7 +503,7 @@
 				"nameEn": "真斗",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -515,7 +515,7 @@
 				"nameEn": "派派",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -534,7 +534,7 @@
 				"nameEn": "奥菲丝&「鬼火」",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -546,7 +546,7 @@
 				"nameEn": "伊芙琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -558,7 +558,7 @@
 				"nameEn": "露西",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -570,7 +570,7 @@
 				"nameEn": "安东",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -589,7 +589,7 @@
 				"nameEn": "「席德」",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -601,7 +601,7 @@
 				"nameEn": "「扳机」",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -613,7 +613,7 @@
 				"nameEn": "妮可",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -625,7 +625,7 @@
 				"nameEn": "安比",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -644,7 +644,7 @@
 				"nameEn": "爱丽丝",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -656,7 +656,7 @@
 				"nameEn": "柳",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -668,7 +668,7 @@
 				"nameEn": "苍角",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -680,7 +680,7 @@
 				"nameEn": "赛斯",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -699,7 +699,7 @@
 				"nameEn": "柚叶",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -711,7 +711,7 @@
 				"nameEn": "雅",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -723,7 +723,7 @@
 				"nameEn": "派派",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -735,7 +735,7 @@
 				"nameEn": "比利",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -754,7 +754,7 @@
 				"nameEn": "橘福福",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -766,7 +766,7 @@
 				"nameEn": "凯撒",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -778,7 +778,7 @@
 				"nameEn": "本",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -790,7 +790,7 @@
 				"nameEn": "可琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -809,7 +809,7 @@
 				"nameEn": "仪玄",
 				"weaponType": "Rupture",
 				"weaponTypeCN": "命破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -821,7 +821,7 @@
 				"nameEn": "耀嘉音",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -833,7 +833,7 @@
 				"nameEn": "潘引壶",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -845,7 +845,7 @@
 				"nameEn": "波可娜",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -864,7 +864,7 @@
 				"nameEn": "雨果",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -876,7 +876,7 @@
 				"nameEn": "莱特",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -888,7 +888,7 @@
 				"nameEn": "苍角",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -900,7 +900,7 @@
 				"nameEn": "安东",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -919,7 +919,7 @@
 				"nameEn": "薇薇安",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -931,7 +931,7 @@
 				"nameEn": "简",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -943,7 +943,7 @@
 				"nameEn": "派派",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -955,7 +955,7 @@
 				"nameEn": "赛斯",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -974,7 +974,7 @@
 				"nameEn": "「扳机」",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -986,7 +986,7 @@
 				"nameEn": "朱鸢",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -998,7 +998,7 @@
 				"nameEn": "露西",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1010,7 +1010,7 @@
 				"nameEn": "比利",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -1029,7 +1029,7 @@
 				"nameEn": "零号·安比",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1041,7 +1041,7 @@
 				"nameEn": "柏妮思",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1053,7 +1053,7 @@
 				"nameEn": "波可娜",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -1065,7 +1065,7 @@
 				"nameEn": "本",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			}
@@ -1084,7 +1084,7 @@
 				"nameEn": "伊芙琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1096,7 +1096,7 @@
 				"nameEn": "青衣",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1108,7 +1108,7 @@
 				"nameEn": "安东",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1120,7 +1120,7 @@
 				"nameEn": "妮可",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ether",
 				"elementCN": "以太"
 			}
@@ -1139,7 +1139,7 @@
 				"nameEn": "耀嘉音",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -1151,7 +1151,7 @@
 				"nameEn": "艾莲",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -1163,7 +1163,7 @@
 				"nameEn": "安比",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1175,7 +1175,7 @@
 				"nameEn": "可琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -1194,7 +1194,7 @@
 				"nameEn": "雅",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -1206,7 +1206,7 @@
 				"nameEn": "悠真",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1218,7 +1218,7 @@
 				"nameEn": "派派",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -1230,7 +1230,7 @@
 				"nameEn": "苍角",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			}
@@ -1249,7 +1249,7 @@
 				"nameEn": "莱特",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1261,7 +1261,7 @@
 				"nameEn": "本",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1273,7 +1273,7 @@
 				"nameEn": "可琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -1292,7 +1292,7 @@
 				"nameEn": "柳",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1304,7 +1304,7 @@
 				"nameEn": "安比",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1316,7 +1316,7 @@
 				"nameEn": "比利",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -1335,7 +1335,7 @@
 				"nameEn": "柏妮思",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1347,7 +1347,7 @@
 				"nameEn": "露西",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			},
@@ -1359,7 +1359,7 @@
 				"nameEn": "妮可",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ether",
 				"elementCN": "以太"
 			}
@@ -1378,7 +1378,7 @@
 				"nameEn": "凯撒",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -1390,7 +1390,7 @@
 				"nameEn": "派派",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -1402,7 +1402,7 @@
 				"nameEn": "安东",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -1421,7 +1421,7 @@
 				"nameEn": "简",
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -1433,7 +1433,7 @@
 				"nameEn": "赛斯",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1445,7 +1445,7 @@
 				"nameEn": "安比",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}
@@ -1464,7 +1464,7 @@
 				"nameEn": "青衣",
 				"weaponType": "Stun",
 				"weaponTypeCN": "击破",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -1476,7 +1476,7 @@
 				"nameEn": "比利",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			},
@@ -1488,7 +1488,7 @@
 				"nameEn": "可琳",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Physical",
 				"elementCN": "物理"
 			}
@@ -1507,7 +1507,7 @@
 				"nameEn": "朱鸢",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -1519,7 +1519,7 @@
 				"nameEn": "妮可",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ether",
 				"elementCN": "以太"
 			},
@@ -1531,7 +1531,7 @@
 				"nameEn": "本",
 				"weaponType": "Defense",
 				"weaponTypeCN": "防护",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Fire",
 				"elementCN": "火属性"
 			}
@@ -1550,7 +1550,7 @@
 				"nameEn": "艾莲",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 6,
+				"rankType": 5,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -1562,7 +1562,7 @@
 				"nameEn": "苍角",
 				"weaponType": "Support",
 				"weaponTypeCN": "支援",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Ice",
 				"elementCN": "冰属性"
 			},
@@ -1574,7 +1574,7 @@
 				"nameEn": "安东",
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
-				"rankType": 5,
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			}

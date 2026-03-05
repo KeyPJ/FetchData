@@ -3,13 +3,23 @@
 		"version": "4.0.2",
 		"items": [
 			{
+				"itemId": 23054,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0c4f2196c126f2a471e53e4eea2a14ed.png",
+				"itemType": "Weapon",
+				"name": "当她决定看见",
+				"nameEn": "当她决定看见",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
 				"itemId": 23053,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b2a4e802006f3c04ee7d71559ae474de.png",
 				"itemType": "Weapon",
 				"name": "花花世界迷人眼",
 				"nameEn": "花花世界迷人眼",
 				"rankType": 5,
-				"avatarBaseType": "elation",
+				"avatarBaseType": "9",
 				"weaponType": "elation"
 			},
 			{
@@ -19,7 +29,7 @@
 				"name": "金血铭刻的时代",
 				"nameEn": "金血铭刻的时代",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -29,7 +39,7 @@
 				"name": "忍法帖•缭乱破魔",
 				"nameEn": "忍法帖•缭乱破魔",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -39,7 +49,7 @@
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -49,7 +59,7 @@
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -59,7 +69,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -69,7 +79,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -86,7 +96,7 @@
 				"name": "当她决定看见",
 				"nameEn": "当她决定看见",
 				"rankType": 5,
-				"avatarBaseType": "elation",
+				"avatarBaseType": "9",
 				"weaponType": "elation"
 			},
 			{
@@ -96,7 +106,7 @@
 				"name": "致长夜的星光",
 				"nameEn": "致长夜的星光",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -106,7 +116,7 @@
 				"name": "海洋为何而歌",
 				"nameEn": "海洋为何而歌",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -116,7 +126,7 @@
 				"name": "重塑时光之忆",
 				"nameEn": "重塑时光之忆",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -126,7 +136,7 @@
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -136,7 +146,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -146,7 +156,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -163,7 +173,7 @@
 				"name": "将光阴织成黄金",
 				"nameEn": "将光阴织成黄金",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -173,7 +183,7 @@
 				"name": "回到大地的飞行",
 				"nameEn": "回到大地的飞行",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -183,7 +193,7 @@
 				"name": "天才们的问候",
 				"nameEn": "天才们的问候",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -193,7 +203,7 @@
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -203,7 +213,7 @@
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -220,7 +230,7 @@
 				"name": "长路终有归途",
 				"nameEn": "长路终有归途",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -230,7 +240,7 @@
 				"name": "唯有香如故",
 				"nameEn": "唯有香如故",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -240,7 +250,7 @@
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -250,7 +260,7 @@
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -260,7 +270,7 @@
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -277,7 +287,7 @@
 				"name": "勿忘她的火焰",
 				"nameEn": "勿忘她的火焰",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -287,7 +297,7 @@
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -297,7 +307,7 @@
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -307,7 +317,7 @@
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -317,7 +327,7 @@
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -334,7 +344,7 @@
 				"name": "爱如此刻永恒",
 				"nameEn": "爱如此刻永恒",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -344,7 +354,7 @@
 				"name": "黎明恰如此燃烧",
 				"nameEn": "黎明恰如此燃烧",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -354,7 +364,7 @@
 				"name": "谎言在风中飘扬",
 				"nameEn": "谎言在风中飘扬",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -364,7 +374,7 @@
 				"name": "血火啊，燃烧前路",
 				"nameEn": "血火啊，燃烧前路",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -374,7 +384,7 @@
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -384,7 +394,7 @@
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -394,7 +404,7 @@
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -411,7 +421,7 @@
 				"name": "爱如此刻永恒",
 				"nameEn": "爱如此刻永恒",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -421,7 +431,7 @@
 				"name": "愿虹光永驻天空",
 				"nameEn": "愿虹光永驻天空",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -431,7 +441,7 @@
 				"name": "让告别，更美一些",
 				"nameEn": "让告别，更美一些",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -441,7 +451,7 @@
 				"name": "如果时间是一朵花",
 				"nameEn": "如果时间是一朵花",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -451,7 +461,7 @@
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -461,7 +471,7 @@
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -471,7 +481,7 @@
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -488,7 +498,7 @@
 				"name": "纵然山河万程",
 				"nameEn": "纵然山河万程",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -498,7 +508,7 @@
 				"name": "生命当付之一炬",
 				"nameEn": "生命当付之一炬",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -508,7 +518,7 @@
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -518,7 +528,7 @@
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -528,7 +538,7 @@
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -545,7 +555,7 @@
 				"name": "致长夜的星光",
 				"nameEn": "致长夜的星光",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -555,7 +565,7 @@
 				"name": "向着不可追问处",
 				"nameEn": "向着不可追问处",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -565,7 +575,7 @@
 				"name": "梦的蒙太奇",
 				"nameEn": "梦的蒙太奇",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -575,7 +585,7 @@
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -585,7 +595,7 @@
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -602,7 +612,7 @@
 				"name": "金血铭刻的时代",
 				"nameEn": "金血铭刻的时代",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -612,7 +622,7 @@
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -622,7 +632,7 @@
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -632,7 +642,7 @@
 				"name": "论剑",
 				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -642,7 +652,7 @@
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -659,7 +669,7 @@
 				"name": "海洋为何而歌",
 				"nameEn": "海洋为何而歌",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -669,7 +679,7 @@
 				"name": "只需等待",
 				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -679,7 +689,7 @@
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -689,7 +699,7 @@
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -699,7 +709,7 @@
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -716,7 +726,7 @@
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -726,7 +736,7 @@
 				"name": "此身为剑",
 				"nameEn": "此身为剑",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -736,7 +746,7 @@
 				"name": "到不了的彼岸",
 				"nameEn": "到不了的彼岸",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -746,7 +756,7 @@
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -756,7 +766,7 @@
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -766,7 +776,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -783,7 +793,7 @@
 				"name": "黎明恰如此燃烧",
 				"nameEn": "黎明恰如此燃烧",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -793,7 +803,7 @@
 				"name": "如果时间是一朵花",
 				"nameEn": "如果时间是一朵花",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -803,7 +813,7 @@
 				"name": "回到大地的飞行",
 				"nameEn": "回到大地的飞行",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -813,7 +823,7 @@
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -823,7 +833,7 @@
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -833,7 +843,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -843,7 +853,7 @@
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -860,7 +870,7 @@
 				"name": "谎言在风中飘扬",
 				"nameEn": "谎言在风中飘扬",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -870,7 +880,7 @@
 				"name": "将光阴织成黄金",
 				"nameEn": "将光阴织成黄金",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -880,7 +890,7 @@
 				"name": "天才们的问候",
 				"nameEn": "天才们的问候",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -890,7 +900,7 @@
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -900,7 +910,7 @@
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -917,7 +927,7 @@
 				"name": "愿虹光永驻天空",
 				"nameEn": "愿虹光永驻天空",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -927,7 +937,7 @@
 				"name": "向着不可追问处",
 				"nameEn": "向着不可追问处",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -937,7 +947,7 @@
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -947,7 +957,7 @@
 				"name": "黑夜如影随行",
 				"nameEn": "黑夜如影随行",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -957,7 +967,7 @@
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -974,7 +984,7 @@
 				"name": "生命当付之一炬",
 				"nameEn": "生命当付之一炬",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -984,7 +994,7 @@
 				"name": "纯粹思维的洗礼",
 				"nameEn": "纯粹思维的洗礼",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -994,7 +1004,7 @@
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1004,7 +1014,7 @@
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1014,7 +1024,7 @@
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -1031,7 +1041,7 @@
 				"name": "让告别，更美一些",
 				"nameEn": "让告别，更美一些",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1041,7 +1051,7 @@
 				"name": "长路终有归途",
 				"nameEn": "长路终有归途",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1051,7 +1061,7 @@
 				"name": "那无数个春天",
 				"nameEn": "那无数个春天",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1061,7 +1071,7 @@
 				"name": "行于流逝的岸",
 				"nameEn": "行于流逝的岸",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1071,7 +1081,7 @@
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1081,7 +1091,7 @@
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1091,7 +1101,7 @@
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -1108,7 +1118,7 @@
 				"name": "血火啊，燃烧前路",
 				"nameEn": "血火啊，燃烧前路",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1118,7 +1128,7 @@
 				"name": "惊魂夜",
 				"nameEn": "惊魂夜",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1128,7 +1138,7 @@
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1138,7 +1148,7 @@
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1148,7 +1158,7 @@
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -1165,7 +1175,7 @@
 				"name": "如果时间是一朵花",
 				"nameEn": "如果时间是一朵花",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1175,7 +1185,7 @@
 				"name": "落日时起舞",
 				"nameEn": "落日时起舞",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1185,7 +1195,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1195,7 +1205,7 @@
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1205,7 +1215,7 @@
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -1222,7 +1232,7 @@
 				"name": "将光阴织成黄金",
 				"nameEn": "将光阴织成黄金",
 				"rankType": 5,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1232,7 +1242,7 @@
 				"name": "驶向第二次生命",
 				"nameEn": "驶向第二次生命",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1242,7 +1252,7 @@
 				"name": "夜色流光溢彩",
 				"nameEn": "夜色流光溢彩",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1252,7 +1262,7 @@
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1262,7 +1272,7 @@
 				"name": "天才们的问候",
 				"nameEn": "天才们的问候",
 				"rankType": 4,
-				"avatarBaseType": "remembrance",
+				"avatarBaseType": "8",
 				"weaponType": "remembrance"
 			},
 			{
@@ -1272,7 +1282,7 @@
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1282,7 +1292,7 @@
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -1299,7 +1309,7 @@
 				"name": "向着不可追问处",
 				"nameEn": "向着不可追问处",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1309,7 +1319,7 @@
 				"name": "唯有香如故",
 				"nameEn": "唯有香如故",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1319,7 +1329,7 @@
 				"name": "我将，巡征追猎",
 				"nameEn": "我将，巡征追猎",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1329,7 +1339,7 @@
 				"name": "偏偏希望无价",
 				"nameEn": "偏偏希望无价",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1339,7 +1349,7 @@
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1349,7 +1359,7 @@
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1359,7 +1369,7 @@
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -1376,7 +1386,7 @@
 				"name": "长路终有归途",
 				"nameEn": "长路终有归途",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1386,7 +1396,7 @@
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1396,7 +1406,7 @@
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1406,7 +1416,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1416,7 +1426,7 @@
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -1433,7 +1443,7 @@
 				"name": "回到大地的飞行",
 				"nameEn": "回到大地的飞行",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1443,7 +1453,7 @@
 				"name": "拂晓之前",
 				"nameEn": "拂晓之前",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1453,7 +1463,7 @@
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1463,7 +1473,7 @@
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1473,7 +1483,7 @@
 				"name": "论剑",
 				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -1490,7 +1500,7 @@
 				"name": "行于流逝的岸",
 				"nameEn": "行于流逝的岸",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1500,7 +1510,7 @@
 				"name": "命运从未公平",
 				"nameEn": "命运从未公平",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1510,7 +1520,7 @@
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1520,7 +1530,7 @@
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1530,7 +1540,7 @@
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -1547,7 +1557,7 @@
 				"name": "忍法帖•缭乱破魔",
 				"nameEn": "忍法帖•缭乱破魔",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1557,7 +1567,7 @@
 				"name": "比阳光更明亮的",
 				"nameEn": "比阳光更明亮的",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1567,7 +1577,7 @@
 				"name": "梦的蒙太奇",
 				"nameEn": "梦的蒙太奇",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1577,7 +1587,7 @@
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1587,7 +1597,7 @@
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -1604,7 +1614,7 @@
 				"name": "唯有香如故",
 				"nameEn": "唯有香如故",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1614,7 +1624,7 @@
 				"name": "烦恼着，幸福着",
 				"nameEn": "烦恼着，幸福着",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1624,7 +1634,7 @@
 				"name": "黑夜如影随行",
 				"nameEn": "黑夜如影随行",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1634,7 +1644,7 @@
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1644,7 +1654,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -1661,7 +1671,7 @@
 				"name": "我将，巡征追猎",
 				"nameEn": "我将，巡征追猎",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1671,7 +1681,7 @@
 				"name": "只需等待",
 				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1681,7 +1691,7 @@
 				"name": "重塑时光之忆",
 				"nameEn": "重塑时光之忆",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1691,7 +1701,7 @@
 				"name": "夜色流光溢彩",
 				"nameEn": "夜色流光溢彩",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1701,7 +1711,7 @@
 				"name": "论剑",
 				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1711,7 +1721,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1721,7 +1731,7 @@
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -1738,7 +1748,7 @@
 				"name": "那无数个春天",
 				"nameEn": "那无数个春天",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1748,7 +1758,7 @@
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1758,7 +1768,7 @@
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1768,7 +1778,7 @@
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -1778,7 +1788,7 @@
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -1795,7 +1805,7 @@
 				"name": "落日时起舞",
 				"nameEn": "落日时起舞",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1805,7 +1815,7 @@
 				"name": "惊魂夜",
 				"nameEn": "惊魂夜",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1815,7 +1825,7 @@
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1825,7 +1835,7 @@
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1835,7 +1845,7 @@
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -1852,7 +1862,7 @@
 				"name": "偏偏希望无价",
 				"nameEn": "偏偏希望无价",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1862,7 +1872,7 @@
 				"name": "片刻，留在眼底",
 				"nameEn": "片刻，留在眼底",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1872,7 +1882,7 @@
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1882,7 +1892,7 @@
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -1892,7 +1902,7 @@
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -1909,7 +1919,7 @@
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -1919,7 +1929,7 @@
 				"name": "镜中故我",
 				"nameEn": "镜中故我",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1929,7 +1939,7 @@
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -1939,7 +1949,7 @@
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1949,7 +1959,7 @@
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -1966,7 +1976,7 @@
 				"name": "驶向第二次生命",
 				"nameEn": "驶向第二次生命",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -1976,7 +1986,7 @@
 				"name": "她已闭上双眼",
 				"nameEn": "她已闭上双眼",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -1986,7 +1996,7 @@
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -1996,7 +2006,7 @@
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2006,7 +2016,7 @@
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -2023,7 +2033,7 @@
 				"name": "夜色流光溢彩",
 				"nameEn": "夜色流光溢彩",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2033,7 +2043,7 @@
 				"name": "烦恼着，幸福着",
 				"nameEn": "烦恼着，幸福着",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2043,7 +2053,7 @@
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2053,7 +2063,7 @@
 				"name": "论剑",
 				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2063,7 +2073,7 @@
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			}
 		],
@@ -2080,7 +2090,7 @@
 				"name": "命运从未公平",
 				"nameEn": "命运从未公平",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2090,7 +2100,7 @@
 				"name": "此身为剑",
 				"nameEn": "此身为剑",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2100,7 +2110,7 @@
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2110,7 +2120,7 @@
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2120,7 +2130,7 @@
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2137,7 +2147,7 @@
 				"name": "行于流逝的岸",
 				"nameEn": "行于流逝的岸",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2147,7 +2157,7 @@
 				"name": "棺的回响",
 				"nameEn": "棺的回响",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2157,7 +2167,7 @@
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2167,7 +2177,7 @@
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2177,7 +2187,7 @@
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -2194,7 +2204,7 @@
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2204,7 +2214,7 @@
 				"name": "拂晓之前",
 				"nameEn": "拂晓之前",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2214,7 +2224,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2224,7 +2234,7 @@
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2234,7 +2244,7 @@
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2251,7 +2261,7 @@
 				"name": "重塑时光之忆",
 				"nameEn": "重塑时光之忆",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2261,7 +2271,7 @@
 				"name": "比阳光更明亮的",
 				"nameEn": "比阳光更明亮的",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2271,7 +2281,7 @@
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2281,7 +2291,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2291,7 +2301,7 @@
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -2308,7 +2318,7 @@
 				"name": "纯粹思维的洗礼",
 				"nameEn": "纯粹思维的洗礼",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2318,7 +2328,7 @@
 				"name": "只需等待",
 				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2328,7 +2338,7 @@
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2338,7 +2348,7 @@
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2348,7 +2358,7 @@
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -2365,7 +2375,7 @@
 				"name": "镜中故我",
 				"nameEn": "镜中故我",
 				"rankType": 5,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2375,7 +2385,7 @@
 				"name": "到不了的彼岸",
 				"nameEn": "到不了的彼岸",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2385,7 +2395,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2395,7 +2405,7 @@
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2405,7 +2415,7 @@
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2422,7 +2432,7 @@
 				"name": "片刻，留在眼底",
 				"nameEn": "片刻，留在眼底",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2432,7 +2442,7 @@
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2442,7 +2452,7 @@
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2452,7 +2462,7 @@
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2462,7 +2472,7 @@
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2479,7 +2489,7 @@
 				"name": "惊魂夜",
 				"nameEn": "惊魂夜",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2489,7 +2499,7 @@
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2499,7 +2509,7 @@
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2509,7 +2519,7 @@
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -2526,7 +2536,7 @@
 				"name": "烦恼着，幸福着",
 				"nameEn": "烦恼着，幸福着",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2536,7 +2546,7 @@
 				"name": "于夜色中",
 				"nameEn": "于夜色中",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2546,7 +2556,7 @@
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2556,7 +2566,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2566,7 +2576,7 @@
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -2583,7 +2593,7 @@
 				"name": "此身为剑",
 				"nameEn": "此身为剑",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2593,7 +2603,7 @@
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2603,7 +2613,7 @@
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2613,7 +2623,7 @@
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			}
 		],
@@ -2630,7 +2640,7 @@
 				"name": "她已闭上双眼",
 				"nameEn": "她已闭上双眼",
 				"rankType": 5,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2640,7 +2650,7 @@
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2650,7 +2660,7 @@
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			},
 			{
@@ -2660,7 +2670,7 @@
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
@@ -2677,7 +2687,7 @@
 				"name": "比阳光更明亮的",
 				"nameEn": "比阳光更明亮的",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2687,7 +2697,7 @@
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2697,7 +2707,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2707,7 +2717,7 @@
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -2724,7 +2734,7 @@
 				"name": "只需等待",
 				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2734,7 +2744,7 @@
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2744,7 +2754,7 @@
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2754,7 +2764,7 @@
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2771,7 +2781,7 @@
 				"name": "到不了的彼岸",
 				"nameEn": "到不了的彼岸",
 				"rankType": 5,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2781,7 +2791,7 @@
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			},
 			{
@@ -2791,7 +2801,7 @@
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2801,7 +2811,7 @@
 				"name": "论剑",
 				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			}
 		],
@@ -2818,7 +2828,7 @@
 				"name": "棺的回响",
 				"nameEn": "棺的回响",
 				"rankType": 5,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2828,7 +2838,7 @@
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2838,7 +2848,7 @@
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2848,7 +2858,7 @@
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			}
 		],
@@ -2865,7 +2875,7 @@
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2875,7 +2885,7 @@
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2885,7 +2895,7 @@
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2895,7 +2905,7 @@
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			}
 		],
@@ -2912,7 +2922,7 @@
 				"name": "拂晓之前",
 				"nameEn": "拂晓之前",
 				"rankType": 5,
-				"avatarBaseType": "erudition",
+				"avatarBaseType": "3",
 				"weaponType": "erudition"
 			},
 			{
@@ -2922,7 +2932,7 @@
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "harmony",
+				"avatarBaseType": "4",
 				"weaponType": "harmony"
 			},
 			{
@@ -2932,7 +2942,7 @@
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2942,7 +2952,7 @@
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "preservation",
+				"avatarBaseType": "6",
 				"weaponType": "preservation"
 			}
 		],
@@ -2959,7 +2969,7 @@
 				"name": "于夜色中",
 				"nameEn": "于夜色中",
 				"rankType": 5,
-				"avatarBaseType": "the_Hunt",
+				"avatarBaseType": "2",
 				"weaponType": "the_Hunt"
 			},
 			{
@@ -2969,7 +2979,7 @@
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "abundance",
+				"avatarBaseType": "7",
 				"weaponType": "abundance"
 			},
 			{
@@ -2979,7 +2989,7 @@
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "nihility",
+				"avatarBaseType": "5",
 				"weaponType": "nihility"
 			},
 			{
@@ -2989,7 +2999,7 @@
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "destruction",
+				"avatarBaseType": "1",
 				"weaponType": "destruction"
 			}
 		],
