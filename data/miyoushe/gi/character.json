@@ -1,1026 +1,1026 @@
 {
   "神里绫华": {
     "cn": "神里绫华",
-    "element": "Cryo",
+    "element": 7,
     "EN": "神里绫华",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
     "id": "10000002",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "琴": {
     "cn": "琴",
-    "element": "Anemo",
+    "element": 2,
     "EN": "琴",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/58584abb17641f95da28c74073a23b2c.png",
     "id": "10000003",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "旅行者": {
     "cn": "旅行者",
-    "element": "Pyro",
+    "element": 1,
     "EN": "旅行者",
     "iconUrl": "/hk4e/e20200928calculate/static/player/UI_AvatarIcon_PlayerBoy_Circle.png",
     "id": "10000005",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "丽莎": {
     "cn": "丽莎",
-    "element": "Electro",
+    "element": 5,
     "EN": "丽莎",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/08f4cfd168368db86cac245a8f37a081.png",
     "id": "10000006",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "芭芭拉": {
     "cn": "芭芭拉",
-    "element": "Hydro",
+    "element": 6,
     "EN": "芭芭拉",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
     "id": "10000014",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "凯亚": {
     "cn": "凯亚",
-    "element": "Cryo",
+    "element": 7,
     "EN": "凯亚",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/d0441b48f3e3dc9fa0f00a9c62f3b559.png",
     "id": "10000015",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "迪卢克": {
     "cn": "迪卢克",
-    "element": "Pyro",
+    "element": 1,
     "EN": "迪卢克",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/48441942aece8e42d611d7a05d2849d2.png",
     "id": "10000016",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "雷泽": {
     "cn": "雷泽",
-    "element": "Electro",
+    "element": 5,
     "EN": "雷泽",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
     "id": "10000020",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "安柏": {
     "cn": "安柏",
-    "element": "Pyro",
+    "element": 1,
     "EN": "安柏",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d09461a1c4520c7dc35c5acab68cadf6.png",
     "id": "10000021",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "温迪": {
     "cn": "温迪",
-    "element": "Anemo",
+    "element": 2,
     "EN": "温迪",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
     "id": "10000022",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "香菱": {
     "cn": "香菱",
-    "element": "Pyro",
+    "element": 1,
     "EN": "香菱",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
     "id": "10000023",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "北斗": {
     "cn": "北斗",
-    "element": "Electro",
+    "element": 5,
     "EN": "北斗",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
     "id": "10000024",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "行秋": {
     "cn": "行秋",
-    "element": "Hydro",
+    "element": 6,
     "EN": "行秋",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
     "id": "10000025",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "魈": {
     "cn": "魈",
-    "element": "Anemo",
+    "element": 2,
     "EN": "魈",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/369f2b38507ae0814934e8e3739a2d35.png",
     "id": "10000026",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "凝光": {
     "cn": "凝光",
-    "element": "Electro",
+    "element": 3,
     "EN": "凝光",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
     "id": "10000027",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "可莉": {
     "cn": "可莉",
-    "element": "Pyro",
+    "element": 1,
     "EN": "可莉",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a88646b581ab24a871cb1a62e5b3bdf9.png",
     "id": "10000029",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "钟离": {
     "cn": "钟离",
-    "element": "Electro",
+    "element": 3,
     "EN": "钟离",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
     "id": "10000030",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "菲谢尔": {
     "cn": "菲谢尔",
-    "element": "Electro",
+    "element": 5,
     "EN": "菲谢尔",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
     "id": "10000031",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "班尼特": {
     "cn": "班尼特",
-    "element": "Pyro",
+    "element": 1,
     "EN": "班尼特",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
     "id": "10000032",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "达达利亚": {
     "cn": "达达利亚",
-    "element": "Hydro",
+    "element": 6,
     "EN": "达达利亚",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/923cc5f9ae578a4133cbc71fa94ed321.png",
     "id": "10000033",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "诺艾尔": {
     "cn": "诺艾尔",
-    "element": "Electro",
+    "element": 3,
     "EN": "诺艾尔",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
     "id": "10000034",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "七七": {
     "cn": "七七",
-    "element": "Cryo",
+    "element": 7,
     "EN": "七七",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7a576a44f5a1164bb1b6dfe6297edaf.png",
     "id": "10000035",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "重云": {
     "cn": "重云",
-    "element": "Cryo",
+    "element": 7,
     "EN": "重云",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
     "id": "10000036",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "甘雨": {
     "cn": "甘雨",
-    "element": "Cryo",
+    "element": 7,
     "EN": "甘雨",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bf54f43c33b049ee529a37ee49d8a591.png",
     "id": "10000037",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "阿贝多": {
     "cn": "阿贝多",
-    "element": "Electro",
+    "element": 3,
     "EN": "阿贝多",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/40dcba1eab1862499690f60b6b7f46ab.png",
     "id": "10000038",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "迪奥娜": {
     "cn": "迪奥娜",
-    "element": "Cryo",
+    "element": 7,
     "EN": "迪奥娜",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
     "id": "10000039",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "莫娜": {
     "cn": "莫娜",
-    "element": "Hydro",
+    "element": 6,
     "EN": "莫娜",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/fc4ec0ab7c1520d616e4e719c179b223.png",
     "id": "10000041",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "刻晴": {
     "cn": "刻晴",
-    "element": "Electro",
+    "element": 5,
     "EN": "刻晴",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/939e44f5459ca335002e749964af866f.png",
     "id": "10000042",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "砂糖": {
     "cn": "砂糖",
-    "element": "Anemo",
+    "element": 2,
     "EN": "砂糖",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
     "id": "10000043",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "辛焱": {
     "cn": "辛焱",
-    "element": "Pyro",
+    "element": 1,
     "EN": "辛焱",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
     "id": "10000044",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "罗莎莉亚": {
     "cn": "罗莎莉亚",
-    "element": "Cryo",
+    "element": 7,
     "EN": "罗莎莉亚",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
     "id": "10000045",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "胡桃": {
     "cn": "胡桃",
-    "element": "Pyro",
+    "element": 1,
     "EN": "胡桃",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/f3547b49d4103fc1ee16dfb8b8907e98.png",
     "id": "10000046",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "枫原万叶": {
     "cn": "枫原万叶",
-    "element": "Anemo",
+    "element": 2,
     "EN": "枫原万叶",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2790262c16e794bf2e3407f760234a4c.png",
     "id": "10000047",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "烟绯": {
     "cn": "烟绯",
-    "element": "Pyro",
+    "element": 1,
     "EN": "烟绯",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
     "id": "10000048",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "宵宫": {
     "cn": "宵宫",
-    "element": "Pyro",
+    "element": 1,
     "EN": "宵宫",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f9e1196030a547ee8afaf9f0c05c7be.png",
     "id": "10000049",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "托马": {
     "cn": "托马",
-    "element": "Pyro",
+    "element": 1,
     "EN": "托马",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
     "id": "10000050",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "优菈": {
     "cn": "优菈",
-    "element": "Cryo",
+    "element": 7,
     "EN": "优菈",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c3798482c8ba03afe19453ab053c1ff3.png",
     "id": "10000051",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "雷电将军": {
     "cn": "雷电将军",
-    "element": "Electro",
+    "element": 5,
     "EN": "雷电将军",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
     "id": "10000052",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "早柚": {
     "cn": "早柚",
-    "element": "Anemo",
+    "element": 2,
     "EN": "早柚",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
     "id": "10000053",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "珊瑚宫心海": {
     "cn": "珊瑚宫心海",
-    "element": "Hydro",
+    "element": 6,
     "EN": "珊瑚宫心海",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/21c40a98913d4d0f9e4d6660927002db.png",
     "id": "10000054",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "五郎": {
     "cn": "五郎",
-    "element": "Electro",
+    "element": 3,
     "EN": "五郎",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
     "id": "10000055",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "九条裟罗": {
     "cn": "九条裟罗",
-    "element": "Electro",
+    "element": 5,
     "EN": "九条裟罗",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
     "id": "10000056",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "荒泷一斗": {
     "cn": "荒泷一斗",
-    "element": "Electro",
+    "element": 3,
     "EN": "荒泷一斗",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fc2e84b8835d2943a18836052f66aa33.png",
     "id": "10000057",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "八重神子": {
     "cn": "八重神子",
-    "element": "Electro",
+    "element": 5,
     "EN": "八重神子",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b0712b5f4b11d55877cdf339e26433b.png",
     "id": "10000058",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "鹿野院平藏": {
     "cn": "鹿野院平藏",
-    "element": "Anemo",
+    "element": 2,
     "EN": "鹿野院平藏",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6321a4af2b9c11940ab0a9770cb9a405.png",
     "id": "10000059",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "夜兰": {
     "cn": "夜兰",
-    "element": "Hydro",
+    "element": 6,
     "EN": "夜兰",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0343c39085ea9f0bc74a2b3ac3c2453a.png",
     "id": "10000060",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "绮良良": {
     "cn": "绮良良",
-    "element": "Dendro",
+    "element": 4,
     "EN": "绮良良",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7438c0635055f05cded0aeafac019d8e.png",
     "id": "10000061",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "埃洛伊": {
     "cn": "埃洛伊",
-    "element": "Cryo",
+    "element": 7,
     "EN": "埃洛伊",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0f21268e9cfd75f812940f1bcd0c285b.png",
     "id": "10000062",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "申鹤": {
     "cn": "申鹤",
-    "element": "Cryo",
+    "element": 7,
     "EN": "申鹤",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2052d5ea541fd38598adcd4b6597558e.png",
     "id": "10000063",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "云堇": {
     "cn": "云堇",
-    "element": "Electro",
+    "element": 3,
     "EN": "云堇",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
     "id": "10000064",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "久岐忍": {
     "cn": "久岐忍",
-    "element": "Electro",
+    "element": 5,
     "EN": "久岐忍",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
     "id": "10000065",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "神里绫人": {
     "cn": "神里绫人",
-    "element": "Hydro",
+    "element": 6,
     "EN": "神里绫人",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9c2657bbf47c1bf85e05d671337d0df.png",
     "id": "10000066",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "柯莱": {
     "cn": "柯莱",
-    "element": "Dendro",
+    "element": 4,
     "EN": "柯莱",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/02b3700edf30f3fd88d30d30f0a6610a.png",
     "id": "10000067",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "多莉": {
     "cn": "多莉",
-    "element": "Electro",
+    "element": 5,
     "EN": "多莉",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
     "id": "10000068",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "提纳里": {
     "cn": "提纳里",
-    "element": "Dendro",
+    "element": 4,
     "EN": "提纳里",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fd9c335ae8d16bd1722dc1766533b495.png",
     "id": "10000069",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "妮露": {
     "cn": "妮露",
-    "element": "Hydro",
+    "element": 6,
     "EN": "妮露",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0432417968817e5670dd6b7bce6531a0.png",
     "id": "10000070",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "赛诺": {
     "cn": "赛诺",
-    "element": "Electro",
+    "element": 5,
     "EN": "赛诺",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53cf8618263f2cb65b65e7020b3dfcca.png",
     "id": "10000071",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "坎蒂丝": {
     "cn": "坎蒂丝",
-    "element": "Hydro",
+    "element": 6,
     "EN": "坎蒂丝",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
     "id": "10000072",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "纳西妲": {
     "cn": "纳西妲",
-    "element": "Dendro",
+    "element": 4,
     "EN": "纳西妲",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5082c08c7897d11fdfbe78df840499f6.png",
     "id": "10000073",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "莱依拉": {
     "cn": "莱依拉",
-    "element": "Cryo",
+    "element": 7,
     "EN": "莱依拉",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/43a3873d44405a79fbe131bc06f97c52.png",
     "id": "10000074",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "流浪者": {
     "cn": "流浪者",
-    "element": "Anemo",
+    "element": 2,
     "EN": "流浪者",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3bc22ef825aa95c5e1b6d49f9f4d880a.png",
     "id": "10000075",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "珐露珊": {
     "cn": "珐露珊",
-    "element": "Anemo",
+    "element": 2,
     "EN": "珐露珊",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
     "id": "10000076",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "瑶瑶": {
     "cn": "瑶瑶",
-    "element": "Dendro",
+    "element": 4,
     "EN": "瑶瑶",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
     "id": "10000077",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "艾尔海森": {
     "cn": "艾尔海森",
-    "element": "Dendro",
+    "element": 4,
     "EN": "艾尔海森",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7df14c840589cab253edfbf92675214b.png",
     "id": "10000078",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "迪希雅": {
     "cn": "迪希雅",
-    "element": "Pyro",
+    "element": 1,
     "EN": "迪希雅",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d3c29cb15df7113477e2b112eef03606.png",
     "id": "10000079",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "米卡": {
     "cn": "米卡",
-    "element": "Cryo",
+    "element": 7,
     "EN": "米卡",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bd355c8fb28cb87fc0b034af3da6cbb5.png",
     "id": "10000080",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "卡维": {
     "cn": "卡维",
-    "element": "Dendro",
+    "element": 4,
     "EN": "卡维",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e572c61c5ff3dfdfd881ea71f78dd3d9.png",
     "id": "10000081",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "白术": {
     "cn": "白术",
-    "element": "Dendro",
+    "element": 4,
     "EN": "白术",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0afe40a894582050a6b0989c50da34b2.png",
     "id": "10000082",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "琳妮特": {
     "cn": "琳妮特",
-    "element": "Anemo",
+    "element": 2,
     "EN": "琳妮特",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53d1455345d1bd3ea77093b2e30c707b.png",
     "id": "10000083",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "林尼": {
     "cn": "林尼",
-    "element": "Pyro",
+    "element": 1,
     "EN": "林尼",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/06665498991c9a09f2f522f653c31ea2.png",
     "id": "10000084",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "菲米尼": {
     "cn": "菲米尼",
-    "element": "Cryo",
+    "element": 7,
     "EN": "菲米尼",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c767fa3b7f41541d58e780a37766885f.png",
     "id": "10000085",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "莱欧斯利": {
     "cn": "莱欧斯利",
-    "element": "Cryo",
+    "element": 7,
     "EN": "莱欧斯利",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/69bb18c5fa326ccbad5e89946b2018b0.png",
     "id": "10000086",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "那维莱特": {
     "cn": "那维莱特",
-    "element": "Hydro",
+    "element": 6,
     "EN": "那维莱特",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3ab350ac512cb6c2de1614d56f3a23f0.png",
     "id": "10000087",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "夏洛蒂": {
     "cn": "夏洛蒂",
-    "element": "Cryo",
+    "element": 7,
     "EN": "夏洛蒂",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a2b748e071143b7108bdfc0c79317717.png",
     "id": "10000088",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "芙宁娜": {
     "cn": "芙宁娜",
-    "element": "Hydro",
+    "element": 6,
     "EN": "芙宁娜",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0e94fa780d419809b70b36bb82758c.png",
     "id": "10000089",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "夏沃蕾": {
     "cn": "夏沃蕾",
-    "element": "Pyro",
+    "element": 1,
     "EN": "夏沃蕾",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4fbc042d3177154fa95f1f1521a11ae3.png",
     "id": "10000090",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "娜维娅": {
     "cn": "娜维娅",
-    "element": "Electro",
+    "element": 3,
     "EN": "娜维娅",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/833f7d09c5ff0f6758d02cfe3dd9c7b9.png",
     "id": "10000091",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "嘉明": {
     "cn": "嘉明",
-    "element": "Pyro",
+    "element": 1,
     "EN": "嘉明",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
     "id": "10000092",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "闲云": {
     "cn": "闲云",
-    "element": "Anemo",
+    "element": 2,
     "EN": "闲云",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a8e25a1a9ed55d6123dfc2ed75c27942.png",
     "id": "10000093",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "千织": {
     "cn": "千织",
-    "element": "Electro",
+    "element": 3,
     "EN": "千织",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/01a6c77dac5f27307e20c09ce9d022a3.png",
     "id": "10000094",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "希格雯": {
     "cn": "希格雯",
-    "element": "Hydro",
+    "element": 6,
     "EN": "希格雯",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5813c79f9630d1322fbcfbf4d23da46.png",
     "id": "10000095",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "阿蕾奇诺": {
     "cn": "阿蕾奇诺",
-    "element": "Pyro",
+    "element": 1,
     "EN": "阿蕾奇诺",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1d4a80c98452ad6ee814b95cf81d741a.png",
     "id": "10000096",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "赛索斯": {
     "cn": "赛索斯",
-    "element": "Electro",
+    "element": 5,
     "EN": "赛索斯",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1270abe872165c916e93b07a3149cf0.png",
     "id": "10000097",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "克洛琳德": {
     "cn": "克洛琳德",
-    "element": "Electro",
+    "element": 5,
     "EN": "克洛琳德",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/19183064675bc5b7248fa3e13fba3155.png",
     "id": "10000098",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "艾梅莉埃": {
     "cn": "艾梅莉埃",
-    "element": "Dendro",
+    "element": 4,
     "EN": "艾梅莉埃",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bef7fa0477538d9439b0e82e98740bd4.png",
     "id": "10000099",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "卡齐娜": {
     "cn": "卡齐娜",
-    "element": "Electro",
+    "element": 3,
     "EN": "卡齐娜",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/05f4bb73ae5e5bcaceb826b26edf6bbe.png",
     "id": "10000100",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "基尼奇": {
     "cn": "基尼奇",
-    "element": "Dendro",
+    "element": 4,
     "EN": "基尼奇",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f6ed58ae3cfeeebd6e4956e7c5e4b725.png",
     "id": "10000101",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "玛拉妮": {
     "cn": "玛拉妮",
-    "element": "Hydro",
+    "element": 6,
     "EN": "玛拉妮",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/916a39ee76180b7ab92559f56dd47b78.png",
     "id": "10000102",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "希诺宁": {
     "cn": "希诺宁",
-    "element": "Electro",
+    "element": 3,
     "EN": "希诺宁",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22dd4331def5055cf12f556170f4f89b.png",
     "id": "10000103",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "恰斯卡": {
     "cn": "恰斯卡",
-    "element": "Anemo",
+    "element": 2,
     "EN": "恰斯卡",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5dc6c740041c579905da84cbbaaf465.png",
     "id": "10000104",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_BOW"
+    "rank": 5,
+    "weapon": 12
   },
   "欧洛伦": {
     "cn": "欧洛伦",
-    "element": "Electro",
+    "element": 5,
     "EN": "欧洛伦",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8beb7b2c951e0a1093646653367b5712.png",
     "id": "10000105",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "玛薇卡": {
     "cn": "玛薇卡",
-    "element": "Pyro",
+    "element": 1,
     "EN": "玛薇卡",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8e663deef6b8b0da68a0ce7441bf6911.png",
     "id": "10000106",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   },
   "茜特菈莉": {
     "cn": "茜特菈莉",
-    "element": "Cryo",
+    "element": 7,
     "EN": "茜特菈莉",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/76e5c3409544ebbf73d0514999ac453e.png",
     "id": "10000107",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "蓝砚": {
     "cn": "蓝砚",
-    "element": "Anemo",
+    "element": 2,
     "EN": "蓝砚",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/469e37873c3a6876bdb863706d3bb54f.png",
     "id": "10000108",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "梦见月瑞希": {
     "cn": "梦见月瑞希",
-    "element": "Anemo",
+    "element": 2,
     "EN": "梦见月瑞希",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a3172059c74fb88f2f84d71d2117411b.png",
     "id": "10000109",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "伊安珊": {
     "cn": "伊安珊",
-    "element": "Electro",
+    "element": 5,
     "EN": "伊安珊",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/bf742abae085d5304b9c374845e6cb4b.png",
     "id": "10000110",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "瓦雷莎": {
     "cn": "瓦雷莎",
-    "element": "Electro",
+    "element": 5,
     "EN": "瓦雷莎",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/25f846c68fb04953f3bd1d1d7f4dc986.png",
     "id": "10000111",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "爱可菲": {
     "cn": "爱可菲",
-    "element": "Cryo",
+    "element": 7,
     "EN": "爱可菲",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/681a947b/b6849b158b35b4eba2117ecbc0566cdd.png",
     "id": "10000112",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "伊法": {
     "cn": "伊法",
-    "element": "Anemo",
+    "element": 2,
     "EN": "伊法",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/681a947b/51f59720e5332fac34a3ad1bcdc0035c.png",
     "id": "10000113",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 4,
+    "weapon": 10
   },
   "丝柯克": {
     "cn": "丝柯克",
-    "element": "Cryo",
+    "element": 7,
     "EN": "丝柯克",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/570a1b087e4ba3f1998463429d93966f.png",
     "id": "10000114",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "塔利雅": {
     "cn": "塔利雅",
-    "element": "Hydro",
+    "element": 6,
     "EN": "塔利雅",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/a826af12831772b7dbaac1c8c5cdba05.png",
     "id": "10000115",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 4,
+    "weapon": 1
   },
   "伊涅芙": {
     "cn": "伊涅芙",
-    "element": "Electro",
+    "element": 5,
     "EN": "伊涅芙",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6889608b/7f776f73c09497757c87ca409abe1606.png",
     "id": "10000116",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "奇偶·男性": {
     "cn": "奇偶·男性",
-    "element": "Pyro",
+    "element": 1,
     "EN": "奇偶·男性",
     "id": "10000117",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "奇偶·女性": {
     "cn": "奇偶·女性",
-    "element": "Pyro",
+    "element": 1,
     "EN": "奇偶·女性",
     "id": "10000118",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "菈乌玛": {
     "cn": "菈乌玛",
-    "element": "Dendro",
+    "element": 4,
     "EN": "菈乌玛",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/fb8c4a38b518356606e3deaddd992672.png",
     "id": "10000119",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "菲林斯": {
     "cn": "菲林斯",
-    "element": "Electro",
+    "element": 5,
     "EN": "菲林斯",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/f1eaf3671822125584daf32564de9b07.png",
     "id": "10000120",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_POLE"
+    "rank": 5,
+    "weapon": 13
   },
   "爱诺": {
     "cn": "爱诺",
-    "element": "Hydro",
+    "element": 6,
     "EN": "爱诺",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/192401907aaef4ad6977c16212d0678d.png",
     "id": "10000121",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 4,
+    "weapon": 11
   },
   "奈芙尔": {
     "cn": "奈芙尔",
-    "element": "Dendro",
+    "element": 4,
     "EN": "奈芙尔",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/7db0b9e542ef759fdd85c9ae8884c248.png",
     "id": "10000122",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "杜林": {
     "cn": "杜林",
-    "element": "Pyro",
+    "element": 1,
     "EN": "杜林",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/983f7c24cf48ae754855bd907f80145d.png",
     "id": "10000123",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "雅珂达": {
     "cn": "雅珂达",
-    "element": "Anemo",
+    "element": 2,
     "EN": "雅珂达",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/d5af057a19b3ad3eecf1465ea19f628b.png",
     "id": "10000124",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_BOW"
+    "rank": 4,
+    "weapon": 12
   },
   "哥伦比娅": {
     "cn": "哥伦比娅",
-    "element": "Hydro",
+    "element": 6,
     "EN": "哥伦比娅",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/7c8dc38959691f456ce89054a912c92b.png",
     "id": "10000125",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CATALYST"
+    "rank": 5,
+    "weapon": 10
   },
   "兹白": {
     "cn": "兹白",
-    "element": "Electro",
+    "element": 3,
     "EN": "兹白",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/0ff45f3a8faf1ea6c8690441669d1b9f.png",
     "id": "10000126",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_SWORD_ONE_HAND"
+    "rank": 5,
+    "weapon": 1
   },
   "叶洛亚": {
     "cn": "叶洛亚",
-    "element": "Electro",
+    "element": 3,
     "EN": "叶洛亚",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/b7075067e9e3620801afff65a0d83e09.png",
     "id": "10000127",
-    "rank": "QUALITY_PURPLE",
-    "weapon": "WEAPON_POLE"
+    "rank": 4,
+    "weapon": 13
   },
   "法尔伽": {
     "cn": "法尔伽",
-    "element": "Anemo",
+    "element": 2,
     "EN": "法尔伽",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/e9d6afd687bfd5b125a7765fe9e3326c.png",
     "id": "10000128",
-    "rank": "QUALITY_ORANGE",
-    "weapon": "WEAPON_CLAYMORE"
+    "rank": 5,
+    "weapon": 11
   }
 }

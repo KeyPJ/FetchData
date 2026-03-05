@@ -112,24 +112,43 @@ let nickNames = {
 const getName = name => findObj(name, nickNames)
 
 let weaponTypes = {
-    "WEAPON_SWORD_ONE_HAND": "Sword",
-    "WEAPON_CATALYST": "Catalyst",
-    "WEAPON_CLAYMORE": "Claymore",
-    "WEAPON_BOW": "Bow",
-    "WEAPON_POLE": "Polearm"
+    "1": "Sword",
+    "10": "Catalyst",
+    "11": "Claymore",
+    "12": "Bow",
+    "13": "Polearm"
 }
+
+let elementTypes = {
+    '1': 'Pyro',
+    '2': 'Anemo',
+    '3': 'Geo',
+    '4': 'Dendro',
+    '5': 'Electro',
+    '6': 'Hydro',
+    '7': 'Cryo'
+}
+
 let damageTypes = {
-    "lightning": "thunder",
+    '1': 'Physical',
+    '2': 'Fire',
+    '4': 'Ice',
+    '8': 'Lightning',
+    '16': 'Wind',
+    '32': 'Quantum',
+    '64': 'Imaginary'
 }
 
 let paths = {
-    "destruction": "warrior",
-    "hunt": "rogue",
-    "erudition": "mage",
-    "harmony": "shaman",
-    "nihility": "warlock",
-    "preservation": "knight",
-    "abundance": "priest",
+    '1': 'Destruction',
+    '2': 'The_Hunt',
+    '3': 'Erudition',
+    '4': 'Harmony',
+    '5': 'Nihility',
+    '6': 'Preservation',
+    '7': 'Abundance',
+    '8': 'Remembrance',
+    '9': 'Elation'
 }
 
 
@@ -167,6 +186,7 @@ let ZZZElementCN = {
     "205": "以太",
 }
 
+const getElementType = name => findObj(name, elementTypes)
 const getWeaponType = name => findObj(name, weaponTypes)
 const getDamageType = name => findObj(name, damageTypes)
 const getPath = name => findObj(name, paths)
@@ -229,8 +249,8 @@ const getId2 = (name, pool) => {
             return {
                 ...returnObj,
                 weaponType: getWeaponType(weapon),
-                rankType: rank === "QUALITY_PURPLE" ? 4 : 5,
-                element: element
+                rankType: rank,
+                element: getElementType(element)
             }
         }
         case 302: {

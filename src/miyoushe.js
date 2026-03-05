@@ -56,30 +56,6 @@ const OUTPUT_PATHS_GI = {
   WEAPON: path.join(__dirname, '../data/miyoushe/gi/weapon.json')
 };
 
-function mapElement_GI(element) {
-  const elementMap = {
-    '1': 'Pyro',
-    '2': 'Anemo',
-    '3': 'Electro',
-    '4': 'Dendro',
-    '5': 'Geo',
-    '6': 'Hydro',
-    '7': 'Cryo'
-  };
-  return elementMap[element] || element;
-}
-
-function mapWeaponType_GI(weaponType) {
-  const weaponTypeMap = {
-    '1': 'WEAPON_SWORD_ONE_HAND',
-    '10': 'WEAPON_CATALYST',
-    '11': 'WEAPON_CLAYMORE',
-    '12': 'WEAPON_BOW',
-    '13': 'WEAPON_POLE'
-  };
-  return weaponTypeMap[weaponType] || weaponType;
-}
-
 async function fetchApiData_GI(deviceInfo, endpoint, data) {
   return new Promise((resolve, reject) => {
     console.log(`Fetching GI data from ${endpoint} with device fp:`, deviceInfo.deviceFp);
@@ -156,17 +132,15 @@ async function fetchCharacterData_GI(deviceInfo) {
     characterData.list.forEach(character => {
       const name = character.name;
       if (name) {
-        const element = character.element_attr_id
-        const weaponType = character.weapon_cat_id
         characters[name] = {
           cn: name,
-          element: mapElement_GI(element),
+          element: character.element_attr_id,
           EN: name, // 占位符，需要根据实际数据修改
           // "iconUrl": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
           iconUrl: character.profile_pictures[0]?.icon.replace("https://act-webstatic.mihoyo.com", ""),
           id: character.id + "",
           rank: character.avatar_level,
-          weapon: mapWeaponType_GI(weaponType),
+          weapon: character.weapon_cat_id,
         }
       }
     });
@@ -192,7 +166,6 @@ async function fetchWeaponData_GI(deviceInfo) {
     weaponData.list.forEach(weapon => {
       const name = weapon.name;
       if (name) {
-        const weaponType = weapon.weapon_cat_id || weapon.weapon_type;
         weapons[name] = {
           cn: name,
           EN: name, // 占位符，需要根据实际数据修改
@@ -200,7 +173,7 @@ async function fetchWeaponData_GI(deviceInfo) {
           iconUrl: weapon.icon.replace("https://act-webstatic.mihoyo.com",""),
           id: weapon.id + "",
           rank: weapon.weapon_level,
-          type: mapWeaponType_GI(weaponType)
+          type: weapon.weapon_cat_id
         };
       }
     });
@@ -236,34 +209,6 @@ const OUTPUT_PATHS_HSR = {
   CHARACTER: path.join(__dirname, '../data/miyoushe/hsr/character.json'),
   WEAPON: path.join(__dirname, '../data/miyoushe/hsr/weapon.json')
 };
-
-function mapDamageType_HSR(damageType) {
-  const damageTypeMap = {
-    '1': 'Physical',
-    '2': 'Fire',
-    '4': 'Ice',
-    '8': 'Lightning',
-    '16': 'Wind',
-    '32': 'Quantum',
-    '64': 'Imaginary'
-  };
-  return damageTypeMap[damageType] || damageType;
-}
-
-function mapBaseType_HSR(baseType) {
-  const baseTypeMap = {
-    '1': 'Destruction',
-    '2': 'The_Hunt',
-    '3': 'Erudition',
-    '4': 'Harmony',
-    '5': 'Nihility',
-    '6': 'Preservation',
-    '7': 'Abundance',
-    '8': 'Remembrance',
-    '9': 'Elation'
-  };
-  return baseTypeMap[baseType] || baseType;
-}
 
 async function fetchApiData_HSR(deviceInfo, endpoint) {
   return new Promise((resolve, reject) => {
@@ -328,17 +273,15 @@ async function fetchCharacterData_HSR(deviceInfo) {
     avatarData.avatars.forEach(character => {
       const name = character.item_name || character.name;
       if (name) {
-        const damageType = character.damageType || character.damage_type;
-        const baseType = character.baseType || character.avatar_base_type;
         characters[name] = {
           cn: name,
-          damageType: mapDamageType_HSR(damageType),
+          damageType: character.damage_type,
           EN: name,
           // "iconUrl": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u0250d/5f5e7e206018103619a60fd0fde2d5a9.png",
           iconUrl: character.icon_url.replace("https://act-webstatic.mihoyo.com/darkmatter",""),
           id: character.item_id,
-          rank: "CombatPowerAvatarRarityType"+character.rarity,
-          baseType: mapBaseType_HSR(baseType),
+          rank: character.rarity,
+          baseType: character.avatar_base_type,
         };
       }
     });
@@ -363,8 +306,8 @@ async function fetchWeaponData_HSR(deviceInfo) {
           // "iconUrl": "https://act-webstatic.mihoyo.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u0250d/3b92ac1f080226da04e559c3d06d4dba.png",
           iconUrl: weapon.item_url.replace("https://act-webstatic.mihoyo.com/darkmatter",""),
           id: weapon.item_id,
-          rank: "CombatPowerLightconeRarity"+weapon.rarity,
-          baseType: mapBaseType_HSR(weapon.avatar_base_type),
+          rank: weapon.rarity,
+          baseType: weapon.avatar_base_type,
         };
       }
     });
@@ -527,7 +470,7 @@ async function main_ZZZ() {
 // Main function to handle command line arguments
 async function main() {
   const args = process.argv.slice(2);
-  const game = 'zzz'||args[0]?.toLowerCase();
+  const game = args[0]?.toLowerCase();
 
   if (!game || game === 'all') {
     // Run all games
