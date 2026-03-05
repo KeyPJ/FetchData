@@ -18,8 +18,8 @@ function sortObjectById(obj) {
 
 async function getDeviceFp() {
   // Read device info from environment variables
-  const deviceId = process.env.MIHOYO_DEVICE_ID ;
-  const deviceFp = process.env.MIHOYO_DEVICE_FP ;
+  const deviceId = process.env.MIHOYO_DEVICE_ID ||'9d6ce9af-0e0e-4d8b-9d52-edd40c15e86a';
+  const deviceFp = process.env.MIHOYO_DEVICE_FP ||'38d80929cfd78';
 
   if (!deviceId || !deviceFp) {
     console.error('MIHOYO_DEVICE_ID or MIHOYO_DEVICE_FP environment variables are not set');
@@ -62,7 +62,7 @@ function mapElement_GI(element) {
     '2': 'Anemo',
     '3': 'Electro',
     '4': 'Dendro',
-    '5': 'Electro',
+    '5': 'Geo',
     '6': 'Hydro',
     '7': 'Cryo'
   };
@@ -165,7 +165,7 @@ async function fetchCharacterData_GI(deviceInfo) {
           // "iconUrl": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
           iconUrl: character.profile_pictures[0]?.icon.replace("https://act-webstatic.mihoyo.com", ""),
           id: character.id + "",
-          rank: character.avatar_level === 5 ? "QUALITY_ORANGE" : "QUALITY_PURPLE",
+          rank: character.avatar_level,
           weapon: mapWeaponType_GI(weaponType),
         }
       }
@@ -404,7 +404,7 @@ const OUTPUT_PATHS_ZZZ = {
 async function fetchApiData_ZZZ(deviceInfo) {
   return new Promise((resolve, reject) => {
     console.log('Fetching ZZZ data with device fp:', deviceInfo.deviceFp);
-    const cookie = process.env.MIHOYO_3Z_COOKIE || process.env.MIHOYO_COOKIE
+    const cookie = process.env.MIHOYO_3Z_COOKIE || process.env.MIHOYO_COOKIE || '_MHYUUID=9d6ce9af-0e0e-4d8b-9d52-edd40c15e86a; mi18nLang=zh-cn; DEVICEFP_SEED_ID=5ee742cebf221f61; DEVICEFP_SEED_TIME=1743924307097; DEVICEFP=38d80929cfd78; _ga_00MJSJTX01=GS1.1.1743930460.4.0.1743930460.0.0.0; _ga=GA1.2.1493892138.1743924307; _ga_X2T4KX119R=GS1.1.1746337839.4.0.1746337839.0.0.0; _ga_GYVLZWZNJ4=GS2.1.s1746337839$o4$g0$t1746337839$j0$l0$h0; account_mid_v2=04v6imppsu_mhy; account_id_v2=7233644; ltmid_v2=04v6imppsu_mhy; ltuid_v2=7233644; account_id=7233644; ltoken=YA8yQ18WbiaWA8T2bc13tBjhGygRHwdUh09O7BvL; ltuid=7233644; _qimei_uuid42=19c1201203a1002ebcd4be8ef5037288256c2818a8; _qimei_i_3=5efa2a84c65204d29494fd395ad770e2a1eeacf6415b0bd3b1da20512295243e603137943989e28da4ab; ltoken_v2=v2_8G6yOt50WytjHWkvhISSbL2xIORq_f7w0fLbVXeDhcv8blNgQIbl1M54O-BBOZUcY-DbJPwuLfntnUdH_w1qp1jkIHK0TsUE4PphmiP--ZHMRKeBBD3Nk8u-5aRcMhOhMJpPsMFlJHfHEJvRUw==.CAE=; _qimei_fingerprint=16ac6159a067a12f9652d0c1b2445583; MIHOYO_LOGIN_PLATFORM_LIFECYCLE_ID=aefffff7fb; cookie_token_v2=v2_LJlM7hTv4sFJP_e6RbhQG8D0NMxBoywQ74oDFuYhxZn7BDTV2YuBnu_1-HFc3a64PmNc21wMBOg4O040Zs-XbmUmC98jwF4WVjoodP9BvWSoSlTmKLKwcqSFmOzyBmZhyXh0MD-Chmqv2V-K.CAE=; cookie_token=zvjleVcekgxHOAHFvpPq40nMeJ7e3k5uRMaOykuU; e_hkrpg_token=OHFDjJhV+O74frBc+YnOJx4XeRRf4jRoaJ4Sj7/XUgMiwqPAMVnQ3lhxjihD+pQS; e_nap_token=AXcmd6UmcnA2eg5k+peJb4GIOrrxZZD4V+WCdjuCrxMBQvzBkMu8/SCGC1IV6DGK; SERVERID=12fa13afdffb176a18d4fc3753cf75b6|1772719516|1772719498; SERVERCORSID=12fa13afdffb176a18d4fc3753cf75b6|1772719516|1772719498'
     if (!cookie) {
       console.error('MIHOYO_COOKIE environment variable is not set');
       resolve({});
@@ -527,7 +527,7 @@ async function main_ZZZ() {
 // Main function to handle command line arguments
 async function main() {
   const args = process.argv.slice(2);
-  const game = args[0]?.toLowerCase();
+  const game = 'zzz'||args[0]?.toLowerCase();
 
   if (!game || game === 'all') {
     // Run all games

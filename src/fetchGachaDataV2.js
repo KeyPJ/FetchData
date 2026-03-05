@@ -254,7 +254,7 @@ const getId2 = (name, pool) => {
                 ...returnObj,
                 weaponType: get3ZType(type),
                 weaponTypeCN: get3ZTypeCN(type),
-                rankType: rank + 1,
+                rankType: rank,
                 element: get3ZElement(element),
                 elementCN: get3ZElementCN(element),
             }
@@ -268,7 +268,7 @@ const getId2 = (name, pool) => {
                 ...returnObj,
                 weaponType: get3ZType(type),
                 weaponTypeCN: get3ZTypeCN(type),
-                rankType: rank + 1,
+                rankType: rank,
             }
         }
         default:
