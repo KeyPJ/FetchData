@@ -1,0 +1,1842 @@
+{
+  "无锋剑": {
+    "cn": "无锋剑",
+    "EN": "无锋剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png",
+    "id": "11101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "银剑": {
+    "cn": "银剑",
+    "EN": "银剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/73748953f526f339fe5ed1707c295fd9.png",
+    "id": "11201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "冷刃": {
+    "cn": "冷刃",
+    "EN": "冷刃",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/78feee812f5df4c3a886d93a06092da1.png",
+    "id": "11301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黎明神剑": {
+    "cn": "黎明神剑",
+    "EN": "黎明神剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/048119e09a837be4c1a735fd046e3261.png",
+    "id": "11302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "旅行剑": {
+    "cn": "旅行剑",
+    "EN": "旅行剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b735c4a2cc309a44c5c682f81364261.png",
+    "id": "11303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "暗铁剑": {
+    "cn": "暗铁剑",
+    "EN": "暗铁剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/14dbdf6255569327567b6e5e9f113fd4.png",
+    "id": "11304",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "吃虎鱼刀": {
+    "cn": "吃虎鱼刀",
+    "EN": "吃虎鱼刀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f1a49244f7411707529b38815a9d9cb5.png",
+    "id": "11305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "飞天御剑": {
+    "cn": "飞天御剑",
+    "EN": "飞天御剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bc3f197fd37c0f92f0f253f578a1d266.png",
+    "id": "11306",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "西风剑": {
+    "cn": "西风剑",
+    "EN": "西风剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png",
+    "id": "11401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "笛剑": {
+    "cn": "笛剑",
+    "EN": "笛剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e72bdcaaeb4b0a1ea13cfb76c88aa4cb.png",
+    "id": "11402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "祭礼剑": {
+    "cn": "祭礼剑",
+    "EN": "祭礼剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8d40dcb0e8e25ad6c5940095fa6984ab.png",
+    "id": "11403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "宗室长剑": {
+    "cn": "宗室长剑",
+    "EN": "宗室长剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b92d8da7beff401b00d680b74a7ed56.png",
+    "id": "11404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "匣里龙吟": {
+    "cn": "匣里龙吟",
+    "EN": "匣里龙吟",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/85dbd526e5a6d0f20af4d0253be63ac0.png",
+    "id": "11405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "试作斩岩": {
+    "cn": "试作斩岩",
+    "EN": "试作斩岩",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d859d175bb85b6add3dc3df1fb8abc5a.png",
+    "id": "11406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "铁蜂刺": {
+    "cn": "铁蜂刺",
+    "EN": "铁蜂刺",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d6627a35dc10a7c7f9d5db832e271cce.png",
+    "id": "11407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黑岩长剑": {
+    "cn": "黑岩长剑",
+    "EN": "黑岩长剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/19ed42f8a9b6de92e7aaef93479dae54.png",
+    "id": "11408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黑剑": {
+    "cn": "黑剑",
+    "EN": "黑剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0d45932d85272f2efe3fb18418f159d0.png",
+    "id": "11409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "暗巷闪光": {
+    "cn": "暗巷闪光",
+    "EN": "暗巷闪光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8c9aeb35a289a39adcd796d421c1b29.png",
+    "id": "11410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "降临之剑": {
+    "cn": "降临之剑",
+    "EN": "降临之剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/58882f57dd30072cbc3f84371d543f06.png",
+    "id": "11412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "腐殖之剑": {
+    "cn": "腐殖之剑",
+    "EN": "腐殖之剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/685c320aa78fc0c2e29f2e445393949a.png",
+    "id": "11413",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "天目影打刀": {
+    "cn": "天目影打刀",
+    "EN": "天目影打刀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1aa93cbdddb0444e0eff47b3f84dc5d9.png",
+    "id": "11414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "辰砂之纺锤": {
+    "cn": "辰砂之纺锤",
+    "EN": "辰砂之纺锤",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8c150d11be0738ee0188f6f5a2a56f86.png",
+    "id": "11415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "笼钓瓶一心": {
+    "cn": "笼钓瓶一心",
+    "EN": "笼钓瓶一心",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d0bc1a9d160a598e7cfe669f71402662.png",
+    "id": "11416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "原木刀": {
+    "cn": "原木刀",
+    "EN": "原木刀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ade9757e4346ef1402c32bdde6b7a7e4.png",
+    "id": "11417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "西福斯的月光": {
+    "cn": "西福斯的月光",
+    "EN": "西福斯的月光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6e73725d6886d81d5a9b6525a2bdb31f.png",
+    "id": "11418",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "东花坊时雨": {
+    "cn": "东花坊时雨",
+    "EN": "东花坊时雨",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/74ef003a497f24a85e4e1e0af0793530.png",
+    "id": "11422",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "狼牙": {
+    "cn": "狼牙",
+    "EN": "狼牙",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86a26398db607012d49be9f7e0dd0476.png",
+    "id": "11424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "海渊终曲": {
+    "cn": "海渊终曲",
+    "EN": "海渊终曲",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d55aea4fa30254d868ad4fa4720c6b2.png",
+    "id": "11425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "灰河渡手": {
+    "cn": "灰河渡手",
+    "EN": "灰河渡手",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7ef38be38f19ff27bbba79f48b29e3c1.png",
+    "id": "11426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "船坞长剑": {
+    "cn": "船坞长剑",
+    "EN": "船坞长剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/137e6ee9d36a6af76d67718713859bbd.png",
+    "id": "11427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "水仙十字之剑": {
+    "cn": "水仙十字之剑",
+    "EN": "水仙十字之剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7ef90872b3553d9c0f4e3452737cec2d.png",
+    "id": "11428",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "弥坚骨": {
+    "cn": "弥坚骨",
+    "EN": "弥坚骨",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/70c0c7e3eaaad4321d5c5675e1436588.png",
+    "id": "11430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "息燧之笛": {
+    "cn": "息燧之笛",
+    "EN": "息燧之笛",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4ffc901bcdb3a6c5e6c84d100af0e58d.png",
+    "id": "11431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "厄水之祸": {
+    "cn": "厄水之祸",
+    "EN": "厄水之祸",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6afc33638bed2a9fbc85e2fd2147924e.png",
+    "id": "11432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "谧音吹哨": {
+    "cn": "谧音吹哨",
+    "EN": "谧音吹哨",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/bc9827241e82419faaab72e24d1cf1d3.png",
+    "id": "11433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "织月者的曙色": {
+    "cn": "织月者的曙色",
+    "EN": "织月者的曙色",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/22a2b4dd7289c7085f7cb13e8a41c069.png",
+    "id": "11434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "风鹰剑": {
+    "cn": "风鹰剑",
+    "EN": "风鹰剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2e40de313b0b488549fde96e553e7fcf.png",
+    "id": "11501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "天空之刃": {
+    "cn": "天空之刃",
+    "EN": "天空之刃",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ecb922197e45697d9edde75af4b8df93.png",
+    "id": "11502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "苍古自由之誓": {
+    "cn": "苍古自由之誓",
+    "EN": "苍古自由之誓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fcc21d0d30236aa146f099de4e4bdfa8.png",
+    "id": "11503",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "斫峰之刃": {
+    "cn": "斫峰之刃",
+    "EN": "斫峰之刃",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4b143147ac265bcf3bf703fbe95c4479.png",
+    "id": "11504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "磐岩结绿": {
+    "cn": "磐岩结绿",
+    "EN": "磐岩结绿",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6a538e31e42088f7ba572556cc5862e0.png",
+    "id": "11505",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "雾切之回光": {
+    "cn": "雾切之回光",
+    "EN": "雾切之回光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3c881bf12a6b24197d9df60b81329e52.png",
+    "id": "11509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "波乱月白经津": {
+    "cn": "波乱月白经津",
+    "EN": "波乱月白经津",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c0d5a9cc91eec72ee2d77ead379a7331.png",
+    "id": "11510",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "圣显之钥": {
+    "cn": "圣显之钥",
+    "EN": "圣显之钥",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d51d92c819500a9c2a4fb200ffeb8c08.png",
+    "id": "11511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "裁叶萃光": {
+    "cn": "裁叶萃光",
+    "EN": "裁叶萃光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d4ce6ec60d82eec0908027c16e9c1b68.png",
+    "id": "11512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "静水流涌之辉": {
+    "cn": "静水流涌之辉",
+    "EN": "静水流涌之辉",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a0c785ee7bcfa4e7dd19032b8c28c7fa.png",
+    "id": "11513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "有乐御簾切": {
+    "cn": "有乐御簾切",
+    "EN": "有乐御簾切",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8d3a5b868846ec4819294483de2f90b.png",
+    "id": "11514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "赦罪": {
+    "cn": "赦罪",
+    "EN": "赦罪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0f4646d85544fa3087186883cd9918c9.png",
+    "id": "11515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "岩峰巡歌": {
+    "cn": "岩峰巡歌",
+    "EN": "岩峰巡歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/192f70211e4456786ebb3cb0c9222e43.png",
+    "id": "11516",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "苍耀": {
+    "cn": "苍耀",
+    "EN": "苍耀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/2b47d934eb09f3926908c37462569291.png",
+    "id": "11517",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "黑蚀": {
+    "cn": "黑蚀",
+    "EN": "黑蚀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/9708b5d495021c4c5472f1615be537e0.png",
+    "id": "11518",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "朏魄含光": {
+    "cn": "朏魄含光",
+    "EN": "朏魄含光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/fa2ac4d5a0238fb674c44670652fc284.png",
+    "id": "11519",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_SWORD_ONE_HAND"
+  },
+  "训练大剑": {
+    "cn": "训练大剑",
+    "EN": "训练大剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b1e284917f1ca8330ba929ef8f116aba.png",
+    "id": "12101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "佣兵重剑": {
+    "cn": "佣兵重剑",
+    "EN": "佣兵重剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/165dd007459fa4897a6ddeefe3993e6a.png",
+    "id": "12201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "铁影阔剑": {
+    "cn": "铁影阔剑",
+    "EN": "铁影阔剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f7299d46b25b942d3ff3de4b01d3543a.png",
+    "id": "12301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "沐浴龙血的剑": {
+    "cn": "沐浴龙血的剑",
+    "EN": "沐浴龙血的剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/533baca38d78bed9a7334ebd15eb972e.png",
+    "id": "12302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "白铁大剑": {
+    "cn": "白铁大剑",
+    "EN": "白铁大剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/14ff7311040e5d563ef75b28e229a7ae.png",
+    "id": "12303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "以理服人": {
+    "cn": "以理服人",
+    "EN": "以理服人",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7c806b2d328c89e3f7c6d70b01214af7.png",
+    "id": "12305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "飞天大御剑": {
+    "cn": "飞天大御剑",
+    "EN": "飞天大御剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8b59cc85afa53362080a7682e0b2284c.png",
+    "id": "12306",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "西风大剑": {
+    "cn": "西风大剑",
+    "EN": "西风大剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7646388f158d62d56f368631a37427c3.png",
+    "id": "12401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "钟剑": {
+    "cn": "钟剑",
+    "EN": "钟剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+    "id": "12402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "祭礼大剑": {
+    "cn": "祭礼大剑",
+    "EN": "祭礼大剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b79312ddc86e05133b8a8d984f9931e1.png",
+    "id": "12403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "宗室大剑": {
+    "cn": "宗室大剑",
+    "EN": "宗室大剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6c961ad33f44bd77fcab7c11a2f34f93.png",
+    "id": "12404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "雨裁": {
+    "cn": "雨裁",
+    "EN": "雨裁",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+    "id": "12405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "试作古华": {
+    "cn": "试作古华",
+    "EN": "试作古华",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0365a23ab21b087a788d0d41c37bb049.png",
+    "id": "12406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "白影剑": {
+    "cn": "白影剑",
+    "EN": "白影剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b014e2aa23e856e0cf3f802584b26862.png",
+    "id": "12407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "黑岩斩刀": {
+    "cn": "黑岩斩刀",
+    "EN": "黑岩斩刀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/794c87023c6bb414a9a1ba03d52d0297.png",
+    "id": "12408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "螭骨剑": {
+    "cn": "螭骨剑",
+    "EN": "螭骨剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8add3ad74e3838695ee23cacbe99e776.png",
+    "id": "12409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "千岩古剑": {
+    "cn": "千岩古剑",
+    "EN": "千岩古剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c6387d2f9dfb648e5ec1ad5a63837761.png",
+    "id": "12410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "雪葬的星银": {
+    "cn": "雪葬的星银",
+    "EN": "雪葬的星银",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/15bb71d26fd594136aea9157303ab019.png",
+    "id": "12411",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "衔珠海皇": {
+    "cn": "衔珠海皇",
+    "EN": "衔珠海皇",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d6a5ab503c052d5c0814a39417cc2fee.png",
+    "id": "12412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "桂木斩长正": {
+    "cn": "桂木斩长正",
+    "EN": "桂木斩长正",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f1518eb4ebfa7cc60ff113f37e7dfa24.png",
+    "id": "12414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "玛海菈的水色": {
+    "cn": "玛海菈的水色",
+    "EN": "玛海菈的水色",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cc4498636d1de587406d20b7c5f84c60.png",
+    "id": "12415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "恶王丸": {
+    "cn": "恶王丸",
+    "EN": "恶王丸",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3b3d34b3ebc2dc1f5bf989d663d42ec6.png",
+    "id": "12416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "森林王器": {
+    "cn": "森林王器",
+    "EN": "森林王器",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3ee3cc488b17390afc4aa92d7ee2dad6.png",
+    "id": "12417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "饰铁之花": {
+    "cn": "饰铁之花",
+    "EN": "饰铁之花",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f9c8a43e26e2e0cfca8d757a07d4c235.png",
+    "id": "12418",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "聊聊棒": {
+    "cn": "聊聊棒",
+    "EN": "聊聊棒",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f6f37714a0a83e1974c458bdac72df48.png",
+    "id": "12424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "浪影阔剑": {
+    "cn": "浪影阔剑",
+    "EN": "浪影阔剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/95def815e975a9fb89e9697209de8578.png",
+    "id": "12425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "「究极霸王超级魔剑」": {
+    "cn": "「究极霸王超级魔剑」",
+    "EN": "「究极霸王超级魔剑」",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2c73799dd587e54c75af09cf87d8576a.png",
+    "id": "12426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "便携动力锯": {
+    "cn": "便携动力锯",
+    "EN": "便携动力锯",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f849ee063b4aafdf78deae9ef0cbf39f.png",
+    "id": "12427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "硕果钩": {
+    "cn": "硕果钩",
+    "EN": "硕果钩",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c60cc5afa76926ae412d6c66224f972b.png",
+    "id": "12430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "撼地者": {
+    "cn": "撼地者",
+    "EN": "撼地者",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5b961a68fc9a53711c1ee38504517401.png",
+    "id": "12431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "拾慧铸熔": {
+    "cn": "拾慧铸熔",
+    "EN": "拾慧铸熔",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6889608b/5662318eb81ba5f01cbaa8ef2b9b2214.png",
+    "id": "12432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "万能钥匙": {
+    "cn": "万能钥匙",
+    "EN": "万能钥匙",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/bf204697b55c81571860b964707430e7.png",
+    "id": "12433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "天空之傲": {
+    "cn": "天空之傲",
+    "EN": "天空之傲",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e53f3ec6e717e1430f991aedf5a33e0a.png",
+    "id": "12501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "狼的末路": {
+    "cn": "狼的末路",
+    "EN": "狼的末路",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/45c64eb0f4dfffe24ab9e993616f02c6.png",
+    "id": "12502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "松籁响起之时": {
+    "cn": "松籁响起之时",
+    "EN": "松籁响起之时",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/13a14bc2183b1a33041042b77ac4b640.png",
+    "id": "12503",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "无工之剑": {
+    "cn": "无工之剑",
+    "EN": "无工之剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0ba71f650c9ae79f9f652ae7d6f9df86.png",
+    "id": "12504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "赤角石溃杵": {
+    "cn": "赤角石溃杵",
+    "EN": "赤角石溃杵",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a3d93fd480b8838c79d99aa8f90e7081.png",
+    "id": "12510",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "苇海信标": {
+    "cn": "苇海信标",
+    "EN": "苇海信标",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e1eefe2e1a8a70ad45823a6af99e7d7a.png",
+    "id": "12511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "裁断": {
+    "cn": "裁断",
+    "EN": "裁断",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/89c37ece820a0a1eca5f2b65a98a5e7a.png",
+    "id": "12512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "山王长牙": {
+    "cn": "山王长牙",
+    "EN": "山王长牙",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a9184535c8743e8da52fa2debd54f7d8.png",
+    "id": "12513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "焚曜千阳": {
+    "cn": "焚曜千阳",
+    "EN": "焚曜千阳",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6e57c13f34e89eae3339461e4f1afe3f.png",
+    "id": "12514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "狼的武功歌": {
+    "cn": "狼的武功歌",
+    "EN": "狼的武功歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/699e3449/3ccb453e2177597f059193e5c6e50735.png",
+    "id": "12515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CLAYMORE"
+  },
+  "新手长枪": {
+    "cn": "新手长枪",
+    "EN": "新手长枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ca0ea04c05d8994f0b7e836012e38563.png",
+    "id": "13101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "铁尖枪": {
+    "cn": "铁尖枪",
+    "EN": "铁尖枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d235cf9e396a50d8f673a7caf2f8d718.png",
+    "id": "13201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "白缨枪": {
+    "cn": "白缨枪",
+    "EN": "白缨枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d9d2b979b41b3a522f622d70787fe2e1.png",
+    "id": "13301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "钺矛": {
+    "cn": "钺矛",
+    "EN": "钺矛",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22ad0b31bd68659f1a160dbca09eb817.png",
+    "id": "13302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "黑缨枪": {
+    "cn": "黑缨枪",
+    "EN": "黑缨枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/badaa063427a6e3f39d9c031b3dddc24.png",
+    "id": "13303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "匣里灭辰": {
+    "cn": "匣里灭辰",
+    "EN": "匣里灭辰",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+    "id": "13401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "试作星镰": {
+    "cn": "试作星镰",
+    "EN": "试作星镰",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e9f8f53de5554bd8ed06e5783aeee3c9.png",
+    "id": "13402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "流月针": {
+    "cn": "流月针",
+    "EN": "流月针",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b96753e95648a2ddf2ece0cdcd12b758.png",
+    "id": "13403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "黑岩刺枪": {
+    "cn": "黑岩刺枪",
+    "EN": "黑岩刺枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4bfccf3b0a988ed4c816889be71a7a88.png",
+    "id": "13404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "决斗之枪": {
+    "cn": "决斗之枪",
+    "EN": "决斗之枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e28812a4dbe5207d8d88c68a53212692.png",
+    "id": "13405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "千岩长枪": {
+    "cn": "千岩长枪",
+    "EN": "千岩长枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1117bae36b42e7ace47a411cb4b04ca1.png",
+    "id": "13406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "西风长枪": {
+    "cn": "西风长枪",
+    "EN": "西风长枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+    "id": "13407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "宗室猎枪": {
+    "cn": "宗室猎枪",
+    "EN": "宗室猎枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/212da9569426960f5b0dedba9b0d64a2.png",
+    "id": "13408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "龙脊长枪": {
+    "cn": "龙脊长枪",
+    "EN": "龙脊长枪",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f8be9e904242c2b40f3d1899ffc0694.png",
+    "id": "13409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "喜多院十文字": {
+    "cn": "喜多院十文字",
+    "EN": "喜多院十文字",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8fed2cc01d2f7f9b6c5cac8cf604bf2d.png",
+    "id": "13414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "「渔获」": {
+    "cn": "「渔获」",
+    "EN": "「渔获」",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/643071ffc7526446b48101f159ee0437.png",
+    "id": "13415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "断浪长鳍": {
+    "cn": "断浪长鳍",
+    "EN": "断浪长鳍",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e4f85d4caee3fa61ba93bdad6f0dfdd7.png",
+    "id": "13416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "贯月矢": {
+    "cn": "贯月矢",
+    "EN": "贯月矢",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7091bc230ebbe5015f5c8a7418a721c0.png",
+    "id": "13417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "风信之锋": {
+    "cn": "风信之锋",
+    "EN": "风信之锋",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0ea3522df5405f90d90505f5e36c2008.png",
+    "id": "13419",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "峡湾长歌": {
+    "cn": "峡湾长歌",
+    "EN": "峡湾长歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/78b8e15bfba8cf8070335df8c29213fe.png",
+    "id": "13424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "公义的酬报": {
+    "cn": "公义的酬报",
+    "EN": "公义的酬报",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/97828545a1aced0bcab8f3dbd38501b9.png",
+    "id": "13425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "沙中伟贤的对答": {
+    "cn": "沙中伟贤的对答",
+    "EN": "沙中伟贤的对答",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/004899f4640baadfa2be9d9dc0e90419.png",
+    "id": "13426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "勘探钻机": {
+    "cn": "勘探钻机",
+    "EN": "勘探钻机",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+    "id": "13427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "镇山之钉": {
+    "cn": "镇山之钉",
+    "EN": "镇山之钉",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27f9739cc6d08a99e6d902f1f9895903.png",
+    "id": "13430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "虹的行迹": {
+    "cn": "虹的行迹",
+    "EN": "虹的行迹",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/61747b9617129bbe11dcf84a93de3fe1.png",
+    "id": "13431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "且住亭御咄": {
+    "cn": "且住亭御咄",
+    "EN": "且住亭御咄",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7530c502a61c663424986c74899e4b1b.png",
+    "id": "13432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "掘金之锹": {
+    "cn": "掘金之锹",
+    "EN": "掘金之锹",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/5bd3fed061ae6bae4c084353c48df759.png",
+    "id": "13433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "圣祭者的辉杖": {
+    "cn": "圣祭者的辉杖",
+    "EN": "圣祭者的辉杖",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/c8d9e50b48a7a69f8f90b6d2e566d5dc.png",
+    "id": "13434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_POLE"
+  },
+  "护摩之杖": {
+    "cn": "护摩之杖",
+    "EN": "护摩之杖",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d9ea5f48b504d48837cace02efdf1b8c.png",
+    "id": "13501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "天空之脊": {
+    "cn": "天空之脊",
+    "EN": "天空之脊",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/32df7904999ca5913e0501847a6f57b0.png",
+    "id": "13502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "贯虹之槊": {
+    "cn": "贯虹之槊",
+    "EN": "贯虹之槊",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/503b33a86fdecbca9254d3cbf9630e14.png",
+    "id": "13504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "和璞鸢": {
+    "cn": "和璞鸢",
+    "EN": "和璞鸢",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4b8624f9f3d335b504d879e9b1e07ae9.png",
+    "id": "13505",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "息灾": {
+    "cn": "息灾",
+    "EN": "息灾",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/60e9db1560db9a7aa3b8a930cf30ce12.png",
+    "id": "13507",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "薙草之稻光": {
+    "cn": "薙草之稻光",
+    "EN": "薙草之稻光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/481772ac498bbc4a9b61c694144096e5.png",
+    "id": "13509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "赤沙之杖": {
+    "cn": "赤沙之杖",
+    "EN": "赤沙之杖",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0045e2a1f5eb25cabe20db8c79b3cfd6.png",
+    "id": "13511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "赤月之形": {
+    "cn": "赤月之形",
+    "EN": "赤月之形",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/30b345a334076865566f0da4e36d8d0d.png",
+    "id": "13512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "柔灯挽歌": {
+    "cn": "柔灯挽歌",
+    "EN": "柔灯挽歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/815db248eebc121db24905994b274150.png",
+    "id": "13513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "香韵奏者": {
+    "cn": "香韵奏者",
+    "EN": "香韵奏者",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/681a947b/6d211f1902adc8a5946a5530489ab77a.png",
+    "id": "13514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "支离轮光": {
+    "cn": "支离轮光",
+    "EN": "支离轮光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6889608b/9d23036ecf61183797246cf410765956.png",
+    "id": "13515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "血染荒城": {
+    "cn": "血染荒城",
+    "EN": "血染荒城",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/51a4244e38d1011926a21f25942e78c6.png",
+    "id": "13516",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_POLE"
+  },
+  "学徒笔记": {
+    "cn": "学徒笔记",
+    "EN": "学徒笔记",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/852d232e46ddaacdfcb86b3f53413405.png",
+    "id": "14101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "口袋魔导书": {
+    "cn": "口袋魔导书",
+    "EN": "口袋魔导书",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5edb79d30c591ca6dbb84deeb4fa64d8.png",
+    "id": "14201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "魔导绪论": {
+    "cn": "魔导绪论",
+    "EN": "魔导绪论",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c264b71e825629badbe8da846287c009.png",
+    "id": "14301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "讨龙英杰谭": {
+    "cn": "讨龙英杰谭",
+    "EN": "讨龙英杰谭",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/aff08755a2149ffb6c0fa7d1d189a222.png",
+    "id": "14302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "异世界行记": {
+    "cn": "异世界行记",
+    "EN": "异世界行记",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/209a83e1b8e802cfc56442cbe0148ef6.png",
+    "id": "14303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "翡玉法球": {
+    "cn": "翡玉法球",
+    "EN": "翡玉法球",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a46be1d86331fa7075c0a968505857d7.png",
+    "id": "14304",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "甲级宝珏": {
+    "cn": "甲级宝珏",
+    "EN": "甲级宝珏",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7d0e2c53e717e887e0e60b1f56756d4d.png",
+    "id": "14305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "西风秘典": {
+    "cn": "西风秘典",
+    "EN": "西风秘典",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb4ff947d3649e393b6ca2e117b072d6.png",
+    "id": "14401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "流浪乐章": {
+    "cn": "流浪乐章",
+    "EN": "流浪乐章",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22d2b64c9fd0ab81ef934c8387f72d0c.png",
+    "id": "14402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "祭礼残章": {
+    "cn": "祭礼残章",
+    "EN": "祭礼残章",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
+    "id": "14403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "宗室秘法录": {
+    "cn": "宗室秘法录",
+    "EN": "宗室秘法录",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3a69aaa3fe4b3e6d1269790434cfac8a.png",
+    "id": "14404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "匣里日月": {
+    "cn": "匣里日月",
+    "EN": "匣里日月",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/be0408e0e9d8356566c6cbad21b959d7.png",
+    "id": "14405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "试作金珀": {
+    "cn": "试作金珀",
+    "EN": "试作金珀",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/00d58c6a9f08c487851206576c962551.png",
+    "id": "14406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "万国诸海图谱": {
+    "cn": "万国诸海图谱",
+    "EN": "万国诸海图谱",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ad12d566dd0376457b622464e0744fe2.png",
+    "id": "14407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "黑岩绯玉": {
+    "cn": "黑岩绯玉",
+    "EN": "黑岩绯玉",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5ff68cdb787d782918193236c883ece3.png",
+    "id": "14408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "昭心": {
+    "cn": "昭心",
+    "EN": "昭心",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/811ff594eebe6cc05f12e02662803239.png",
+    "id": "14409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "暗巷的酒与诗": {
+    "cn": "暗巷的酒与诗",
+    "EN": "暗巷的酒与诗",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/32ec1c8d3421d0a88d2e9eb8e357cf29.png",
+    "id": "14410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "忍冬之果": {
+    "cn": "忍冬之果",
+    "EN": "忍冬之果",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/39a484f89b11fda2c68f29bcca43e26c.png",
+    "id": "14412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "嘟嘟可故事集": {
+    "cn": "嘟嘟可故事集",
+    "EN": "嘟嘟可故事集",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6ec8e2657f0f24d5ed35ecbde8aa85db.png",
+    "id": "14413",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "白辰之环": {
+    "cn": "白辰之环",
+    "EN": "白辰之环",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/29ef5797e2374e7f3a6996dc02c72d83.png",
+    "id": "14414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "证誓之明瞳": {
+    "cn": "证誓之明瞳",
+    "EN": "证誓之明瞳",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f9308f15888ca90af00ff12c5223c1a9.png",
+    "id": "14415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "流浪的晚星": {
+    "cn": "流浪的晚星",
+    "EN": "流浪的晚星",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e8d25e1a09cbca9b5069ad93c00d7b68.png",
+    "id": "14416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "盈满之实": {
+    "cn": "盈满之实",
+    "EN": "盈满之实",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c533c74b11161cf1b59f745b727c98cf.png",
+    "id": "14417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "遗祀玉珑": {
+    "cn": "遗祀玉珑",
+    "EN": "遗祀玉珑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/95e2a7c637afe59f0ec81b2da9ad49c9.png",
+    "id": "14424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "纯水流华": {
+    "cn": "纯水流华",
+    "EN": "纯水流华",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6533155e829bb778b9ef84563a09e692.png",
+    "id": "14425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "无垠蔚蓝之歌": {
+    "cn": "无垠蔚蓝之歌",
+    "EN": "无垠蔚蓝之歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e8e43cfd0ba489f79f5fb138e2178554.png",
+    "id": "14426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "苍纹角杯": {
+    "cn": "苍纹角杯",
+    "EN": "苍纹角杯",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92039ba9ea4140e6ffbb61713622847d.png",
+    "id": "14427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "乘浪的回旋": {
+    "cn": "乘浪的回旋",
+    "EN": "乘浪的回旋",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bfae38e15e0405f03aa28fdc7b101820.png",
+    "id": "14430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "木棉之环": {
+    "cn": "木棉之环",
+    "EN": "木棉之环",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/59c44935ff819c319548daff2b222127.png",
+    "id": "14431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "天光的纺琴": {
+    "cn": "天光的纺琴",
+    "EN": "天光的纺琴",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/c46b6bec8f810d6406ed662e2235ab7e.png",
+    "id": "14432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "乌髓孑灯": {
+    "cn": "乌髓孑灯",
+    "EN": "乌髓孑灯",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/77727a0468afbde82f9baf1082b9861e.png",
+    "id": "14433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "霜辰": {
+    "cn": "霜辰",
+    "EN": "霜辰",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/182fc5756eed43ba0f54878cf0463207.png",
+    "id": "14434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_CATALYST"
+  },
+  "天空之卷": {
+    "cn": "天空之卷",
+    "EN": "天空之卷",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d3f398d9ee417e931b1e273242dd8008.png",
+    "id": "14501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "四风原典": {
+    "cn": "四风原典",
+    "EN": "四风原典",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/856b4ea453095a88e8cbb3f438d3fa83.png",
+    "id": "14502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "尘世之锁": {
+    "cn": "尘世之锁",
+    "EN": "尘世之锁",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7f1e579f9b6925daa69f67e328961033.png",
+    "id": "14504",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "碧落之珑": {
+    "cn": "碧落之珑",
+    "EN": "碧落之珑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ba93fa1f1b51d815a2ee1478f34e84ef.png",
+    "id": "14505",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "不灭月华": {
+    "cn": "不灭月华",
+    "EN": "不灭月华",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c7638821093bb021334a85900466137f.png",
+    "id": "14506",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "神乐之真意": {
+    "cn": "神乐之真意",
+    "EN": "神乐之真意",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5df4b80100a07922792ac85362ee6af8.png",
+    "id": "14509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "千夜浮梦": {
+    "cn": "千夜浮梦",
+    "EN": "千夜浮梦",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7cf365df4327805751ed47e8cda853bb.png",
+    "id": "14511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "图莱杜拉的回忆": {
+    "cn": "图莱杜拉的回忆",
+    "EN": "图莱杜拉的回忆",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f1bd10806edde7470a4e4a00d63692f5.png",
+    "id": "14512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "金流监督": {
+    "cn": "金流监督",
+    "EN": "金流监督",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f540cf493ce73c0b3afa3bc32940bfa0.png",
+    "id": "14513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "万世流涌大典": {
+    "cn": "万世流涌大典",
+    "EN": "万世流涌大典",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a9c72ec4bc54b9acf27362095da7af61.png",
+    "id": "14514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "鹤鸣余音": {
+    "cn": "鹤鸣余音",
+    "EN": "鹤鸣余音",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/876ff00e5e80e02cc801bc6c37e48b84.png",
+    "id": "14515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "冲浪时光": {
+    "cn": "冲浪时光",
+    "EN": "冲浪时光",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ad90ce11f6af2cf1db44380af745e4ec.png",
+    "id": "14516",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "祭星者之望": {
+    "cn": "祭星者之望",
+    "EN": "祭星者之望",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dbf7751578357bde53f9b563aee72250.png",
+    "id": "14517",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "寝正月初晴": {
+    "cn": "寝正月初晴",
+    "EN": "寝正月初晴",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa7fc655e5c1bab724c7893ec3f58d91.png",
+    "id": "14518",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "溢彩心念": {
+    "cn": "溢彩心念",
+    "EN": "溢彩心念",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/db3c23247fa556442b7d1fdd5e4a4fb6.png",
+    "id": "14519",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "纺夜天镜": {
+    "cn": "纺夜天镜",
+    "EN": "纺夜天镜",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/7ce217365ba59cfa41e23ef13319dba9.png",
+    "id": "14520",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "真语秘匣": {
+    "cn": "真语秘匣",
+    "EN": "真语秘匣",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/23a39268794ca7cb0d4e30c459ce823b.png",
+    "id": "14521",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "帷间夜曲": {
+    "cn": "帷间夜曲",
+    "EN": "帷间夜曲",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/045d1721aca8d78c25b640867cdb4171.png",
+    "id": "14522",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_CATALYST"
+  },
+  "猎弓": {
+    "cn": "猎弓",
+    "EN": "猎弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c75ade4a5acb5eb9aaefbed318bf75ff.png",
+    "id": "15101",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "历练的猎弓": {
+    "cn": "历练的猎弓",
+    "EN": "历练的猎弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53d5af406088693126f3bd691680c2eb.png",
+    "id": "15201",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "鸦羽弓": {
+    "cn": "鸦羽弓",
+    "EN": "鸦羽弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6dd8c709a161594e870fbdbfc5cb6d62.png",
+    "id": "15301",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "神射手之誓": {
+    "cn": "神射手之誓",
+    "EN": "神射手之誓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5f810f2e0af41ab46e69f96a44e7aa0e.png",
+    "id": "15302",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "反曲弓": {
+    "cn": "反曲弓",
+    "EN": "反曲弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/507fcc151bad5fcb3c9d61e436fd8839.png",
+    "id": "15303",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "弹弓": {
+    "cn": "弹弓",
+    "EN": "弹弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/416221f265d0b711d55ad9146bfdb306.png",
+    "id": "15304",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "信使": {
+    "cn": "信使",
+    "EN": "信使",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0c145223319e7035b8bf17a43ad7eba2.png",
+    "id": "15305",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "西风猎弓": {
+    "cn": "西风猎弓",
+    "EN": "西风猎弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f0b8edcc330cd9de1dcf97eccb20cbaf.png",
+    "id": "15401",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "绝弦": {
+    "cn": "绝弦",
+    "EN": "绝弦",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/da3d5e7bbc112c4e1378de554a79c6c3.png",
+    "id": "15402",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "祭礼弓": {
+    "cn": "祭礼弓",
+    "EN": "祭礼弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png",
+    "id": "15403",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "宗室长弓": {
+    "cn": "宗室长弓",
+    "EN": "宗室长弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/893ae1927bea9c1b2b495e46eae472f1.png",
+    "id": "15404",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "弓藏": {
+    "cn": "弓藏",
+    "EN": "弓藏",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
+    "id": "15405",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "试作澹月": {
+    "cn": "试作澹月",
+    "EN": "试作澹月",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/80f9f492c45ffb4376aa4e8e496ab5d5.png",
+    "id": "15406",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "钢轮弓": {
+    "cn": "钢轮弓",
+    "EN": "钢轮弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3f8226fbfd17d85c094e0796b3a92d8d.png",
+    "id": "15407",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "黑岩战弓": {
+    "cn": "黑岩战弓",
+    "EN": "黑岩战弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a0ff01694b9dfd463fb074c8b4af1063.png",
+    "id": "15408",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "苍翠猎弓": {
+    "cn": "苍翠猎弓",
+    "EN": "苍翠猎弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4cb4be711bf4af4b3ca02a78cc72bd16.png",
+    "id": "15409",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "暗巷猎手": {
+    "cn": "暗巷猎手",
+    "EN": "暗巷猎手",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0bf9e977296b6c9a5e6aff3ef377a3b9.png",
+    "id": "15410",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "落霞": {
+    "cn": "落霞",
+    "EN": "落霞",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/ab3de086b1a1f6a42d1b5c8ae32f3b15.png",
+    "id": "15411",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "幽夜华尔兹": {
+    "cn": "幽夜华尔兹",
+    "EN": "幽夜华尔兹",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/425d13a6970fbdb3802304349b4f7de3.png",
+    "id": "15412",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "风花之颂": {
+    "cn": "风花之颂",
+    "EN": "风花之颂",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fc907601decd02b1a63a68ebd62d00cf.png",
+    "id": "15413",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "破魔之弓": {
+    "cn": "破魔之弓",
+    "EN": "破魔之弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0d09981aa5c965eb05df4d6fa400d7bc.png",
+    "id": "15414",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "掠食者": {
+    "cn": "掠食者",
+    "EN": "掠食者",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/95be77123f875f3393bc2a08f5eabe20.png",
+    "id": "15415",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "曚云之月": {
+    "cn": "曚云之月",
+    "EN": "曚云之月",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/25f04eaed84aaf525f6b10e868e7f835.png",
+    "id": "15416",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "王下近侍": {
+    "cn": "王下近侍",
+    "EN": "王下近侍",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b14920a1d49af70c345e1663eac49717.png",
+    "id": "15417",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "竭泽": {
+    "cn": "竭泽",
+    "EN": "竭泽",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/757dd6f75e6f4225088be09435d9d03b.png",
+    "id": "15418",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "鹮穿之喙": {
+    "cn": "鹮穿之喙",
+    "EN": "鹮穿之喙",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6e37803f70f76be9df083b99a5af8307.png",
+    "id": "15419",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "烈阳之嗣": {
+    "cn": "烈阳之嗣",
+    "EN": "烈阳之嗣",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/656ed54983d6f96092bb307e2589f1c1.png",
+    "id": "15424",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "静谧之曲": {
+    "cn": "静谧之曲",
+    "EN": "静谧之曲",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e8e52713d73416d6bd4860e2ec7eebf0.png",
+    "id": "15425",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "筑云": {
+    "cn": "筑云",
+    "EN": "筑云",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b2c9dcddaa4da988c7ee15045af8d8bc.png",
+    "id": "15426",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "测距规": {
+    "cn": "测距规",
+    "EN": "测距规",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/52be43b8c0cdd1fa06c1a756777a6e93.png",
+    "id": "15427",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "缀花之翎": {
+    "cn": "缀花之翎",
+    "EN": "缀花之翎",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/03b273f10d0633aedb370051950e91fd.png",
+    "id": "15430",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "碎链": {
+    "cn": "碎链",
+    "EN": "碎链",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/db2a58cc67636814146192b0e748e9a6.png",
+    "id": "15431",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "冷寂迸音": {
+    "cn": "冷寂迸音",
+    "EN": "冷寂迸音",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/681a947b/74182d9654a8ed410e405ca87475812f.png",
+    "id": "15432",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "罗网勾针": {
+    "cn": "罗网勾针",
+    "EN": "罗网勾针",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/8820ca86f5d001904454f08b286da125.png",
+    "id": "15433",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "虹蛇的雨弦": {
+    "cn": "虹蛇的雨弦",
+    "EN": "虹蛇的雨弦",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/430a2ee3f7bb4817d96e4179110ffb21.png",
+    "id": "15434",
+    "rank": "QUALITY_PURPLE",
+    "type": "WEAPON_BOW"
+  },
+  "天空之翼": {
+    "cn": "天空之翼",
+    "EN": "天空之翼",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/504e181be5a8ba069b7249a3f7cf978d.png",
+    "id": "15501",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "阿莫斯之弓": {
+    "cn": "阿莫斯之弓",
+    "EN": "阿莫斯之弓",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fe810457e28088dc44b0500d90e417f5.png",
+    "id": "15502",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "终末嗟叹之诗": {
+    "cn": "终末嗟叹之诗",
+    "EN": "终末嗟叹之诗",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e9555699ff95fac410422d9dfd7e631a.png",
+    "id": "15503",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "冬极白星": {
+    "cn": "冬极白星",
+    "EN": "冬极白星",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/50ec4928dd095307807b59617a889b62.png",
+    "id": "15507",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "若水": {
+    "cn": "若水",
+    "EN": "若水",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0986345abd92564279c5a11f491bd6c0.png",
+    "id": "15508",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "飞雷之弦振": {
+    "cn": "飞雷之弦振",
+    "EN": "飞雷之弦振",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d3cdbcebbaac5598dcd973424e685b8b.png",
+    "id": "15509",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "猎人之径": {
+    "cn": "猎人之径",
+    "EN": "猎人之径",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc35942eb26612d7759acededff35fa0.png",
+    "id": "15511",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "最初的大魔术": {
+    "cn": "最初的大魔术",
+    "EN": "最初的大魔术",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/834006ea86ff338ed823d2ccd09a1169.png",
+    "id": "15512",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "白雨心弦": {
+    "cn": "白雨心弦",
+    "EN": "白雨心弦",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/49934c2c44b1f643f96bc4b65b534eca.png",
+    "id": "15513",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "星鹫赤羽": {
+    "cn": "星鹫赤羽",
+    "EN": "星鹫赤羽",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/afac47d999995ce3577c7034ff277c44.png",
+    "id": "15514",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  },
+  "黎明破晓之史": {
+    "cn": "黎明破晓之史",
+    "EN": "黎明破晓之史",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/1112f5bf9c69ad6a989b8cb259497f6c.png",
+    "id": "15515",
+    "rank": "QUALITY_ORANGE",
+    "type": "WEAPON_BOW"
+  }
+}

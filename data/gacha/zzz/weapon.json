@@ -1,1374 +1,175 @@
 [
 	{
 		"version": "2.6.2",
-		"items": [
-			{
-				"itemId": 14150,
-				"imageUrl": "/zzz/UI/Weapon_S_1501.webp",
-				"itemType": "Weapon",
-				"name": "壳中之灵",
-				"nameEn": "Angel in the Shell",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 14141,
-				"imageUrl": "/zzz/UI/Weapon_S_1411.webp",
-				"itemType": "Weapon",
-				"name": "狸法七变化",
-				"nameEn": "Metanukimorphosis",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 13111,
-				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
-				"itemType": "Weapon",
-				"name": "旋钻机-赤轴",
-				"nameEn": "Drill Rig - Red Axis",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2026-03-04 12:00:00",
 		"end": "2026-03-23 14:59:59"
 	},
 	{
 		"version": "2.6.1",
-		"items": [
-			{
-				"itemId": 14149,
-				"imageUrl": "/zzz/UI/Weapon_S_1491.webp",
-				"itemType": "Weapon",
-				"name": "思络成歌",
-				"nameEn": "Thoughtbop",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 14137,
-				"imageUrl": "/zzz/UI/Weapon_S_1371.webp",
-				"itemType": "Weapon",
-				"name": "青溟笼舍",
-				"nameEn": "Qingming Birdcage",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13106,
-				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
-				"itemType": "Weapon",
-				"name": "家政员",
-				"nameEn": "Housekeeper",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			},
-			{
-				"itemId": 13108,
-				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
-				"itemType": "Weapon",
-				"name": "仿制星徽引擎",
-				"nameEn": "Starlight Engine Replica",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2026-02-06 06:00:00",
 		"end": "2026-03-04 11:59:59"
 	},
 	{
 		"version": "2.5.2",
-		"items": [
-			{
-				"itemId": 14143,
-				"imageUrl": "/zzz/UI/Weapon_S_1431.webp",
-				"itemType": "Weapon",
-				"name": "云霓孤光",
-				"nameEn": "Cloudcleave Radiance",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14134,
-				"imageUrl": "/zzz/UI/Weapon_S_1341.webp",
-				"itemType": "Weapon",
-				"name": "半糖雪兔",
-				"nameEn": "Half-Sugar Bunny",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5
-			},
-			{
-				"itemId": 14138,
-				"imageUrl": "/zzz/UI/Weapon_S_1381.webp",
-				"itemType": "Weapon",
-				"name": "牺牲洁纯",
-				"nameEn": "Severed Innocence",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14140,
-				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
-				"itemType": "Weapon",
-				"name": "十方锻星",
-				"nameEn": "Practiced Perfection",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 14131,
-				"imageUrl": "/zzz/UI/Weapon_S_1311.webp",
-				"itemType": "Weapon",
-				"name": "玲珑妆匣",
-				"nameEn": "Elegant Vanity",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 13103,
-				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
-				"itemType": "Weapon",
-				"name": "聚宝箱",
-				"nameEn": "The Vault",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13115,
-				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
-				"itemType": "Weapon",
-				"name": "好斗的阿炮",
-				"nameEn": "Kaboom the Cannon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13101,
-				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
-				"itemType": "Weapon",
-				"name": "德玛拉电池Ⅱ型",
-				"nameEn": "Demara Battery Mark II",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			},
-			{
-				"itemId": 13112,
-				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
-				"itemType": "Weapon",
-				"name": "比格气缸",
-				"nameEn": "Big Cylinder",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-12-30 06:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.5.1",
-		"items": [
-			{
-				"itemId": 14143,
-				"imageUrl": "/zzz/UI/Weapon_S_1431.webp",
-				"itemType": "Weapon",
-				"name": "云霓孤光",
-				"nameEn": "Cloudcleave Radiance",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14134,
-				"imageUrl": "/zzz/UI/Weapon_S_1341.webp",
-				"itemType": "Weapon",
-				"name": "半糖雪兔",
-				"nameEn": "Half-Sugar Bunny",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5
-			},
-			{
-				"itemId": 13103,
-				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
-				"itemType": "Weapon",
-				"name": "聚宝箱",
-				"nameEn": "The Vault",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13115,
-				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
-				"itemType": "Weapon",
-				"name": "好斗的阿炮",
-				"nameEn": "Kaboom the Cannon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13101,
-				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
-				"itemType": "Weapon",
-				"name": "德玛拉电池Ⅱ型",
-				"nameEn": "Demara Battery Mark II",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			},
-			{
-				"itemId": 13112,
-				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
-				"itemType": "Weapon",
-				"name": "比格气缸",
-				"nameEn": "Big Cylinder",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-12-30 06:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.4.2",
-		"items": [
-			{
-				"itemId": 14147,
-				"imageUrl": "/zzz/UI/Weapon_S_1471.webp",
-				"itemType": "Weapon",
-				"name": "怒目金刚",
-				"nameEn": "Wrathful Vajra",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5
-			},
-			{
-				"itemId": 14119,
-				"imageUrl": "/zzz/UI/Weapon_S_1191.webp",
-				"itemType": "Weapon",
-				"name": "深海访客",
-				"nameEn": "Deep Sea Visitor",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13113,
-				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
-				"itemType": "Weapon",
-				"name": "含羞恶面",
-				"nameEn": "Bashful Demon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-12-17 12:00:00",
 		"end": "2025-12-29 14:59:59"
 	},
 	{
 		"version": "2.4.1",
-		"items": [
-			{
-				"itemId": 14148,
-				"imageUrl": "/zzz/UI/Weapon_S_1481.webp",
-				"itemType": "Weapon",
-				"name": "昨夜来电",
-				"nameEn": "Yesterday Calls",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 14129,
-				"imageUrl": "/zzz/UI/Weapon_S_1291.webp",
-				"itemType": "Weapon",
-				"name": "千面日陨",
-				"nameEn": "Myriad Eclipse",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13106,
-				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
-				"itemType": "Weapon",
-				"name": "家政员",
-				"nameEn": "Housekeeper",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			},
-			{
-				"itemId": 13108,
-				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
-				"itemType": "Weapon",
-				"name": "仿制星徽引擎",
-				"nameEn": "Starlight Engine Replica",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-11-26 06:00:00",
 		"end": "2025-12-17 11:59:59"
 	},
 	{
 		"version": "2.3.2",
-		"items": [
-			{
-				"itemId": 14105,
-				"imageUrl": "/zzz/UI/Weapon_S_1051.webp",
-				"itemType": "Weapon",
-				"name": "海妖摇篮",
-				"nameEn": "Kraken's Cradle",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5
-			},
-			{
-				"itemId": 14139,
-				"imageUrl": "/zzz/UI/Weapon_S_1391.webp",
-				"itemType": "Weapon",
-				"name": "福虓炉炉",
-				"nameEn": "Roaring Fur-nace",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13142,
-				"imageUrl": "/zzz/UI/Weapon_A_1421.webp",
-				"itemType": "Weapon",
-				"name": "震元奇枢",
-				"nameEn": "Tremor Trigram Vessel",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			},
-			{
-				"itemId": 13135,
-				"imageUrl": "/zzz/UI/Weapon_A_1351.webp",
-				"itemType": "Weapon",
-				"name": "裁纸刀",
-				"nameEn": "Box Cutter",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-11-05 12:00:00",
 		"end": "2025-11-25 14:59:59"
 	},
 	{
 		"version": "2.3.1",
-		"items": [
-			{
-				"itemId": 14145,
-				"imageUrl": "/zzz/UI/Weapon_S_1451.webp",
-				"itemType": "Weapon",
-				"name": "铸梦炉歌",
-				"nameEn": "Dreamlit Hearth",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 14133,
-				"imageUrl": "/zzz/UI/Weapon_S_1331.webp",
-				"itemType": "Weapon",
-				"name": "飞鸟星梦",
-				"nameEn": "Flight of Fancy",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13144,
-				"imageUrl": "/zzz/UI/Weapon_A_1441.webp",
-				"itemType": "Weapon",
-				"name": "燔火胧夜",
-				"nameEn": "Grill O'Wisp",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 4
-			},
-			{
-				"itemId": 13128,
-				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
-				"itemType": "Weapon",
-				"name": "轰鸣座驾",
-				"nameEn": "Roaring Ride",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-10-15 06:00:00",
 		"end": "2025-11-05 11:59:59"
 	},
 	{
 		"version": "2.2.2",
-		"items": [
-			{
-				"itemId": 14130,
-				"imageUrl": "/zzz/UI/Weapon_S_1301.webp",
-				"itemType": "Weapon",
-				"name": "嚣枪喧焰",
-				"nameEn": "Bellicose Blaze",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14132,
-				"imageUrl": "/zzz/UI/Weapon_S_1321.webp",
-				"itemType": "Weapon",
-				"name": "心弦夜响",
-				"nameEn": "Heartstring Nocturne",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13115,
-				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
-				"itemType": "Weapon",
-				"name": "好斗的阿炮",
-				"nameEn": "Kaboom the Cannon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13111,
-				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
-				"itemType": "Weapon",
-				"name": "旋钻机-赤轴",
-				"nameEn": "Drill Rig - Red Axis",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-09-24 12:00:00",
 		"end": "2025-10-14 14:59:59"
 	},
 	{
 		"version": "2.2.1",
-		"items": [
-			{
-				"itemId": 14146,
-				"imageUrl": "/zzz/UI/Weapon_S_1461.webp",
-				"itemType": "Weapon",
-				"name": "机巧心种",
-				"nameEn": "Cordis Germina",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14136,
-				"imageUrl": "/zzz/UI/Weapon_S_1361.webp",
-				"itemType": "Weapon",
-				"name": "索魂影眸",
-				"nameEn": "Spectral Gaze",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13103,
-				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
-				"itemType": "Weapon",
-				"name": "聚宝箱",
-				"nameEn": "The Vault",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13101,
-				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
-				"itemType": "Weapon",
-				"name": "德玛拉电池Ⅱ型",
-				"nameEn": "Demara Battery Mark II",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-09-04 06:00:00",
 		"end": "2025-09-24 11:59:59"
 	},
 	{
 		"version": "2.1.2",
-		"items": [
-			{
-				"itemId": 14140,
-				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
-				"itemType": "Weapon",
-				"name": "十方锻星",
-				"nameEn": "Practiced Perfection",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 14122,
-				"imageUrl": "/zzz/UI/Weapon_S_1221.webp",
-				"itemType": "Weapon",
-				"name": "时流贤者",
-				"nameEn": "Timeweaver",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13113,
-				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
-				"itemType": "Weapon",
-				"name": "含羞恶面",
-				"nameEn": "Bashful Demon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-08-06 12:00:00",
 		"end": "2025-09-03 14:59:59"
 	},
 	{
 		"version": "2.1.1",
-		"items": [
-			{
-				"itemId": 14141,
-				"imageUrl": "/zzz/UI/Weapon_S_1411.webp",
-				"itemType": "Weapon",
-				"name": "狸法七变化",
-				"nameEn": "Metanukimorphosis",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 14109,
-				"imageUrl": "/zzz/UI/Weapon_S_1091.webp",
-				"itemType": "Weapon",
-				"name": "霰落星殿",
-				"nameEn": "Hailstorm Shrine",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13128,
-				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
-				"itemType": "Weapon",
-				"name": "轰鸣座驾",
-				"nameEn": "Roaring Ride",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4
-			},
-			{
-				"itemId": 13108,
-				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
-				"itemType": "Weapon",
-				"name": "仿制星徽引擎",
-				"nameEn": "Starlight Engine Replica",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-07-16 06:00:00",
 		"end": "2025-08-06 11:59:59"
 	},
 	{
 		"version": "2.0.2",
-		"items": [
-			{
-				"itemId": 14139,
-				"imageUrl": "/zzz/UI/Weapon_S_1391.webp",
-				"itemType": "Weapon",
-				"name": "福虓炉炉",
-				"nameEn": "Roaring Fur-nace",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 14107,
-				"imageUrl": "/zzz/UI/Weapon_S_1071.webp",
-				"itemType": "Weapon",
-				"name": "奔袭獠牙",
-				"nameEn": "Tusks of Fury",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5
-			},
-			{
-				"itemId": 13112,
-				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
-				"itemType": "Weapon",
-				"name": "比格气缸",
-				"nameEn": "Big Cylinder",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			},
-			{
-				"itemId": 13106,
-				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
-				"itemType": "Weapon",
-				"name": "家政员",
-				"nameEn": "Housekeeper",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-06-25 12:00:00",
 		"end": "2025-07-15 14:59:59"
 	},
 	{
 		"version": "2.0.1",
-		"items": [
-			{
-				"itemId": 14137,
-				"imageUrl": "/zzz/UI/Weapon_S_1371.webp",
-				"itemType": "Weapon",
-				"name": "青溟笼舍",
-				"nameEn": "Qingming Birdcage",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5
-			},
-			{
-				"itemId": 14131,
-				"imageUrl": "/zzz/UI/Weapon_S_1311.webp",
-				"itemType": "Weapon",
-				"name": "玲珑妆匣",
-				"nameEn": "Elegant Vanity",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 13142,
-				"imageUrl": "/zzz/UI/Weapon_A_1421.webp",
-				"itemType": "Weapon",
-				"name": "震元奇枢",
-				"nameEn": "Tremor Trigram Vessel",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			},
-			{
-				"itemId": 13135,
-				"imageUrl": "/zzz/UI/Weapon_A_1351.webp",
-				"itemType": "Weapon",
-				"name": "裁纸刀",
-				"nameEn": "Box Cutter",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-06-06 06:00:00",
 		"end": "2025-06-25 11:59:59"
 	},
 	{
 		"version": "1.7.2",
-		"items": [
-			{
-				"itemId": 14129,
-				"imageUrl": "/zzz/UI/Weapon_S_1291.webp",
-				"itemType": "Weapon",
-				"name": "千面日陨",
-				"nameEn": "Myriad Eclipse",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14116,
-				"imageUrl": "/zzz/UI/Weapon_S_1161.webp",
-				"itemType": "Weapon",
-				"name": "焰心桂冠",
-				"nameEn": "Blazing Laurel",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13113,
-				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
-				"itemType": "Weapon",
-				"name": "含羞恶面",
-				"nameEn": "Bashful Demon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13111,
-				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
-				"itemType": "Weapon",
-				"name": "旋钻机-赤轴",
-				"nameEn": "Drill Rig - Red Axis",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-05-14 12:00:00",
 		"end": "2025-06-05 14:59:59"
 	},
 	{
 		"version": "1.7.1",
-		"items": [
-			{
-				"itemId": 14133,
-				"imageUrl": "/zzz/UI/Weapon_S_1331.webp",
-				"itemType": "Weapon",
-				"name": "飞鸟星梦",
-				"nameEn": "Flight of Fancy",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 14126,
-				"imageUrl": "/zzz/UI/Weapon_S_1261.webp",
-				"itemType": "Weapon",
-				"name": "淬锋钳刺",
-				"nameEn": "Sharpened Stinger",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13128,
-				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
-				"itemType": "Weapon",
-				"name": "轰鸣座驾",
-				"nameEn": "Roaring Ride",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-04-23 06:00:00",
 		"end": "2025-05-14 11:59:59"
 	},
 	{
 		"version": "1.6.2",
-		"items": [
-			{
-				"itemId": 14136,
-				"imageUrl": "/zzz/UI/Weapon_S_1361.webp",
-				"itemType": "Weapon",
-				"name": "索魂影眸",
-				"nameEn": "Spectral Gaze",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 14124,
-				"imageUrl": "/zzz/UI/Weapon_S_1241.webp",
-				"itemType": "Weapon",
-				"name": "防暴者Ⅵ型",
-				"nameEn": "Riot Suppressor Mark VI",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13115,
-				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
-				"itemType": "Weapon",
-				"name": "好斗的阿炮",
-				"nameEn": "Kaboom the Cannon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13108,
-				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
-				"itemType": "Weapon",
-				"name": "仿制星徽引擎",
-				"nameEn": "Starlight Engine Replica",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-04-02 12:00:00",
 		"end": "2025-04-22 14:59:59"
 	},
 	{
 		"version": "1.6.1",
-		"items": [
-			{
-				"itemId": 14138,
-				"imageUrl": "/zzz/UI/Weapon_S_1381.webp",
-				"itemType": "Weapon",
-				"name": "牺牲洁纯",
-				"nameEn": "Severed Innocence",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14117,
-				"imageUrl": "/zzz/UI/Weapon_S_1171.webp",
-				"itemType": "Weapon",
-				"name": "灼心摇壶",
-				"nameEn": "Flamemaker Shaker",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13135,
-				"imageUrl": "/zzz/UI/Weapon_A_1351.webp",
-				"itemType": "Weapon",
-				"name": "裁纸刀",
-				"nameEn": "Box Cutter",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			},
-			{
-				"itemId": 13112,
-				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
-				"itemType": "Weapon",
-				"name": "比格气缸",
-				"nameEn": "Big Cylinder",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-03-12 06:00:00",
 		"end": "2025-04-02 11:59:59"
 	},
 	{
 		"version": "1.5.2",
-		"items": [
-			{
-				"itemId": 14132,
-				"imageUrl": "/zzz/UI/Weapon_S_1321.webp",
-				"itemType": "Weapon",
-				"name": "心弦夜响",
-				"nameEn": "Heartstring Nocturne",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 14125,
-				"imageUrl": "/zzz/UI/Weapon_S_1251.webp",
-				"itemType": "Weapon",
-				"name": "玉壶青冰",
-				"nameEn": "Ice-Jade Teapot",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13111,
-				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
-				"itemType": "Weapon",
-				"name": "旋钻机-赤轴",
-				"nameEn": "Drill Rig - Red Axis",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			},
-			{
-				"itemId": 13103,
-				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
-				"itemType": "Weapon",
-				"name": "聚宝箱",
-				"nameEn": "The Vault",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-02-12 06:00:00",
 		"end": "2025-03-11 14:59:59"
 	},
 	{
 		"version": "1.5.1",
-		"items": [
-			{
-				"itemId": 14131,
-				"imageUrl": "/zzz/UI/Weapon_S_1311.webp",
-				"itemType": "Weapon",
-				"name": "玲珑妆匣",
-				"nameEn": "Elegant Vanity",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5
-			},
-			{
-				"itemId": 14119,
-				"imageUrl": "/zzz/UI/Weapon_S_1191.webp",
-				"itemType": "Weapon",
-				"name": "深海访客",
-				"nameEn": "Deep Sea Visitor",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13101,
-				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
-				"itemType": "Weapon",
-				"name": "德玛拉电池Ⅱ型",
-				"nameEn": "Demara Battery Mark II",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			},
-			{
-				"itemId": 13106,
-				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
-				"itemType": "Weapon",
-				"name": "家政员",
-				"nameEn": "Housekeeper",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2025-01-22 06:00:00",
 		"end": "2025-02-12 14:59:59"
 	},
 	{
 		"version": "1.4.1",
-		"items": [
-			{
-				"itemId": 14109,
-				"imageUrl": "/zzz/UI/Weapon_S_1091.webp",
-				"itemType": "Weapon",
-				"name": "霰落星殿",
-				"nameEn": "Hailstorm Shrine",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 14120,
-				"imageUrl": "/zzz/UI/Weapon_S_1201.webp",
-				"itemType": "Weapon",
-				"name": "残心青囊",
-				"nameEn": "Zanshin Herb Case",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13128,
-				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
-				"itemType": "Weapon",
-				"name": "轰鸣座驾",
-				"nameEn": "Roaring Ride",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4
-			},
-			{
-				"itemId": 13113,
-				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
-				"itemType": "Weapon",
-				"name": "含羞恶面",
-				"nameEn": "Bashful Demon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13115,
-				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
-				"itemType": "Weapon",
-				"name": "好斗的阿炮",
-				"nameEn": "Kaboom the Cannon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-12-18 06:00:00",
 		"end": "2025-01-21 14:59:59"
 	},
 	{
 		"version": "1.3.2",
-		"items": [
-			{
-				"itemId": 14116,
-				"imageUrl": "/zzz/UI/Weapon_S_1161.webp",
-				"itemType": "Weapon",
-				"name": "焰心桂冠",
-				"nameEn": "Blazing Laurel",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13112,
-				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
-				"itemType": "Weapon",
-				"name": "比格气缸",
-				"nameEn": "Big Cylinder",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			},
-			{
-				"itemId": 13106,
-				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
-				"itemType": "Weapon",
-				"name": "家政员",
-				"nameEn": "Housekeeper",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-11-27 12:00:00",
 		"end": "2024-12-17 14:59:59"
 	},
 	{
 		"version": "1.3.1",
-		"items": [
-			{
-				"itemId": 14122,
-				"imageUrl": "/zzz/UI/Weapon_S_1221.webp",
-				"itemType": "Weapon",
-				"name": "时流贤者",
-				"nameEn": "Timeweaver",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13101,
-				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
-				"itemType": "Weapon",
-				"name": "德玛拉电池Ⅱ型",
-				"nameEn": "Demara Battery Mark II",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			},
-			{
-				"itemId": 13108,
-				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
-				"itemType": "Weapon",
-				"name": "仿制星徽引擎",
-				"nameEn": "Starlight Engine Replica",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-11-06 06:00:00",
 		"end": "2024-11-27 11:59:59"
 	},
 	{
 		"version": "1.2.2",
-		"items": [
-			{
-				"itemId": 14117,
-				"imageUrl": "/zzz/UI/Weapon_S_1171.webp",
-				"itemType": "Weapon",
-				"name": "灼心摇壶",
-				"nameEn": "Flamemaker Shaker",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13115,
-				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
-				"itemType": "Weapon",
-				"name": "好斗的阿炮",
-				"nameEn": "Kaboom the Cannon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13103,
-				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
-				"itemType": "Weapon",
-				"name": "聚宝箱",
-				"nameEn": "The Vault",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-10-16 12:00:00",
 		"end": "2024-11-05 14:59:59"
 	},
 	{
 		"version": "1.2.1",
-		"items": [
-			{
-				"itemId": 14107,
-				"imageUrl": "/zzz/UI/Weapon_S_1071.webp",
-				"itemType": "Weapon",
-				"name": "奔袭獠牙",
-				"nameEn": "Tusks of Fury",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5
-			},
-			{
-				"itemId": 13128,
-				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
-				"itemType": "Weapon",
-				"name": "轰鸣座驾",
-				"nameEn": "Roaring Ride",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4
-			},
-			{
-				"itemId": 13111,
-				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
-				"itemType": "Weapon",
-				"name": "旋钻机-赤轴",
-				"nameEn": "Drill Rig - Red Axis",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-09-25 06:00:00",
 		"end": "2024-10-16 11:59:59"
 	},
 	{
 		"version": "1.1.2",
-		"items": [
-			{
-				"itemId": 14126,
-				"imageUrl": "/zzz/UI/Weapon_S_1261.webp",
-				"itemType": "Weapon",
-				"name": "淬锋钳刺",
-				"nameEn": "Sharpened Stinger",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			},
-			{
-				"itemId": 13101,
-				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
-				"itemType": "Weapon",
-				"name": "德玛拉电池Ⅱ型",
-				"nameEn": "Demara Battery Mark II",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-09-04 12:00:00",
 		"end": "2024-09-24 14:59:59"
 	},
 	{
 		"version": "1.1.1",
-		"items": [
-			{
-				"itemId": 14125,
-				"imageUrl": "/zzz/UI/Weapon_S_1251.webp",
-				"itemType": "Weapon",
-				"name": "玉壶青冰",
-				"nameEn": "Ice-Jade Teapot",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5
-			},
-			{
-				"itemId": 13108,
-				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
-				"itemType": "Weapon",
-				"name": "仿制星徽引擎",
-				"nameEn": "Starlight Engine Replica",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			},
-			{
-				"itemId": 13106,
-				"imageUrl": "/zzz/UI/Weapon_A_1061.webp",
-				"itemType": "Weapon",
-				"name": "家政员",
-				"nameEn": "Housekeeper",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-08-14 06:00:00",
 		"end": "2024-09-04 11:59:59"
 	},
 	{
 		"version": "1.0.2",
-		"items": [
-			{
-				"itemId": 14124,
-				"imageUrl": "/zzz/UI/Weapon_S_1241.webp",
-				"itemType": "Weapon",
-				"name": "防暴者Ⅵ型",
-				"nameEn": "Riot Suppressor Mark VI",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13103,
-				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
-				"itemType": "Weapon",
-				"name": "聚宝箱",
-				"nameEn": "The Vault",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13112,
-				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
-				"itemType": "Weapon",
-				"name": "比格气缸",
-				"nameEn": "Big Cylinder",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-07-24 12:00:00",
 		"end": "2024-08-13 14:59:59"
 	},
 	{
 		"version": "1.0.1",
-		"items": [
-			{
-				"itemId": 14119,
-				"imageUrl": "/zzz/UI/Weapon_S_1191.webp",
-				"itemType": "Weapon",
-				"name": "深海访客",
-				"nameEn": "Deep Sea Visitor",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5
-			},
-			{
-				"itemId": 13113,
-				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
-				"itemType": "Weapon",
-				"name": "含羞恶面",
-				"nameEn": "Bashful Demon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13111,
-				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
-				"itemType": "Weapon",
-				"name": "旋钻机-赤轴",
-				"nameEn": "Drill Rig - Red Axis",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4
-			}
-		],
+		"items": [],
 		"start": "2024-07-04 06:00:00",
 		"end": "2024-07-24 11:59:59"
 	}

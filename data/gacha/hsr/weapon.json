@@ -4,73 +4,73 @@
 		"items": [
 			{
 				"itemId": 23053,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23053.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b2a4e802006f3c04ee7d71559ae474de.png",
 				"itemType": "Weapon",
 				"name": "花花世界迷人眼",
-				"nameEn": "Dazzled by a Flowery World",
+				"nameEn": "花花世界迷人眼",
 				"rankType": 5,
 				"avatarBaseType": "elation",
 				"weaponType": "elation"
 			},
 			{
 				"itemId": 23048,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23048.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7ffaea23cc0a15184ee42edf97561a2f.png",
 				"itemType": "Weapon",
 				"name": "金血铭刻的时代",
-				"nameEn": "Epoch Etched in Golden Blood",
+				"nameEn": "金血铭刻的时代",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23033,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23033.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6d18ef541950ff05db33808a8c82ba70.png",
 				"itemType": "Weapon",
 				"name": "忍法帖•缭乱破魔",
-				"nameEn": "Ninjutsu Inscription: Dazzling Evilbreaker",
+				"nameEn": "忍法帖•缭乱破魔",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/32cb9a9b1b222d7266b3209cf58f988d.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
+				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3da5d66ebf648a1f5cca366829bab465.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
+				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2026-03-03 12:00:00",
@@ -81,73 +81,73 @@
 		"items": [
 			{
 				"itemId": 23054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23054.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0c4f2196c126f2a471e53e4eea2a14ed.png",
 				"itemType": "Weapon",
 				"name": "当她决定看见",
-				"nameEn": "When She Decided to See",
+				"nameEn": "当她决定看见",
 				"rankType": 5,
 				"avatarBaseType": "elation",
 				"weaponType": "elation"
 			},
 			{
 				"itemId": 23049,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23049.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecca241e4d715cd5063e1db059765fda.png",
 				"itemType": "Weapon",
 				"name": "致长夜的星光",
-				"nameEn": "To Evernight's Stars",
+				"nameEn": "致长夜的星光",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23047.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f4f653c3ac741d141d72d51976307140.png",
 				"itemType": "Weapon",
 				"name": "海洋为何而歌",
-				"nameEn": "Why Does the Ocean Sing",
+				"nameEn": "海洋为何而歌",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23022,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23022.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ee652482b6e111a959ba4b6e2c44ea2d.png",
 				"itemType": "Weapon",
 				"name": "重塑时光之忆",
-				"nameEn": "Reforged Remembrance",
+				"nameEn": "重塑时光之忆",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3da5d66ebf648a1f5cca366829bab465.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
+				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2026-02-13 06:30:00",
@@ -158,53 +158,53 @@
 		"items": [
 			{
 				"itemId": 23036,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c6b1e52f7bfe0daab101cca62007cf8f.png",
 				"itemType": "Weapon",
 				"name": "将光阴织成黄金",
-				"nameEn": "Time Woven Into Gold",
+				"nameEn": "将光阴织成黄金",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23034,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b3cbf63c352678b05587a138213e96aa.png",
 				"itemType": "Weapon",
 				"name": "回到大地的飞行",
-				"nameEn": "A Grounded Ascent",
+				"nameEn": "回到大地的飞行",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21051,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/40ebe9fe3898d12a621bb26ce27c8518.png",
 				"itemType": "Weapon",
 				"name": "天才们的问候",
-				"nameEn": "Geniuses' Greetings",
+				"nameEn": "天才们的问候",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
+				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
+				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2026-01-28 12:00:00",
@@ -215,53 +215,53 @@
 		"items": [
 			{
 				"itemId": 23035,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7bb97951a27bd748a3cbef705975f1e5.png",
 				"itemType": "Weapon",
 				"name": "长路终有归途",
-				"nameEn": "Long Road Leads Home",
+				"nameEn": "长路终有归途",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23032,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23032.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/243988ae10d6371beab2151c146ad380.png",
 				"itemType": "Weapon",
 				"name": "唯有香如故",
-				"nameEn": "Scent Alone Stays True",
+				"nameEn": "唯有香如故",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/81730b60b1b5e1763a6c0924810fabdf.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
+				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
+				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69cabe8cb2ff157f71a103e5ff840b21.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
+				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2026-01-07 12:00:00",
@@ -272,53 +272,53 @@
 		"items": [
 			{
 				"itemId": 23050,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23050.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/08c4d41dabfd3d761f53bc8fa35aeecd.png",
 				"itemType": "Weapon",
 				"name": "勿忘她的火焰",
-				"nameEn": "Never Forget Her Flame",
+				"nameEn": "勿忘她的火焰",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5c740d21ad5eb60bb3e73368acef6f4f.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
+				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/193d78d33d8ed2b302549f1c59308a0a.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
+				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d04c4e64509a36d2115ec058d32cc7ee.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
+				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
+				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2025-12-17 06:30:00",
@@ -329,73 +329,73 @@
 		"items": [
 			{
 				"itemId": 23052,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23052.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7717fcfac7b7f680f7f214bb712fa5a3.png",
 				"itemType": "Weapon",
 				"name": "爱如此刻永恒",
-				"nameEn": "This Love, Forever",
+				"nameEn": "爱如此刻永恒",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/95105c43f70715f2f993de1ee35b7346.png",
 				"itemType": "Weapon",
 				"name": "黎明恰如此燃烧",
-				"nameEn": "Thus Burns the Dawn",
+				"nameEn": "黎明恰如此燃烧",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2aa8a54d676a4a127471b8554b4e5f21.png",
 				"itemType": "Weapon",
 				"name": "谎言在风中飘扬",
-				"nameEn": "Lies Dance on the Breeze",
+				"nameEn": "谎言在风中飘扬",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23039,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23039.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ec428396aa0e97b6e78db414a30f290d.png",
 				"itemType": "Weapon",
 				"name": "血火啊，燃烧前路",
-				"nameEn": "Flame of Blood, Blaze My Path",
+				"nameEn": "血火啊，燃烧前路",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3da5d66ebf648a1f5cca366829bab465.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
+				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/193d78d33d8ed2b302549f1c59308a0a.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
+				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9989b2a071b923d5e0ca065319079265.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
+				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2025-11-26 12:00:00",
@@ -406,73 +406,73 @@
 		"items": [
 			{
 				"itemId": 23052,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23052.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7717fcfac7b7f680f7f214bb712fa5a3.png",
 				"itemType": "Weapon",
 				"name": "爱如此刻永恒",
-				"nameEn": "This Love, Forever",
+				"nameEn": "爱如此刻永恒",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23042.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ed1f94865cda5d8acdf71d2616fad79.png",
 				"itemType": "Weapon",
 				"name": "愿虹光永驻天空",
-				"nameEn": "Long May Rainbows Adorn the Sky",
+				"nameEn": "愿虹光永驻天空",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23040,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23040.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0ab876370c54a32dba6c13bbc6c3f08f.png",
 				"itemType": "Weapon",
 				"name": "让告别，更美一些",
-				"nameEn": "Make Farewells More Beautiful",
+				"nameEn": "让告别，更美一些",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23038,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8b031ff95d06c2442a4a87c2ff12412a.png",
 				"itemType": "Weapon",
 				"name": "如果时间是一朵花",
-				"nameEn": "If Time Were a Flower",
+				"nameEn": "如果时间是一朵花",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3da5d66ebf648a1f5cca366829bab465.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
+				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/193d78d33d8ed2b302549f1c59308a0a.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
+				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9989b2a071b923d5e0ca065319079265.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
+				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2025-11-05 06:30:00",
@@ -483,53 +483,53 @@
 		"items": [
 			{
 				"itemId": 23051,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23051.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/dd4c2b0d3509dfa749a26c688dc00fcd.png",
 				"itemType": "Weapon",
 				"name": "纵然山河万程",
-				"nameEn": "Though Worlds Apart",
+				"nameEn": "纵然山河万程",
 				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 23041,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23041.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5bd60ed06647d994743b38b4a4d2b85c.png",
 				"itemType": "Weapon",
 				"name": "生命当付之一炬",
-				"nameEn": "Life Should Be Cast to Flames",
+				"nameEn": "生命当付之一炬",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ce38b341790d61f2ca84a0ee6ca72625.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
+				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7a2d272c70444cf37c62a412b8a52f1b.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
+				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
+				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			}
 		],
 		"start": "2025-10-15 12:00:00",
@@ -540,53 +540,53 @@
 		"items": [
 			{
 				"itemId": 23049,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23049.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecca241e4d715cd5063e1db059765fda.png",
 				"itemType": "Weapon",
 				"name": "致长夜的星光",
-				"nameEn": "To Evernight's Stars",
+				"nameEn": "致长夜的星光",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23037,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c06347d83a274797f5cf20df07a7bc19.png",
 				"itemType": "Weapon",
 				"name": "向着不可追问处",
-				"nameEn": "Into the Unreachable Veil",
+				"nameEn": "向着不可追问处",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21048,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21048.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9368156769bb6aa65a4f9cfa04c77353.png",
 				"itemType": "Weapon",
 				"name": "梦的蒙太奇",
-				"nameEn": "Dream's Montage",
+				"nameEn": "梦的蒙太奇",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e70695d82fc6d1d37f6f61309198737c.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
+				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
+				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2025-09-24 06:30:00",
@@ -597,53 +597,53 @@
 		"items": [
 			{
 				"itemId": 23048,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23048.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7ffaea23cc0a15184ee42edf97561a2f.png",
 				"itemType": "Weapon",
 				"name": "金血铭刻的时代",
-				"nameEn": "Epoch Etched in Golden Blood",
+				"nameEn": "金血铭刻的时代",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/74b736c327eb3cc4607f5514062e6de9.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
+				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
+				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bd4d1ecc25e54b1a55aee4ca1a0c1b46.png",
 				"itemType": "Weapon",
 				"name": "论剑",
-				"nameEn": "Swordplay",
+				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
+				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2025-09-02 12:00:00",
@@ -654,53 +654,53 @@
 		"items": [
 			{
 				"itemId": 23047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23047.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f4f653c3ac741d141d72d51976307140.png",
 				"itemType": "Weapon",
 				"name": "海洋为何而歌",
-				"nameEn": "Why Does the Ocean Sing",
+				"nameEn": "海洋为何而歌",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/96590f9eb9b395a36234172fd05c5bb9.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
+				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
+				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/804e949c17792b424bd41a4fa1a647b8.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
-				"nameEn": "Poised to Bloom",
+				"nameEn": "芳华待灼",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8153d574c45332eed86e37c4bbe5ece7.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
-				"nameEn": "Indelible Promise",
+				"nameEn": "铭记于心的约定",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2025-08-13 06:30:00",
@@ -711,63 +711,63 @@
 		"items": [
 			{
 				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5c740d21ad5eb60bb3e73368acef6f4f.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
+				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5dd00eb80160fe0c02784094f9f843e2.png",
 				"itemType": "Weapon",
 				"name": "此身为剑",
-				"nameEn": "I Shall Be My Own Sword",
+				"nameEn": "此身为剑",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4bc90dd0479bcb79d682fadbab8ce3ec.png",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸",
-				"nameEn": "The Unreachable Side",
+				"nameEn": "到不了的彼岸",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
+				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f8267fc540484f7c1b7ce1eaf224801.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
+				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2025-07-23 12:00:00",
@@ -778,73 +778,73 @@
 		"items": [
 			{
 				"itemId": 23044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/95105c43f70715f2f993de1ee35b7346.png",
 				"itemType": "Weapon",
 				"name": "黎明恰如此燃烧",
-				"nameEn": "Thus Burns the Dawn",
+				"nameEn": "黎明恰如此燃烧",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23038,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8b031ff95d06c2442a4a87c2ff12412a.png",
 				"itemType": "Weapon",
 				"name": "如果时间是一朵花",
-				"nameEn": "If Time Were a Flower",
+				"nameEn": "如果时间是一朵花",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23034,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b3cbf63c352678b05587a138213e96aa.png",
 				"itemType": "Weapon",
 				"name": "回到大地的飞行",
-				"nameEn": "A Grounded Ascent",
+				"nameEn": "回到大地的飞行",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/32cb9a9b1b222d7266b3209cf58f988d.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
+				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3da5d66ebf648a1f5cca366829bab465.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
+				"nameEn": "故事的下一页",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ce779df54d4e7b913db99b8aad45297.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
+				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2025-07-02 06:00:00",
@@ -855,53 +855,53 @@
 		"items": [
 			{
 				"itemId": 23043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2aa8a54d676a4a127471b8554b4e5f21.png",
 				"itemType": "Weapon",
 				"name": "谎言在风中飘扬",
-				"nameEn": "Lies Dance on the Breeze",
+				"nameEn": "谎言在风中飘扬",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23036,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c6b1e52f7bfe0daab101cca62007cf8f.png",
 				"itemType": "Weapon",
 				"name": "将光阴织成黄金",
-				"nameEn": "Time Woven Into Gold",
+				"nameEn": "将光阴织成黄金",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21051,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/40ebe9fe3898d12a621bb26ce27c8518.png",
 				"itemType": "Weapon",
 				"name": "天才们的问候",
-				"nameEn": "Geniuses' Greetings",
+				"nameEn": "天才们的问候",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
+				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
+				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			}
 		],
 		"start": "2025-06-11 12:00:00",
@@ -912,53 +912,53 @@
 		"items": [
 			{
 				"itemId": 23042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23042.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ed1f94865cda5d8acdf71d2616fad79.png",
 				"itemType": "Weapon",
 				"name": "愿虹光永驻天空",
-				"nameEn": "Long May Rainbows Adorn the Sky",
+				"nameEn": "愿虹光永驻天空",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23037,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c06347d83a274797f5cf20df07a7bc19.png",
 				"itemType": "Weapon",
 				"name": "向着不可追问处",
-				"nameEn": "Into the Unreachable Veil",
+				"nameEn": "向着不可追问处",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22fa241f77f5c9de1e5d8b34714f8c6d.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
+				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21047.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4d6ba250e9818acfe807a7fb6e783dff.png",
 				"itemType": "Weapon",
 				"name": "黑夜如影随行",
-				"nameEn": "Shadowed by Night",
+				"nameEn": "黑夜如影随行",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6df639e149e49c6abbabf287c5e86396.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
+				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2025-05-21 06:00:00",
@@ -969,53 +969,53 @@
 		"items": [
 			{
 				"itemId": 23041,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23041.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5bd60ed06647d994743b38b4a4d2b85c.png",
 				"itemType": "Weapon",
 				"name": "生命当付之一炬",
-				"nameEn": "Life Should Be Cast to Flames",
+				"nameEn": "生命当付之一炬",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 23020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/64145209404f514379e1ca95ea09d917.png",
 				"itemType": "Weapon",
 				"name": "纯粹思维的洗礼",
-				"nameEn": "Baptism of Pure Thought",
+				"nameEn": "纯粹思维的洗礼",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
+				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e70695d82fc6d1d37f6f61309198737c.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
+				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69cabe8cb2ff157f71a103e5ff840b21.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
+				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2025-04-30 12:00:00",
@@ -1026,73 +1026,73 @@
 		"items": [
 			{
 				"itemId": 23040,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23040.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0ab876370c54a32dba6c13bbc6c3f08f.png",
 				"itemType": "Weapon",
 				"name": "让告别，更美一些",
-				"nameEn": "Make Farewells More Beautiful",
+				"nameEn": "让告别，更美一些",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23035,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7bb97951a27bd748a3cbef705975f1e5.png",
 				"itemType": "Weapon",
 				"name": "长路终有归途",
-				"nameEn": "Long Road Leads Home",
+				"nameEn": "长路终有归途",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23029,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23029.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/aeed39f86457cbd9b05ea51bf6ec77dc.png",
 				"itemType": "Weapon",
 				"name": "那无数个春天",
-				"nameEn": "Those Many Springs",
+				"nameEn": "那无数个春天",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23024,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72a01559066c9a7d7f5cf7c2238fb308.png",
 				"itemType": "Weapon",
 				"name": "行于流逝的岸",
-				"nameEn": "Along the Passing Shore",
+				"nameEn": "行于流逝的岸",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
+				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
+				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9989b2a071b923d5e0ca065319079265.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
+				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2025-04-09 06:00:00",
@@ -1103,53 +1103,53 @@
 		"items": [
 			{
 				"itemId": 23039,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23039.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ec428396aa0e97b6e78db414a30f290d.png",
 				"itemType": "Weapon",
 				"name": "血火啊，燃烧前路",
-				"nameEn": "Flame of Blood, Blaze My Path",
+				"nameEn": "血火啊，燃烧前路",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68035807bdd53782b99afcbe858f5f3c.png",
 				"itemType": "Weapon",
 				"name": "惊魂夜",
-				"nameEn": "Night of Fright",
+				"nameEn": "惊魂夜",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
+				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
+				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d04c4e64509a36d2115ec058d32cc7ee.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
+				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2025-03-19 12:00:00",
@@ -1160,53 +1160,53 @@
 		"items": [
 			{
 				"itemId": 23038,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8b031ff95d06c2442a4a87c2ff12412a.png",
 				"itemType": "Weapon",
 				"name": "如果时间是一朵花",
-				"nameEn": "If Time Were a Flower",
+				"nameEn": "如果时间是一朵花",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23030,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23030.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/16afce7a75dd0d682f39c492c55d695f.png",
 				"itemType": "Weapon",
 				"name": "落日时起舞",
-				"nameEn": "Dance at Sunset",
+				"nameEn": "落日时起舞",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
+				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
+				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2025-02-26 06:00:00",
@@ -1217,73 +1217,73 @@
 		"items": [
 			{
 				"itemId": 23036,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c6b1e52f7bfe0daab101cca62007cf8f.png",
 				"itemType": "Weapon",
 				"name": "将光阴织成黄金",
-				"nameEn": "Time Woven Into Gold",
+				"nameEn": "将光阴织成黄金",
 				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 23027,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23027.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/acd8254c8c27ab41c2a51aa4daaaa6be.png",
 				"itemType": "Weapon",
 				"name": "驶向第二次生命",
-				"nameEn": "Sailing Towards a Second Life",
+				"nameEn": "驶向第二次生命",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 23026,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23026.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecd13f9510c9148edc6ac133c3c89439.png",
 				"itemType": "Weapon",
 				"name": "夜色流光溢彩",
-				"nameEn": "Flowing Nightglow",
+				"nameEn": "夜色流光溢彩",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/74b736c327eb3cc4607f5514062e6de9.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
+				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21051,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/40ebe9fe3898d12a621bb26ce27c8518.png",
 				"itemType": "Weapon",
 				"name": "天才们的问候",
-				"nameEn": "Geniuses' Greetings",
+				"nameEn": "天才们的问候",
 				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
+				"avatarBaseType": "remembrance",
+				"weaponType": "remembrance"
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f8267fc540484f7c1b7ce1eaf224801.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
+				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
+				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2025-02-05 12:00:00",
@@ -1294,73 +1294,73 @@
 		"items": [
 			{
 				"itemId": 23037,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c06347d83a274797f5cf20df07a7bc19.png",
 				"itemType": "Weapon",
 				"name": "向着不可追问处",
-				"nameEn": "Into the Unreachable Veil",
+				"nameEn": "向着不可追问处",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 23032,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23032.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/243988ae10d6371beab2151c146ad380.png",
 				"itemType": "Weapon",
 				"name": "唯有香如故",
-				"nameEn": "Scent Alone Stays True",
+				"nameEn": "唯有香如故",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 23031,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23031.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5e32decada72c4d17e7822277cfffb69.png",
 				"itemType": "Weapon",
 				"name": "我将，巡征追猎",
-				"nameEn": "I Venture Forth to Hunt",
+				"nameEn": "我将，巡征追猎",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 23028,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23028.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7376ba3c7bd577fefacbdc736e2d23ec.png",
 				"itemType": "Weapon",
 				"name": "偏偏希望无价",
-				"nameEn": "Yet Hope Is Priceless",
+				"nameEn": "偏偏希望无价",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7a2d272c70444cf37c62a412b8a52f1b.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
+				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ce38b341790d61f2ca84a0ee6ca72625.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
+				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/81730b60b1b5e1763a6c0924810fabdf.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
+				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2025-01-15 06:00:00",
@@ -1371,53 +1371,53 @@
 		"items": [
 			{
 				"itemId": 23035,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7bb97951a27bd748a3cbef705975f1e5.png",
 				"itemType": "Weapon",
 				"name": "长路终有归途",
-				"nameEn": "Long Road Leads Home",
+				"nameEn": "长路终有归途",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5c740d21ad5eb60bb3e73368acef6f4f.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
+				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8153d574c45332eed86e37c4bbe5ece7.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
-				"nameEn": "Indelible Promise",
+				"nameEn": "铭记于心的约定",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/193d78d33d8ed2b302549f1c59308a0a.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
+				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2024-12-25 12:00:00",
@@ -1428,53 +1428,53 @@
 		"items": [
 			{
 				"itemId": 23034,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b3cbf63c352678b05587a138213e96aa.png",
 				"itemType": "Weapon",
 				"name": "回到大地的飞行",
-				"nameEn": "A Grounded Ascent",
+				"nameEn": "回到大地的飞行",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1a43d0fbc52c9aa482feca7700e549cc.png",
 				"itemType": "Weapon",
 				"name": "拂晓之前",
-				"nameEn": "Before Dawn",
+				"nameEn": "拂晓之前",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/804e949c17792b424bd41a4fa1a647b8.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
-				"nameEn": "Poised to Bloom",
+				"nameEn": "芳华待灼",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
+				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bd4d1ecc25e54b1a55aee4ca1a0c1b46.png",
 				"itemType": "Weapon",
 				"name": "论剑",
-				"nameEn": "Swordplay",
+				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			}
 		],
 		"start": "2024-12-04 06:00:00",
@@ -1485,53 +1485,53 @@
 		"items": [
 			{
 				"itemId": 23024,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72a01559066c9a7d7f5cf7c2238fb308.png",
 				"itemType": "Weapon",
 				"name": "行于流逝的岸",
-				"nameEn": "Along the Passing Shore",
+				"nameEn": "行于流逝的岸",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23023,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23023.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72d934a58eca0ede334191fe4be83504.png",
 				"itemType": "Weapon",
 				"name": "命运从未公平",
-				"nameEn": "Inherently Unjust Destiny",
+				"nameEn": "命运从未公平",
 				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6df639e149e49c6abbabf287c5e86396.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
+				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9989b2a071b923d5e0ca065319079265.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
+				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22fa241f77f5c9de1e5d8b34714f8c6d.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
+				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2024-11-13 12:00:00",
@@ -1542,53 +1542,53 @@
 		"items": [
 			{
 				"itemId": 23033,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23033.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6d18ef541950ff05db33808a8c82ba70.png",
 				"itemType": "Weapon",
 				"name": "忍法帖•缭乱破魔",
-				"nameEn": "Ninjutsu Inscription: Dazzling Evilbreaker",
+				"nameEn": "忍法帖•缭乱破魔",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 23015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/15229239c54f245841f3cbf6de88cb27.png",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的",
-				"nameEn": "Brighter Than the Sun",
+				"nameEn": "比阳光更明亮的",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21048,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21048.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9368156769bb6aa65a4f9cfa04c77353.png",
 				"itemType": "Weapon",
 				"name": "梦的蒙太奇",
-				"nameEn": "Dream's Montage",
+				"nameEn": "梦的蒙太奇",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e70695d82fc6d1d37f6f61309198737c.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
+				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ce779df54d4e7b913db99b8aad45297.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
+				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2024-10-23 06:00:00",
@@ -1599,53 +1599,53 @@
 		"items": [
 			{
 				"itemId": 23032,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23032.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/243988ae10d6371beab2151c146ad380.png",
 				"itemType": "Weapon",
 				"name": "唯有香如故",
-				"nameEn": "Scent Alone Stays True",
+				"nameEn": "唯有香如故",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 23016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/50390976d428504ab3b116f97e62b89f.png",
 				"itemType": "Weapon",
 				"name": "烦恼着，幸福着",
-				"nameEn": "Worrisome, Blissful",
+				"nameEn": "烦恼着，幸福着",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21047.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4d6ba250e9818acfe807a7fb6e783dff.png",
 				"itemType": "Weapon",
 				"name": "黑夜如影随行",
-				"nameEn": "Shadowed by Night",
+				"nameEn": "黑夜如影随行",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
+				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2024-10-02 12:00:00",
@@ -1656,73 +1656,73 @@
 		"items": [
 			{
 				"itemId": 23031,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23031.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5e32decada72c4d17e7822277cfffb69.png",
 				"itemType": "Weapon",
 				"name": "我将，巡征追猎",
-				"nameEn": "I Venture Forth to Hunt",
+				"nameEn": "我将，巡征追猎",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/96590f9eb9b395a36234172fd05c5bb9.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
+				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23022,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23022.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ee652482b6e111a959ba4b6e2c44ea2d.png",
 				"itemType": "Weapon",
 				"name": "重塑时光之忆",
-				"nameEn": "Reforged Remembrance",
+				"nameEn": "重塑时光之忆",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23026,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23026.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecd13f9510c9148edc6ac133c3c89439.png",
 				"itemType": "Weapon",
 				"name": "夜色流光溢彩",
-				"nameEn": "Flowing Nightglow",
+				"nameEn": "夜色流光溢彩",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bd4d1ecc25e54b1a55aee4ca1a0c1b46.png",
 				"itemType": "Weapon",
 				"name": "论剑",
-				"nameEn": "Swordplay",
+				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
+				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2024-09-10 06:00:00",
@@ -1733,53 +1733,53 @@
 		"items": [
 			{
 				"itemId": 23029,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23029.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/aeed39f86457cbd9b05ea51bf6ec77dc.png",
 				"itemType": "Weapon",
 				"name": "那无数个春天",
-				"nameEn": "Those Many Springs",
+				"nameEn": "那无数个春天",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/32cb9a9b1b222d7266b3209cf58f988d.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
+				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/804e949c17792b424bd41a4fa1a647b8.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
-				"nameEn": "Poised to Bloom",
+				"nameEn": "芳华待灼",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
+				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
+				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2024-08-21 12:00:00",
@@ -1790,53 +1790,53 @@
 		"items": [
 			{
 				"itemId": 23030,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23030.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/16afce7a75dd0d682f39c492c55d695f.png",
 				"itemType": "Weapon",
 				"name": "落日时起舞",
-				"nameEn": "Dance at Sunset",
+				"nameEn": "落日时起舞",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68035807bdd53782b99afcbe858f5f3c.png",
 				"itemType": "Weapon",
 				"name": "惊魂夜",
-				"nameEn": "Night of Fright",
+				"nameEn": "惊魂夜",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69cabe8cb2ff157f71a103e5ff840b21.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
+				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
+				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
+				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2024-07-31 06:00:00",
@@ -1847,53 +1847,53 @@
 		"items": [
 			{
 				"itemId": 23028,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23028.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7376ba3c7bd577fefacbdc736e2d23ec.png",
 				"itemType": "Weapon",
 				"name": "偏偏希望无价",
-				"nameEn": "Yet Hope Is Priceless",
+				"nameEn": "偏偏希望无价",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 23018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5130f499041f327536ad0b9752f18885.png",
 				"itemType": "Weapon",
 				"name": "片刻，留在眼底",
-				"nameEn": "An Instant Before A Gaze",
+				"nameEn": "片刻，留在眼底",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e70695d82fc6d1d37f6f61309198737c.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
+				"nameEn": "谐乐静默之后",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
+				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
+				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2024-07-10 12:00:00",
@@ -1904,53 +1904,53 @@
 		"items": [
 			{
 				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5c740d21ad5eb60bb3e73368acef6f4f.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
+				"nameEn": "梦应归于何处",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 23019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bc8de8119c4571969fc3b0002c2ba01f.png",
 				"itemType": "Weapon",
 				"name": "镜中故我",
-				"nameEn": "Past Self in Mirror",
+				"nameEn": "镜中故我",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d04c4e64509a36d2115ec058d32cc7ee.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
+				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6df639e149e49c6abbabf287c5e86396.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
+				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
+				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2024-06-19 06:00:00",
@@ -1961,53 +1961,53 @@
 		"items": [
 			{
 				"itemId": 23027,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23027.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/acd8254c8c27ab41c2a51aa4daaaa6be.png",
 				"itemType": "Weapon",
 				"name": "驶向第二次生命",
-				"nameEn": "Sailing Towards a Second Life",
+				"nameEn": "驶向第二次生命",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 23011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7e1fbea11001681569f92250e25dc942.png",
 				"itemType": "Weapon",
 				"name": "她已闭上双眼",
-				"nameEn": "She Already Shut Her Eyes",
+				"nameEn": "她已闭上双眼",
 				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/81730b60b1b5e1763a6c0924810fabdf.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
+				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
+				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ce38b341790d61f2ca84a0ee6ca72625.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
+				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2024-05-29 12:00:00",
@@ -2018,53 +2018,53 @@
 		"items": [
 			{
 				"itemId": 23026,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23026.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecd13f9510c9148edc6ac133c3c89439.png",
 				"itemType": "Weapon",
 				"name": "夜色流光溢彩",
-				"nameEn": "Flowing Nightglow",
+				"nameEn": "夜色流光溢彩",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/50390976d428504ab3b116f97e62b89f.png",
 				"itemType": "Weapon",
 				"name": "烦恼着，幸福着",
-				"nameEn": "Worrisome, Blissful",
+				"nameEn": "烦恼着，幸福着",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9989b2a071b923d5e0ca065319079265.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
+				"nameEn": "无边曼舞",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bd4d1ecc25e54b1a55aee4ca1a0c1b46.png",
 				"itemType": "Weapon",
 				"name": "论剑",
-				"nameEn": "Swordplay",
+				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
+				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			}
 		],
 		"start": "2024-05-08 06:00:00",
@@ -2075,53 +2075,53 @@
 		"items": [
 			{
 				"itemId": 23023,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23023.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72d934a58eca0ede334191fe4be83504.png",
 				"itemType": "Weapon",
 				"name": "命运从未公平",
-				"nameEn": "Inherently Unjust Destiny",
+				"nameEn": "命运从未公平",
 				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 23014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5dd00eb80160fe0c02784094f9f843e2.png",
 				"itemType": "Weapon",
 				"name": "此身为剑",
-				"nameEn": "I Shall Be My Own Sword",
+				"nameEn": "此身为剑",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/193d78d33d8ed2b302549f1c59308a0a.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
+				"nameEn": "两个人的演唱会",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
+				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22fa241f77f5c9de1e5d8b34714f8c6d.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
+				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2024-04-17 12:00:00",
@@ -2132,53 +2132,53 @@
 		"items": [
 			{
 				"itemId": 23024,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72a01559066c9a7d7f5cf7c2238fb308.png",
 				"itemType": "Weapon",
 				"name": "行于流逝的岸",
-				"nameEn": "Along the Passing Shore",
+				"nameEn": "行于流逝的岸",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1f8048858a0753a66a0fabfd4e1fcfb2.png",
 				"itemType": "Weapon",
 				"name": "棺的回响",
-				"nameEn": "Echoes of the Coffin",
+				"nameEn": "棺的回响",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
+				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
+				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f8267fc540484f7c1b7ce1eaf224801.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
+				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			}
 		],
 		"start": "2024-03-27 06:00:00",
@@ -2189,53 +2189,53 @@
 		"items": [
 			{
 				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/32cb9a9b1b222d7266b3209cf58f988d.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
+				"nameEn": "游戏尘寰",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1a43d0fbc52c9aa482feca7700e549cc.png",
 				"itemType": "Weapon",
 				"name": "拂晓之前",
-				"nameEn": "Before Dawn",
+				"nameEn": "拂晓之前",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ce779df54d4e7b913db99b8aad45297.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
+				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/81730b60b1b5e1763a6c0924810fabdf.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
+				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2024-02-29 12:00:00",
@@ -2246,53 +2246,53 @@
 		"items": [
 			{
 				"itemId": 23022,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23022.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ee652482b6e111a959ba4b6e2c44ea2d.png",
 				"itemType": "Weapon",
 				"name": "重塑时光之忆",
-				"nameEn": "Reforged Remembrance",
+				"nameEn": "重塑时光之忆",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 23015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/15229239c54f245841f3cbf6de88cb27.png",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的",
-				"nameEn": "Brighter Than the Sun",
+				"nameEn": "比阳光更明亮的",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8153d574c45332eed86e37c4bbe5ece7.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
-				"nameEn": "Indelible Promise",
+				"nameEn": "铭记于心的约定",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
+				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2024-02-06 06:00:00",
@@ -2303,53 +2303,53 @@
 		"items": [
 			{
 				"itemId": 23020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/64145209404f514379e1ca95ea09d917.png",
 				"itemType": "Weapon",
 				"name": "纯粹思维的洗礼",
-				"nameEn": "Baptism of Pure Thought",
+				"nameEn": "纯粹思维的洗礼",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/96590f9eb9b395a36234172fd05c5bb9.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
+				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
+				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7a2d272c70444cf37c62a412b8a52f1b.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
+				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ce38b341790d61f2ca84a0ee6ca72625.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
+				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2024-01-17 12:00:00",
@@ -2360,53 +2360,53 @@
 		"items": [
 			{
 				"itemId": 23019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bc8de8119c4571969fc3b0002c2ba01f.png",
 				"itemType": "Weapon",
 				"name": "镜中故我",
-				"nameEn": "Past Self in Mirror",
+				"nameEn": "镜中故我",
 				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 23009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4bc90dd0479bcb79d682fadbab8ce3ec.png",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸",
-				"nameEn": "The Unreachable Side",
+				"nameEn": "到不了的彼岸",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6df639e149e49c6abbabf287c5e86396.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
+				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
+				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2023-12-27 06:00:00",
@@ -2417,53 +2417,53 @@
 		"items": [
 			{
 				"itemId": 23018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5130f499041f327536ad0b9752f18885.png",
 				"itemType": "Weapon",
 				"name": "片刻，留在眼底",
-				"nameEn": "An Instant Before A Gaze",
+				"nameEn": "片刻，留在眼底",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/74b736c327eb3cc4607f5514062e6de9.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
+				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ce779df54d4e7b913db99b8aad45297.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
+				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
+				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
+				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2023-12-06 12:00:00",
@@ -2474,43 +2474,43 @@
 		"items": [
 			{
 				"itemId": 23017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68035807bdd53782b99afcbe858f5f3c.png",
 				"itemType": "Weapon",
 				"name": "惊魂夜",
-				"nameEn": "Night of Fright",
+				"nameEn": "惊魂夜",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
+				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f8267fc540484f7c1b7ce1eaf224801.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
+				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
+				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2023-11-15 06:00:00",
@@ -2521,53 +2521,53 @@
 		"items": [
 			{
 				"itemId": 23016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/50390976d428504ab3b116f97e62b89f.png",
 				"itemType": "Weapon",
 				"name": "烦恼着，幸福着",
-				"nameEn": "Worrisome, Blissful",
+				"nameEn": "烦恼着，幸福着",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 23001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1134a2ede65c695492d5f17cba62f142.png",
 				"itemType": "Weapon",
 				"name": "于夜色中",
-				"nameEn": "In the Night",
+				"nameEn": "于夜色中",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69cabe8cb2ff157f71a103e5ff840b21.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
+				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7a2d272c70444cf37c62a412b8a52f1b.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
+				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			}
 		],
 		"start": "2023-10-27 12:00:00",
@@ -2578,43 +2578,43 @@
 		"items": [
 			{
 				"itemId": 23014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5dd00eb80160fe0c02784094f9f843e2.png",
 				"itemType": "Weapon",
 				"name": "此身为剑",
-				"nameEn": "I Shall Be My Own Sword",
+				"nameEn": "此身为剑",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d04c4e64509a36d2115ec058d32cc7ee.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
+				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22fa241f77f5c9de1e5d8b34714f8c6d.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
+				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
+				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			}
 		],
 		"start": "2023-10-11 06:00:00",
@@ -2625,43 +2625,43 @@
 		"items": [
 			{
 				"itemId": 23011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7e1fbea11001681569f92250e25dc942.png",
 				"itemType": "Weapon",
 				"name": "她已闭上双眼",
-				"nameEn": "She Already Shut Her Eyes",
+				"nameEn": "她已闭上双眼",
 				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
+				"nameEn": "此时恰好",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
+				"nameEn": "宇宙市场趋势",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ce779df54d4e7b913db99b8aad45297.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
+				"nameEn": "在蓝天下",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2023-09-20 12:00:00",
@@ -2672,43 +2672,43 @@
 		"items": [
 			{
 				"itemId": 23015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/15229239c54f245841f3cbf6de88cb27.png",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的",
-				"nameEn": "Brighter Than the Sun",
+				"nameEn": "比阳光更明亮的",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
+				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ce38b341790d61f2ca84a0ee6ca72625.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
+				"nameEn": "朗道的选择",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2023-08-30 06:00:00",
@@ -2719,43 +2719,43 @@
 		"items": [
 			{
 				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/96590f9eb9b395a36234172fd05c5bb9.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
+				"nameEn": "只需等待",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"nameEn": "决心如汗珠般闪耀",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
+				"nameEn": "猎物的视线",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
+				"nameEn": "「我」的诞生",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2023-08-09 12:00:00",
@@ -2766,43 +2766,43 @@
 		"items": [
 			{
 				"itemId": 23009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4bc90dd0479bcb79d682fadbab8ce3ec.png",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸",
-				"nameEn": "The Unreachable Side",
+				"nameEn": "到不了的彼岸",
 				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
+				"nameEn": "秘密誓心",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
+				"nameEn": "同一种心情",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bd4d1ecc25e54b1a55aee4ca1a0c1b46.png",
 				"itemType": "Weapon",
 				"name": "论剑",
-				"nameEn": "Swordplay",
+				"nameEn": "论剑",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			}
 		],
 		"start": "2023-07-19 06:00:00",
@@ -2813,43 +2813,43 @@
 		"items": [
 			{
 				"itemId": 23008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23008.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1f8048858a0753a66a0fabfd4e1fcfb2.png",
 				"itemType": "Weapon",
 				"name": "棺的回响",
-				"nameEn": "Echoes of the Coffin",
+				"nameEn": "棺的回响",
 				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
+				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/81730b60b1b5e1763a6c0924810fabdf.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
+				"nameEn": "天才们的休憩",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
+				"nameEn": "舞！舞！舞！",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			}
 		],
 		"start": "2023-06-28 12:00:00",
@@ -2860,43 +2860,43 @@
 		"items": [
 			{
 				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/74b736c327eb3cc4607f5514062e6de9.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
+				"nameEn": "雨一直下",
 				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f8267fc540484f7c1b7ce1eaf224801.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
+				"nameEn": "点个关注吧！",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d04c4e64509a36d2115ec058d32cc7ee.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
+				"nameEn": "记忆中的模样",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22fa241f77f5c9de1e5d8b34714f8c6d.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
+				"nameEn": "别让世界静下来",
 				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			}
 		],
 		"start": "2023-06-07 06:00:00",
@@ -2907,43 +2907,43 @@
 		"items": [
 			{
 				"itemId": 23010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1a43d0fbc52c9aa482feca7700e549cc.png",
 				"itemType": "Weapon",
 				"name": "拂晓之前",
-				"nameEn": "Before Dawn",
+				"nameEn": "拂晓之前",
 				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
+				"avatarBaseType": "erudition",
+				"weaponType": "erudition"
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
+				"nameEn": "与行星相会",
 				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
+				"avatarBaseType": "harmony",
+				"weaponType": "harmony"
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7a2d272c70444cf37c62a412b8a52f1b.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
+				"nameEn": "唯有沉默",
 				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6df639e149e49c6abbabf287c5e86396.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
+				"nameEn": "余生的第一天",
 				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
+				"avatarBaseType": "preservation",
+				"weaponType": "preservation"
 			}
 		],
 		"start": "2023-05-17 18:00:00",
@@ -2954,43 +2954,43 @@
 		"items": [
 			{
 				"itemId": 23001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1134a2ede65c695492d5f17cba62f142.png",
 				"itemType": "Weapon",
 				"name": "于夜色中",
-				"nameEn": "In the Night",
+				"nameEn": "于夜色中",
 				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
+				"avatarBaseType": "the_Hunt",
+				"weaponType": "the_Hunt"
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
+				"nameEn": "一场术后对话",
 				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
+				"avatarBaseType": "abundance",
+				"weaponType": "abundance"
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
+				"nameEn": "晚安与睡颜",
 				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
+				"avatarBaseType": "nihility",
+				"weaponType": "nihility"
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69cabe8cb2ff157f71a103e5ff840b21.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
+				"nameEn": "鼹鼠党欢迎你",
 				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
+				"avatarBaseType": "destruction",
+				"weaponType": "destruction"
 			}
 		],
 		"start": "2023-04-26 06:00:00",

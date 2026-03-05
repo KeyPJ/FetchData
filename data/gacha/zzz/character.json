@@ -1,1584 +1,175 @@
 [
 	{
 		"version": "2.6.2",
-		"items": [
-			{
-				"itemId": 1501,
-				"imageUrl": "/zzz/UI/IconRoleSelect57.webp",
-				"itemType": "Character",
-				"name": "爱芮",
-				"nameEn": "Aria",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1411,
-				"imageUrl": "/zzz/UI/IconRoleSelect47.webp",
-				"itemType": "Character",
-				"name": "柚叶",
-				"nameEn": "Yuzuha",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
-				"itemType": "Character",
-				"name": "安东",
-				"nameEn": "Anton",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1271,
-				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
-				"itemType": "Character",
-				"name": "赛斯",
-				"nameEn": "Seth",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2026-03-04 12:00:00",
 		"end": "2026-03-23 14:59:59"
 	},
 	{
 		"version": "2.6.1",
-		"items": [
-			{
-				"itemId": 1491,
-				"imageUrl": "/zzz/UI/IconRoleSelect58.webp",
-				"itemType": "Character",
-				"name": "千夏",
-				"nameEn": "Sunna",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1371,
-				"imageUrl": "/zzz/UI/IconRoleSelect44.webp",
-				"itemType": "Character",
-				"name": "仪玄",
-				"nameEn": "Yixuan",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1061,
-				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
-				"itemType": "Character",
-				"name": "可琳",
-				"nameEn": "Corin",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1081,
-				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
-				"itemType": "Character",
-				"name": "比利",
-				"nameEn": "Billy",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2026-02-06 06:00:00",
 		"end": "2026-03-04 11:59:59"
 	},
 	{
 		"version": "2.5.2",
-		"items": [
-			{
-				"itemId": 1431,
-				"imageUrl": "/zzz/UI/IconRoleSelect55.webp",
-				"itemType": "Character",
-				"name": "叶瞬光",
-				"nameEn": "Ye Shunguang",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1341,
-				"imageUrl": "/zzz/UI/IconRoleSelect56.webp",
-				"itemType": "Character",
-				"name": "照",
-				"nameEn": "Zhao",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1381,
-				"imageUrl": "/zzz/UI/IconRoleSelect40.webp",
-				"itemType": "Character",
-				"name": "零号·安比",
-				"nameEn": "Soldier 0 - Anby",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1401,
-				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
-				"itemType": "Character",
-				"name": "爱丽丝",
-				"nameEn": "Alice",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1311,
-				"imageUrl": "/zzz/UI/IconRoleSelect36.webp",
-				"itemType": "Character",
-				"name": "耀嘉音",
-				"nameEn": "Astra Yao",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1031,
-				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
-				"itemType": "Character",
-				"name": "妮可",
-				"nameEn": "Nicole",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1151,
-				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
-				"itemType": "Character",
-				"name": "露西",
-				"nameEn": "Lucy",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1011,
-				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
-				"itemType": "Character",
-				"name": "安比",
-				"nameEn": "Anby",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1121,
-				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
-				"itemType": "Character",
-				"name": "本",
-				"nameEn": "Ben",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			}
-		],
+		"items": [],
 		"start": "2026-01-21 12:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.5.1",
-		"items": [
-			{
-				"itemId": 1431,
-				"imageUrl": "/zzz/UI/IconRoleSelect55.webp",
-				"itemType": "Character",
-				"name": "叶瞬光",
-				"nameEn": "Ye Shunguang",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1341,
-				"imageUrl": "/zzz/UI/IconRoleSelect56.webp",
-				"itemType": "Character",
-				"name": "照",
-				"nameEn": "Zhao",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1031,
-				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
-				"itemType": "Character",
-				"name": "妮可",
-				"nameEn": "Nicole",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1151,
-				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
-				"itemType": "Character",
-				"name": "露西",
-				"nameEn": "Lucy",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1011,
-				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
-				"itemType": "Character",
-				"name": "安比",
-				"nameEn": "Anby",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1121,
-				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
-				"itemType": "Character",
-				"name": "本",
-				"nameEn": "Ben",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			}
-		],
+		"items": [],
 		"start": "2025-12-30 06:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.4.2",
-		"items": [
-			{
-				"itemId": 1471,
-				"imageUrl": "/zzz/UI/IconRoleSelect53.webp",
-				"itemType": "Character",
-				"name": "般岳",
-				"nameEn": "Banyue",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1191,
-				"imageUrl": "/zzz/UI/IconRoleSelect21.webp",
-				"itemType": "Character",
-				"name": "艾莲",
-				"nameEn": "Ellen",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1131,
-				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
-				"itemType": "Character",
-				"name": "苍角",
-				"nameEn": "Soukaku",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1271,
-				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
-				"itemType": "Character",
-				"name": "赛斯",
-				"nameEn": "Seth",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2025-12-17 12:00:00",
 		"end": "2025-12-29 14:59:59"
 	},
 	{
 		"version": "2.4.1",
-		"items": [
-			{
-				"itemId": 1481,
-				"imageUrl": "/zzz/UI/IconRoleSelect54.webp",
-				"itemType": "Character",
-				"name": "琉音",
-				"nameEn": "Dialyn",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1291,
-				"imageUrl": "/zzz/UI/IconRoleSelect42.webp",
-				"itemType": "Character",
-				"name": "雨果",
-				"nameEn": "Hugo",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1061,
-				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
-				"itemType": "Character",
-				"name": "可琳",
-				"nameEn": "Corin",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1081,
-				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
-				"itemType": "Character",
-				"name": "比利",
-				"nameEn": "Billy",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-11-26 06:00:00",
 		"end": "2025-12-17 11:59:59"
 	},
 	{
 		"version": "2.3.2",
-		"items": [
-			{
-				"itemId": 1051,
-				"imageUrl": "/zzz/UI/IconRoleSelect52.webp",
-				"itemType": "Character",
-				"name": "伊德海莉",
-				"nameEn": "Yidhari",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1391,
-				"imageUrl": "/zzz/UI/IconRoleSelect43.webp",
-				"itemType": "Character",
-				"name": "橘福福",
-				"nameEn": "Ju Fufu",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1421,
-				"imageUrl": "/zzz/UI/IconRoleSelect45.webp",
-				"itemType": "Character",
-				"name": "潘引壶",
-				"nameEn": "Pan Yinhu",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1351,
-				"imageUrl": "/zzz/UI/IconRoleSelect38.webp",
-				"itemType": "Character",
-				"name": "波可娜",
-				"nameEn": "Pulchra",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-11-05 12:00:00",
 		"end": "2025-11-25 14:59:59"
 	},
 	{
 		"version": "2.3.1",
-		"items": [
-			{
-				"itemId": 1451,
-				"imageUrl": "/zzz/UI/IconRoleSelect50.webp",
-				"itemType": "Character",
-				"name": "卢西娅",
-				"nameEn": "Lucia",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1331,
-				"imageUrl": "/zzz/UI/IconRoleSelect41.webp",
-				"itemType": "Character",
-				"name": "薇薇安",
-				"nameEn": "Vivian",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1441,
-				"imageUrl": "/zzz/UI/IconRoleSelect51.webp",
-				"itemType": "Character",
-				"name": "真斗",
-				"nameEn": "Manato",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1281,
-				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
-				"itemType": "Character",
-				"name": "派派",
-				"nameEn": "Piper",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-10-15 06:00:00",
 		"end": "2025-11-05 11:59:59"
 	},
 	{
 		"version": "2.2.2",
-		"items": [
-			{
-				"itemId": 1301,
-				"imageUrl": "/zzz/UI/IconRoleSelect49.webp",
-				"itemType": "Character",
-				"name": "奥菲丝&「鬼火」",
-				"nameEn": "Orphie & Magus",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1321,
-				"imageUrl": "/zzz/UI/IconRoleSelect37.webp",
-				"itemType": "Character",
-				"name": "伊芙琳",
-				"nameEn": "Evelyn",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1151,
-				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
-				"itemType": "Character",
-				"name": "露西",
-				"nameEn": "Lucy",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
-				"itemType": "Character",
-				"name": "安东",
-				"nameEn": "Anton",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2025-09-24 12:00:00",
 		"end": "2025-10-14 14:59:59"
 	},
 	{
 		"version": "2.2.1",
-		"items": [
-			{
-				"itemId": 1461,
-				"imageUrl": "/zzz/UI/IconRoleSelect48.webp",
-				"itemType": "Character",
-				"name": "「席德」",
-				"nameEn": "Seed",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1361,
-				"imageUrl": "/zzz/UI/IconRoleSelect39.webp",
-				"itemType": "Character",
-				"name": "「扳机」",
-				"nameEn": "Trigger",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1031,
-				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
-				"itemType": "Character",
-				"name": "妮可",
-				"nameEn": "Nicole",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1011,
-				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
-				"itemType": "Character",
-				"name": "安比",
-				"nameEn": "Anby",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2025-09-04 06:00:00",
 		"end": "2025-09-24 11:59:59"
 	},
 	{
 		"version": "2.1.2",
-		"items": [
-			{
-				"itemId": 1401,
-				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
-				"itemType": "Character",
-				"name": "爱丽丝",
-				"nameEn": "Alice",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1221,
-				"imageUrl": "/zzz/UI/IconRoleSelect31.webp",
-				"itemType": "Character",
-				"name": "柳",
-				"nameEn": "Yanagi",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1131,
-				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
-				"itemType": "Character",
-				"name": "苍角",
-				"nameEn": "Soukaku",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1271,
-				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
-				"itemType": "Character",
-				"name": "赛斯",
-				"nameEn": "Seth",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2025-08-06 12:00:00",
 		"end": "2025-09-03 14:59:59"
 	},
 	{
 		"version": "2.1.1",
-		"items": [
-			{
-				"itemId": 1411,
-				"imageUrl": "/zzz/UI/IconRoleSelect47.webp",
-				"itemType": "Character",
-				"name": "柚叶",
-				"nameEn": "Yuzuha",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1091,
-				"imageUrl": "/zzz/UI/IconRoleSelect13.webp",
-				"itemType": "Character",
-				"name": "雅",
-				"nameEn": "Miyabi",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1281,
-				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
-				"itemType": "Character",
-				"name": "派派",
-				"nameEn": "Piper",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1081,
-				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
-				"itemType": "Character",
-				"name": "比利",
-				"nameEn": "Billy",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-07-16 06:00:00",
 		"end": "2025-08-06 11:59:59"
 	},
 	{
 		"version": "2.0.2",
-		"items": [
-			{
-				"itemId": 1391,
-				"imageUrl": "/zzz/UI/IconRoleSelect43.webp",
-				"itemType": "Character",
-				"name": "橘福福",
-				"nameEn": "Ju Fufu",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1071,
-				"imageUrl": "/zzz/UI/IconRoleSelect25.webp",
-				"itemType": "Character",
-				"name": "凯撒",
-				"nameEn": "Caesar",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1121,
-				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
-				"itemType": "Character",
-				"name": "本",
-				"nameEn": "Ben",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1061,
-				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
-				"itemType": "Character",
-				"name": "可琳",
-				"nameEn": "Corin",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-06-25 12:00:00",
 		"end": "2025-07-15 14:59:59"
 	},
 	{
 		"version": "2.0.1",
-		"items": [
-			{
-				"itemId": 1371,
-				"imageUrl": "/zzz/UI/IconRoleSelect44.webp",
-				"itemType": "Character",
-				"name": "仪玄",
-				"nameEn": "Yixuan",
-				"weaponType": "Rupture",
-				"weaponTypeCN": "命破",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1311,
-				"imageUrl": "/zzz/UI/IconRoleSelect36.webp",
-				"itemType": "Character",
-				"name": "耀嘉音",
-				"nameEn": "Astra Yao",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1421,
-				"imageUrl": "/zzz/UI/IconRoleSelect45.webp",
-				"itemType": "Character",
-				"name": "潘引壶",
-				"nameEn": "Pan Yinhu",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1351,
-				"imageUrl": "/zzz/UI/IconRoleSelect38.webp",
-				"itemType": "Character",
-				"name": "波可娜",
-				"nameEn": "Pulchra",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-06-06 06:00:00",
 		"end": "2025-06-25 11:59:59"
 	},
 	{
 		"version": "1.7.2",
-		"items": [
-			{
-				"itemId": 1291,
-				"imageUrl": "/zzz/UI/IconRoleSelect42.webp",
-				"itemType": "Character",
-				"name": "雨果",
-				"nameEn": "Hugo",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1161,
-				"imageUrl": "/zzz/UI/IconRoleSelect26.webp",
-				"itemType": "Character",
-				"name": "莱特",
-				"nameEn": "Lighter",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1131,
-				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
-				"itemType": "Character",
-				"name": "苍角",
-				"nameEn": "Soukaku",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
-				"itemType": "Character",
-				"name": "安东",
-				"nameEn": "Anton",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2025-05-14 12:00:00",
 		"end": "2025-06-05 14:59:59"
 	},
 	{
 		"version": "1.7.1",
-		"items": [
-			{
-				"itemId": 1331,
-				"imageUrl": "/zzz/UI/IconRoleSelect41.webp",
-				"itemType": "Character",
-				"name": "薇薇安",
-				"nameEn": "Vivian",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1261,
-				"imageUrl": "/zzz/UI/IconRoleSelect24.webp",
-				"itemType": "Character",
-				"name": "简",
-				"nameEn": "Jane",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1281,
-				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
-				"itemType": "Character",
-				"name": "派派",
-				"nameEn": "Piper",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1271,
-				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
-				"itemType": "Character",
-				"name": "赛斯",
-				"nameEn": "Seth",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2025-04-23 06:00:00",
 		"end": "2025-05-14 11:59:59"
 	},
 	{
 		"version": "1.6.2",
-		"items": [
-			{
-				"itemId": 1361,
-				"imageUrl": "/zzz/UI/IconRoleSelect39.webp",
-				"itemType": "Character",
-				"name": "「扳机」",
-				"nameEn": "Trigger",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1241,
-				"imageUrl": "/zzz/UI/IconRoleSelect23.webp",
-				"itemType": "Character",
-				"name": "朱鸢",
-				"nameEn": "Zhu Yuan",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1151,
-				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
-				"itemType": "Character",
-				"name": "露西",
-				"nameEn": "Lucy",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1081,
-				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
-				"itemType": "Character",
-				"name": "比利",
-				"nameEn": "Billy",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-04-02 12:00:00",
 		"end": "2025-04-22 14:59:59"
 	},
 	{
 		"version": "1.6.1",
-		"items": [
-			{
-				"itemId": 1381,
-				"imageUrl": "/zzz/UI/IconRoleSelect40.webp",
-				"itemType": "Character",
-				"name": "零号·安比",
-				"nameEn": "Soldier 0 - Anby",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1171,
-				"imageUrl": "/zzz/UI/IconRoleSelect32.webp",
-				"itemType": "Character",
-				"name": "柏妮思",
-				"nameEn": "Burnice",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1351,
-				"imageUrl": "/zzz/UI/IconRoleSelect38.webp",
-				"itemType": "Character",
-				"name": "波可娜",
-				"nameEn": "Pulchra",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1121,
-				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
-				"itemType": "Character",
-				"name": "本",
-				"nameEn": "Ben",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			}
-		],
+		"items": [],
 		"start": "2025-03-12 06:00:00",
 		"end": "2025-04-02 11:59:59"
 	},
 	{
 		"version": "1.5.2",
-		"items": [
-			{
-				"itemId": 1321,
-				"imageUrl": "/zzz/UI/IconRoleSelect37.webp",
-				"itemType": "Character",
-				"name": "伊芙琳",
-				"nameEn": "Evelyn",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1251,
-				"imageUrl": "/zzz/UI/IconRoleSelect29.webp",
-				"itemType": "Character",
-				"name": "青衣",
-				"nameEn": "Qingyi",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
-				"itemType": "Character",
-				"name": "安东",
-				"nameEn": "Anton",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1031,
-				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
-				"itemType": "Character",
-				"name": "妮可",
-				"nameEn": "Nicole",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ether",
-				"elementCN": "以太"
-			}
-		],
+		"items": [],
 		"start": "2025-02-12 12:00:00",
 		"end": "2025-03-11 14:59:59"
 	},
 	{
 		"version": "1.5.1",
-		"items": [
-			{
-				"itemId": 1311,
-				"imageUrl": "/zzz/UI/IconRoleSelect36.webp",
-				"itemType": "Character",
-				"name": "耀嘉音",
-				"nameEn": "Astra Yao",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1191,
-				"imageUrl": "/zzz/UI/IconRoleSelect21.webp",
-				"itemType": "Character",
-				"name": "艾莲",
-				"nameEn": "Ellen",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1011,
-				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
-				"itemType": "Character",
-				"name": "安比",
-				"nameEn": "Anby",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1061,
-				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
-				"itemType": "Character",
-				"name": "可琳",
-				"nameEn": "Corin",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2025-01-22 06:00:00",
 		"end": "2025-02-12 11:59:59"
 	},
 	{
 		"version": "1.4.1",
-		"items": [
-			{
-				"itemId": 1091,
-				"imageUrl": "/zzz/UI/IconRoleSelect13.webp",
-				"itemType": "Character",
-				"name": "雅",
-				"nameEn": "Miyabi",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/zzz/UI/IconRoleSelect35.webp",
-				"itemType": "Character",
-				"name": "悠真",
-				"nameEn": "Harumasa",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1281,
-				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
-				"itemType": "Character",
-				"name": "派派",
-				"nameEn": "Piper",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1131,
-				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
-				"itemType": "Character",
-				"name": "苍角",
-				"nameEn": "Soukaku",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			}
-		],
+		"items": [],
 		"start": "2024-12-18 06:00:00",
 		"end": "2025-01-21 14:59:59"
 	},
 	{
 		"version": "1.3.2",
-		"items": [
-			{
-				"itemId": 1161,
-				"imageUrl": "/zzz/UI/IconRoleSelect26.webp",
-				"itemType": "Character",
-				"name": "莱特",
-				"nameEn": "Lighter",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1121,
-				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
-				"itemType": "Character",
-				"name": "本",
-				"nameEn": "Ben",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1061,
-				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
-				"itemType": "Character",
-				"name": "可琳",
-				"nameEn": "Corin",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2024-11-27 12:00:00",
 		"end": "2024-12-17 14:59:59"
 	},
 	{
 		"version": "1.3.1",
-		"items": [
-			{
-				"itemId": 1221,
-				"imageUrl": "/zzz/UI/IconRoleSelect31.webp",
-				"itemType": "Character",
-				"name": "柳",
-				"nameEn": "Yanagi",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1011,
-				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
-				"itemType": "Character",
-				"name": "安比",
-				"nameEn": "Anby",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1081,
-				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
-				"itemType": "Character",
-				"name": "比利",
-				"nameEn": "Billy",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2024-11-06 06:00:00",
 		"end": "2024-11-27 11:59:59"
 	},
 	{
 		"version": "1.2.2",
-		"items": [
-			{
-				"itemId": 1171,
-				"imageUrl": "/zzz/UI/IconRoleSelect32.webp",
-				"itemType": "Character",
-				"name": "柏妮思",
-				"nameEn": "Burnice",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1151,
-				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
-				"itemType": "Character",
-				"name": "露西",
-				"nameEn": "Lucy",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			},
-			{
-				"itemId": 1031,
-				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
-				"itemType": "Character",
-				"name": "妮可",
-				"nameEn": "Nicole",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ether",
-				"elementCN": "以太"
-			}
-		],
+		"items": [],
 		"start": "2024-10-16 12:00:00",
 		"end": "2024-11-05 14:59:59"
 	},
 	{
 		"version": "1.2.1",
-		"items": [
-			{
-				"itemId": 1071,
-				"imageUrl": "/zzz/UI/IconRoleSelect25.webp",
-				"itemType": "Character",
-				"name": "凯撒",
-				"nameEn": "Caesar",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1281,
-				"imageUrl": "/zzz/UI/IconRoleSelect28.webp",
-				"itemType": "Character",
-				"name": "派派",
-				"nameEn": "Piper",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
-				"itemType": "Character",
-				"name": "安东",
-				"nameEn": "Anton",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2024-09-25 06:00:00",
 		"end": "2024-10-16 11:59:59"
 	},
 	{
 		"version": "1.1.2",
-		"items": [
-			{
-				"itemId": 1261,
-				"imageUrl": "/zzz/UI/IconRoleSelect24.webp",
-				"itemType": "Character",
-				"name": "简",
-				"nameEn": "Jane",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1271,
-				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
-				"itemType": "Character",
-				"name": "赛斯",
-				"nameEn": "Seth",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1011,
-				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
-				"itemType": "Character",
-				"name": "安比",
-				"nameEn": "Anby",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2024-09-04 12:00:00",
 		"end": "2024-09-24 14:59:59"
 	},
 	{
 		"version": "1.1.1",
-		"items": [
-			{
-				"itemId": 1251,
-				"imageUrl": "/zzz/UI/IconRoleSelect29.webp",
-				"itemType": "Character",
-				"name": "青衣",
-				"nameEn": "Qingyi",
-				"weaponType": "Stun",
-				"weaponTypeCN": "击破",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1081,
-				"imageUrl": "/zzz/UI/IconRoleSelect10.webp",
-				"itemType": "Character",
-				"name": "比利",
-				"nameEn": "Billy",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1061,
-				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
-				"itemType": "Character",
-				"name": "可琳",
-				"nameEn": "Corin",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Physical",
-				"elementCN": "物理"
-			}
-		],
+		"items": [],
 		"start": "2024-08-14 06:00:00",
 		"end": "2024-09-04 11:59:59"
 	},
 	{
 		"version": "1.0.2",
-		"items": [
-			{
-				"itemId": 1241,
-				"imageUrl": "/zzz/UI/IconRoleSelect23.webp",
-				"itemType": "Character",
-				"name": "朱鸢",
-				"nameEn": "Zhu Yuan",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1031,
-				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
-				"itemType": "Character",
-				"name": "妮可",
-				"nameEn": "Nicole",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ether",
-				"elementCN": "以太"
-			},
-			{
-				"itemId": 1121,
-				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
-				"itemType": "Character",
-				"name": "本",
-				"nameEn": "Ben",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Fire",
-				"elementCN": "火属性"
-			}
-		],
+		"items": [],
 		"start": "2024-07-24 12:00:00",
 		"end": "2024-08-13 14:59:59"
 	},
 	{
 		"version": "1.0.1",
-		"items": [
-			{
-				"itemId": 1191,
-				"imageUrl": "/zzz/UI/IconRoleSelect21.webp",
-				"itemType": "Character",
-				"name": "艾莲",
-				"nameEn": "Ellen",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 5,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1131,
-				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
-				"itemType": "Character",
-				"name": "苍角",
-				"nameEn": "Soukaku",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
-				"itemType": "Character",
-				"name": "安东",
-				"nameEn": "Anton",
-				"weaponType": "Attack",
-				"weaponTypeCN": "强攻",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
-			}
-		],
+		"items": [],
 		"start": "2024-07-04 06:00:00",
 		"end": "2024-07-24 11:59:59"
 	}

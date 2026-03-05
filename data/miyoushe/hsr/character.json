@@ -1,0 +1,695 @@
+{
+  "丹恒": {
+    "cn": "丹恒",
+    "damageType": "Wind",
+    "EN": "丹恒",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5f5e7e206018103619a60fd0fde2d5a9.png",
+    "id": "1002",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "The_Hunt"
+  },
+  "姬子": {
+    "cn": "姬子",
+    "damageType": "Fire",
+    "EN": "姬子",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c2a3303fc8024cc5679a6b75161d54e9.png",
+    "id": "1003",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "瓦尔特": {
+    "cn": "瓦尔特",
+    "damageType": "Imaginary",
+    "EN": "瓦尔特",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/603378387f8dcb6d6965d3dca7f3a406.png",
+    "id": "1004",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "卡芙卡": {
+    "cn": "卡芙卡",
+    "damageType": "Lightning",
+    "EN": "卡芙卡",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c03159e5c1755b779446e9cb862ddc2f.png",
+    "id": "1005",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "银狼": {
+    "cn": "银狼",
+    "damageType": "Quantum",
+    "EN": "银狼",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ad8cc86da7b897462aed6c80cc7c9be8.png",
+    "id": "1006",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "阿兰": {
+    "cn": "阿兰",
+    "damageType": "Lightning",
+    "EN": "阿兰",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ca1812dd2e8bf8d7d5728c15093808e.png",
+    "id": "1008",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Destruction"
+  },
+  "艾丝妲": {
+    "cn": "艾丝妲",
+    "damageType": "Fire",
+    "EN": "艾丝妲",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5f4147f98f40dd9911defd6638fe169f.png",
+    "id": "1009",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Harmony"
+  },
+  "黑塔": {
+    "cn": "黑塔",
+    "damageType": "Ice",
+    "EN": "黑塔",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b14973dbbb6ba5f3499f8c2e4c651f4.png",
+    "id": "1013",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Erudition"
+  },
+  "Saber": {
+    "cn": "Saber",
+    "damageType": "Wind",
+    "EN": "Saber",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fadd71d3844b1e6045209109253b3219.png",
+    "id": "1014",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "Archer": {
+    "cn": "Archer",
+    "damageType": "Quantum",
+    "EN": "Archer",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e299b5f714abddb429b972b41e6c2bf9.png",
+    "id": "1015",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "布洛妮娅": {
+    "cn": "布洛妮娅",
+    "damageType": "Wind",
+    "EN": "布洛妮娅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f840139c81e5f0ab6807cf24a41b5028.png",
+    "id": "1101",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "希儿": {
+    "cn": "希儿",
+    "damageType": "Quantum",
+    "EN": "希儿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/41dadaf98a017aeb736bcbebebab7464.png",
+    "id": "1102",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "希露瓦": {
+    "cn": "希露瓦",
+    "damageType": "Lightning",
+    "EN": "希露瓦",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ae809cd3b180fbb51dba93200762754a.png",
+    "id": "1103",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Erudition"
+  },
+  "杰帕德": {
+    "cn": "杰帕德",
+    "damageType": "Ice",
+    "EN": "杰帕德",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6caa4bae8d4eff24c391ab2bcc74c939.png",
+    "id": "1104",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Preservation"
+  },
+  "娜塔莎": {
+    "cn": "娜塔莎",
+    "damageType": "Physical",
+    "EN": "娜塔莎",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/134a47b9ebd2fe44498ce9000f55299e.png",
+    "id": "1105",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Abundance"
+  },
+  "佩拉": {
+    "cn": "佩拉",
+    "damageType": "Ice",
+    "EN": "佩拉",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8a93358320f97c5f6535c7899763398b.png",
+    "id": "1106",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Nihility"
+  },
+  "克拉拉": {
+    "cn": "克拉拉",
+    "damageType": "Physical",
+    "EN": "克拉拉",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d99bff1ed55432bf3ec6581174886044.png",
+    "id": "1107",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "桑博": {
+    "cn": "桑博",
+    "damageType": "Wind",
+    "EN": "桑博",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/dc3ad5e1dc077a5ccc0b1cfba83d5deb.png",
+    "id": "1108",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Nihility"
+  },
+  "虎克": {
+    "cn": "虎克",
+    "damageType": "Fire",
+    "EN": "虎克",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a1ffed381d6c213f507e111d4c239c6f.png",
+    "id": "1109",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Destruction"
+  },
+  "玲可": {
+    "cn": "玲可",
+    "damageType": "Quantum",
+    "EN": "玲可",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1822273c9c97adcde04313bb24699455.png",
+    "id": "1110",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Abundance"
+  },
+  "卢卡": {
+    "cn": "卢卡",
+    "damageType": "Physical",
+    "EN": "卢卡",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6bca259af6132877d333e9e3695e6f9a.png",
+    "id": "1111",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Nihility"
+  },
+  "托帕&账账": {
+    "cn": "托帕&账账",
+    "damageType": "Fire",
+    "EN": "托帕&账账",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/18bb7230ce103b6245e310bbafda0c4e.png",
+    "id": "1112",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "青雀": {
+    "cn": "青雀",
+    "damageType": "Quantum",
+    "EN": "青雀",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b736689dea3a748681bdafade4983c4e.png",
+    "id": "1201",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Erudition"
+  },
+  "停云": {
+    "cn": "停云",
+    "damageType": "Lightning",
+    "EN": "停云",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c15545cd2677ceee30f34d78221e8fcf.png",
+    "id": "1202",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Harmony"
+  },
+  "罗刹": {
+    "cn": "罗刹",
+    "damageType": "Imaginary",
+    "EN": "罗刹",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/563953bb4edb745c85690a3ec95f2e94.png",
+    "id": "1203",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Abundance"
+  },
+  "景元": {
+    "cn": "景元",
+    "damageType": "Lightning",
+    "EN": "景元",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f3ee54ebf10cb7198c0ba1b5240cc0ea.png",
+    "id": "1204",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "刃": {
+    "cn": "刃",
+    "damageType": "Wind",
+    "EN": "刃",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ee3e320699d3375f15446e0d06f5e7fd.png",
+    "id": "1205",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "素裳": {
+    "cn": "素裳",
+    "damageType": "Physical",
+    "EN": "素裳",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6563de4d6050b3a418f4c12f10262b35.png",
+    "id": "1206",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "The_Hunt"
+  },
+  "驭空": {
+    "cn": "驭空",
+    "damageType": "Imaginary",
+    "EN": "驭空",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/82ae0497ab30374e85fe1c533c770c15.png",
+    "id": "1207",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Harmony"
+  },
+  "符玄": {
+    "cn": "符玄",
+    "damageType": "Quantum",
+    "EN": "符玄",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8e82a8281873df211a7aa7d949797394.png",
+    "id": "1208",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Preservation"
+  },
+  "彦卿": {
+    "cn": "彦卿",
+    "damageType": "Ice",
+    "EN": "彦卿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c0cae5ef158b8f7692bbc0acbfcced18.png",
+    "id": "1209",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "桂乃芬": {
+    "cn": "桂乃芬",
+    "damageType": "Fire",
+    "EN": "桂乃芬",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/870f65d713a74c6474446ca7ff4a4970.png",
+    "id": "1210",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Nihility"
+  },
+  "白露": {
+    "cn": "白露",
+    "damageType": "Lightning",
+    "EN": "白露",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d07f98ba9c19fc79860f5a9d0db3c3b2.png",
+    "id": "1211",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Abundance"
+  },
+  "镜流": {
+    "cn": "镜流",
+    "damageType": "Ice",
+    "EN": "镜流",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/434a5d32bdce725ecfe23a76b01a13b4.png",
+    "id": "1212",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "丹恒•饮月": {
+    "cn": "丹恒•饮月",
+    "damageType": "Imaginary",
+    "EN": "丹恒•饮月",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/37b617ae6893fe8599272cbaffad8809.png",
+    "id": "1213",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "雪衣": {
+    "cn": "雪衣",
+    "damageType": "Quantum",
+    "EN": "雪衣",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f20f8f897e910be80906040837c42d3a.png",
+    "id": "1214",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Destruction"
+  },
+  "寒鸦": {
+    "cn": "寒鸦",
+    "damageType": "Physical",
+    "EN": "寒鸦",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0d9c1e3c48b3a9967ae3ebb4ea15e3c3.png",
+    "id": "1215",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Harmony"
+  },
+  "藿藿": {
+    "cn": "藿藿",
+    "damageType": "Wind",
+    "EN": "藿藿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/965ff9aa48295cd45c0328396aae813c.png",
+    "id": "1217",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Abundance"
+  },
+  "椒丘": {
+    "cn": "椒丘",
+    "damageType": "Fire",
+    "EN": "椒丘",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e5d3f33b0e798e8b1ddaad906444acec.png",
+    "id": "1218",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "飞霄": {
+    "cn": "飞霄",
+    "damageType": "Wind",
+    "EN": "飞霄",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/234e28effc307e55e267323797bec50c.png",
+    "id": "1220",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "云璃": {
+    "cn": "云璃",
+    "damageType": "Physical",
+    "EN": "云璃",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/05156a11945271dd38b044c472144272.png",
+    "id": "1221",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "灵砂": {
+    "cn": "灵砂",
+    "damageType": "Fire",
+    "EN": "灵砂",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/63b118997ff7828cc09f4b9009ea13e3.png",
+    "id": "1222",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Abundance"
+  },
+  "貊泽": {
+    "cn": "貊泽",
+    "damageType": "Lightning",
+    "EN": "貊泽",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3445db9a444e5c479f9f6bb0aa175aa3.png",
+    "id": "1223",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "The_Hunt"
+  },
+  "三月七": {
+    "cn": "三月七",
+    "damageType": "Imaginary",
+    "EN": "三月七",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b4c99b82ddb5cc88605119d22730b31a.png",
+    "id": "1224",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "The_Hunt"
+  },
+  "忘归人": {
+    "cn": "忘归人",
+    "damageType": "Fire",
+    "EN": "忘归人",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6065de25706ecf56659231fc3b9b7e0e.png",
+    "id": "1225",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "加拉赫": {
+    "cn": "加拉赫",
+    "damageType": "Fire",
+    "EN": "加拉赫",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f3d66dba4eaff1185b48026643c8de52.png",
+    "id": "1301",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Abundance"
+  },
+  "银枝": {
+    "cn": "银枝",
+    "damageType": "Physical",
+    "EN": "银枝",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/920ff11c67a72f2b0b1e0f897f6df687.png",
+    "id": "1302",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "阮•梅": {
+    "cn": "阮•梅",
+    "damageType": "Ice",
+    "EN": "阮•梅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6b764e22129bbff53670c38e97005151.png",
+    "id": "1303",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "砂金": {
+    "cn": "砂金",
+    "damageType": "Imaginary",
+    "EN": "砂金",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9c0530681a108a4a3c49c88af03e3c99.png",
+    "id": "1304",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Preservation"
+  },
+  "真理医生": {
+    "cn": "真理医生",
+    "damageType": "Imaginary",
+    "EN": "真理医生",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0dd48b9bbe161dd9894d616d8263bb92.png",
+    "id": "1305",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "花火": {
+    "cn": "花火",
+    "damageType": "Quantum",
+    "EN": "花火",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c5c182e15db1bb39a5a60168b5c28973.png",
+    "id": "1306",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "黑天鹅": {
+    "cn": "黑天鹅",
+    "damageType": "Wind",
+    "EN": "黑天鹅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/158750d69eb0587b0dc769ec7ea022b4.png",
+    "id": "1307",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "黄泉": {
+    "cn": "黄泉",
+    "damageType": "Lightning",
+    "EN": "黄泉",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/abb07258cc635a6e6b4277f199b99113.png",
+    "id": "1308",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "知更鸟": {
+    "cn": "知更鸟",
+    "damageType": "Physical",
+    "EN": "知更鸟",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/237be9086ea9e19360d8eb4109df6c16.png",
+    "id": "1309",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "流萤": {
+    "cn": "流萤",
+    "damageType": "Fire",
+    "EN": "流萤",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f966161b6d1158577b1cb80f91bfc33c.png",
+    "id": "1310",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "米沙": {
+    "cn": "米沙",
+    "damageType": "Ice",
+    "EN": "米沙",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22a0b1555763de828410681e44293b8d.png",
+    "id": "1312",
+    "rank": "CombatPowerAvatarRarityType4",
+    "baseType": "Destruction"
+  },
+  "星期日": {
+    "cn": "星期日",
+    "damageType": "Imaginary",
+    "EN": "星期日",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/11822d85dfac472fccc656f2c405ec89.png",
+    "id": "1313",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "翡翠": {
+    "cn": "翡翠",
+    "damageType": "Quantum",
+    "EN": "翡翠",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ae1224c9967197957e8262fe8691a78f.png",
+    "id": "1314",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "波提欧": {
+    "cn": "波提欧",
+    "damageType": "Physical",
+    "EN": "波提欧",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9cd66054b5a663fdada1f76cce329d6a.png",
+    "id": "1315",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "The_Hunt"
+  },
+  "乱破": {
+    "cn": "乱破",
+    "damageType": "Imaginary",
+    "EN": "乱破",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4aa69cf547b0fe44351f32b9adf6f9c2.png",
+    "id": "1317",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "大丽花": {
+    "cn": "大丽花",
+    "damageType": "Fire",
+    "EN": "大丽花",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a52e3894a00d16c3490e9130e33f7851.png",
+    "id": "1321",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "大黑塔": {
+    "cn": "大黑塔",
+    "damageType": "Ice",
+    "EN": "大黑塔",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2613d393123caa42e4bb855bef40c93f.png",
+    "id": "1401",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "阿格莱雅": {
+    "cn": "阿格莱雅",
+    "damageType": "Lightning",
+    "EN": "阿格莱雅",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6a025eabcec57506bffe7e30a4a2395e.png",
+    "id": "1402",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Remembrance"
+  },
+  "缇宝": {
+    "cn": "缇宝",
+    "damageType": "Quantum",
+    "EN": "缇宝",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2bca1e24a6174e0f3eaf5a9a873d7ed3.png",
+    "id": "1403",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "万敌": {
+    "cn": "万敌",
+    "damageType": "Imaginary",
+    "EN": "万敌",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3e672c6d940ae0e816cefe5a7b50cd1b.png",
+    "id": "1404",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "那刻夏": {
+    "cn": "那刻夏",
+    "damageType": "Wind",
+    "EN": "那刻夏",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bf92ea741a011448a4777816bb13d9e3.png",
+    "id": "1405",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Erudition"
+  },
+  "赛飞儿": {
+    "cn": "赛飞儿",
+    "damageType": "Quantum",
+    "EN": "赛飞儿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/060d8d4f488e07b1a2763016155227ec.png",
+    "id": "1406",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "遐蝶": {
+    "cn": "遐蝶",
+    "damageType": "Quantum",
+    "EN": "遐蝶",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/596582bfb355359c2856c2ef9b427f37.png",
+    "id": "1407",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Remembrance"
+  },
+  "白厄": {
+    "cn": "白厄",
+    "damageType": "Physical",
+    "EN": "白厄",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/98a6e497aa992075a7e16761b5b03b55.png",
+    "id": "1408",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Destruction"
+  },
+  "风堇": {
+    "cn": "风堇",
+    "damageType": "Wind",
+    "EN": "风堇",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f1d925120d29088f7e267acefc19bbf1.png",
+    "id": "1409",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Remembrance"
+  },
+  "海瑟音": {
+    "cn": "海瑟音",
+    "damageType": "Physical",
+    "EN": "海瑟音",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ab2a9398c60e68c47b9d71e5e417c913.png",
+    "id": "1410",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Nihility"
+  },
+  "刻律德菈": {
+    "cn": "刻律德菈",
+    "damageType": "Wind",
+    "EN": "刻律德菈",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b4a001bb072c67fbb44ac9d4e19911c9.png",
+    "id": "1412",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Harmony"
+  },
+  "长夜月": {
+    "cn": "长夜月",
+    "damageType": "Ice",
+    "EN": "长夜月",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7575d925185c4cfebdff2995349ac7d2.png",
+    "id": "1413",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Remembrance"
+  },
+  "丹恒•腾荒": {
+    "cn": "丹恒•腾荒",
+    "damageType": "Physical",
+    "EN": "丹恒•腾荒",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7ab9a97b13789b084893ac85f4b5941f.png",
+    "id": "1414",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Preservation"
+  },
+  "昔涟": {
+    "cn": "昔涟",
+    "damageType": "Ice",
+    "EN": "昔涟",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4d3892874c46a5b8669cdf674d57e57c.png",
+    "id": "1415",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Remembrance"
+  },
+  "火花": {
+    "cn": "火花",
+    "damageType": "Fire",
+    "EN": "火花",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/48599b938bfa1cd6864294dba504d2da.png",
+    "id": "1501",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Elation"
+  },
+  "爻光": {
+    "cn": "爻光",
+    "damageType": "Physical",
+    "EN": "爻光",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a8953fb6d3013c17c6122dee523e0e9f.png",
+    "id": "1502",
+    "rank": "CombatPowerAvatarRarityType5",
+    "baseType": "Elation"
+  }
+}

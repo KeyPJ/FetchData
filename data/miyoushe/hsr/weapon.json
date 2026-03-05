@@ -1,0 +1,1250 @@
+{
+  "锋镝": {
+    "cn": "锋镝",
+    "EN": "锋镝",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3b92ac1f080226da04e559c3d06d4dba.png",
+    "id": "20000",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "The_Hunt"
+  },
+  "物穰": {
+    "cn": "物穰",
+    "EN": "物穰",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/42bd4d2561a8c183383c753a6cb01f69.png",
+    "id": "20001",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Abundance"
+  },
+  "天倾": {
+    "cn": "天倾",
+    "EN": "天倾",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/cc842f46588555a21d59aaf6b44f4ada.png",
+    "id": "20002",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Destruction"
+  },
+  "琥珀": {
+    "cn": "琥珀",
+    "EN": "琥珀",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1a8b1ea4bf67e1215891f480fed9eb5d.png",
+    "id": "20003",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Preservation"
+  },
+  "幽邃": {
+    "cn": "幽邃",
+    "EN": "幽邃",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4ecff55b6e9e1bbb549d1bf5aad5c3d1.png",
+    "id": "20004",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Nihility"
+  },
+  "齐颂": {
+    "cn": "齐颂",
+    "EN": "齐颂",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f8b0215b37bbd93add7ea1dc3dd804d1.png",
+    "id": "20005",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Harmony"
+  },
+  "智库": {
+    "cn": "智库",
+    "EN": "智库",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f9133b881031c733c63817becd0362d3.png",
+    "id": "20006",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Erudition"
+  },
+  "离弦": {
+    "cn": "离弦",
+    "EN": "离弦",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/51884652a6727c92acd932dc08923edc.png",
+    "id": "20007",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "The_Hunt"
+  },
+  "嘉果": {
+    "cn": "嘉果",
+    "EN": "嘉果",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4fbfc7ce1b08d22d55042c0f0862809b.png",
+    "id": "20008",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Abundance"
+  },
+  "乐圮": {
+    "cn": "乐圮",
+    "EN": "乐圮",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c71f640ef69b0f68c2144c82eb1bca28.png",
+    "id": "20009",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Destruction"
+  },
+  "戍御": {
+    "cn": "戍御",
+    "EN": "戍御",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c0da0bdc5c00f7efcecee277331f6c95.png",
+    "id": "20010",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Preservation"
+  },
+  "渊环": {
+    "cn": "渊环",
+    "EN": "渊环",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0d33fe8abdbe6fea94a044c7c92f0bea.png",
+    "id": "20011",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Nihility"
+  },
+  "轮契": {
+    "cn": "轮契",
+    "EN": "轮契",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e1fdecb43fc2daaa50ee2e46becb8ca8.png",
+    "id": "20012",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Harmony"
+  },
+  "灵钥": {
+    "cn": "灵钥",
+    "EN": "灵钥",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/21ead0b22e35ced7a5d632f184899bde.png",
+    "id": "20013",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Erudition"
+  },
+  "相抗": {
+    "cn": "相抗",
+    "EN": "相抗",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9aa991fceae01731592556c8a197adb6.png",
+    "id": "20014",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "The_Hunt"
+  },
+  "蕃息": {
+    "cn": "蕃息",
+    "EN": "蕃息",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/dba5ddb913b331946d45782db0bdfea1.png",
+    "id": "20015",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Abundance"
+  },
+  "俱殁": {
+    "cn": "俱殁",
+    "EN": "俱殁",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/96d686c2af84f2fe5d8b8b8968e517dd.png",
+    "id": "20016",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Destruction"
+  },
+  "开疆": {
+    "cn": "开疆",
+    "EN": "开疆",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/356c20c9c769cc308384374fa9cb8fbb.png",
+    "id": "20017",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Preservation"
+  },
+  "匿影": {
+    "cn": "匿影",
+    "EN": "匿影",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b47e1c274f4ff2a9f30ff3253b6c27ad.png",
+    "id": "20018",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Nihility"
+  },
+  "调和": {
+    "cn": "调和",
+    "EN": "调和",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/902978d7d198e5904a445d9d9d47c762.png",
+    "id": "20019",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Harmony"
+  },
+  "睿见": {
+    "cn": "睿见",
+    "EN": "睿见",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c3a35ada9849f00d7b19f1cfcb37e8a3.png",
+    "id": "20020",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Erudition"
+  },
+  "焚影": {
+    "cn": "焚影",
+    "EN": "焚影",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8c07f5fb114c5793752abf4fd2a27b7a.png",
+    "id": "20021",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Remembrance"
+  },
+  "溯忆": {
+    "cn": "溯忆",
+    "EN": "溯忆",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8e289a08518e4342a853e307b401073a.png",
+    "id": "20022",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Remembrance"
+  },
+  "嗤笑": {
+    "cn": "嗤笑",
+    "EN": "嗤笑",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69481a77fcefd46d18a7507c9e6a79b4.png",
+    "id": "20023",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Elation"
+  },
+  "残泪": {
+    "cn": "残泪",
+    "EN": "残泪",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/dff332c1aa66ecc8868bab856a23853d.png",
+    "id": "20024",
+    "rank": "CombatPowerLightconeRarity3",
+    "baseType": "Elation"
+  },
+  "一场术后对话": {
+    "cn": "一场术后对话",
+    "EN": "一场术后对话",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/20c8b8990e20a314d92a73969d4458f3.png",
+    "id": "21000",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "晚安与睡颜": {
+    "cn": "晚安与睡颜",
+    "EN": "晚安与睡颜",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1fe895c0920f3b3c0235f23d139916e2.png",
+    "id": "21001",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "余生的第一天": {
+    "cn": "余生的第一天",
+    "EN": "余生的第一天",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6df639e149e49c6abbabf287c5e86396.png",
+    "id": "21002",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "唯有沉默": {
+    "cn": "唯有沉默",
+    "EN": "唯有沉默",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7a2d272c70444cf37c62a412b8a52f1b.png",
+    "id": "21003",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "记忆中的模样": {
+    "cn": "记忆中的模样",
+    "EN": "记忆中的模样",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d04c4e64509a36d2115ec058d32cc7ee.png",
+    "id": "21004",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "鼹鼠党欢迎你": {
+    "cn": "鼹鼠党欢迎你",
+    "EN": "鼹鼠党欢迎你",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/69cabe8cb2ff157f71a103e5ff840b21.png",
+    "id": "21005",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "「我」的诞生": {
+    "cn": "「我」的诞生",
+    "EN": "「我」的诞生",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1052f6f58e914533d17199275f63ec72.png",
+    "id": "21006",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "同一种心情": {
+    "cn": "同一种心情",
+    "EN": "同一种心情",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/93bcf6d50fad6d246f8d82b53238dea9.png",
+    "id": "21007",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "猎物的视线": {
+    "cn": "猎物的视线",
+    "EN": "猎物的视线",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6c3d202283e8189b64a2984f4900e883.png",
+    "id": "21008",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "朗道的选择": {
+    "cn": "朗道的选择",
+    "EN": "朗道的选择",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ce38b341790d61f2ca84a0ee6ca72625.png",
+    "id": "21009",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "论剑": {
+    "cn": "论剑",
+    "EN": "论剑",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bd4d1ecc25e54b1a55aee4ca1a0c1b46.png",
+    "id": "21010",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "与行星相会": {
+    "cn": "与行星相会",
+    "EN": "与行星相会",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fd524a6e3ef0c58b4e14143cf14935ef.png",
+    "id": "21011",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "秘密誓心": {
+    "cn": "秘密誓心",
+    "EN": "秘密誓心",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f0c5f720aca62ce77ba5cbca2bd64aca.png",
+    "id": "21012",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "别让世界静下来": {
+    "cn": "别让世界静下来",
+    "EN": "别让世界静下来",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/22fa241f77f5c9de1e5d8b34714f8c6d.png",
+    "id": "21013",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "此时恰好": {
+    "cn": "此时恰好",
+    "EN": "此时恰好",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/fec0ca6b5a08905f77428e93d602a055.png",
+    "id": "21014",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "决心如汗珠般闪耀": {
+    "cn": "决心如汗珠般闪耀",
+    "EN": "决心如汗珠般闪耀",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1b5ce8e9170bfd62b0e11439b3a3cc20.png",
+    "id": "21015",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "宇宙市场趋势": {
+    "cn": "宇宙市场趋势",
+    "EN": "宇宙市场趋势",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68f84cdc18645e8724da8c1278c6223e.png",
+    "id": "21016",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "点个关注吧！": {
+    "cn": "点个关注吧！",
+    "EN": "点个关注吧！",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f8267fc540484f7c1b7ce1eaf224801.png",
+    "id": "21017",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "舞！舞！舞！": {
+    "cn": "舞！舞！舞！",
+    "EN": "舞！舞！舞！",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1e7028425dbebbadd11dbdaf2b4f9027.png",
+    "id": "21018",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "在蓝天下": {
+    "cn": "在蓝天下",
+    "EN": "在蓝天下",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ce779df54d4e7b913db99b8aad45297.png",
+    "id": "21019",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "天才们的休憩": {
+    "cn": "天才们的休憩",
+    "EN": "天才们的休憩",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/81730b60b1b5e1763a6c0924810fabdf.png",
+    "id": "21020",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "等价交换": {
+    "cn": "等价交换",
+    "EN": "等价交换",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/08b8c20fff3fc08a14f34c73fa8c81c3.png",
+    "id": "21021",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "延长记号": {
+    "cn": "延长记号",
+    "EN": "延长记号",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5408688845247b2d8102faee03265397.png",
+    "id": "21022",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "我们是地火": {
+    "cn": "我们是地火",
+    "EN": "我们是地火",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0961597fad4289db3ea5685278bc4fb2.png",
+    "id": "21023",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "春水初生": {
+    "cn": "春水初生",
+    "EN": "春水初生",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c4d4b86c16ec443a3f7a2ddb7b0e4255.png",
+    "id": "21024",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "过往未来": {
+    "cn": "过往未来",
+    "EN": "过往未来",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/371dab5854a4aec39038c1e61b6c1def.png",
+    "id": "21025",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "汪！散步时间！": {
+    "cn": "汪！散步时间！",
+    "EN": "汪！散步时间！",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ea853e595a1013b2b04df3c1adf8cabd.png",
+    "id": "21026",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "早餐的仪式感": {
+    "cn": "早餐的仪式感",
+    "EN": "早餐的仪式感",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/cd93885d946a757ba403ecc903f6e3d3.png",
+    "id": "21027",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "暖夜不会漫长": {
+    "cn": "暖夜不会漫长",
+    "EN": "暖夜不会漫长",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7e98745e30f49227de7b2e6560c399c9.png",
+    "id": "21028",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "后会有期": {
+    "cn": "后会有期",
+    "EN": "后会有期",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d1cc5ea7aa2f07f78e681109e9a3529c.png",
+    "id": "21029",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "这就是我啦！": {
+    "cn": "这就是我啦！",
+    "EN": "这就是我啦！",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/abdd63e2c4a26714dece76ff5908e930.png",
+    "id": "21030",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "重返幽冥": {
+    "cn": "重返幽冥",
+    "EN": "重返幽冥",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/24cd1ec26ea8a57eab82bcf8e76eb20c.png",
+    "id": "21031",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "镂月裁云之意": {
+    "cn": "镂月裁云之意",
+    "EN": "镂月裁云之意",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7bdcb2fe331bc0e896e531d7b303b751.png",
+    "id": "21032",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "无处可逃": {
+    "cn": "无处可逃",
+    "EN": "无处可逃",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/acd4434b74455e103760dfd8b4c1f843.png",
+    "id": "21033",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "今日亦是和平的一日": {
+    "cn": "今日亦是和平的一日",
+    "EN": "今日亦是和平的一日",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a66b8668b63c603ca5886bbe0281f117.png",
+    "id": "21034",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "何物为真": {
+    "cn": "何物为真",
+    "EN": "何物为真",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4b5e1c3bb969a23a90d987f3e71217d1.png",
+    "id": "21035",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "美梦小镇大冒险": {
+    "cn": "美梦小镇大冒险",
+    "EN": "美梦小镇大冒险",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4d42380615a947a57c1ec14e9322c91b.png",
+    "id": "21036",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "最后的赢家": {
+    "cn": "最后的赢家",
+    "EN": "最后的赢家",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a26508aad907ce4605e736d50cdc2c22.png",
+    "id": "21037",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "在火的远处": {
+    "cn": "在火的远处",
+    "EN": "在火的远处",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5bd61f0d292d5929e6a7b5b877e677f0.png",
+    "id": "21038",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "织造命运之线": {
+    "cn": "织造命运之线",
+    "EN": "织造命运之线",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/42d0b09442c45299ad928b9c75faec55.png",
+    "id": "21039",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "银河沦陷日": {
+    "cn": "银河沦陷日",
+    "EN": "银河沦陷日",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bbe30b769907770e2dff08f782a6d5e2.png",
+    "id": "21040",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "好戏开演": {
+    "cn": "好戏开演",
+    "EN": "好戏开演",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b7b84e22e5228507a9ac2a05de6e69c8.png",
+    "id": "21041",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "铭记于心的约定": {
+    "cn": "铭记于心的约定",
+    "EN": "铭记于心的约定",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8153d574c45332eed86e37c4bbe5ece7.png",
+    "id": "21042",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "两个人的演唱会": {
+    "cn": "两个人的演唱会",
+    "EN": "两个人的演唱会",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/193d78d33d8ed2b302549f1c59308a0a.png",
+    "id": "21043",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "无边曼舞": {
+    "cn": "无边曼舞",
+    "EN": "无边曼舞",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9989b2a071b923d5e0ca065319079265.png",
+    "id": "21044",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "谐乐静默之后": {
+    "cn": "谐乐静默之后",
+    "EN": "谐乐静默之后",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e70695d82fc6d1d37f6f61309198737c.png",
+    "id": "21045",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "芳华待灼": {
+    "cn": "芳华待灼",
+    "EN": "芳华待灼",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/804e949c17792b424bd41a4fa1a647b8.png",
+    "id": "21046",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "黑夜如影随行": {
+    "cn": "黑夜如影随行",
+    "EN": "黑夜如影随行",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4d6ba250e9818acfe807a7fb6e783dff.png",
+    "id": "21047",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "梦的蒙太奇": {
+    "cn": "梦的蒙太奇",
+    "EN": "梦的蒙太奇",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9368156769bb6aa65a4f9cfa04c77353.png",
+    "id": "21048",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "胜利只在朝夕间": {
+    "cn": "胜利只在朝夕间",
+    "EN": "胜利只在朝夕间",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/61720c0c1f01c379b28c8b0606fdff85.png",
+    "id": "21050",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Remembrance"
+  },
+  "天才们的问候": {
+    "cn": "天才们的问候",
+    "EN": "天才们的问候",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/40ebe9fe3898d12a621bb26ce27c8518.png",
+    "id": "21051",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Remembrance"
+  },
+  "多流汗，少流泪": {
+    "cn": "多流汗，少流泪",
+    "EN": "多流汗，少流泪",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8ee6742e960faff04ec08ccb573e1cc7.png",
+    "id": "21052",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Remembrance"
+  },
+  "愿旅途永远坦然": {
+    "cn": "愿旅途永远坦然",
+    "EN": "愿旅途永远坦然",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7c02e4ca8833a10a1628eff9d468f087.png",
+    "id": "21053",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Preservation"
+  },
+  "故事的下一页": {
+    "cn": "故事的下一页",
+    "EN": "故事的下一页",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3da5d66ebf648a1f5cca366829bab465.png",
+    "id": "21054",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Remembrance"
+  },
+  "直到明天的明天": {
+    "cn": "直到明天的明天",
+    "EN": "直到明天的明天",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a6ae68a158765f13621a2f27b63814bb.png",
+    "id": "21055",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "追逐风的时候": {
+    "cn": "追逐风的时候",
+    "EN": "追逐风的时候",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2cd22ca5a7e5b39c4cd6de8e8981f54f.png",
+    "id": "21056",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "花儿不会忘记": {
+    "cn": "花儿不会忘记",
+    "EN": "花儿不会忘记",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/02e1aff9298c33769a103fae4acd7e19.png",
+    "id": "21057",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Remembrance"
+  },
+  "一行往日的血": {
+    "cn": "一行往日的血",
+    "EN": "一行往日的血",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/84d35c4048aa0d0e39eb78e84f859835.png",
+    "id": "21058",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "氤氲麦香的梦": {
+    "cn": "氤氲麦香的梦",
+    "EN": "氤氲麦香的梦",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0386e7fb64743832d83f250f64b352c3.png",
+    "id": "21060",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "假日浴场大冒险": {
+    "cn": "假日浴场大冒险",
+    "EN": "假日浴场大冒险",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c2ea3731f72055c3c0e2f654ba012bb6.png",
+    "id": "21061",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "于那终点再见": {
+    "cn": "于那终点再见",
+    "EN": "于那终点再见",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/04f919e4f8d4395ad273ea1b007b4f75.png",
+    "id": "21062",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "The_Hunt"
+  },
+  "菇菇嘎嘎历险记": {
+    "cn": "菇菇嘎嘎历险记",
+    "EN": "菇菇嘎嘎历险记",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f817f3af716c11d40ced06dab44bb8ed.png",
+    "id": "21064",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Elation"
+  },
+  "今日好手气": {
+    "cn": "今日好手气",
+    "EN": "今日好手气",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0f18ba59a9bcb05c20993aee7cb7e5bf.png",
+    "id": "21065",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Elation"
+  },
+  "新手任务开始前": {
+    "cn": "新手任务开始前",
+    "EN": "新手任务开始前",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/73549377003138716f78851e631ad4e2.png",
+    "id": "22000",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Nihility"
+  },
+  "嘿，我在这儿": {
+    "cn": "嘿，我在这儿",
+    "EN": "嘿，我在这儿",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/61602d382c46cd25399c7d9d15b59c57.png",
+    "id": "22001",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Abundance"
+  },
+  "为了明日的旅途": {
+    "cn": "为了明日的旅途",
+    "EN": "为了明日的旅途",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9974206678e5ebbdfbef7db847680969.png",
+    "id": "22002",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "忍事录•音律狩猎": {
+    "cn": "忍事录•音律狩猎",
+    "EN": "忍事录•音律狩猎",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/575265289e5abae4051cac99ee658da9.png",
+    "id": "22003",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Destruction"
+  },
+  "宇宙大生意": {
+    "cn": "宇宙大生意",
+    "EN": "宇宙大生意",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ee4fb018db14175613eafdb9df047f59.png",
+    "id": "22004",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Erudition"
+  },
+  "永远的迷境饭": {
+    "cn": "永远的迷境饭",
+    "EN": "永远的迷境饭",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/a7f17811379e2ff2653c97ed75338229.png",
+    "id": "22005",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Harmony"
+  },
+  "飞向粉色的明天": {
+    "cn": "飞向粉色的明天",
+    "EN": "飞向粉色的明天",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/d67ca4f2d84425bd1bee393aefbf7c2c.png",
+    "id": "22006",
+    "rank": "CombatPowerLightconeRarity4",
+    "baseType": "Remembrance"
+  },
+  "银河铁道之夜": {
+    "cn": "银河铁道之夜",
+    "EN": "银河铁道之夜",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/abdc6b4929d68801eb06859165e1445b.png",
+    "id": "23000",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "于夜色中": {
+    "cn": "于夜色中",
+    "EN": "于夜色中",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1134a2ede65c695492d5f17cba62f142.png",
+    "id": "23001",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "无可取代的东西": {
+    "cn": "无可取代的东西",
+    "EN": "无可取代的东西",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8b2f6e743bd3d0387b25202d21af0ad8.png",
+    "id": "23002",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "但战斗还未结束": {
+    "cn": "但战斗还未结束",
+    "EN": "但战斗还未结束",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/031113ebeb4bae8761f6cbf3c5c8c0a5.png",
+    "id": "23003",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "以世界之名": {
+    "cn": "以世界之名",
+    "EN": "以世界之名",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8512422c89c9090ea672038d6c3495c6.png",
+    "id": "23004",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "制胜的瞬间": {
+    "cn": "制胜的瞬间",
+    "EN": "制胜的瞬间",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8daa701b9a0379f46c67e4aaae0a4891.png",
+    "id": "23005",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Preservation"
+  },
+  "只需等待": {
+    "cn": "只需等待",
+    "EN": "只需等待",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/96590f9eb9b395a36234172fd05c5bb9.png",
+    "id": "23006",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "雨一直下": {
+    "cn": "雨一直下",
+    "EN": "雨一直下",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/74b736c327eb3cc4607f5514062e6de9.png",
+    "id": "23007",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "棺的回响": {
+    "cn": "棺的回响",
+    "EN": "棺的回响",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1f8048858a0753a66a0fabfd4e1fcfb2.png",
+    "id": "23008",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Abundance"
+  },
+  "到不了的彼岸": {
+    "cn": "到不了的彼岸",
+    "EN": "到不了的彼岸",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/4bc90dd0479bcb79d682fadbab8ce3ec.png",
+    "id": "23009",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "拂晓之前": {
+    "cn": "拂晓之前",
+    "EN": "拂晓之前",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1a43d0fbc52c9aa482feca7700e549cc.png",
+    "id": "23010",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "她已闭上双眼": {
+    "cn": "她已闭上双眼",
+    "EN": "她已闭上双眼",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7e1fbea11001681569f92250e25dc942.png",
+    "id": "23011",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Preservation"
+  },
+  "如泥酣眠": {
+    "cn": "如泥酣眠",
+    "EN": "如泥酣眠",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c46d18a3f40b679d8bcce6cd6e4dc5cb.png",
+    "id": "23012",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "时节不居": {
+    "cn": "时节不居",
+    "EN": "时节不居",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/1759b2bd7c3ac79451cf3f81e69f28b2.png",
+    "id": "23013",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Abundance"
+  },
+  "此身为剑": {
+    "cn": "此身为剑",
+    "EN": "此身为剑",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5dd00eb80160fe0c02784094f9f843e2.png",
+    "id": "23014",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "比阳光更明亮的": {
+    "cn": "比阳光更明亮的",
+    "EN": "比阳光更明亮的",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/15229239c54f245841f3cbf6de88cb27.png",
+    "id": "23015",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "烦恼着，幸福着": {
+    "cn": "烦恼着，幸福着",
+    "EN": "烦恼着，幸福着",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/50390976d428504ab3b116f97e62b89f.png",
+    "id": "23016",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "惊魂夜": {
+    "cn": "惊魂夜",
+    "EN": "惊魂夜",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/68035807bdd53782b99afcbe858f5f3c.png",
+    "id": "23017",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Abundance"
+  },
+  "片刻，留在眼底": {
+    "cn": "片刻，留在眼底",
+    "EN": "片刻，留在眼底",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5130f499041f327536ad0b9752f18885.png",
+    "id": "23018",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "镜中故我": {
+    "cn": "镜中故我",
+    "EN": "镜中故我",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/bc8de8119c4571969fc3b0002c2ba01f.png",
+    "id": "23019",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "纯粹思维的洗礼": {
+    "cn": "纯粹思维的洗礼",
+    "EN": "纯粹思维的洗礼",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/64145209404f514379e1ca95ea09d917.png",
+    "id": "23020",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "游戏尘寰": {
+    "cn": "游戏尘寰",
+    "EN": "游戏尘寰",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/32cb9a9b1b222d7266b3209cf58f988d.png",
+    "id": "23021",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "重塑时光之忆": {
+    "cn": "重塑时光之忆",
+    "EN": "重塑时光之忆",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ee652482b6e111a959ba4b6e2c44ea2d.png",
+    "id": "23022",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "命运从未公平": {
+    "cn": "命运从未公平",
+    "EN": "命运从未公平",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72d934a58eca0ede334191fe4be83504.png",
+    "id": "23023",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Preservation"
+  },
+  "行于流逝的岸": {
+    "cn": "行于流逝的岸",
+    "EN": "行于流逝的岸",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/72a01559066c9a7d7f5cf7c2238fb308.png",
+    "id": "23024",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "梦应归于何处": {
+    "cn": "梦应归于何处",
+    "EN": "梦应归于何处",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5c740d21ad5eb60bb3e73368acef6f4f.png",
+    "id": "23025",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "夜色流光溢彩": {
+    "cn": "夜色流光溢彩",
+    "EN": "夜色流光溢彩",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecd13f9510c9148edc6ac133c3c89439.png",
+    "id": "23026",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "驶向第二次生命": {
+    "cn": "驶向第二次生命",
+    "EN": "驶向第二次生命",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/acd8254c8c27ab41c2a51aa4daaaa6be.png",
+    "id": "23027",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "偏偏希望无价": {
+    "cn": "偏偏希望无价",
+    "EN": "偏偏希望无价",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7376ba3c7bd577fefacbdc736e2d23ec.png",
+    "id": "23028",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "那无数个春天": {
+    "cn": "那无数个春天",
+    "EN": "那无数个春天",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/aeed39f86457cbd9b05ea51bf6ec77dc.png",
+    "id": "23029",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "落日时起舞": {
+    "cn": "落日时起舞",
+    "EN": "落日时起舞",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/16afce7a75dd0d682f39c492c55d695f.png",
+    "id": "23030",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "我将，巡征追猎": {
+    "cn": "我将，巡征追猎",
+    "EN": "我将，巡征追猎",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5e32decada72c4d17e7822277cfffb69.png",
+    "id": "23031",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "唯有香如故": {
+    "cn": "唯有香如故",
+    "EN": "唯有香如故",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/243988ae10d6371beab2151c146ad380.png",
+    "id": "23032",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Abundance"
+  },
+  "忍法帖•缭乱破魔": {
+    "cn": "忍法帖•缭乱破魔",
+    "EN": "忍法帖•缭乱破魔",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/6d18ef541950ff05db33808a8c82ba70.png",
+    "id": "23033",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "回到大地的飞行": {
+    "cn": "回到大地的飞行",
+    "EN": "回到大地的飞行",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b3cbf63c352678b05587a138213e96aa.png",
+    "id": "23034",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "长路终有归途": {
+    "cn": "长路终有归途",
+    "EN": "长路终有归途",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7bb97951a27bd748a3cbef705975f1e5.png",
+    "id": "23035",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "将光阴织成黄金": {
+    "cn": "将光阴织成黄金",
+    "EN": "将光阴织成黄金",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c6b1e52f7bfe0daab101cca62007cf8f.png",
+    "id": "23036",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Remembrance"
+  },
+  "向着不可追问处": {
+    "cn": "向着不可追问处",
+    "EN": "向着不可追问处",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/c06347d83a274797f5cf20df07a7bc19.png",
+    "id": "23037",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "如果时间是一朵花": {
+    "cn": "如果时间是一朵花",
+    "EN": "如果时间是一朵花",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/8b031ff95d06c2442a4a87c2ff12412a.png",
+    "id": "23038",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "血火啊，燃烧前路": {
+    "cn": "血火啊，燃烧前路",
+    "EN": "血火啊，燃烧前路",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ec428396aa0e97b6e78db414a30f290d.png",
+    "id": "23039",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "让告别，更美一些": {
+    "cn": "让告别，更美一些",
+    "EN": "让告别，更美一些",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0ab876370c54a32dba6c13bbc6c3f08f.png",
+    "id": "23040",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Remembrance"
+  },
+  "生命当付之一炬": {
+    "cn": "生命当付之一炬",
+    "EN": "生命当付之一炬",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/5bd60ed06647d994743b38b4a4d2b85c.png",
+    "id": "23041",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "愿虹光永驻天空": {
+    "cn": "愿虹光永驻天空",
+    "EN": "愿虹光永驻天空",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/9ed1f94865cda5d8acdf71d2616fad79.png",
+    "id": "23042",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Remembrance"
+  },
+  "谎言在风中飘扬": {
+    "cn": "谎言在风中飘扬",
+    "EN": "谎言在风中飘扬",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2aa8a54d676a4a127471b8554b4e5f21.png",
+    "id": "23043",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "黎明恰如此燃烧": {
+    "cn": "黎明恰如此燃烧",
+    "EN": "黎明恰如此燃烧",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/95105c43f70715f2f993de1ee35b7346.png",
+    "id": "23044",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "没有回报的加冕": {
+    "cn": "没有回报的加冕",
+    "EN": "没有回报的加冕",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/3126cbac48613eb21a7c4b14467c97c4.png",
+    "id": "23045",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "理想燃烧的地狱": {
+    "cn": "理想燃烧的地狱",
+    "EN": "理想燃烧的地狱",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/db5c00e97366d906557f082345462cc2.png",
+    "id": "23046",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "海洋为何而歌": {
+    "cn": "海洋为何而歌",
+    "EN": "海洋为何而歌",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/f4f653c3ac741d141d72d51976307140.png",
+    "id": "23047",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "金血铭刻的时代": {
+    "cn": "金血铭刻的时代",
+    "EN": "金血铭刻的时代",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7ffaea23cc0a15184ee42edf97561a2f.png",
+    "id": "23048",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Harmony"
+  },
+  "致长夜的星光": {
+    "cn": "致长夜的星光",
+    "EN": "致长夜的星光",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ecca241e4d715cd5063e1db059765fda.png",
+    "id": "23049",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Remembrance"
+  },
+  "勿忘她的火焰": {
+    "cn": "勿忘她的火焰",
+    "EN": "勿忘她的火焰",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/08c4d41dabfd3d761f53bc8fa35aeecd.png",
+    "id": "23050",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "纵然山河万程": {
+    "cn": "纵然山河万程",
+    "EN": "纵然山河万程",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/dd4c2b0d3509dfa749a26c688dc00fcd.png",
+    "id": "23051",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Preservation"
+  },
+  "爱如此刻永恒": {
+    "cn": "爱如此刻永恒",
+    "EN": "爱如此刻永恒",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/7717fcfac7b7f680f7f214bb712fa5a3.png",
+    "id": "23052",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Remembrance"
+  },
+  "花花世界迷人眼": {
+    "cn": "花花世界迷人眼",
+    "EN": "花花世界迷人眼",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b2a4e802006f3c04ee7d71559ae474de.png",
+    "id": "23053",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Elation"
+  },
+  "当她决定看见": {
+    "cn": "当她决定看见",
+    "EN": "当她决定看见",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/0c4f2196c126f2a471e53e4eea2a14ed.png",
+    "id": "23054",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Elation"
+  },
+  "记一位星神的陨落": {
+    "cn": "记一位星神的陨落",
+    "EN": "记一位星神的陨落",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/18a7d13a06f32b17c9331be5fc31ed65.png",
+    "id": "24000",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Destruction"
+  },
+  "星海巡航": {
+    "cn": "星海巡航",
+    "EN": "星海巡航",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/2253ec2452d88e521b6f4fc6ddb3d470.png",
+    "id": "24001",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "The_Hunt"
+  },
+  "记忆的质料": {
+    "cn": "记忆的质料",
+    "EN": "记忆的质料",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/ba2200816747c265654ae2bbf4ce035e.png",
+    "id": "24002",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Preservation"
+  },
+  "孤独的疗愈": {
+    "cn": "孤独的疗愈",
+    "EN": "孤独的疗愈",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/820274588a4d9da248485f418104fe6e.png",
+    "id": "24003",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Nihility"
+  },
+  "不息的演算": {
+    "cn": "不息的演算",
+    "EN": "不息的演算",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/e57294a2f4e1d5cb529f6e504f753ec2.png",
+    "id": "24004",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Erudition"
+  },
+  "记忆永不落���": {
+    "cn": "记忆永不落���",
+    "EN": "记忆永不落���",
+    "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/00dbbe69c43e907b617cd2fcddb3e99c.png",
+    "id": "24005",
+    "rank": "CombatPowerLightconeRarity5",
+    "baseType": "Remembrance"
+  }
+}
