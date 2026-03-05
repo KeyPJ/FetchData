@@ -199,7 +199,7 @@ async function fetchWeaponData_GI(deviceInfo) {
           // "iconUrl": "https://act-webstatic.mihoyo.com/hk4e/e20200928calculate/item_icon/67c7f6c8/0b590e80914fdb8e348323fff888be0c.png",
           iconUrl: weapon.icon.replace("https://act-webstatic.mihoyo.com",""),
           id: weapon.id + "",
-          rank: weapon.weapon_level === 5 ? "QUALITY_ORANGE" : "QUALITY_PURPLE",
+          rank: weapon.weapon_level,
           type: mapWeaponType_GI(weaponType)
         };
       }
