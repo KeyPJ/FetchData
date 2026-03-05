@@ -1,5 +1,96 @@
 [
 	{
+		"version": "4.0.2",
+		"items": [
+			{
+				"itemId": 1501,
+				"imageUrl": "/hsr/UI/avatarshopicon/1501.webp",
+				"itemType": "Character",
+				"name": "火花",
+				"nameEn": "Sparxie",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "elation",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 1412,
+				"imageUrl": "/hsr/UI/avatarshopicon/1412.webp",
+				"itemType": "Character",
+				"name": "刻律德菈",
+				"nameEn": "Cerydra",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1317,
+				"imageUrl": "/hsr/UI/avatarshopicon/1317.webp",
+				"itemType": "Character",
+				"name": "乱破",
+				"nameEn": "Rappa",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1306,
+				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
+				"itemType": "Character",
+				"name": "花火",
+				"nameEn": "Sparkle",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1106,
+				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
+				"itemType": "Character",
+				"name": "佩拉",
+				"nameEn": "Pela",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "Hanya",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1201,
+				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
+				"itemType": "Character",
+				"name": "青雀",
+				"nameEn": "Qingque",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			}
+		],
+		"start": "2026-03-03 12:00:00",
+		"end": "2026-03-24 15:00:00"
+	},
+	{
 		"version": "4.0.1",
 		"items": [
 			{

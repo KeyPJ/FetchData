@@ -1,5 +1,82 @@
 [
 	{
+		"version": "4.0.2",
+		"items": [
+			{
+				"itemId": 23053,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23053.webp",
+				"itemType": "Weapon",
+				"name": "花花世界迷人眼",
+				"nameEn": "Dazzled by a Flowery World",
+				"rankType": 5,
+				"avatarBaseType": "elation",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23048,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23048.webp",
+				"itemType": "Weapon",
+				"name": "金血铭刻的时代",
+				"nameEn": "Epoch Etched in Golden Blood",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23033,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23033.webp",
+				"itemType": "Weapon",
+				"name": "忍法帖•缭乱破魔",
+				"nameEn": "Ninjutsu Inscription: Dazzling Evilbreaker",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 23021,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "Earthly Escapade",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "The Story's Next Page",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2026-03-03 12:00:00",
+		"end": "2026-03-24 15:00:00"
+	},
+	{
 		"version": "4.0.1",
 		"items": [
 			{

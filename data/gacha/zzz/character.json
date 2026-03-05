@@ -1,5 +1,60 @@
 [
 	{
+		"version": "2.6.2",
+		"items": [
+			{
+				"itemId": 1501,
+				"imageUrl": "/zzz/UI/IconRoleSelect57.webp",
+				"itemType": "Character",
+				"name": "爱芮",
+				"nameEn": "Aria",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1411,
+				"imageUrl": "/zzz/UI/IconRoleSelect47.webp",
+				"itemType": "Character",
+				"name": "柚叶",
+				"nameEn": "Yuzuha",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "Anton",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "Seth",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
+		"start": "2026-03-04 12:00:00",
+		"end": "2026-03-23 14:59:59"
+	},
+	{
 		"version": "2.6.1",
 		"items": [
 			{
