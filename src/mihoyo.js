@@ -334,6 +334,11 @@ async function main() {
             const gameKey = GAME_ALIASES[gameArg];
 
             if (!gameKey) {
+                if (gameArg==="all"){
+                    await processAllGames();
+                    console.log('处理完成');
+                    return
+                }
                 console.error(`不支持的参数: ${gameArg}`);
                 console.log('支持的参数: gi, hsr, zzz (无参数则执行全部游戏)');
                 return;
