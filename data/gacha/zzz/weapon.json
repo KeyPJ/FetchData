@@ -1,175 +1,1374 @@
 [
 	{
 		"version": "2.6.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14150,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/2b85d388723d6d3cd931efe2027f7f8a.png",
+				"itemType": "Weapon",
+				"name": "壳中之灵",
+				"nameEn": "壳中之灵",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 14141,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/cb2b868802f0862aa950b8ab46c5019f.png",
+				"itemType": "Weapon",
+				"name": "狸法七变化",
+				"nameEn": "狸法七变化",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "旋钻机-赤轴",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "维序者-特化型",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2026-03-04 12:00:00",
 		"end": "2026-03-23 14:59:59"
 	},
 	{
 		"version": "2.6.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14149,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/1c87512e5b8ec2a45c15b21508fe4f71.png",
+				"itemType": "Weapon",
+				"name": "思络成歌",
+				"nameEn": "思络成歌",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 14137,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/d8fdd2b973415004aa3c52b22e6b1abb.png",
+				"itemType": "Weapon",
+				"name": "青溟笼舍",
+				"nameEn": "青溟笼舍",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "家政员",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "仿制星徽引擎",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2026-02-06 06:00:00",
 		"end": "2026-03-04 11:59:59"
 	},
 	{
 		"version": "2.5.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14143,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/406828d91b9dcad36fb8f4737858155c.png",
+				"itemType": "Weapon",
+				"name": "云霓孤光",
+				"nameEn": "云霓孤光",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14134,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/b66bd8d86429bdb73b421ae1ad09cb01.png",
+				"itemType": "Weapon",
+				"name": "半糖雪兔",
+				"nameEn": "半糖雪兔",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6
+			},
+			{
+				"itemId": 14138,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/4d9bc4b9cc51f1c675db13e0426ddb12.png",
+				"itemType": "Weapon",
+				"name": "牺牲洁纯",
+				"nameEn": "牺牲洁纯",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14140,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/148c640fe2a11dd41e37bf9318d46274.png",
+				"itemType": "Weapon",
+				"name": "十方锻星",
+				"nameEn": "十方锻星",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 14131,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/390f7c2b6362207883f15bc20050c673.png",
+				"itemType": "Weapon",
+				"name": "玲珑妆匣",
+				"nameEn": "玲珑妆匣",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "聚宝箱",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "德玛拉电池Ⅱ型",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2025-12-30 06:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.5.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14143,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/406828d91b9dcad36fb8f4737858155c.png",
+				"itemType": "Weapon",
+				"name": "云霓孤光",
+				"nameEn": "云霓孤光",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14134,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/b66bd8d86429bdb73b421ae1ad09cb01.png",
+				"itemType": "Weapon",
+				"name": "半糖雪兔",
+				"nameEn": "半糖雪兔",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "聚宝箱",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "德玛拉电池Ⅱ型",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2025-12-30 06:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.4.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14147,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/b7122209983be4a5d2d94015eddb7c7e.png",
+				"itemType": "Weapon",
+				"name": "怒目金刚",
+				"nameEn": "怒目金刚",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6
+			},
+			{
+				"itemId": 14119,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0e57dba20ff8bb3cda7dbe22dd27e245.png",
+				"itemType": "Weapon",
+				"name": "深海访客",
+				"nameEn": "深海访客",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "含羞恶面",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "维序者-特化型",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2025-12-17 12:00:00",
 		"end": "2025-12-29 14:59:59"
 	},
 	{
 		"version": "2.4.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14148,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/83b46c9a6ffc9a57a75b6b3371b163da.png",
+				"itemType": "Weapon",
+				"name": "昨夜来电",
+				"nameEn": "昨夜来电",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 14129,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ea0c59cac0a8a51fef07333053849eae.png",
+				"itemType": "Weapon",
+				"name": "千面日陨",
+				"nameEn": "千面日陨",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "家政员",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "仿制星徽引擎",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-11-26 06:00:00",
 		"end": "2025-12-17 11:59:59"
 	},
 	{
 		"version": "2.3.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14105,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ac03eed7f93bd1039df5ef080c065d59.png",
+				"itemType": "Weapon",
+				"name": "海妖摇篮",
+				"nameEn": "海妖摇篮",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6
+			},
+			{
+				"itemId": 14139,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7aea4768782fa38c8770763fe49c9950.png",
+				"itemType": "Weapon",
+				"name": "福虓炉炉",
+				"nameEn": "福虓炉炉",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13142,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7853b976eca7719d81c4386b51f80261.png",
+				"itemType": "Weapon",
+				"name": "震元奇枢",
+				"nameEn": "震元奇枢",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "裁纸刀",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			}
+		],
 		"start": "2025-11-05 12:00:00",
 		"end": "2025-11-25 14:59:59"
 	},
 	{
 		"version": "2.3.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14145,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/4d1d782a8a73b9a70428bac51106f5b6.png",
+				"itemType": "Weapon",
+				"name": "铸梦炉歌",
+				"nameEn": "铸梦炉歌",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 14133,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/df57dd52c6067bb5b11c4d610da854da.png",
+				"itemType": "Weapon",
+				"name": "飞鸟星梦",
+				"nameEn": "飞鸟星梦",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13144,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/d0bf7d7275553e2e5a52d92859e22f5b.png",
+				"itemType": "Weapon",
+				"name": "燔火胧夜",
+				"nameEn": "燔火胧夜",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "轰鸣座驾",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			}
+		],
 		"start": "2025-10-15 06:00:00",
 		"end": "2025-11-05 11:59:59"
 	},
 	{
 		"version": "2.2.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14130,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/8f1a3ba09626002d9f0010dbb4575e41.png",
+				"itemType": "Weapon",
+				"name": "嚣枪喧焰",
+				"nameEn": "嚣枪喧焰",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14132,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6863f739ab1fa178c4a2756de0ac4530.png",
+				"itemType": "Weapon",
+				"name": "心弦夜响",
+				"nameEn": "心弦夜响",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "旋钻机-赤轴",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-09-24 12:00:00",
 		"end": "2025-10-14 14:59:59"
 	},
 	{
 		"version": "2.2.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14146,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/c1f074b4d60b46fdcf3ef240c7c6cb42.png",
+				"itemType": "Weapon",
+				"name": "机巧心种",
+				"nameEn": "机巧心种",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14136,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/058ac4be0f0ca3c5f637215b6596a647.png",
+				"itemType": "Weapon",
+				"name": "索魂影眸",
+				"nameEn": "索魂影眸",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "聚宝箱",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "德玛拉电池Ⅱ型",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			}
+		],
 		"start": "2025-09-04 06:00:00",
 		"end": "2025-09-24 11:59:59"
 	},
 	{
 		"version": "2.1.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14140,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/148c640fe2a11dd41e37bf9318d46274.png",
+				"itemType": "Weapon",
+				"name": "十方锻星",
+				"nameEn": "十方锻星",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 14122,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/8a57e2a30d88b30324a7586edcddd47e.png",
+				"itemType": "Weapon",
+				"name": "时流贤者",
+				"nameEn": "时流贤者",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "含羞恶面",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "维序者-特化型",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2025-08-06 12:00:00",
 		"end": "2025-09-03 14:59:59"
 	},
 	{
 		"version": "2.1.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14141,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/cb2b868802f0862aa950b8ab46c5019f.png",
+				"itemType": "Weapon",
+				"name": "狸法七变化",
+				"nameEn": "狸法七变化",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 14109,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/db24358a0aae5fd0a6e4b0b4f9d8a3d5.png",
+				"itemType": "Weapon",
+				"name": "霰落星殿",
+				"nameEn": "霰落星殿",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "轰鸣座驾",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "仿制星徽引擎",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-07-16 06:00:00",
 		"end": "2025-08-06 11:59:59"
 	},
 	{
 		"version": "2.0.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14139,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7aea4768782fa38c8770763fe49c9950.png",
+				"itemType": "Weapon",
+				"name": "福虓炉炉",
+				"nameEn": "福虓炉炉",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 14107,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e17afc1e7625f5a1931df847f83929da.png",
+				"itemType": "Weapon",
+				"name": "奔袭獠牙",
+				"nameEn": "奔袭獠牙",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "家政员",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-06-25 12:00:00",
 		"end": "2025-07-15 14:59:59"
 	},
 	{
 		"version": "2.0.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14137,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/d8fdd2b973415004aa3c52b22e6b1abb.png",
+				"itemType": "Weapon",
+				"name": "青溟笼舍",
+				"nameEn": "青溟笼舍",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6
+			},
+			{
+				"itemId": 14131,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/390f7c2b6362207883f15bc20050c673.png",
+				"itemType": "Weapon",
+				"name": "玲珑妆匣",
+				"nameEn": "玲珑妆匣",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 13142,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7853b976eca7719d81c4386b51f80261.png",
+				"itemType": "Weapon",
+				"name": "震元奇枢",
+				"nameEn": "震元奇枢",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "裁纸刀",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			}
+		],
 		"start": "2025-06-06 06:00:00",
 		"end": "2025-06-25 11:59:59"
 	},
 	{
 		"version": "1.7.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14129,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ea0c59cac0a8a51fef07333053849eae.png",
+				"itemType": "Weapon",
+				"name": "千面日陨",
+				"nameEn": "千面日陨",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14116,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6579e1e49956795fd22b93e49fe84476.png",
+				"itemType": "Weapon",
+				"name": "焰心桂冠",
+				"nameEn": "焰心桂冠",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "含羞恶面",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "旋钻机-赤轴",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-05-14 12:00:00",
 		"end": "2025-06-05 14:59:59"
 	},
 	{
 		"version": "1.7.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14133,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/df57dd52c6067bb5b11c4d610da854da.png",
+				"itemType": "Weapon",
+				"name": "飞鸟星梦",
+				"nameEn": "飞鸟星梦",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 14126,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e9f9a180a8f060c18b945ca86081df49.png",
+				"itemType": "Weapon",
+				"name": "淬锋钳刺",
+				"nameEn": "淬锋钳刺",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "轰鸣座驾",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "维序者-特化型",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2025-04-23 06:00:00",
 		"end": "2025-05-14 11:59:59"
 	},
 	{
 		"version": "1.6.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14136,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/058ac4be0f0ca3c5f637215b6596a647.png",
+				"itemType": "Weapon",
+				"name": "索魂影眸",
+				"nameEn": "索魂影眸",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 14124,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e2a39ac2e394dbb8c179f74c4bb92609.png",
+				"itemType": "Weapon",
+				"name": "防暴者Ⅵ型",
+				"nameEn": "防暴者Ⅵ型",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "仿制星徽引擎",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-04-02 12:00:00",
 		"end": "2025-04-22 14:59:59"
 	},
 	{
 		"version": "1.6.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14138,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/4d9bc4b9cc51f1c675db13e0426ddb12.png",
+				"itemType": "Weapon",
+				"name": "牺牲洁纯",
+				"nameEn": "牺牲洁纯",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14117,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f1c592b8945b8b38b69be1f6c969d88f.png",
+				"itemType": "Weapon",
+				"name": "灼心摇壶",
+				"nameEn": "灼心摇壶",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "裁纸刀",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2025-03-12 06:00:00",
 		"end": "2025-04-02 11:59:59"
 	},
 	{
 		"version": "1.5.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14132,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6863f739ab1fa178c4a2756de0ac4530.png",
+				"itemType": "Weapon",
+				"name": "心弦夜响",
+				"nameEn": "心弦夜响",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 14125,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bdd7e6e1bfcd56c44b832961912f1aab.png",
+				"itemType": "Weapon",
+				"name": "玉壶青冰",
+				"nameEn": "玉壶青冰",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "旋钻机-赤轴",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "聚宝箱",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			}
+		],
 		"start": "2025-02-12 06:00:00",
 		"end": "2025-03-11 14:59:59"
 	},
 	{
 		"version": "1.5.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14131,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/390f7c2b6362207883f15bc20050c673.png",
+				"itemType": "Weapon",
+				"name": "玲珑妆匣",
+				"nameEn": "玲珑妆匣",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6
+			},
+			{
+				"itemId": 14119,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0e57dba20ff8bb3cda7dbe22dd27e245.png",
+				"itemType": "Weapon",
+				"name": "深海访客",
+				"nameEn": "深海访客",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "德玛拉电池Ⅱ型",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "家政员",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2025-01-22 06:00:00",
 		"end": "2025-02-12 14:59:59"
 	},
 	{
 		"version": "1.4.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14109,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/db24358a0aae5fd0a6e4b0b4f9d8a3d5.png",
+				"itemType": "Weapon",
+				"name": "霰落星殿",
+				"nameEn": "霰落星殿",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 14120,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/64f0df5061a36f53a0939c3eef872bf8.png",
+				"itemType": "Weapon",
+				"name": "残心青囊",
+				"nameEn": "残心青囊",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "轰鸣座驾",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "含羞恶面",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "维序者-特化型",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2024-12-18 06:00:00",
 		"end": "2025-01-21 14:59:59"
 	},
 	{
 		"version": "1.3.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14116,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6579e1e49956795fd22b93e49fe84476.png",
+				"itemType": "Weapon",
+				"name": "焰心桂冠",
+				"nameEn": "焰心桂冠",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "家政员",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2024-11-27 12:00:00",
 		"end": "2024-12-17 14:59:59"
 	},
 	{
 		"version": "1.3.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14122,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/8a57e2a30d88b30324a7586edcddd47e.png",
+				"itemType": "Weapon",
+				"name": "时流贤者",
+				"nameEn": "时流贤者",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "德玛拉电池Ⅱ型",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "仿制星徽引擎",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2024-11-06 06:00:00",
 		"end": "2024-11-27 11:59:59"
 	},
 	{
 		"version": "1.2.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14117,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f1c592b8945b8b38b69be1f6c969d88f.png",
+				"itemType": "Weapon",
+				"name": "灼心摇壶",
+				"nameEn": "灼心摇壶",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "聚宝箱",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			}
+		],
 		"start": "2024-10-16 12:00:00",
 		"end": "2024-11-05 14:59:59"
 	},
 	{
 		"version": "1.2.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14107,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e17afc1e7625f5a1931df847f83929da.png",
+				"itemType": "Weapon",
+				"name": "奔袭獠牙",
+				"nameEn": "奔袭獠牙",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "轰鸣座驾",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "旋钻机-赤轴",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2024-09-25 06:00:00",
 		"end": "2024-10-16 11:59:59"
 	},
 	{
 		"version": "1.1.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14126,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e9f9a180a8f060c18b945ca86081df49.png",
+				"itemType": "Weapon",
+				"name": "淬锋钳刺",
+				"nameEn": "淬锋钳刺",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "维序者-特化型",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "德玛拉电池Ⅱ型",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			}
+		],
 		"start": "2024-09-04 12:00:00",
 		"end": "2024-09-24 14:59:59"
 	},
 	{
 		"version": "1.1.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14125,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bdd7e6e1bfcd56c44b832961912f1aab.png",
+				"itemType": "Weapon",
+				"name": "玉壶青冰",
+				"nameEn": "玉壶青冰",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "仿制星徽引擎",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13106,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"itemType": "Weapon",
+				"name": "家政员",
+				"nameEn": "家政员",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2024-08-14 06:00:00",
 		"end": "2024-09-04 11:59:59"
 	},
 	{
 		"version": "1.0.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14124,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e2a39ac2e394dbb8c179f74c4bb92609.png",
+				"itemType": "Weapon",
+				"name": "防暴者Ⅵ型",
+				"nameEn": "防暴者Ⅵ型",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "聚宝箱",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5
+			}
+		],
 		"start": "2024-07-24 12:00:00",
 		"end": "2024-08-13 14:59:59"
 	},
 	{
 		"version": "1.0.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 14119,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0e57dba20ff8bb3cda7dbe22dd27e245.png",
+				"itemType": "Weapon",
+				"name": "深海访客",
+				"nameEn": "深海访客",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "含羞恶面",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "旋钻机-赤轴",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			}
+		],
 		"start": "2024-07-04 06:00:00",
 		"end": "2024-07-24 11:59:59"
 	}

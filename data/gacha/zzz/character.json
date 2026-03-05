@@ -1,175 +1,1584 @@
 [
 	{
 		"version": "2.6.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1501,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1501.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "爱芮",
+				"nameEn": "爱芮",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1411,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1411.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "柚叶",
+				"nameEn": "柚叶",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "安东",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1271.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "赛斯",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2026-03-04 12:00:00",
 		"end": "2026-03-23 14:59:59"
 	},
 	{
 		"version": "2.6.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1491,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1491.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "千夏",
+				"nameEn": "千夏",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1371,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1371.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "仪玄",
+				"nameEn": "仪玄",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "可琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "比利",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2026-02-06 06:00:00",
 		"end": "2026-03-04 11:59:59"
 	},
 	{
 		"version": "2.5.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1431,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1431.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "叶瞬光",
+				"nameEn": "叶瞬光",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1341,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1341.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "照",
+				"nameEn": "照",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1381,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1381.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "零号·安比",
+				"nameEn": "零号·安比",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1401,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1401.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "爱丽丝",
+				"nameEn": "爱丽丝",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1311,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1311.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "耀嘉音",
+				"nameEn": "耀嘉音",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "露西",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "安比",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			}
+		],
 		"start": "2026-01-21 12:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.5.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1431,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1431.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "叶瞬光",
+				"nameEn": "叶瞬光",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1341,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1341.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "照",
+				"nameEn": "照",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "露西",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "安比",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			}
+		],
 		"start": "2025-12-30 06:00:00",
 		"end": "2026-02-05 14:59:59"
 	},
 	{
 		"version": "2.4.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1471,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1471.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "般岳",
+				"nameEn": "般岳",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1191,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1191.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "艾莲",
+				"nameEn": "艾莲",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "苍角",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1271.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "赛斯",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2025-12-17 12:00:00",
 		"end": "2025-12-29 14:59:59"
 	},
 	{
 		"version": "2.4.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1481,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1481.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "琉音",
+				"nameEn": "琉音",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1291,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1291.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "雨果",
+				"nameEn": "雨果",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "可琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "比利",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-11-26 06:00:00",
 		"end": "2025-12-17 11:59:59"
 	},
 	{
 		"version": "2.3.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1051,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1051.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "伊德海莉",
+				"nameEn": "伊德海莉",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1391,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1391.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "橘福福",
+				"nameEn": "橘福福",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1421,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1421.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "潘引壶",
+				"nameEn": "潘引壶",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1351,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1351.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "波可娜",
+				"nameEn": "波可娜",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-11-05 12:00:00",
 		"end": "2025-11-25 14:59:59"
 	},
 	{
 		"version": "2.3.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1451,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1451.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "卢西娅",
+				"nameEn": "卢西娅",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1331,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1331.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "薇薇安",
+				"nameEn": "薇薇安",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1441,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1441.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "真斗",
+				"nameEn": "真斗",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "派派",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-10-15 06:00:00",
 		"end": "2025-11-05 11:59:59"
 	},
 	{
 		"version": "2.2.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1301,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1301.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "奥菲丝&「鬼火」",
+				"nameEn": "奥菲丝&「鬼火」",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1321,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1321.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "伊芙琳",
+				"nameEn": "伊芙琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "露西",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "安东",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2025-09-24 12:00:00",
 		"end": "2025-10-14 14:59:59"
 	},
 	{
 		"version": "2.2.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1461,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1461.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "「席德」",
+				"nameEn": "「席德」",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1361,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1361.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "「扳机」",
+				"nameEn": "「扳机」",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "安比",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2025-09-04 06:00:00",
 		"end": "2025-09-24 11:59:59"
 	},
 	{
 		"version": "2.1.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1401,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1401.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "爱丽丝",
+				"nameEn": "爱丽丝",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1221,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1221.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "柳",
+				"nameEn": "柳",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "苍角",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1271.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "赛斯",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2025-08-06 12:00:00",
 		"end": "2025-09-03 14:59:59"
 	},
 	{
 		"version": "2.1.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1411,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1411.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "柚叶",
+				"nameEn": "柚叶",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1091,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1091.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "雅",
+				"nameEn": "雅",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "派派",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "比利",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-07-16 06:00:00",
 		"end": "2025-08-06 11:59:59"
 	},
 	{
 		"version": "2.0.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1391,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1391.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "橘福福",
+				"nameEn": "橘福福",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1071,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1071.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "凯撒",
+				"nameEn": "凯撒",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "可琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-06-25 12:00:00",
 		"end": "2025-07-15 14:59:59"
 	},
 	{
 		"version": "2.0.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1371,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1371.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "仪玄",
+				"nameEn": "仪玄",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1311,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1311.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "耀嘉音",
+				"nameEn": "耀嘉音",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1421,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1421.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "潘引壶",
+				"nameEn": "潘引壶",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1351,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1351.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "波可娜",
+				"nameEn": "波可娜",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-06-06 06:00:00",
 		"end": "2025-06-25 11:59:59"
 	},
 	{
 		"version": "1.7.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1291,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1291.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "雨果",
+				"nameEn": "雨果",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1161,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1161.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "莱特",
+				"nameEn": "莱特",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "苍角",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "安东",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2025-05-14 12:00:00",
 		"end": "2025-06-05 14:59:59"
 	},
 	{
 		"version": "1.7.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1331,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1331.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "薇薇安",
+				"nameEn": "薇薇安",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1261,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1261.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "简",
+				"nameEn": "简",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "派派",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1271.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "赛斯",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2025-04-23 06:00:00",
 		"end": "2025-05-14 11:59:59"
 	},
 	{
 		"version": "1.6.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1361,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1361.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "「扳机」",
+				"nameEn": "「扳机」",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1241,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1241.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "朱鸢",
+				"nameEn": "朱鸢",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "露西",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "比利",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-04-02 12:00:00",
 		"end": "2025-04-22 14:59:59"
 	},
 	{
 		"version": "1.6.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1381,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1381.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "零号·安比",
+				"nameEn": "零号·安比",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1171,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1171.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "柏妮思",
+				"nameEn": "柏妮思",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1351,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1351.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "波可娜",
+				"nameEn": "波可娜",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			}
+		],
 		"start": "2025-03-12 06:00:00",
 		"end": "2025-04-02 11:59:59"
 	},
 	{
 		"version": "1.5.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1321,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1321.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "伊芙琳",
+				"nameEn": "伊芙琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1251,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1251.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "青衣",
+				"nameEn": "青衣",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "安东",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			}
+		],
 		"start": "2025-02-12 12:00:00",
 		"end": "2025-03-11 14:59:59"
 	},
 	{
 		"version": "1.5.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1311,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1311.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "耀嘉音",
+				"nameEn": "耀嘉音",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1191,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1191.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "艾莲",
+				"nameEn": "艾莲",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "安比",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "可琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2025-01-22 06:00:00",
 		"end": "2025-02-12 11:59:59"
 	},
 	{
 		"version": "1.4.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1091,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1091.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "雅",
+				"nameEn": "雅",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1201,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1201.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "悠真",
+				"nameEn": "悠真",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "派派",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "苍角",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			}
+		],
 		"start": "2024-12-18 06:00:00",
 		"end": "2025-01-21 14:59:59"
 	},
 	{
 		"version": "1.3.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1161,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1161.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "莱特",
+				"nameEn": "莱特",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "可琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2024-11-27 12:00:00",
 		"end": "2024-12-17 14:59:59"
 	},
 	{
 		"version": "1.3.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1221,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1221.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "柳",
+				"nameEn": "柳",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "安比",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "比利",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2024-11-06 06:00:00",
 		"end": "2024-11-27 11:59:59"
 	},
 	{
 		"version": "1.2.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1171,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1171.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "柏妮思",
+				"nameEn": "柏妮思",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "露西",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			}
+		],
 		"start": "2024-10-16 12:00:00",
 		"end": "2024-11-05 14:59:59"
 	},
 	{
 		"version": "1.2.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1071,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1071.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "凯撒",
+				"nameEn": "凯撒",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "派派",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "安东",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2024-09-25 06:00:00",
 		"end": "2024-10-16 11:59:59"
 	},
 	{
 		"version": "1.1.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1261,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1261.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "简",
+				"nameEn": "简",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 6,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1271.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "赛斯",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "安比",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2024-09-04 12:00:00",
 		"end": "2024-09-24 14:59:59"
 	},
 	{
 		"version": "1.1.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1251,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1251.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "青衣",
+				"nameEn": "青衣",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 6,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1081,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "比利",
+				"nameEn": "比利",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "可琳",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
 		"start": "2024-08-14 06:00:00",
 		"end": "2024-09-04 11:59:59"
 	},
 	{
 		"version": "1.0.2",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1241,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1241.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "朱鸢",
+				"nameEn": "朱鸢",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			}
+		],
 		"start": "2024-07-24 12:00:00",
 		"end": "2024-08-13 14:59:59"
 	},
 	{
 		"version": "1.0.1",
-		"items": [],
+		"items": [
+			{
+				"itemId": 1191,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1191.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "艾莲",
+				"nameEn": "艾莲",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 6,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "苍角",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "安东",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
 		"start": "2024-07-04 06:00:00",
 		"end": "2024-07-24 11:59:59"
 	}
