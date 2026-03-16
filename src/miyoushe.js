@@ -108,12 +108,13 @@ async function fetchApiData_GI(deviceInfo, endpoint, data) {
     };
 
     const req = https.request(options, (res) => {
-      let data = '';
+      let chunks = [];
       res.on('data', (chunk) => {
-        data += chunk;
+        chunks.push(chunk);
       });
       res.on('end', () => {
         try {
+          const data = Buffer.concat(chunks).toString('utf8');
           console.log(`${endpoint} API response data length:`, data.length);
           const result = JSON.parse(data);
           if (result.data) {
@@ -258,12 +259,13 @@ async function fetchApiData_HSR(deviceInfo, endpoint) {
     };
 
     const req = https.request(options, (res) => {
-      let data = '';
+      let chunks = [];
       res.on('data', (chunk) => {
-        data += chunk;
+        chunks.push(chunk);
       });
       res.on('end', () => {
         try {
+          const data = Buffer.concat(chunks).toString('utf8');
           console.log(`${endpoint} API response data length:`, data.length);
           const result = JSON.parse(data);
           if (result.data) {
@@ -392,12 +394,13 @@ async function fetchApiData_ZZZ(deviceInfo) {
     };
 
     const req = https.request(options, (res) => {
-      let data = '';
+      let chunks = [];
       res.on('data', (chunk) => {
-        data += chunk;
+        chunks.push(chunk);
       });
       res.on('end', () => {
         try {
+          const data = Buffer.concat(chunks).toString('utf8');
           console.log('ZZZ API response data length:', data.length);
           const result = JSON.parse(data);
           if (result.data) {
