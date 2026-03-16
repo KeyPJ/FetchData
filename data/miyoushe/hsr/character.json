@@ -691,5 +691,14 @@
     "id": "1502",
     "rank": "5",
     "baseType": "9"
+  },
+  "不死途": {
+    "cn": "不死途",
+    "damageType": "8",
+    "EN": "不死途",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u32bac/150f71d6810c55b42b6fb75500d6d893.png",
+    "id": "1504",
+    "rank": "5",
+    "baseType": "2"
   }
 }

@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.4.2",
+		"items": [
+			{
+				"itemId": 11517,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/2b47d934eb09f3926908c37462569291.png",
+				"itemType": "Weapon",
+				"name": "苍耀",
+				"nameEn": "苍耀",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 13514,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/6d211f1902adc8a5946a5530489ab77a.png",
+				"itemType": "Weapon",
+				"name": "香韵奏者",
+				"nameEn": "香韵奏者",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 11402,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e72bdcaaeb4b0a1ea13cfb76c88aa4cb.png",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "笛剑",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12402,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "钟剑",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "西风长枪",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb4ff947d3649e393b6ca2e117b072d6.png",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "西风秘典",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15405,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "弓藏",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2026-03-17 18:00:00",
+		"end": "2026-04-07 14:59:59"
+	},
+	{
 		"version": "6.4.1",
 		"items": [
 			{

@@ -1183,9 +1183,9 @@
     "rank": "5",
     "baseType": "8"
   },
-  "花花世界迷人眼": {
-    "cn": "花花世界迷人眼",
-    "EN": "花花世界迷人眼",
+  "���花世界迷人眼": {
+    "cn": "���花世界迷人眼",
+    "EN": "���花世界迷人眼",
     "iconUrl": "/hkrpg/prod_gf_cn/item_icon_u0250d/b2a4e802006f3c04ee7d71559ae474de.png",
     "id": "23053",
     "rank": "5",
@@ -1198,6 +1198,14 @@
     "id": "23054",
     "rank": "5",
     "baseType": "9"
+  },
+  "一场谎言的终幕": {
+    "cn": "一场谎言的终幕",
+    "EN": "一场谎言的终幕",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u32bac/60f0d04ad5d52dbf4a23bff4412a7c5b.png",
+    "id": "23056",
+    "rank": "5",
+    "baseType": "2"
   },
   "记一位星神的陨落": {
     "cn": "记一位星神的陨落",
@@ -1246,5 +1254,13 @@
     "id": "24005",
     "rank": "5",
     "baseType": "8"
+  },
+  "欢愉满溢祝福": {
+    "cn": "欢愉满溢祝福",
+    "EN": "欢愉满溢祝福",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u32bac/5e0e269ec93e45a1bf99a1096e5ff963.png",
+    "id": "24006",
+    "rank": "5",
+    "baseType": "9"
   }
 }

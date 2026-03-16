@@ -1,5 +1,62 @@
 [
 	{
+		"version": "6.4.2",
+		"items": [
+			{
+				"itemId": 10000114,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/570a1b087e4ba3f1998463429d93966f.png",
+				"itemType": "Character",
+				"name": "丝柯克",
+				"nameEn": "丝柯克",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000112,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/b6849b158b35b4eba2117ecbc0566cdd.png",
+				"itemType": "Character",
+				"name": "爱可菲",
+				"nameEn": "爱可菲",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000115,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/a826af12831772b7dbaac1c8c5cdba05.png",
+				"itemType": "Character",
+				"name": "塔利雅",
+				"nameEn": "塔利雅",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a2b748e071143b7108bdfc0c79317717.png",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "夏洛蒂",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2026-03-17 18:00:00",
+		"end": "2026-04-07 14:59:59"
+	},
+	{
 		"version": "6.4.1",
 		"items": [
 			{
@@ -1686,16 +1743,6 @@
 				"element": "Cryo"
 			},
 			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000092,
 				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
 				"itemType": "Character",
@@ -2093,16 +2140,6 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Anemo"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			}
 		],
 		"start": "2024-01-31 06:00:00",
@@ -2492,16 +2529,6 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Anemo"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			}
 		],
 		"start": "2023-09-05 18:00:00",
@@ -3347,16 +3374,6 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Electro"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			}
 		],
 		"start": "2022-11-02 06:00:00",
@@ -3783,16 +3800,6 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Hydro"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			}
 		],
 		"start": "2022-05-31 06:00:00",
@@ -4199,16 +4206,6 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Pyro"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			},
 			{
 				"itemId": 10000045,
@@ -4671,16 +4668,6 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000039,
 				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
 				"itemType": "Character",
@@ -4773,16 +4760,6 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Electro"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			}
 		],
 		"start": "2021-03-17 06:00:00",
@@ -4961,16 +4938,6 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Hydro"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			}
 		],
 		"start": "2021-01-12 18:00:00",
@@ -5139,16 +5106,6 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Hydro"
-			},
-			{
-				"itemId": 10000034,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
-				"itemType": "Character",
-				"name": "诺艾尔",
-				"nameEn": "诺艾尔",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Geo"
 			},
 			{
 				"itemId": 10000043,

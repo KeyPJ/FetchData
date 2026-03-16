@@ -1,1 +1,443 @@
-{}
+{
+  "安比": {
+    "cn": "安比",
+    "element": 203,
+    "EN": "安比",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1011.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1011",
+    "rank": 4,
+    "type": 2
+  },
+  "猫又": {
+    "cn": "猫又",
+    "element": 200,
+    "EN": "猫又",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1021.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1021",
+    "rank": 5,
+    "type": 1
+  },
+  "妮可": {
+    "cn": "妮可",
+    "element": 205,
+    "EN": "妮可",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1031",
+    "rank": 4,
+    "type": 4
+  },
+  "「11号」": {
+    "cn": "「11号」",
+    "element": 201,
+    "EN": "「11号」",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1041.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1041",
+    "rank": 5,
+    "type": 1
+  },
+  "伊德海莉": {
+    "cn": "伊德海莉",
+    "element": 202,
+    "EN": "伊德海莉",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1051.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1051",
+    "rank": 5,
+    "type": 6
+  },
+  "可琳": {
+    "cn": "可琳",
+    "element": 200,
+    "EN": "可琳",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1061.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1061",
+    "rank": 4,
+    "type": 1
+  },
+  "凯撒": {
+    "cn": "凯撒",
+    "element": 200,
+    "EN": "凯撒",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1071.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1071",
+    "rank": 5,
+    "type": 5
+  },
+  "比利": {
+    "cn": "比利",
+    "element": 200,
+    "EN": "比利",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1081.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1081",
+    "rank": 4,
+    "type": 1
+  },
+  "雅": {
+    "cn": "雅",
+    "element": 202,
+    "EN": "雅",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1091.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1091",
+    "rank": 5,
+    "type": 3
+  },
+  "珂蕾妲": {
+    "cn": "珂蕾妲",
+    "element": 201,
+    "EN": "珂蕾妲",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1101.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1101",
+    "rank": 5,
+    "type": 2
+  },
+  "安东": {
+    "cn": "安东",
+    "element": 203,
+    "EN": "安东",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1111.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1111",
+    "rank": 4,
+    "type": 1
+  },
+  "本": {
+    "cn": "本",
+    "element": 201,
+    "EN": "本",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1121",
+    "rank": 4,
+    "type": 5
+  },
+  "苍角": {
+    "cn": "苍角",
+    "element": 202,
+    "EN": "苍角",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1131",
+    "rank": 4,
+    "type": 4
+  },
+  "莱卡恩": {
+    "cn": "莱卡恩",
+    "element": 202,
+    "EN": "莱卡恩",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1141.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1141",
+    "rank": 5,
+    "type": 2
+  },
+  "露西": {
+    "cn": "露西",
+    "element": 201,
+    "EN": "露西",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1151",
+    "rank": 4,
+    "type": 4
+  },
+  "莱特": {
+    "cn": "莱特",
+    "element": 201,
+    "EN": "莱特",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1161.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1161",
+    "rank": 5,
+    "type": 2
+  },
+  "柏妮思": {
+    "cn": "柏妮思",
+    "element": 201,
+    "EN": "柏妮思",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1171.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1171",
+    "rank": 5,
+    "type": 3
+  },
+  "格莉丝": {
+    "cn": "格莉丝",
+    "element": 203,
+    "EN": "格莉丝",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1181.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1181",
+    "rank": 5,
+    "type": 3
+  },
+  "艾莲": {
+    "cn": "艾莲",
+    "element": 202,
+    "EN": "艾莲",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1191.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1191",
+    "rank": 5,
+    "type": 1
+  },
+  "悠真": {
+    "cn": "悠真",
+    "element": 203,
+    "EN": "悠真",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1201.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1201",
+    "rank": 5,
+    "type": 1
+  },
+  "丽娜": {
+    "cn": "丽娜",
+    "element": 203,
+    "EN": "丽娜",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1211.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1211",
+    "rank": 5,
+    "type": 4
+  },
+  "柳": {
+    "cn": "柳",
+    "element": 203,
+    "EN": "柳",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1221.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1221",
+    "rank": 5,
+    "type": 3
+  },
+  "朱鸢": {
+    "cn": "朱鸢",
+    "element": 205,
+    "EN": "朱鸢",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1241.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1241",
+    "rank": 5,
+    "type": 1
+  },
+  "青衣": {
+    "cn": "青衣",
+    "element": 203,
+    "EN": "青衣",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1251.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1251",
+    "rank": 5,
+    "type": 2
+  },
+  "简": {
+    "cn": "简",
+    "element": 200,
+    "EN": "简",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1261.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1261",
+    "rank": 5,
+    "type": 3
+  },
+  "赛斯": {
+    "cn": "赛斯",
+    "element": 203,
+    "EN": "赛斯",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1271.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1271",
+    "rank": 4,
+    "type": 5
+  },
+  "派派": {
+    "cn": "派派",
+    "element": 200,
+    "EN": "派派",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1281",
+    "rank": 4,
+    "type": 3
+  },
+  "雨果": {
+    "cn": "雨果",
+    "element": 202,
+    "EN": "雨果",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1291.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1291",
+    "rank": 5,
+    "type": 1
+  },
+  "奥菲丝&「鬼火」": {
+    "cn": "奥菲丝&「鬼火」",
+    "element": 201,
+    "EN": "奥菲丝&「鬼火」",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1301.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1301",
+    "rank": 5,
+    "type": 1
+  },
+  "耀嘉音": {
+    "cn": "耀嘉音",
+    "element": 205,
+    "EN": "耀嘉音",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1311.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1311",
+    "rank": 5,
+    "type": 4
+  },
+  "伊芙琳": {
+    "cn": "伊芙琳",
+    "element": 201,
+    "EN": "伊芙琳",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1321.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1321",
+    "rank": 5,
+    "type": 1
+  },
+  "薇薇安": {
+    "cn": "薇薇安",
+    "element": 205,
+    "EN": "薇薇安",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1331.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1331",
+    "rank": 5,
+    "type": 3
+  },
+  "照": {
+    "cn": "照",
+    "element": 202,
+    "EN": "照",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1341.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1341",
+    "rank": 5,
+    "type": 5
+  },
+  "波可娜": {
+    "cn": "波可娜",
+    "element": 200,
+    "EN": "波可娜",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1351.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1351",
+    "rank": 4,
+    "type": 2
+  },
+  "「扳机」": {
+    "cn": "「扳机」",
+    "element": 203,
+    "EN": "「扳机」",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1361.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1361",
+    "rank": 5,
+    "type": 2
+  },
+  "仪玄": {
+    "cn": "仪玄",
+    "element": 205,
+    "EN": "仪玄",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1371.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1371",
+    "rank": 5,
+    "type": 6
+  },
+  "零号·安比": {
+    "cn": "零号·安比",
+    "element": 203,
+    "EN": "零号·安比",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1381.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1381",
+    "rank": 5,
+    "type": 1
+  },
+  "橘福福": {
+    "cn": "橘福福",
+    "element": 201,
+    "EN": "橘福福",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1391.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1391",
+    "rank": 5,
+    "type": 2
+  },
+  "爱丽丝": {
+    "cn": "爱丽丝",
+    "element": 200,
+    "EN": "爱丽丝",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1401.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1401",
+    "rank": 5,
+    "type": 3
+  },
+  "柚叶": {
+    "cn": "柚叶",
+    "element": 200,
+    "EN": "柚叶",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1411.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1411",
+    "rank": 5,
+    "type": 4
+  },
+  "潘引壶": {
+    "cn": "潘引壶",
+    "element": 200,
+    "EN": "潘引壶",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1421.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1421",
+    "rank": 4,
+    "type": 5
+  },
+  "叶瞬光": {
+    "cn": "叶瞬光",
+    "element": 200,
+    "EN": "叶瞬光",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1431.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1431",
+    "rank": 5,
+    "type": 1
+  },
+  "真斗": {
+    "cn": "真斗",
+    "element": 201,
+    "EN": "真斗",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1441.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1441",
+    "rank": 4,
+    "type": 6
+  },
+  "卢西娅": {
+    "cn": "卢西娅",
+    "element": 205,
+    "EN": "卢西娅",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1451.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1451",
+    "rank": 5,
+    "type": 4
+  },
+  "「席德」": {
+    "cn": "「席德」",
+    "element": 203,
+    "EN": "「席德」",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1461.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1461",
+    "rank": 5,
+    "type": 1
+  },
+  "般岳": {
+    "cn": "般岳",
+    "element": 201,
+    "EN": "般岳",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1471.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1471",
+    "rank": 5,
+    "type": 6
+  },
+  "琉音": {
+    "cn": "琉音",
+    "element": 200,
+    "EN": "琉音",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1481.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1481",
+    "rank": 5,
+    "type": 2
+  },
+  "千夏": {
+    "cn": "千夏",
+    "element": 200,
+    "EN": "千夏",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1491.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1491",
+    "rank": 5,
+    "type": 4
+  },
+  "爱芮": {
+    "cn": "爱芮",
+    "element": 205,
+    "EN": "爱芮",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1501.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1501",
+    "rank": 5,
+    "type": 3
+  }
+}
