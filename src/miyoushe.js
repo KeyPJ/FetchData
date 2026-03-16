@@ -36,6 +36,19 @@ async function getDeviceFp() {
   };
 }
 
+function loadExistingData(outputPath) {
+  try {
+    if (fs.existsSync(outputPath)) {
+      const existingData = fs.readFileSync(outputPath, 'utf8');
+      return JSON.parse(existingData);
+    }
+    return {};
+  } catch (error) {
+    console.error(`Error loading existing data: ${error.message}`);
+    return {};
+  }
+}
+
 function saveData(data, outputPath) {
   try {
     // Ensure the directory exists
@@ -43,6 +56,17 @@ function saveData(data, outputPath) {
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });
     }
+
+    if (Object.keys(data).length === 0) {
+      const existingData = loadExistingData(outputPath);
+      if (Object.keys(existingData).length > 0) {
+        console.log(`Using existing data for ${outputPath}`);
+        data = existingData;
+      } else {
+        console.log(`Warning: No data available for ${outputPath}, saving empty object`);
+      }
+    }
+
     fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), 'utf8');
     console.log(`Data saved to ${outputPath}`);
   } catch (error) {
