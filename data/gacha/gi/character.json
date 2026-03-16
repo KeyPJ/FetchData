@@ -1743,6 +1743,16 @@
 				"element": "Cryo"
 			},
 			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
 				"itemId": 10000092,
 				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
 				"itemType": "Character",
@@ -2140,6 +2150,16 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Anemo"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2024-01-31 06:00:00",
@@ -2529,6 +2549,16 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Anemo"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2023-09-05 18:00:00",
@@ -3374,6 +3404,16 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2022-11-02 06:00:00",
@@ -3800,6 +3840,16 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2022-05-31 06:00:00",
@@ -4206,6 +4256,16 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Pyro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000045,
@@ -4668,6 +4728,16 @@
 				"element": "Pyro"
 			},
 			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
 				"itemId": 10000039,
 				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
 				"itemType": "Character",
@@ -4760,6 +4830,16 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2021-03-17 06:00:00",
@@ -4938,6 +5018,16 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2021-01-12 18:00:00",
@@ -5106,6 +5196,16 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000043,
