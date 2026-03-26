@@ -1,5 +1,48 @@
 [
 	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 1051,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1051.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "伊德海莉",
+				"nameEn": "伊德海莉",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1031.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "妮可",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1281,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1281.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "派派",
+				"nameEn": "派派",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2026-03-24 06:00:00",
+		"end": "2026-04-15 11:59:59"
+	},
+	{
 		"version": "2.6.2",
 		"items": [
 			{
