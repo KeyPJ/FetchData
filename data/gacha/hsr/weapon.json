@@ -1,5 +1,52 @@
 [
 	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 23027,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/6467ead95bda1626ed28e9074499360f.png",
+				"itemType": "Weapon",
+				"name": "驶向第二次生命",
+				"nameEn": "驶向第二次生命",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/4a53d709211a356452ea506709993a35.png",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "黑夜如影随行",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/82b6ce88d69f55d5926e0f8b60cdba0f.png",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "别让世界静下来",
+				"rankType": 4,
+				"avatarBaseType": "3",
+				"weaponType": "erudition"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/b820661554d9c395a270c6bc2b903f7b.png",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "梦的蒙太奇",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2026-04-08 12:00:00",
+		"end": "2026-04-21 15:00:00"
+	},
+	{
 		"version": "4.1.1",
 		"items": [
 			{

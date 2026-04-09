@@ -1,5 +1,60 @@
 [
 	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 1315,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/b9ca1dd673d05d93ab5c51def87af005.png",
+				"itemType": "Character",
+				"name": "波提欧",
+				"nameEn": "波提欧",
+				"damageType": "1",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/519c03e99e8ba4ccc3629c7cbd48f37f.png",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "貊泽",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 1312,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/367af865c3c500d8f48f73d9f57f5052.png",
+				"itemType": "Character",
+				"name": "米沙",
+				"nameEn": "米沙",
+				"damageType": "4",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "1",
+				"weaponType": "destruction"
+			},
+			{
+				"itemId": 1009,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u42a2d/c096199973d31f07a74af0a262f20993.png",
+				"itemType": "Character",
+				"name": "艾丝妲",
+				"nameEn": "艾丝妲",
+				"damageType": "2",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			}
+		],
+		"start": "2026-04-08 12:00:00",
+		"end": "2026-04-21 15:00:00"
+	},
+	{
 		"version": "4.1.1",
 		"items": [
 			{

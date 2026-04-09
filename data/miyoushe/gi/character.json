@@ -1022,5 +1022,14 @@
     "id": "10000128",
     "rank": 5,
     "weapon": 11
+  },
+  "莉奈娅": {
+    "cn": "莉奈娅",
+    "element": 3,
+    "EN": "莉奈娅",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/69d58c7d/a9c83c914c03a0b0a2ccc59586c1e0b2.png",
+    "id": "10000130",
+    "rank": 5,
+    "weapon": 12
   }
 }
