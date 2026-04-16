@@ -700,5 +700,23 @@
     "id": "1504",
     "rank": "5",
     "baseType": "2"
+  },
+  "绯英": {
+    "cn": "绯英",
+    "damageType": "1",
+    "EN": "绯英",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u28dfc/8db602eadfebe18dd6ec32d4fe8ea7d4.png",
+    "id": "1505",
+    "rank": "5",
+    "baseType": "9"
+  },
+  "银狼LV.999": {
+    "cn": "银狼LV.999",
+    "damageType": "64",
+    "EN": "银狼LV.999",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u28dfc/c72aed1de0189f54a4aaa6dc7ee96716.png",
+    "id": "1506",
+    "rank": "5",
+    "baseType": "9"
   }
 }

@@ -1,5 +1,48 @@
 [
 	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 1461,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1461.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "「席德」",
+				"nameEn": "「席德」",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1121.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "本",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1351,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1351.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "波可娜",
+				"nameEn": "波可娜",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2026-04-15 12:00:00",
+		"end": "2026-05-05 14:59:59"
+	},
+	{
 		"version": "2.7.1",
 		"items": [
 			{

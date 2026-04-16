@@ -1,5 +1,42 @@
 [
 	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 14146,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/c1f074b4d60b46fdcf3ef240c7c6cb42.png",
+				"itemType": "Weapon",
+				"name": "机巧心种",
+				"nameEn": "机巧心种",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "比格气缸",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "裁纸刀",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			}
+		],
+		"start": "2026-04-15 12:00:00",
+		"end": "2026-05-05 14:59:59"
+	},
+	{
 		"version": "2.7.1",
 		"items": [
 			{

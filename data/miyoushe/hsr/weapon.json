@@ -759,6 +759,14 @@
     "rank": "4",
     "baseType": "8"
   },
+  "未来，有我们一起": {
+    "cn": "未来，有我们一起",
+    "EN": "未来，有我们一起",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u28dfc/99fe3384cbc1327173534b74c37acdb1.png",
+    "id": "22007",
+    "rank": "4",
+    "baseType": "9"
+  },
   "银河铁道之夜": {
     "cn": "银河铁道之夜",
     "EN": "银河铁道之夜",
@@ -1206,6 +1214,22 @@
     "id": "23056",
     "rank": "5",
     "baseType": "2"
+  },
+  "欢迎来到银河城": {
+    "cn": "欢迎来到银河城",
+    "EN": "欢迎来到银河城",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u28dfc/0cdaa32b41252a682913fbd19b418b85.png",
+    "id": "23057",
+    "rank": "5",
+    "baseType": "9"
+  },
+  "邂逅于下一个花季": {
+    "cn": "邂逅于下一个花季",
+    "EN": "邂逅于下一个花季",
+    "iconUrl": "/hkrpg/pre_webtool_cn/item_icon_u28dfc/885a23b4c0fb98463bbc928e0efe3182.png",
+    "id": "23058",
+    "rank": "5",
+    "baseType": "9"
   },
   "记一位星神的陨落": {
     "cn": "记一位星神的陨落",
