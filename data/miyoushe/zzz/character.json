@@ -439,5 +439,23 @@
     "id": "1501",
     "rank": 5,
     "type": 3
+  },
+  "南宫羽": {
+    "cn": "南宫羽",
+    "element": 205,
+    "EN": "南宫羽",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1511.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1511",
+    "rank": 5,
+    "type": 2
+  },
+  "希希芙": {
+    "cn": "希希芙",
+    "element": 203,
+    "EN": "希希芙",
+    "iconUrl": "/zzzv2/role_square_avatar/role_square_avatar_1521.png?x-oss-process=image/format,webp/quality,Q_90",
+    "id": "1521",
+    "rank": 5,
+    "type": 1
   }
 }

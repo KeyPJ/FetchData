@@ -3,6 +3,18 @@
 		"version": "2.7.2",
 		"items": [
 			{
+				"itemId": 1521,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1521.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "希希芙",
+				"nameEn": "希希芙",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
 				"itemId": 1461,
 				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1461.png?x-oss-process=image/format,webp/quality,Q_90",
 				"itemType": "Character",
@@ -45,6 +57,18 @@
 	{
 		"version": "2.7.1",
 		"items": [
+			{
+				"itemId": 1511,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1511.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "南宫羽",
+				"nameEn": "南宫羽",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
 			{
 				"itemId": 1051,
 				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1051.png?x-oss-process=image/format,webp/quality,Q_90",

@@ -80,6 +80,16 @@
 		"version": "4.1.2",
 		"items": [
 			{
+				"itemId": 23056,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/3801839720f7b7a80f9e4fbaa8222878.png",
+				"itemType": "Weapon",
+				"name": "一场谎言的终幕",
+				"nameEn": "一场谎言的终幕",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
 				"itemId": 23027,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/c51b28f7e76bbf8e81d8143f454ea766.png",
 				"itemType": "Weapon",
@@ -137,6 +147,16 @@
 				"weaponType": "the_Hunt"
 			},
 			{
+				"itemId": 23042,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/6d48539fb178ba0ebbc942cfb6f9ebb9.png",
+				"itemType": "Weapon",
+				"name": "愿虹光永驻天空",
+				"nameEn": "愿虹光永驻天空",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
 				"itemId": 21047,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/db05ea6e64f355a24d10faf1621ff421.png",
 				"itemType": "Weapon",
@@ -168,7 +188,7 @@
 			}
 		],
 		"start": "2026-03-25 06:30:00",
-		"end": "2026-04-21 15:00:00"
+		"end": "2026-04-08 11:59:00"
 	},
 	{
 		"version": "4.0.2",

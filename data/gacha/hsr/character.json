@@ -94,6 +94,18 @@
 		"version": "4.1.2",
 		"items": [
 			{
+				"itemId": 1504,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/d7a190a822b147ac8b5d4a0e7957f431.png",
+				"itemType": "Character",
+				"name": "不死途",
+				"nameEn": "不死途",
+				"damageType": "8",
+				"element": "lightning",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
 				"itemId": 1315,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/e0c1bc2419845054eeffeb59f0bcad29.png",
 				"itemType": "Character",
@@ -161,6 +173,18 @@
 				"weaponType": "the_Hunt"
 			},
 			{
+				"itemId": 1409,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/d2b12aadac2ab3fcadd33e07c3ae1a64.png",
+				"itemType": "Character",
+				"name": "风堇",
+				"nameEn": "风堇",
+				"damageType": "16",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "8",
+				"weaponType": "remembrance"
+			},
+			{
 				"itemId": 1223,
 				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u0134d/8b182f5e46bf0d92afc9533aca8501db.png",
 				"itemType": "Character",
@@ -198,7 +222,7 @@
 			}
 		],
 		"start": "2026-03-25 06:30:00",
-		"end": "2026-04-21 15:00:00"
+		"end": "2026-04-08 11:59:00"
 	},
 	{
 		"version": "4.0.2",

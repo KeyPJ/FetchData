@@ -3,8 +3,18 @@
 		"version": "2.7.2",
 		"items": [
 			{
+				"itemId": 14152,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/3155b132106ee82d328a919d3f4ffc58.png",
+				"itemType": "Weapon",
+				"name": "鳞齿寻踪",
+				"nameEn": "鳞齿寻踪",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
 				"itemId": 14146,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/c1f074b4d60b46fdcf3ef240c7c6cb42.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/ea0e3da3461c93cc90795fca2f2ed365.png",
 				"itemType": "Weapon",
 				"name": "机巧心种",
 				"nameEn": "机巧心种",
@@ -14,7 +24,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -24,7 +34,7 @@
 			},
 			{
 				"itemId": 13135,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/23597564ba7d471c836fa3a0c8b270ae.png",
 				"itemType": "Weapon",
 				"name": "裁纸刀",
 				"nameEn": "裁纸刀",
@@ -40,8 +50,18 @@
 		"version": "2.7.1",
 		"items": [
 			{
+				"itemId": 14151,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/942f1face40ab6f3724d2cca8d9721a1.png",
+				"itemType": "Weapon",
+				"name": "霓虹妄想",
+				"nameEn": "霓虹妄想",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
 				"itemId": 14105,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ac03eed7f93bd1039df5ef080c065d59.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e30873b586064d8284fd25078cbc37d6.png",
 				"itemType": "Weapon",
 				"name": "海妖摇篮",
 				"nameEn": "海妖摇篮",
@@ -51,7 +71,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -61,7 +81,7 @@
 			},
 			{
 				"itemId": 13128,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88e564634c33dcb09d74390bbdcec76f.png",
 				"itemType": "Weapon",
 				"name": "轰鸣座驾",
 				"nameEn": "轰鸣座驾",
@@ -78,7 +98,7 @@
 		"items": [
 			{
 				"itemId": 14150,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/2b85d388723d6d3cd931efe2027f7f8a.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/6190ea9f5c363438e85627aab1ffbfcb.png",
 				"itemType": "Weapon",
 				"name": "壳中之灵",
 				"nameEn": "壳中之灵",
@@ -88,7 +108,7 @@
 			},
 			{
 				"itemId": 14141,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/cb2b868802f0862aa950b8ab46c5019f.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/68ea65ba09904d8f48fcc210edf1b621.png",
 				"itemType": "Weapon",
 				"name": "狸法七变化",
 				"nameEn": "狸法七变化",
@@ -98,7 +118,7 @@
 			},
 			{
 				"itemId": 13111,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/2005360a5fbb32d255bef751b38ab1ae.png",
 				"itemType": "Weapon",
 				"name": "旋钻机-赤轴",
 				"nameEn": "旋钻机-赤轴",
@@ -108,7 +128,7 @@
 			},
 			{
 				"itemId": 13127,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/95e23dd5f3c1e6d95b05fb51d52ff8bd.png",
 				"itemType": "Weapon",
 				"name": "维序者-特化型",
 				"nameEn": "维序者-特化型",
@@ -125,7 +145,7 @@
 		"items": [
 			{
 				"itemId": 14149,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/1c87512e5b8ec2a45c15b21508fe4f71.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/39e3afff8aa6fa1949709d29fc98b878.png",
 				"itemType": "Weapon",
 				"name": "思络成歌",
 				"nameEn": "思络成歌",
@@ -135,7 +155,7 @@
 			},
 			{
 				"itemId": 14137,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/d8fdd2b973415004aa3c52b22e6b1abb.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/ff5fcfdb3bcd3cd7df7d597dfe1630e9.png",
 				"itemType": "Weapon",
 				"name": "青溟笼舍",
 				"nameEn": "青溟笼舍",
@@ -145,7 +165,7 @@
 			},
 			{
 				"itemId": 13106,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0827d0f4659aa462b775846815b89e32.png",
 				"itemType": "Weapon",
 				"name": "家政员",
 				"nameEn": "家政员",
@@ -155,7 +175,7 @@
 			},
 			{
 				"itemId": 13108,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4c39cf5e5f93a6a7bfbd8984f7f808db.png",
 				"itemType": "Weapon",
 				"name": "仿制星徽引擎",
 				"nameEn": "仿制星徽引擎",
@@ -172,7 +192,7 @@
 		"items": [
 			{
 				"itemId": 14143,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/406828d91b9dcad36fb8f4737858155c.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e83ba6bb81b6ad10c1f039ea9bff7158.png",
 				"itemType": "Weapon",
 				"name": "云霓孤光",
 				"nameEn": "云霓孤光",
@@ -182,7 +202,7 @@
 			},
 			{
 				"itemId": 14134,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/b66bd8d86429bdb73b421ae1ad09cb01.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/46a8c400fc85f8827b599ecc044d5df2.png",
 				"itemType": "Weapon",
 				"name": "半糖雪兔",
 				"nameEn": "半糖雪兔",
@@ -192,7 +212,7 @@
 			},
 			{
 				"itemId": 14138,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/4d9bc4b9cc51f1c675db13e0426ddb12.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d0675acf647f36c0b2e9609a3d58b1eb.png",
 				"itemType": "Weapon",
 				"name": "牺牲洁纯",
 				"nameEn": "牺牲洁纯",
@@ -202,7 +222,7 @@
 			},
 			{
 				"itemId": 14140,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/148c640fe2a11dd41e37bf9318d46274.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0f672c7fdbecb88f8f0a3ed8a6eb0b28.png",
 				"itemType": "Weapon",
 				"name": "十方锻星",
 				"nameEn": "十方锻星",
@@ -212,7 +232,7 @@
 			},
 			{
 				"itemId": 14131,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/390f7c2b6362207883f15bc20050c673.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e930f56e49dcf99d262b21356b9756cc.png",
 				"itemType": "Weapon",
 				"name": "玲珑妆匣",
 				"nameEn": "玲珑妆匣",
@@ -222,7 +242,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -232,7 +252,7 @@
 			},
 			{
 				"itemId": 13115,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
 				"itemType": "Weapon",
 				"name": "好斗的阿炮",
 				"nameEn": "好斗的阿炮",
@@ -242,7 +262,7 @@
 			},
 			{
 				"itemId": 13101,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/56aa6757741af590912ce5e5418c7616.png",
 				"itemType": "Weapon",
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "德玛拉电池Ⅱ型",
@@ -252,7 +272,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -269,7 +289,7 @@
 		"items": [
 			{
 				"itemId": 14143,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/406828d91b9dcad36fb8f4737858155c.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e83ba6bb81b6ad10c1f039ea9bff7158.png",
 				"itemType": "Weapon",
 				"name": "云霓孤光",
 				"nameEn": "云霓孤光",
@@ -279,7 +299,7 @@
 			},
 			{
 				"itemId": 14134,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/b66bd8d86429bdb73b421ae1ad09cb01.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/46a8c400fc85f8827b599ecc044d5df2.png",
 				"itemType": "Weapon",
 				"name": "半糖雪兔",
 				"nameEn": "半糖雪兔",
@@ -289,7 +309,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -299,7 +319,7 @@
 			},
 			{
 				"itemId": 13115,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
 				"itemType": "Weapon",
 				"name": "好斗的阿炮",
 				"nameEn": "好斗的阿炮",
@@ -309,7 +329,7 @@
 			},
 			{
 				"itemId": 13101,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/56aa6757741af590912ce5e5418c7616.png",
 				"itemType": "Weapon",
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "德玛拉电池Ⅱ型",
@@ -319,7 +339,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -336,7 +356,7 @@
 		"items": [
 			{
 				"itemId": 14147,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/b7122209983be4a5d2d94015eddb7c7e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/90339db985c91634f0ca446ac6880d40.png",
 				"itemType": "Weapon",
 				"name": "怒目金刚",
 				"nameEn": "怒目金刚",
@@ -346,7 +366,7 @@
 			},
 			{
 				"itemId": 14119,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0e57dba20ff8bb3cda7dbe22dd27e245.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/14d824a73232bdd74c84a4999568e3aa.png",
 				"itemType": "Weapon",
 				"name": "深海访客",
 				"nameEn": "深海访客",
@@ -356,7 +376,7 @@
 			},
 			{
 				"itemId": 13113,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/fad5c9f566db4875df2184698a1a1455.png",
 				"itemType": "Weapon",
 				"name": "含羞恶面",
 				"nameEn": "含羞恶面",
@@ -366,7 +386,7 @@
 			},
 			{
 				"itemId": 13127,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/95e23dd5f3c1e6d95b05fb51d52ff8bd.png",
 				"itemType": "Weapon",
 				"name": "维序者-特化型",
 				"nameEn": "维序者-特化型",
@@ -383,7 +403,7 @@
 		"items": [
 			{
 				"itemId": 14148,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/83b46c9a6ffc9a57a75b6b3371b163da.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/94e62172fdca20984fa576a03ea6c575.png",
 				"itemType": "Weapon",
 				"name": "昨夜来电",
 				"nameEn": "昨夜来电",
@@ -393,7 +413,7 @@
 			},
 			{
 				"itemId": 14129,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ea0c59cac0a8a51fef07333053849eae.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/c1029501d3ecd8e6af509f608280e404.png",
 				"itemType": "Weapon",
 				"name": "千面日陨",
 				"nameEn": "千面日陨",
@@ -403,7 +423,7 @@
 			},
 			{
 				"itemId": 13106,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0827d0f4659aa462b775846815b89e32.png",
 				"itemType": "Weapon",
 				"name": "家政员",
 				"nameEn": "家政员",
@@ -413,7 +433,7 @@
 			},
 			{
 				"itemId": 13108,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4c39cf5e5f93a6a7bfbd8984f7f808db.png",
 				"itemType": "Weapon",
 				"name": "仿制星徽引擎",
 				"nameEn": "仿制星徽引擎",
@@ -430,7 +450,7 @@
 		"items": [
 			{
 				"itemId": 14105,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ac03eed7f93bd1039df5ef080c065d59.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e30873b586064d8284fd25078cbc37d6.png",
 				"itemType": "Weapon",
 				"name": "海妖摇篮",
 				"nameEn": "海妖摇篮",
@@ -440,7 +460,7 @@
 			},
 			{
 				"itemId": 14139,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7aea4768782fa38c8770763fe49c9950.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1b726d3e75d9e4f764cfc65f80cab936.png",
 				"itemType": "Weapon",
 				"name": "福虓炉炉",
 				"nameEn": "福虓炉炉",
@@ -450,7 +470,7 @@
 			},
 			{
 				"itemId": 13142,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7853b976eca7719d81c4386b51f80261.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/74d713a58e65d6a10f4125af24133a02.png",
 				"itemType": "Weapon",
 				"name": "震元奇枢",
 				"nameEn": "震元奇枢",
@@ -460,7 +480,7 @@
 			},
 			{
 				"itemId": 13135,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/23597564ba7d471c836fa3a0c8b270ae.png",
 				"itemType": "Weapon",
 				"name": "裁纸刀",
 				"nameEn": "裁纸刀",
@@ -477,7 +497,7 @@
 		"items": [
 			{
 				"itemId": 14145,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/4d1d782a8a73b9a70428bac51106f5b6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/715cc87a08ac4aea26fd0a19e58e9bfe.png",
 				"itemType": "Weapon",
 				"name": "铸梦炉歌",
 				"nameEn": "铸梦炉歌",
@@ -487,7 +507,7 @@
 			},
 			{
 				"itemId": 14133,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/df57dd52c6067bb5b11c4d610da854da.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/108eb6b4d7a12e9367e7cf5bed8829d1.png",
 				"itemType": "Weapon",
 				"name": "飞鸟星梦",
 				"nameEn": "飞鸟星梦",
@@ -497,7 +517,7 @@
 			},
 			{
 				"itemId": 13144,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/d0bf7d7275553e2e5a52d92859e22f5b.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/37c82931af9ca8fead921ff1c190b1e2.png",
 				"itemType": "Weapon",
 				"name": "燔火胧夜",
 				"nameEn": "燔火胧夜",
@@ -507,7 +527,7 @@
 			},
 			{
 				"itemId": 13128,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88e564634c33dcb09d74390bbdcec76f.png",
 				"itemType": "Weapon",
 				"name": "轰鸣座驾",
 				"nameEn": "轰鸣座驾",
@@ -524,7 +544,7 @@
 		"items": [
 			{
 				"itemId": 14130,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/8f1a3ba09626002d9f0010dbb4575e41.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88110d3d100b8eec71e9117e8f2b207a.png",
 				"itemType": "Weapon",
 				"name": "嚣枪喧焰",
 				"nameEn": "嚣枪喧焰",
@@ -534,7 +554,7 @@
 			},
 			{
 				"itemId": 14132,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6863f739ab1fa178c4a2756de0ac4530.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/554f62bbf0147cec81ace33445c82baa.png",
 				"itemType": "Weapon",
 				"name": "心弦夜响",
 				"nameEn": "心弦夜响",
@@ -544,7 +564,7 @@
 			},
 			{
 				"itemId": 13115,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
 				"itemType": "Weapon",
 				"name": "好斗的阿炮",
 				"nameEn": "好斗的阿炮",
@@ -554,7 +574,7 @@
 			},
 			{
 				"itemId": 13111,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/2005360a5fbb32d255bef751b38ab1ae.png",
 				"itemType": "Weapon",
 				"name": "旋钻机-赤轴",
 				"nameEn": "旋钻机-赤轴",
@@ -571,7 +591,7 @@
 		"items": [
 			{
 				"itemId": 14146,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/c1f074b4d60b46fdcf3ef240c7c6cb42.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/ea0e3da3461c93cc90795fca2f2ed365.png",
 				"itemType": "Weapon",
 				"name": "机巧心种",
 				"nameEn": "机巧心种",
@@ -581,7 +601,7 @@
 			},
 			{
 				"itemId": 14136,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/058ac4be0f0ca3c5f637215b6596a647.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e79dedac67f238f0dee09657586c4995.png",
 				"itemType": "Weapon",
 				"name": "索魂影眸",
 				"nameEn": "索魂影眸",
@@ -591,7 +611,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -601,7 +621,7 @@
 			},
 			{
 				"itemId": 13101,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/56aa6757741af590912ce5e5418c7616.png",
 				"itemType": "Weapon",
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "德玛拉电池Ⅱ型",
@@ -618,7 +638,7 @@
 		"items": [
 			{
 				"itemId": 14140,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/148c640fe2a11dd41e37bf9318d46274.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0f672c7fdbecb88f8f0a3ed8a6eb0b28.png",
 				"itemType": "Weapon",
 				"name": "十方锻星",
 				"nameEn": "十方锻星",
@@ -628,7 +648,7 @@
 			},
 			{
 				"itemId": 14122,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/8a57e2a30d88b30324a7586edcddd47e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/940603a18216742b9449deec80d68c6b.png",
 				"itemType": "Weapon",
 				"name": "时流贤者",
 				"nameEn": "时流贤者",
@@ -638,7 +658,7 @@
 			},
 			{
 				"itemId": 13113,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/fad5c9f566db4875df2184698a1a1455.png",
 				"itemType": "Weapon",
 				"name": "含羞恶面",
 				"nameEn": "含羞恶面",
@@ -648,7 +668,7 @@
 			},
 			{
 				"itemId": 13127,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/95e23dd5f3c1e6d95b05fb51d52ff8bd.png",
 				"itemType": "Weapon",
 				"name": "维序者-特化型",
 				"nameEn": "维序者-特化型",
@@ -665,7 +685,7 @@
 		"items": [
 			{
 				"itemId": 14141,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/cb2b868802f0862aa950b8ab46c5019f.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/68ea65ba09904d8f48fcc210edf1b621.png",
 				"itemType": "Weapon",
 				"name": "狸法七变化",
 				"nameEn": "狸法七变化",
@@ -675,7 +695,7 @@
 			},
 			{
 				"itemId": 14109,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/db24358a0aae5fd0a6e4b0b4f9d8a3d5.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/060208d9e8b25b5c7ff5f9c06d4c554e.png",
 				"itemType": "Weapon",
 				"name": "霰落星殿",
 				"nameEn": "霰落星殿",
@@ -685,7 +705,7 @@
 			},
 			{
 				"itemId": 13128,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88e564634c33dcb09d74390bbdcec76f.png",
 				"itemType": "Weapon",
 				"name": "轰鸣座驾",
 				"nameEn": "轰鸣座驾",
@@ -695,7 +715,7 @@
 			},
 			{
 				"itemId": 13108,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4c39cf5e5f93a6a7bfbd8984f7f808db.png",
 				"itemType": "Weapon",
 				"name": "仿制星徽引擎",
 				"nameEn": "仿制星徽引擎",
@@ -712,7 +732,7 @@
 		"items": [
 			{
 				"itemId": 14139,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7aea4768782fa38c8770763fe49c9950.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1b726d3e75d9e4f764cfc65f80cab936.png",
 				"itemType": "Weapon",
 				"name": "福虓炉炉",
 				"nameEn": "福虓炉炉",
@@ -722,7 +742,7 @@
 			},
 			{
 				"itemId": 14107,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e17afc1e7625f5a1931df847f83929da.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/8411407bf6ff3185cd8ada323ed9dbda.png",
 				"itemType": "Weapon",
 				"name": "奔袭獠牙",
 				"nameEn": "奔袭獠牙",
@@ -732,7 +752,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -742,7 +762,7 @@
 			},
 			{
 				"itemId": 13106,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0827d0f4659aa462b775846815b89e32.png",
 				"itemType": "Weapon",
 				"name": "家政员",
 				"nameEn": "家政员",
@@ -759,7 +779,7 @@
 		"items": [
 			{
 				"itemId": 14137,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/d8fdd2b973415004aa3c52b22e6b1abb.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/ff5fcfdb3bcd3cd7df7d597dfe1630e9.png",
 				"itemType": "Weapon",
 				"name": "青溟笼舍",
 				"nameEn": "青溟笼舍",
@@ -769,7 +789,7 @@
 			},
 			{
 				"itemId": 14131,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/390f7c2b6362207883f15bc20050c673.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e930f56e49dcf99d262b21356b9756cc.png",
 				"itemType": "Weapon",
 				"name": "玲珑妆匣",
 				"nameEn": "玲珑妆匣",
@@ -779,7 +799,7 @@
 			},
 			{
 				"itemId": 13142,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7853b976eca7719d81c4386b51f80261.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/74d713a58e65d6a10f4125af24133a02.png",
 				"itemType": "Weapon",
 				"name": "震元奇枢",
 				"nameEn": "震元奇枢",
@@ -789,7 +809,7 @@
 			},
 			{
 				"itemId": 13135,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/23597564ba7d471c836fa3a0c8b270ae.png",
 				"itemType": "Weapon",
 				"name": "裁纸刀",
 				"nameEn": "裁纸刀",
@@ -806,7 +826,7 @@
 		"items": [
 			{
 				"itemId": 14129,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/ea0c59cac0a8a51fef07333053849eae.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/c1029501d3ecd8e6af509f608280e404.png",
 				"itemType": "Weapon",
 				"name": "千面日陨",
 				"nameEn": "千面日陨",
@@ -816,7 +836,7 @@
 			},
 			{
 				"itemId": 14116,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6579e1e49956795fd22b93e49fe84476.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/094c422e45e927af8baea73a1864ee31.png",
 				"itemType": "Weapon",
 				"name": "焰心桂冠",
 				"nameEn": "焰心桂冠",
@@ -826,7 +846,7 @@
 			},
 			{
 				"itemId": 13113,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/fad5c9f566db4875df2184698a1a1455.png",
 				"itemType": "Weapon",
 				"name": "含羞恶面",
 				"nameEn": "含羞恶面",
@@ -836,7 +856,7 @@
 			},
 			{
 				"itemId": 13111,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/2005360a5fbb32d255bef751b38ab1ae.png",
 				"itemType": "Weapon",
 				"name": "旋钻机-赤轴",
 				"nameEn": "旋钻机-赤轴",
@@ -853,7 +873,7 @@
 		"items": [
 			{
 				"itemId": 14133,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/df57dd52c6067bb5b11c4d610da854da.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/108eb6b4d7a12e9367e7cf5bed8829d1.png",
 				"itemType": "Weapon",
 				"name": "飞鸟星梦",
 				"nameEn": "飞鸟星梦",
@@ -863,7 +883,7 @@
 			},
 			{
 				"itemId": 14126,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e9f9a180a8f060c18b945ca86081df49.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/48de7be342b27024d53ff1cec96a7405.png",
 				"itemType": "Weapon",
 				"name": "淬锋钳刺",
 				"nameEn": "淬锋钳刺",
@@ -873,7 +893,7 @@
 			},
 			{
 				"itemId": 13128,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88e564634c33dcb09d74390bbdcec76f.png",
 				"itemType": "Weapon",
 				"name": "轰鸣座驾",
 				"nameEn": "轰鸣座驾",
@@ -883,7 +903,7 @@
 			},
 			{
 				"itemId": 13127,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/95e23dd5f3c1e6d95b05fb51d52ff8bd.png",
 				"itemType": "Weapon",
 				"name": "维序者-特化型",
 				"nameEn": "维序者-特化型",
@@ -900,7 +920,7 @@
 		"items": [
 			{
 				"itemId": 14136,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/058ac4be0f0ca3c5f637215b6596a647.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e79dedac67f238f0dee09657586c4995.png",
 				"itemType": "Weapon",
 				"name": "索魂影眸",
 				"nameEn": "索魂影眸",
@@ -910,7 +930,7 @@
 			},
 			{
 				"itemId": 14124,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e2a39ac2e394dbb8c179f74c4bb92609.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/3c1c4f1ad45b0ff34866d9654291daba.png",
 				"itemType": "Weapon",
 				"name": "防暴者Ⅵ型",
 				"nameEn": "防暴者Ⅵ型",
@@ -920,7 +940,7 @@
 			},
 			{
 				"itemId": 13115,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
 				"itemType": "Weapon",
 				"name": "好斗的阿炮",
 				"nameEn": "好斗的阿炮",
@@ -930,7 +950,7 @@
 			},
 			{
 				"itemId": 13108,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4c39cf5e5f93a6a7bfbd8984f7f808db.png",
 				"itemType": "Weapon",
 				"name": "仿制星徽引擎",
 				"nameEn": "仿制星徽引擎",
@@ -947,7 +967,7 @@
 		"items": [
 			{
 				"itemId": 14138,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/4d9bc4b9cc51f1c675db13e0426ddb12.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d0675acf647f36c0b2e9609a3d58b1eb.png",
 				"itemType": "Weapon",
 				"name": "牺牲洁纯",
 				"nameEn": "牺牲洁纯",
@@ -957,7 +977,7 @@
 			},
 			{
 				"itemId": 14117,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f1c592b8945b8b38b69be1f6c969d88f.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/5230688121a95e35ead5cfcce238d360.png",
 				"itemType": "Weapon",
 				"name": "灼心摇壶",
 				"nameEn": "灼心摇壶",
@@ -967,7 +987,7 @@
 			},
 			{
 				"itemId": 13135,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/75c2bb75f53532adc19eb25d2c7b8fbd.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/23597564ba7d471c836fa3a0c8b270ae.png",
 				"itemType": "Weapon",
 				"name": "裁纸刀",
 				"nameEn": "裁纸刀",
@@ -977,7 +997,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -994,7 +1014,7 @@
 		"items": [
 			{
 				"itemId": 14132,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6863f739ab1fa178c4a2756de0ac4530.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/554f62bbf0147cec81ace33445c82baa.png",
 				"itemType": "Weapon",
 				"name": "心弦夜响",
 				"nameEn": "心弦夜响",
@@ -1004,7 +1024,7 @@
 			},
 			{
 				"itemId": 14125,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bdd7e6e1bfcd56c44b832961912f1aab.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4eb40c2f8f3a3d3379f0fc2f3be036ea.png",
 				"itemType": "Weapon",
 				"name": "玉壶青冰",
 				"nameEn": "玉壶青冰",
@@ -1014,7 +1034,7 @@
 			},
 			{
 				"itemId": 13111,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/2005360a5fbb32d255bef751b38ab1ae.png",
 				"itemType": "Weapon",
 				"name": "旋钻机-赤轴",
 				"nameEn": "旋钻机-赤轴",
@@ -1024,7 +1044,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -1041,7 +1061,7 @@
 		"items": [
 			{
 				"itemId": 14131,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/390f7c2b6362207883f15bc20050c673.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e930f56e49dcf99d262b21356b9756cc.png",
 				"itemType": "Weapon",
 				"name": "玲珑妆匣",
 				"nameEn": "玲珑妆匣",
@@ -1051,7 +1071,7 @@
 			},
 			{
 				"itemId": 14119,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0e57dba20ff8bb3cda7dbe22dd27e245.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/14d824a73232bdd74c84a4999568e3aa.png",
 				"itemType": "Weapon",
 				"name": "深海访客",
 				"nameEn": "深海访客",
@@ -1061,7 +1081,7 @@
 			},
 			{
 				"itemId": 13101,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/56aa6757741af590912ce5e5418c7616.png",
 				"itemType": "Weapon",
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "德玛拉电池Ⅱ型",
@@ -1071,7 +1091,7 @@
 			},
 			{
 				"itemId": 13106,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0827d0f4659aa462b775846815b89e32.png",
 				"itemType": "Weapon",
 				"name": "家政员",
 				"nameEn": "家政员",
@@ -1088,7 +1108,7 @@
 		"items": [
 			{
 				"itemId": 14109,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/db24358a0aae5fd0a6e4b0b4f9d8a3d5.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/060208d9e8b25b5c7ff5f9c06d4c554e.png",
 				"itemType": "Weapon",
 				"name": "霰落星殿",
 				"nameEn": "霰落星殿",
@@ -1098,7 +1118,7 @@
 			},
 			{
 				"itemId": 14120,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/64f0df5061a36f53a0939c3eef872bf8.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/c5e03e9ab837bc795d7c8e5b26f2b29b.png",
 				"itemType": "Weapon",
 				"name": "残心青囊",
 				"nameEn": "残心青囊",
@@ -1108,7 +1128,7 @@
 			},
 			{
 				"itemId": 13128,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88e564634c33dcb09d74390bbdcec76f.png",
 				"itemType": "Weapon",
 				"name": "轰鸣座驾",
 				"nameEn": "轰鸣座驾",
@@ -1118,7 +1138,7 @@
 			},
 			{
 				"itemId": 13113,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/fad5c9f566db4875df2184698a1a1455.png",
 				"itemType": "Weapon",
 				"name": "含羞恶面",
 				"nameEn": "含羞恶面",
@@ -1128,7 +1148,7 @@
 			},
 			{
 				"itemId": 13115,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
 				"itemType": "Weapon",
 				"name": "好斗的阿炮",
 				"nameEn": "好斗的阿炮",
@@ -1138,7 +1158,7 @@
 			},
 			{
 				"itemId": 13127,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/95e23dd5f3c1e6d95b05fb51d52ff8bd.png",
 				"itemType": "Weapon",
 				"name": "维序者-特化型",
 				"nameEn": "维序者-特化型",
@@ -1155,7 +1175,7 @@
 		"items": [
 			{
 				"itemId": 14116,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/6579e1e49956795fd22b93e49fe84476.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/094c422e45e927af8baea73a1864ee31.png",
 				"itemType": "Weapon",
 				"name": "焰心桂冠",
 				"nameEn": "焰心桂冠",
@@ -1165,7 +1185,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -1175,7 +1195,7 @@
 			},
 			{
 				"itemId": 13106,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0827d0f4659aa462b775846815b89e32.png",
 				"itemType": "Weapon",
 				"name": "家政员",
 				"nameEn": "家政员",
@@ -1192,7 +1212,7 @@
 		"items": [
 			{
 				"itemId": 14122,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/8a57e2a30d88b30324a7586edcddd47e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/940603a18216742b9449deec80d68c6b.png",
 				"itemType": "Weapon",
 				"name": "时流贤者",
 				"nameEn": "时流贤者",
@@ -1202,7 +1222,7 @@
 			},
 			{
 				"itemId": 13101,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/56aa6757741af590912ce5e5418c7616.png",
 				"itemType": "Weapon",
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "德玛拉电池Ⅱ型",
@@ -1212,7 +1232,7 @@
 			},
 			{
 				"itemId": 13108,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4c39cf5e5f93a6a7bfbd8984f7f808db.png",
 				"itemType": "Weapon",
 				"name": "仿制星徽引擎",
 				"nameEn": "仿制星徽引擎",
@@ -1229,7 +1249,7 @@
 		"items": [
 			{
 				"itemId": 14117,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f1c592b8945b8b38b69be1f6c969d88f.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/5230688121a95e35ead5cfcce238d360.png",
 				"itemType": "Weapon",
 				"name": "灼心摇壶",
 				"nameEn": "灼心摇壶",
@@ -1239,7 +1259,7 @@
 			},
 			{
 				"itemId": 13115,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/f5d81352779a661fb0637fa33be504ef.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
 				"itemType": "Weapon",
 				"name": "好斗的阿炮",
 				"nameEn": "好斗的阿炮",
@@ -1249,7 +1269,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -1266,7 +1286,7 @@
 		"items": [
 			{
 				"itemId": 14107,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e17afc1e7625f5a1931df847f83929da.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/8411407bf6ff3185cd8ada323ed9dbda.png",
 				"itemType": "Weapon",
 				"name": "奔袭獠牙",
 				"nameEn": "奔袭獠牙",
@@ -1276,7 +1296,7 @@
 			},
 			{
 				"itemId": 13128,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/248c67e4b47fd9798dbac9cf169eb8d6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/88e564634c33dcb09d74390bbdcec76f.png",
 				"itemType": "Weapon",
 				"name": "轰鸣座驾",
 				"nameEn": "轰鸣座驾",
@@ -1286,7 +1306,7 @@
 			},
 			{
 				"itemId": 13111,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/2005360a5fbb32d255bef751b38ab1ae.png",
 				"itemType": "Weapon",
 				"name": "旋钻机-赤轴",
 				"nameEn": "旋钻机-赤轴",
@@ -1303,7 +1323,7 @@
 		"items": [
 			{
 				"itemId": 14126,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e9f9a180a8f060c18b945ca86081df49.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/48de7be342b27024d53ff1cec96a7405.png",
 				"itemType": "Weapon",
 				"name": "淬锋钳刺",
 				"nameEn": "淬锋钳刺",
@@ -1313,7 +1333,7 @@
 			},
 			{
 				"itemId": 13127,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/068225ef910b2f7f95a9901f2f617830.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/95e23dd5f3c1e6d95b05fb51d52ff8bd.png",
 				"itemType": "Weapon",
 				"name": "维序者-特化型",
 				"nameEn": "维序者-特化型",
@@ -1323,7 +1343,7 @@
 			},
 			{
 				"itemId": 13101,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e8ca8fa3f0db27115ad09898e081bb4e.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/56aa6757741af590912ce5e5418c7616.png",
 				"itemType": "Weapon",
 				"name": "德玛拉电池Ⅱ型",
 				"nameEn": "德玛拉电池Ⅱ型",
@@ -1340,7 +1360,7 @@
 		"items": [
 			{
 				"itemId": 14125,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bdd7e6e1bfcd56c44b832961912f1aab.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4eb40c2f8f3a3d3379f0fc2f3be036ea.png",
 				"itemType": "Weapon",
 				"name": "玉壶青冰",
 				"nameEn": "玉壶青冰",
@@ -1350,7 +1370,7 @@
 			},
 			{
 				"itemId": 13108,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d749fe19d6959a266de980fbc1dda57.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/4c39cf5e5f93a6a7bfbd8984f7f808db.png",
 				"itemType": "Weapon",
 				"name": "仿制星徽引擎",
 				"nameEn": "仿制星徽引擎",
@@ -1360,7 +1380,7 @@
 			},
 			{
 				"itemId": 13106,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0a4fbf256eb52158e1a102a8d65593fc.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/0827d0f4659aa462b775846815b89e32.png",
 				"itemType": "Weapon",
 				"name": "家政员",
 				"nameEn": "家政员",
@@ -1377,7 +1397,7 @@
 		"items": [
 			{
 				"itemId": 14124,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/e2a39ac2e394dbb8c179f74c4bb92609.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/3c1c4f1ad45b0ff34866d9654291daba.png",
 				"itemType": "Weapon",
 				"name": "防暴者Ⅵ型",
 				"nameEn": "防暴者Ⅵ型",
@@ -1387,7 +1407,7 @@
 			},
 			{
 				"itemId": 13103,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/bf75f4921fda1c816a09e7a76e496257.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/d673f5296edc029f3a941642a29fa18e.png",
 				"itemType": "Weapon",
 				"name": "聚宝箱",
 				"nameEn": "聚宝箱",
@@ -1397,7 +1417,7 @@
 			},
 			{
 				"itemId": 13112,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0d6e944eedf0d78a038eff665b1d93f1.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/e303e8914bfb1dec082c9a4b6c4f6bdb.png",
 				"itemType": "Weapon",
 				"name": "比格气缸",
 				"nameEn": "比格气缸",
@@ -1414,7 +1434,7 @@
 		"items": [
 			{
 				"itemId": 14119,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/0e57dba20ff8bb3cda7dbe22dd27e245.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/14d824a73232bdd74c84a4999568e3aa.png",
 				"itemType": "Weapon",
 				"name": "深海访客",
 				"nameEn": "深海访客",
@@ -1424,7 +1444,7 @@
 			},
 			{
 				"itemId": 13113,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/9d56efcd41947e8d9f75c5d642f847b6.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/fad5c9f566db4875df2184698a1a1455.png",
 				"itemType": "Weapon",
 				"name": "含羞恶面",
 				"nameEn": "含羞恶面",
@@ -1434,7 +1454,7 @@
 			},
 			{
 				"itemId": 13111,
-				"imageUrl": "/nap/prod_gf_cn/item_icon_u5fdgd/7d8074b0d2108ce28c7a094fb6e82b07.png",
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/2005360a5fbb32d255bef751b38ab1ae.png",
 				"itemType": "Weapon",
 				"name": "旋钻机-赤轴",
 				"nameEn": "旋钻机-赤轴",
