@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.5.2",
+		"items": [
+			{
+				"itemId": 14520,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/7ce217365ba59cfa41e23ef13319dba9.png",
+				"itemType": "Weapon",
+				"name": "纺夜天镜",
+				"nameEn": "纺夜天镜",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 14521,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/23a39268794ca7cb0d4e30c459ce823b.png",
+				"itemType": "Weapon",
+				"name": "真语秘匣",
+				"nameEn": "真语秘匣",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 14434,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/182fc5756eed43ba0f54878cf0463207.png",
+				"itemType": "Weapon",
+				"name": "霜辰",
+				"nameEn": "霜辰",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 11403,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8d40dcb0e8e25ad6c5940095fa6984ab.png",
+				"itemType": "Weapon",
+				"name": "祭礼剑",
+				"nameEn": "祭礼剑",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12405,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "雨裁",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7db45b7a84bb80468aaf0f5f430e9bdc.png",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "西风长枪",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 15401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f0b8edcc330cd9de1dcf97eccb20cbaf.png",
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "西风猎弓",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2026-04-28 18:00:00",
+		"end": "2026-05-19 14:59:59"
+	},
+	{
 		"version": "6.5.1",
 		"items": [
 			{
