@@ -1,5 +1,42 @@
 [
 	{
+		"version": "3.0.1",
+		"items": [
+			{
+				"itemId": 14145,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/715cc87a08ac4aea26fd0a19e58e9bfe.png",
+				"itemType": "Weapon",
+				"name": "铸梦炉歌",
+				"nameEn": "铸梦炉歌",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/fad5c9f566db4875df2184698a1a1455.png",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "含羞恶面",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/nap/prod_gf_cn/item_icon_uda4md/1439f5852eddb664bf7baa5dbefc6d7d.png",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "好斗的阿炮",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			}
+		],
+		"start": "2026-05-06 06:00:00",
+		"end": "2026-05-27 11:59:59"
+	},
+	{
 		"version": "2.7.2",
 		"items": [
 			{

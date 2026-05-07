@@ -1,5 +1,48 @@
 [
 	{
+		"version": "3.0.1",
+		"items": [
+			{
+				"itemId": 1451,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1451.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "卢西娅",
+				"nameEn": "卢西娅",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1131.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "苍角",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzzv2/role_square_avatar/role_square_avatar_1151.png?x-oss-process=image/format,webp/quality,Q_90",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "露西",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			}
+		],
+		"start": "2026-05-06 06:00:00",
+		"end": "2026-05-27 11:59:59"
+	},
+	{
 		"version": "2.7.2",
 		"items": [
 			{
