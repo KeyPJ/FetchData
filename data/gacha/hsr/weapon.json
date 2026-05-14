@@ -1,10 +1,87 @@
 [
 	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 23058,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/05a962d84d0b6049ea90d1c73951f659.png",
+				"itemType": "Weapon",
+				"name": "邂逅于下一个花季",
+				"nameEn": "邂逅于下一个花季",
+				"rankType": 5,
+				"avatarBaseType": "9",
+				"weaponType": "elation"
+			},
+			{
+				"itemId": 23038,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "如果时间是一朵花",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "回到大地的飞行",
+				"rankType": 5,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 23031,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6b087bd5b9ded56abb7243a2e5d8c36e.png",
+				"itemType": "Weapon",
+				"name": "我将，巡征追猎",
+				"nameEn": "我将，巡征追猎",
+				"rankType": 5,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21010,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
+				"itemType": "Weapon",
+				"name": "论剑",
+				"nameEn": "论剑",
+				"rankType": 4,
+				"avatarBaseType": "2",
+				"weaponType": "the_Hunt"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "记忆中的模样",
+				"rankType": 4,
+				"avatarBaseType": "4",
+				"weaponType": "harmony"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "同一种心情",
+				"rankType": 4,
+				"avatarBaseType": "7",
+				"weaponType": "abundance"
+			}
+		],
+		"start": "2026-05-13 12:00:00",
+		"end": "2026-06-01 03:59:59"
+	},
+	{
 		"version": "4.2.1",
 		"items": [
 			{
 				"itemId": 23057,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c85d6a8a5ec79b234df89fee5e34bc38.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e8a5adf9cf245734777cfe676acb1b2b.png",
 				"itemType": "Weapon",
 				"name": "欢迎来到银河城",
 				"nameEn": "欢迎来到银河城",
@@ -14,7 +91,7 @@
 			},
 			{
 				"itemId": 23050,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f3540bb2c36f484d799857d7fff7146c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f8a673f914d6a0e9a7a717efdd1a06cc.png",
 				"itemType": "Weapon",
 				"name": "勿忘她的火焰",
 				"nameEn": "勿忘她的火焰",
@@ -24,7 +101,7 @@
 			},
 			{
 				"itemId": 23040,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/67fdbc11f5014b01dac42573a757f722.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e408e4ec60b4db0515a2644921671740.png",
 				"itemType": "Weapon",
 				"name": "让告别，更美一些",
 				"nameEn": "让告别，更美一些",
@@ -34,7 +111,7 @@
 			},
 			{
 				"itemId": 23025,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f58aeab32d6e7fd1c2a1300773da76bf.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
@@ -44,7 +121,7 @@
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e0151b2d8a27f8eecdd275acd2e2b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
@@ -54,7 +131,7 @@
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c2c09e25da6cb871693ecee98a1f3c25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
@@ -64,7 +141,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -81,7 +158,7 @@
 		"items": [
 			{
 				"itemId": 23056,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/71a67e5139e53c69b85b2abee628d756.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7ba1a371bad7f8dc34e85ff79e19a52a.png",
 				"itemType": "Weapon",
 				"name": "一场谎言的终幕",
 				"nameEn": "一场谎言的终幕",
@@ -91,7 +168,7 @@
 			},
 			{
 				"itemId": 23027,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2cb7d4321102860e82a73ee5e88ff7eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a837df9cc22f6a0b21a5f15d338941e.png",
 				"itemType": "Weapon",
 				"name": "驶向第二次生命",
 				"nameEn": "驶向第二次生命",
@@ -101,7 +178,7 @@
 			},
 			{
 				"itemId": 21047,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/431cef01ab26751e03bed9572d3f23e9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
 				"itemType": "Weapon",
 				"name": "黑夜如影随行",
 				"nameEn": "黑夜如影随行",
@@ -111,7 +188,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -121,7 +198,7 @@
 			},
 			{
 				"itemId": 21048,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/31536f80976899d35446a27c327ba503.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
 				"itemType": "Weapon",
 				"name": "梦的蒙太奇",
 				"nameEn": "梦的蒙太奇",
@@ -138,7 +215,7 @@
 		"items": [
 			{
 				"itemId": 23056,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/71a67e5139e53c69b85b2abee628d756.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7ba1a371bad7f8dc34e85ff79e19a52a.png",
 				"itemType": "Weapon",
 				"name": "一场谎言的终幕",
 				"nameEn": "一场谎言的终幕",
@@ -148,7 +225,7 @@
 			},
 			{
 				"itemId": 23042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/066542894173e5d7952b38195bea1902.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3e4e1a06d76d8c48a08744b2d324ba79.png",
 				"itemType": "Weapon",
 				"name": "愿虹光永驻天空",
 				"nameEn": "愿虹光永驻天空",
@@ -158,7 +235,7 @@
 			},
 			{
 				"itemId": 21047,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/431cef01ab26751e03bed9572d3f23e9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
 				"itemType": "Weapon",
 				"name": "黑夜如影随行",
 				"nameEn": "黑夜如影随行",
@@ -168,7 +245,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -178,7 +255,7 @@
 			},
 			{
 				"itemId": 21048,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/31536f80976899d35446a27c327ba503.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
 				"itemType": "Weapon",
 				"name": "梦的蒙太奇",
 				"nameEn": "梦的蒙太奇",
@@ -195,7 +272,7 @@
 		"items": [
 			{
 				"itemId": 23054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/266f4bf800bb565880079730910b2278.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/711a0cdfd9abe0cd50e4dce65a0f1145.png",
 				"itemType": "Weapon",
 				"name": "当她决定看见",
 				"nameEn": "当她决定看见",
@@ -205,7 +282,7 @@
 			},
 			{
 				"itemId": 23053,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b8513c737dd4ade296bf2190a900d42e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fa947701dd32800f0c6d074b6f5ddb5.png",
 				"itemType": "Weapon",
 				"name": "花花世界迷人眼",
 				"nameEn": "花花世界迷人眼",
@@ -215,7 +292,7 @@
 			},
 			{
 				"itemId": 23048,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9b11ee70e646dd4347ace5b194d8c0a4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/92f4d0507be40cccf141ee00ef94b124.png",
 				"itemType": "Weapon",
 				"name": "金血铭刻的时代",
 				"nameEn": "金血铭刻的时代",
@@ -225,7 +302,7 @@
 			},
 			{
 				"itemId": 23033,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3d8ed818f97029f74542d573b051ad08.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b6fa2f02b686eb47f87c7dfafd35c622.png",
 				"itemType": "Weapon",
 				"name": "忍法帖•缭乱破魔",
 				"nameEn": "忍法帖•缭乱破魔",
@@ -235,7 +312,7 @@
 			},
 			{
 				"itemId": 23021,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c26832c80a5eeca0153b790ec2a157d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
@@ -245,7 +322,7 @@
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5227f9dffcf922a52d52f72eb998124b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
@@ -255,7 +332,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -265,7 +342,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -282,7 +359,7 @@
 		"items": [
 			{
 				"itemId": 23054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/266f4bf800bb565880079730910b2278.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/711a0cdfd9abe0cd50e4dce65a0f1145.png",
 				"itemType": "Weapon",
 				"name": "当她决定看见",
 				"nameEn": "当她决定看见",
@@ -292,7 +369,7 @@
 			},
 			{
 				"itemId": 23049,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0432594cf2620d5b9a04b6c235cd7be9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96cfd8217ccb5e3670a90d5f83ce81da.png",
 				"itemType": "Weapon",
 				"name": "致长夜的星光",
 				"nameEn": "致长夜的星光",
@@ -302,7 +379,7 @@
 			},
 			{
 				"itemId": 23047,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/292f2a1aa25f2366c6fef5efa01e8f20.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/30bf5ee43f45cba03a19ff12f63506e0.png",
 				"itemType": "Weapon",
 				"name": "海洋为何而歌",
 				"nameEn": "海洋为何而歌",
@@ -312,7 +389,7 @@
 			},
 			{
 				"itemId": 23022,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/12bcb5ffff4f8554804f97a308ed722e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84105cf4e1c34d303dbe94f6f5bd4570.png",
 				"itemType": "Weapon",
 				"name": "重塑时光之忆",
 				"nameEn": "重塑时光之忆",
@@ -322,7 +399,7 @@
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5227f9dffcf922a52d52f72eb998124b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
@@ -332,7 +409,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -342,7 +419,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -359,7 +436,7 @@
 		"items": [
 			{
 				"itemId": 23036,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9768473e472fd53083d777ad69797f93.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/287005a30a23ee9590c2206f53aa9a74.png",
 				"itemType": "Weapon",
 				"name": "将光阴织成黄金",
 				"nameEn": "将光阴织成黄金",
@@ -369,7 +446,7 @@
 			},
 			{
 				"itemId": 23034,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2c5bc9c558233a2d887286f3976f420f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
 				"itemType": "Weapon",
 				"name": "回到大地的飞行",
 				"nameEn": "回到大地的飞行",
@@ -379,7 +456,7 @@
 			},
 			{
 				"itemId": 21051,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c3291cf8cbd66ae783edcc902324dd5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3915cfc78e5c93f337352398c95af2e5.png",
 				"itemType": "Weapon",
 				"name": "天才们的问候",
 				"nameEn": "天才们的问候",
@@ -389,7 +466,7 @@
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3813c15c823de16647b21a82c0462b50.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
@@ -399,7 +476,7 @@
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e5a7b6d8899763123a34f2052bd613f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
@@ -416,7 +493,7 @@
 		"items": [
 			{
 				"itemId": 23035,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/7ee8858adb18f60623f06cceba6ade2f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9aff6d2eec685284b7670f06c7da783d.png",
 				"itemType": "Weapon",
 				"name": "长路终有归途",
 				"nameEn": "长路终有归途",
@@ -426,7 +503,7 @@
 			},
 			{
 				"itemId": 23032,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/696fc037f04c36efda5b5d21c9ef1776.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/abcac76194afd189a04029d6efb4bc14.png",
 				"itemType": "Weapon",
 				"name": "唯有香如故",
 				"nameEn": "唯有香如故",
@@ -436,7 +513,7 @@
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/00af824ecd1e035186a6fa01012f0134.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
@@ -446,7 +523,7 @@
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/80669c9d527768685a1af5b19a5ff98e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
@@ -456,7 +533,7 @@
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/28845b4f01af035ac2087fda9cbbc309.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
@@ -473,7 +550,7 @@
 		"items": [
 			{
 				"itemId": 23050,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f3540bb2c36f484d799857d7fff7146c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f8a673f914d6a0e9a7a717efdd1a06cc.png",
 				"itemType": "Weapon",
 				"name": "勿忘她的火焰",
 				"nameEn": "勿忘她的火焰",
@@ -483,7 +560,7 @@
 			},
 			{
 				"itemId": 23025,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f58aeab32d6e7fd1c2a1300773da76bf.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
@@ -493,7 +570,7 @@
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/987bb8024f40d742041aaf6fd61c5769.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
@@ -503,7 +580,7 @@
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b9833001edee36e5022640f70580cf0a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
@@ -513,7 +590,7 @@
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0f5e0cc8ea99b13b9f1703bc2f28b0d5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
@@ -530,7 +607,7 @@
 		"items": [
 			{
 				"itemId": 23052,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c414bbaf52f50da58258709bc150d3cb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6407f9c5ac184c8a26b29fa17991434a.png",
 				"itemType": "Weapon",
 				"name": "爱如此刻永恒",
 				"nameEn": "爱如此刻永恒",
@@ -540,7 +617,7 @@
 			},
 			{
 				"itemId": 23044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/efb5494f54720082e1bf3a32cf05c76d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/24a8f9a713359cf1824f9e601e40f6b7.png",
 				"itemType": "Weapon",
 				"name": "黎明恰如此燃烧",
 				"nameEn": "黎明恰如此燃烧",
@@ -550,7 +627,7 @@
 			},
 			{
 				"itemId": 23043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c6ae7ddf069452b0a1ef694063e6bf6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/27f445d2ba12221d5e617e40e78bd6a5.png",
 				"itemType": "Weapon",
 				"name": "谎言在风中飘扬",
 				"nameEn": "谎言在风中飘扬",
@@ -560,7 +637,7 @@
 			},
 			{
 				"itemId": 23039,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dff00dc6dde980ccf348baf82f6ce63a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/731441fabef552ea9d4dc9e9a724bcb8.png",
 				"itemType": "Weapon",
 				"name": "血火啊，燃烧前路",
 				"nameEn": "血火啊，燃烧前路",
@@ -570,7 +647,7 @@
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5227f9dffcf922a52d52f72eb998124b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
@@ -580,7 +657,7 @@
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/987bb8024f40d742041aaf6fd61c5769.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
@@ -590,7 +667,7 @@
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/52221383ff7ee64f5241d8de389373ac.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
@@ -607,7 +684,7 @@
 		"items": [
 			{
 				"itemId": 23052,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c414bbaf52f50da58258709bc150d3cb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6407f9c5ac184c8a26b29fa17991434a.png",
 				"itemType": "Weapon",
 				"name": "爱如此刻永恒",
 				"nameEn": "爱如此刻永恒",
@@ -617,7 +694,7 @@
 			},
 			{
 				"itemId": 23042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/066542894173e5d7952b38195bea1902.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3e4e1a06d76d8c48a08744b2d324ba79.png",
 				"itemType": "Weapon",
 				"name": "愿虹光永驻天空",
 				"nameEn": "愿虹光永驻天空",
@@ -627,7 +704,7 @@
 			},
 			{
 				"itemId": 23040,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/67fdbc11f5014b01dac42573a757f722.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e408e4ec60b4db0515a2644921671740.png",
 				"itemType": "Weapon",
 				"name": "让告别，更美一些",
 				"nameEn": "让告别，更美一些",
@@ -637,7 +714,7 @@
 			},
 			{
 				"itemId": 23038,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/7c0f1d1cddd9a1da4bfcb0eccc4d7cb2.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
 				"itemType": "Weapon",
 				"name": "如果时间是一朵花",
 				"nameEn": "如果时间是一朵花",
@@ -647,7 +724,7 @@
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5227f9dffcf922a52d52f72eb998124b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
@@ -657,7 +734,7 @@
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/987bb8024f40d742041aaf6fd61c5769.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
@@ -667,7 +744,7 @@
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/52221383ff7ee64f5241d8de389373ac.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
@@ -684,7 +761,7 @@
 		"items": [
 			{
 				"itemId": 23051,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/4dae95e9f8ee833ec3a799726f899318.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3d78e8974ea2e80480c73c974cff538.png",
 				"itemType": "Weapon",
 				"name": "纵然山河万程",
 				"nameEn": "纵然山河万程",
@@ -694,7 +771,7 @@
 			},
 			{
 				"itemId": 23041,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0054a2058e75ecbb67d058ee8e89b698.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f5c82087d04abfe1a834344cb0efbd5b.png",
 				"itemType": "Weapon",
 				"name": "生命当付之一炬",
 				"nameEn": "生命当付之一炬",
@@ -704,7 +781,7 @@
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b3d1b48d806aa48934efcfa677d2f51f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
@@ -714,7 +791,7 @@
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e3e138ff0e640cabf3ca5c7e78203edd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
@@ -724,7 +801,7 @@
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e6447685f342ed4b119dc90f0e00d453.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
@@ -741,7 +818,7 @@
 		"items": [
 			{
 				"itemId": 23049,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0432594cf2620d5b9a04b6c235cd7be9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96cfd8217ccb5e3670a90d5f83ce81da.png",
 				"itemType": "Weapon",
 				"name": "致长夜的星光",
 				"nameEn": "致长夜的星光",
@@ -751,7 +828,7 @@
 			},
 			{
 				"itemId": 23037,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/ff7f64b06d27cc188fe58fc8fa6cb4c6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/faf6101eb19c3a8b49929beb74433057.png",
 				"itemType": "Weapon",
 				"name": "向着不可追问处",
 				"nameEn": "向着不可追问处",
@@ -761,7 +838,7 @@
 			},
 			{
 				"itemId": 21048,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/31536f80976899d35446a27c327ba503.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
 				"itemType": "Weapon",
 				"name": "梦的蒙太奇",
 				"nameEn": "梦的蒙太奇",
@@ -771,7 +848,7 @@
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/029416499deb519301c98d27a2296316.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
@@ -781,7 +858,7 @@
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e5a7b6d8899763123a34f2052bd613f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
@@ -798,7 +875,7 @@
 		"items": [
 			{
 				"itemId": 23048,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9b11ee70e646dd4347ace5b194d8c0a4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/92f4d0507be40cccf141ee00ef94b124.png",
 				"itemType": "Weapon",
 				"name": "金血铭刻的时代",
 				"nameEn": "金血铭刻的时代",
@@ -808,7 +885,7 @@
 			},
 			{
 				"itemId": 23007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/16205d0f6be3ad14a7576e6b81be65d4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
@@ -818,7 +895,7 @@
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f1d7ed716c7596670dc04f1abcd6aaf3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
@@ -828,7 +905,7 @@
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dd6ba829778bbf03cc7bae3b7412e74d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
 				"itemType": "Weapon",
 				"name": "论剑",
 				"nameEn": "论剑",
@@ -838,7 +915,7 @@
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0f5e0cc8ea99b13b9f1703bc2f28b0d5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
@@ -855,7 +932,7 @@
 		"items": [
 			{
 				"itemId": 23047,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/292f2a1aa25f2366c6fef5efa01e8f20.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/30bf5ee43f45cba03a19ff12f63506e0.png",
 				"itemType": "Weapon",
 				"name": "海洋为何而歌",
 				"nameEn": "海洋为何而歌",
@@ -865,7 +942,7 @@
 			},
 			{
 				"itemId": 23006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5eb9b972af1aa7852bca2ca43c59b201.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
 				"nameEn": "只需等待",
@@ -875,7 +952,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -885,7 +962,7 @@
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e0151b2d8a27f8eecdd275acd2e2b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
@@ -895,7 +972,7 @@
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c2c09e25da6cb871693ecee98a1f3c25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
@@ -912,7 +989,7 @@
 		"items": [
 			{
 				"itemId": 23025,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f58aeab32d6e7fd1c2a1300773da76bf.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
@@ -922,7 +999,7 @@
 			},
 			{
 				"itemId": 23014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3d91bcfea04b49b30b4432436d2bd7dd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/af9eebbf9c92c7ddcebb9fbefafd3a32.png",
 				"itemType": "Weapon",
 				"name": "此身为剑",
 				"nameEn": "此身为剑",
@@ -932,7 +1009,7 @@
 			},
 			{
 				"itemId": 23009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b064c69acc911963c88ff1deac23d744.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/570db04681f03617912f86bd7079fafd.png",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸",
 				"nameEn": "到不了的彼岸",
@@ -942,7 +1019,7 @@
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/1f8ce3fc8b602988ed91f40739276fe9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
@@ -952,7 +1029,7 @@
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/a65f8f1638588090024fb9de381f093c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
@@ -962,7 +1039,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -979,7 +1056,7 @@
 		"items": [
 			{
 				"itemId": 23044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/efb5494f54720082e1bf3a32cf05c76d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/24a8f9a713359cf1824f9e601e40f6b7.png",
 				"itemType": "Weapon",
 				"name": "黎明恰如此燃烧",
 				"nameEn": "黎明恰如此燃烧",
@@ -989,7 +1066,7 @@
 			},
 			{
 				"itemId": 23038,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/7c0f1d1cddd9a1da4bfcb0eccc4d7cb2.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
 				"itemType": "Weapon",
 				"name": "如果时间是一朵花",
 				"nameEn": "如果时间是一朵花",
@@ -999,7 +1076,7 @@
 			},
 			{
 				"itemId": 23034,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2c5bc9c558233a2d887286f3976f420f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
 				"itemType": "Weapon",
 				"name": "回到大地的飞行",
 				"nameEn": "回到大地的飞行",
@@ -1009,7 +1086,7 @@
 			},
 			{
 				"itemId": 23021,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c26832c80a5eeca0153b790ec2a157d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
@@ -1019,7 +1096,7 @@
 			},
 			{
 				"itemId": 21054,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5227f9dffcf922a52d52f72eb998124b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8aa2107ca89c53c1faac578c6b3ab82d.png",
 				"itemType": "Weapon",
 				"name": "故事的下一页",
 				"nameEn": "故事的下一页",
@@ -1029,7 +1106,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -1039,7 +1116,7 @@
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/d86e2894008da5e6bf50bc411f41c076.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
@@ -1056,7 +1133,7 @@
 		"items": [
 			{
 				"itemId": 23043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c6ae7ddf069452b0a1ef694063e6bf6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/27f445d2ba12221d5e617e40e78bd6a5.png",
 				"itemType": "Weapon",
 				"name": "谎言在风中飘扬",
 				"nameEn": "谎言在风中飘扬",
@@ -1066,7 +1143,7 @@
 			},
 			{
 				"itemId": 23036,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9768473e472fd53083d777ad69797f93.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/287005a30a23ee9590c2206f53aa9a74.png",
 				"itemType": "Weapon",
 				"name": "将光阴织成黄金",
 				"nameEn": "将光阴织成黄金",
@@ -1076,7 +1153,7 @@
 			},
 			{
 				"itemId": 21051,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c3291cf8cbd66ae783edcc902324dd5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3915cfc78e5c93f337352398c95af2e5.png",
 				"itemType": "Weapon",
 				"name": "天才们的问候",
 				"nameEn": "天才们的问候",
@@ -1086,7 +1163,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -1096,7 +1173,7 @@
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/19f79cac89ae3fb143c0c423e3879f06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
@@ -1113,7 +1190,7 @@
 		"items": [
 			{
 				"itemId": 23042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/066542894173e5d7952b38195bea1902.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3e4e1a06d76d8c48a08744b2d324ba79.png",
 				"itemType": "Weapon",
 				"name": "愿虹光永驻天空",
 				"nameEn": "愿虹光永驻天空",
@@ -1123,7 +1200,7 @@
 			},
 			{
 				"itemId": 23037,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/ff7f64b06d27cc188fe58fc8fa6cb4c6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/faf6101eb19c3a8b49929beb74433057.png",
 				"itemType": "Weapon",
 				"name": "向着不可追问处",
 				"nameEn": "向着不可追问处",
@@ -1133,7 +1210,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -1143,7 +1220,7 @@
 			},
 			{
 				"itemId": 21047,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/431cef01ab26751e03bed9572d3f23e9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
 				"itemType": "Weapon",
 				"name": "黑夜如影随行",
 				"nameEn": "黑夜如影随行",
@@ -1153,7 +1230,7 @@
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/96704e4aa9aeb1bed379da37f55485aa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
@@ -1170,7 +1247,7 @@
 		"items": [
 			{
 				"itemId": 23041,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0054a2058e75ecbb67d058ee8e89b698.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f5c82087d04abfe1a834344cb0efbd5b.png",
 				"itemType": "Weapon",
 				"name": "生命当付之一炬",
 				"nameEn": "生命当付之一炬",
@@ -1180,7 +1257,7 @@
 			},
 			{
 				"itemId": 23020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2b66192e664b6cdb6a72df27531d5db4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b97cdfa3034d757fe747156606cf2ce2.png",
 				"itemType": "Weapon",
 				"name": "纯粹思维的洗礼",
 				"nameEn": "纯粹思维的洗礼",
@@ -1190,7 +1267,7 @@
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3813c15c823de16647b21a82c0462b50.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
@@ -1200,7 +1277,7 @@
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/029416499deb519301c98d27a2296316.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
@@ -1210,7 +1287,7 @@
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/28845b4f01af035ac2087fda9cbbc309.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
@@ -1227,7 +1304,7 @@
 		"items": [
 			{
 				"itemId": 23040,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/67fdbc11f5014b01dac42573a757f722.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e408e4ec60b4db0515a2644921671740.png",
 				"itemType": "Weapon",
 				"name": "让告别，更美一些",
 				"nameEn": "让告别，更美一些",
@@ -1237,7 +1314,7 @@
 			},
 			{
 				"itemId": 23035,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/7ee8858adb18f60623f06cceba6ade2f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9aff6d2eec685284b7670f06c7da783d.png",
 				"itemType": "Weapon",
 				"name": "长路终有归途",
 				"nameEn": "长路终有归途",
@@ -1247,7 +1324,7 @@
 			},
 			{
 				"itemId": 23029,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/65f8fa605cc7810d0909475f70b54b57.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/fda42c6d48cee9bed63cc45040f09c0e.png",
 				"itemType": "Weapon",
 				"name": "那无数个春天",
 				"nameEn": "那无数个春天",
@@ -1257,7 +1334,7 @@
 			},
 			{
 				"itemId": 23024,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/4556471cf8ffe7f2fb67cb948a763439.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da18901d4e35bb755e4cf99d7ec474f7.png",
 				"itemType": "Weapon",
 				"name": "行于流逝的岸",
 				"nameEn": "行于流逝的岸",
@@ -1267,7 +1344,7 @@
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0f5e0cc8ea99b13b9f1703bc2f28b0d5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
@@ -1277,7 +1354,7 @@
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/80669c9d527768685a1af5b19a5ff98e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
@@ -1287,7 +1364,7 @@
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/52221383ff7ee64f5241d8de389373ac.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
@@ -1304,7 +1381,7 @@
 		"items": [
 			{
 				"itemId": 23039,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dff00dc6dde980ccf348baf82f6ce63a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/731441fabef552ea9d4dc9e9a724bcb8.png",
 				"itemType": "Weapon",
 				"name": "血火啊，燃烧前路",
 				"nameEn": "血火啊，燃烧前路",
@@ -1314,7 +1391,7 @@
 			},
 			{
 				"itemId": 23017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/643a7822614799544080b1fee130003b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b12cdfa0a8aca9422c573ea4ce8b9bc1.png",
 				"itemType": "Weapon",
 				"name": "惊魂夜",
 				"nameEn": "惊魂夜",
@@ -1324,7 +1401,7 @@
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e6447685f342ed4b119dc90f0e00d453.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
@@ -1334,7 +1411,7 @@
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/1f8ce3fc8b602988ed91f40739276fe9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
@@ -1344,7 +1421,7 @@
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b9833001edee36e5022640f70580cf0a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
@@ -1361,7 +1438,7 @@
 		"items": [
 			{
 				"itemId": 23038,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/7c0f1d1cddd9a1da4bfcb0eccc4d7cb2.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/304eddbcbb4c1d120cedc95b4ee5cc87.png",
 				"itemType": "Weapon",
 				"name": "如果时间是一朵花",
 				"nameEn": "如果时间是一朵花",
@@ -1371,7 +1448,7 @@
 			},
 			{
 				"itemId": 23030,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/ab51319c0fd1377946d688e727988d11.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/5b4b9ec648a1c8946340e08334f296a7.png",
 				"itemType": "Weapon",
 				"name": "落日时起舞",
 				"nameEn": "落日时起舞",
@@ -1381,7 +1458,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -1391,7 +1468,7 @@
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/80669c9d527768685a1af5b19a5ff98e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
@@ -1401,7 +1478,7 @@
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3813c15c823de16647b21a82c0462b50.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
@@ -1418,7 +1495,7 @@
 		"items": [
 			{
 				"itemId": 23036,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9768473e472fd53083d777ad69797f93.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/287005a30a23ee9590c2206f53aa9a74.png",
 				"itemType": "Weapon",
 				"name": "将光阴织成黄金",
 				"nameEn": "将光阴织成黄金",
@@ -1428,7 +1505,7 @@
 			},
 			{
 				"itemId": 23027,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2cb7d4321102860e82a73ee5e88ff7eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a837df9cc22f6a0b21a5f15d338941e.png",
 				"itemType": "Weapon",
 				"name": "驶向第二次生命",
 				"nameEn": "驶向第二次生命",
@@ -1438,7 +1515,7 @@
 			},
 			{
 				"itemId": 23026,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/8c6d5371b64dee47c8ee441fea6b735a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b59856b23c5b4448378b6113127d6e37.png",
 				"itemType": "Weapon",
 				"name": "夜色流光溢彩",
 				"nameEn": "夜色流光溢彩",
@@ -1448,7 +1525,7 @@
 			},
 			{
 				"itemId": 23007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/16205d0f6be3ad14a7576e6b81be65d4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
@@ -1458,7 +1535,7 @@
 			},
 			{
 				"itemId": 21051,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c3291cf8cbd66ae783edcc902324dd5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/3915cfc78e5c93f337352398c95af2e5.png",
 				"itemType": "Weapon",
 				"name": "天才们的问候",
 				"nameEn": "天才们的问候",
@@ -1468,7 +1545,7 @@
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/a65f8f1638588090024fb9de381f093c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
@@ -1478,7 +1555,7 @@
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e5a7b6d8899763123a34f2052bd613f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
@@ -1495,7 +1572,7 @@
 		"items": [
 			{
 				"itemId": 23037,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/ff7f64b06d27cc188fe58fc8fa6cb4c6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/faf6101eb19c3a8b49929beb74433057.png",
 				"itemType": "Weapon",
 				"name": "向着不可追问处",
 				"nameEn": "向着不可追问处",
@@ -1505,7 +1582,7 @@
 			},
 			{
 				"itemId": 23032,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/696fc037f04c36efda5b5d21c9ef1776.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/abcac76194afd189a04029d6efb4bc14.png",
 				"itemType": "Weapon",
 				"name": "唯有香如故",
 				"nameEn": "唯有香如故",
@@ -1515,7 +1592,7 @@
 			},
 			{
 				"itemId": 23031,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9d8b54172948c5414856cdc505481c87.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6b087bd5b9ded56abb7243a2e5d8c36e.png",
 				"itemType": "Weapon",
 				"name": "我将，巡征追猎",
 				"nameEn": "我将，巡征追猎",
@@ -1525,7 +1602,7 @@
 			},
 			{
 				"itemId": 23028,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/734a30b2073e3394376879b80e860947.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/76b0aeda29dc6dc19c9f13f957df79e9.png",
 				"itemType": "Weapon",
 				"name": "偏偏希望无价",
 				"nameEn": "偏偏希望无价",
@@ -1535,7 +1612,7 @@
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e3e138ff0e640cabf3ca5c7e78203edd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
@@ -1545,7 +1622,7 @@
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b3d1b48d806aa48934efcfa677d2f51f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
@@ -1555,7 +1632,7 @@
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/00af824ecd1e035186a6fa01012f0134.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
@@ -1572,7 +1649,7 @@
 		"items": [
 			{
 				"itemId": 23035,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/7ee8858adb18f60623f06cceba6ade2f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/9aff6d2eec685284b7670f06c7da783d.png",
 				"itemType": "Weapon",
 				"name": "长路终有归途",
 				"nameEn": "长路终有归途",
@@ -1582,7 +1659,7 @@
 			},
 			{
 				"itemId": 23025,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f58aeab32d6e7fd1c2a1300773da76bf.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
@@ -1592,7 +1669,7 @@
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c2c09e25da6cb871693ecee98a1f3c25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
@@ -1602,7 +1679,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -1612,7 +1689,7 @@
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/987bb8024f40d742041aaf6fd61c5769.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
@@ -1629,7 +1706,7 @@
 		"items": [
 			{
 				"itemId": 23034,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2c5bc9c558233a2d887286f3976f420f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc0b0ed560bceeb9fc9709a1e8110cb9.png",
 				"itemType": "Weapon",
 				"name": "回到大地的飞行",
 				"nameEn": "回到大地的飞行",
@@ -1639,7 +1716,7 @@
 			},
 			{
 				"itemId": 23010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/944c5e13e055c3b45777fda2296349e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fb300623168c56651285bd66bb55b94.png",
 				"itemType": "Weapon",
 				"name": "拂晓之前",
 				"nameEn": "拂晓之前",
@@ -1649,7 +1726,7 @@
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e0151b2d8a27f8eecdd275acd2e2b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
@@ -1659,7 +1736,7 @@
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f1d7ed716c7596670dc04f1abcd6aaf3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
@@ -1669,7 +1746,7 @@
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dd6ba829778bbf03cc7bae3b7412e74d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
 				"itemType": "Weapon",
 				"name": "论剑",
 				"nameEn": "论剑",
@@ -1686,7 +1763,7 @@
 		"items": [
 			{
 				"itemId": 23024,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/4556471cf8ffe7f2fb67cb948a763439.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da18901d4e35bb755e4cf99d7ec474f7.png",
 				"itemType": "Weapon",
 				"name": "行于流逝的岸",
 				"nameEn": "行于流逝的岸",
@@ -1696,7 +1773,7 @@
 			},
 			{
 				"itemId": 23023,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/6970ec9304ec2b07470b7e571c316015.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/422002a136848c2eeb11566983b34783.png",
 				"itemType": "Weapon",
 				"name": "命运从未公平",
 				"nameEn": "命运从未公平",
@@ -1706,7 +1783,7 @@
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/96704e4aa9aeb1bed379da37f55485aa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
@@ -1716,7 +1793,7 @@
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/52221383ff7ee64f5241d8de389373ac.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
@@ -1726,7 +1803,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -1743,7 +1820,7 @@
 		"items": [
 			{
 				"itemId": 23033,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3d8ed818f97029f74542d573b051ad08.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b6fa2f02b686eb47f87c7dfafd35c622.png",
 				"itemType": "Weapon",
 				"name": "忍法帖•缭乱破魔",
 				"nameEn": "忍法帖•缭乱破魔",
@@ -1753,7 +1830,7 @@
 			},
 			{
 				"itemId": 23015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/019add8975140f8fe5f031965afa370f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/009473f2d1b4fc6f32bdbeaccf6537b2.png",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的",
 				"nameEn": "比阳光更明亮的",
@@ -1763,7 +1840,7 @@
 			},
 			{
 				"itemId": 21048,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/31536f80976899d35446a27c327ba503.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/38c47e0f561150b17f3b278c4a21dede.png",
 				"itemType": "Weapon",
 				"name": "梦的蒙太奇",
 				"nameEn": "梦的蒙太奇",
@@ -1773,7 +1850,7 @@
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/029416499deb519301c98d27a2296316.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
@@ -1783,7 +1860,7 @@
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/d86e2894008da5e6bf50bc411f41c076.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
@@ -1800,7 +1877,7 @@
 		"items": [
 			{
 				"itemId": 23032,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/696fc037f04c36efda5b5d21c9ef1776.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/abcac76194afd189a04029d6efb4bc14.png",
 				"itemType": "Weapon",
 				"name": "唯有香如故",
 				"nameEn": "唯有香如故",
@@ -1810,7 +1887,7 @@
 			},
 			{
 				"itemId": 23016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b4d921988c5610765b9ea6bbf965c5a9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d66d4ab03f26f196b4605972bca4245d.png",
 				"itemType": "Weapon",
 				"name": "烦恼着，幸福着",
 				"nameEn": "烦恼着，幸福着",
@@ -1820,7 +1897,7 @@
 			},
 			{
 				"itemId": 21047,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/431cef01ab26751e03bed9572d3f23e9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/dc896ee1ddd2edda5c9cacfd8e7a1187.png",
 				"itemType": "Weapon",
 				"name": "黑夜如影随行",
 				"nameEn": "黑夜如影随行",
@@ -1830,7 +1907,7 @@
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/19f79cac89ae3fb143c0c423e3879f06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
@@ -1840,7 +1917,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -1857,7 +1934,7 @@
 		"items": [
 			{
 				"itemId": 23031,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/9d8b54172948c5414856cdc505481c87.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/6b087bd5b9ded56abb7243a2e5d8c36e.png",
 				"itemType": "Weapon",
 				"name": "我将，巡征追猎",
 				"nameEn": "我将，巡征追猎",
@@ -1867,7 +1944,7 @@
 			},
 			{
 				"itemId": 23006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5eb9b972af1aa7852bca2ca43c59b201.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
 				"nameEn": "只需等待",
@@ -1877,7 +1954,7 @@
 			},
 			{
 				"itemId": 23022,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/12bcb5ffff4f8554804f97a308ed722e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84105cf4e1c34d303dbe94f6f5bd4570.png",
 				"itemType": "Weapon",
 				"name": "重塑时光之忆",
 				"nameEn": "重塑时光之忆",
@@ -1887,7 +1964,7 @@
 			},
 			{
 				"itemId": 23026,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/8c6d5371b64dee47c8ee441fea6b735a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b59856b23c5b4448378b6113127d6e37.png",
 				"itemType": "Weapon",
 				"name": "夜色流光溢彩",
 				"nameEn": "夜色流光溢彩",
@@ -1897,7 +1974,7 @@
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dd6ba829778bbf03cc7bae3b7412e74d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
 				"itemType": "Weapon",
 				"name": "论剑",
 				"nameEn": "论剑",
@@ -1907,7 +1984,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -1917,7 +1994,7 @@
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f1d7ed716c7596670dc04f1abcd6aaf3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
@@ -1934,7 +2011,7 @@
 		"items": [
 			{
 				"itemId": 23029,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/65f8fa605cc7810d0909475f70b54b57.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/fda42c6d48cee9bed63cc45040f09c0e.png",
 				"itemType": "Weapon",
 				"name": "那无数个春天",
 				"nameEn": "那无数个春天",
@@ -1944,7 +2021,7 @@
 			},
 			{
 				"itemId": 23021,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c26832c80a5eeca0153b790ec2a157d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
@@ -1954,7 +2031,7 @@
 			},
 			{
 				"itemId": 21046,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e0151b2d8a27f8eecdd275acd2e2b45.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2578c7466fe6e0177b75fa521cb2174c.png",
 				"itemType": "Weapon",
 				"name": "芳华待灼",
 				"nameEn": "芳华待灼",
@@ -1964,7 +2041,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -1974,7 +2051,7 @@
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/1f8ce3fc8b602988ed91f40739276fe9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
@@ -1991,7 +2068,7 @@
 		"items": [
 			{
 				"itemId": 23030,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/ab51319c0fd1377946d688e727988d11.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/5b4b9ec648a1c8946340e08334f296a7.png",
 				"itemType": "Weapon",
 				"name": "落日时起舞",
 				"nameEn": "落日时起舞",
@@ -2001,7 +2078,7 @@
 			},
 			{
 				"itemId": 23017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/643a7822614799544080b1fee130003b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b12cdfa0a8aca9422c573ea4ce8b9bc1.png",
 				"itemType": "Weapon",
 				"name": "惊魂夜",
 				"nameEn": "惊魂夜",
@@ -2011,7 +2088,7 @@
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/28845b4f01af035ac2087fda9cbbc309.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
@@ -2021,7 +2098,7 @@
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e6447685f342ed4b119dc90f0e00d453.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
@@ -2031,7 +2108,7 @@
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f1d7ed716c7596670dc04f1abcd6aaf3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
@@ -2048,7 +2125,7 @@
 		"items": [
 			{
 				"itemId": 23028,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/734a30b2073e3394376879b80e860947.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/76b0aeda29dc6dc19c9f13f957df79e9.png",
 				"itemType": "Weapon",
 				"name": "偏偏希望无价",
 				"nameEn": "偏偏希望无价",
@@ -2058,7 +2135,7 @@
 			},
 			{
 				"itemId": 23018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2b4d31df0f8376e083763661766677e7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0ad8470d0cac98e2163f5329f9f65986.png",
 				"itemType": "Weapon",
 				"name": "片刻，留在眼底",
 				"nameEn": "片刻，留在眼底",
@@ -2068,7 +2145,7 @@
 			},
 			{
 				"itemId": 21045,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/029416499deb519301c98d27a2296316.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4e92e77077f3fbb86c2728a3d338955e.png",
 				"itemType": "Weapon",
 				"name": "谐乐静默之后",
 				"nameEn": "谐乐静默之后",
@@ -2078,7 +2155,7 @@
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/19f79cac89ae3fb143c0c423e3879f06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
@@ -2088,7 +2165,7 @@
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3813c15c823de16647b21a82c0462b50.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
@@ -2105,7 +2182,7 @@
 		"items": [
 			{
 				"itemId": 23025,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f58aeab32d6e7fd1c2a1300773da76bf.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/886a0288a6d24c2373f9b080417d6224.png",
 				"itemType": "Weapon",
 				"name": "梦应归于何处",
 				"nameEn": "梦应归于何处",
@@ -2115,7 +2192,7 @@
 			},
 			{
 				"itemId": 23019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/fbc07f39af80a9e6b51dc97b79f5cdd6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8f130dc42d19fb2531de735a7aaaf8d3.png",
 				"itemType": "Weapon",
 				"name": "镜中故我",
 				"nameEn": "镜中故我",
@@ -2125,7 +2202,7 @@
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b9833001edee36e5022640f70580cf0a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
@@ -2135,7 +2212,7 @@
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/96704e4aa9aeb1bed379da37f55485aa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
@@ -2145,7 +2222,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -2162,7 +2239,7 @@
 		"items": [
 			{
 				"itemId": 23027,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2cb7d4321102860e82a73ee5e88ff7eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8a837df9cc22f6a0b21a5f15d338941e.png",
 				"itemType": "Weapon",
 				"name": "驶向第二次生命",
 				"nameEn": "驶向第二次生命",
@@ -2172,7 +2249,7 @@
 			},
 			{
 				"itemId": 23011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/4d7e2c3589c969eed373fe7df7951270.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96f6fcfbc3dd8b3908d2e045f1590056.png",
 				"itemType": "Weapon",
 				"name": "她已闭上双眼",
 				"nameEn": "她已闭上双眼",
@@ -2182,7 +2259,7 @@
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/00af824ecd1e035186a6fa01012f0134.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
@@ -2192,7 +2269,7 @@
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/1f8ce3fc8b602988ed91f40739276fe9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
@@ -2202,7 +2279,7 @@
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b3d1b48d806aa48934efcfa677d2f51f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
@@ -2219,7 +2296,7 @@
 		"items": [
 			{
 				"itemId": 23026,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/8c6d5371b64dee47c8ee441fea6b735a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b59856b23c5b4448378b6113127d6e37.png",
 				"itemType": "Weapon",
 				"name": "夜色流光溢彩",
 				"nameEn": "夜色流光溢彩",
@@ -2229,7 +2306,7 @@
 			},
 			{
 				"itemId": 23016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b4d921988c5610765b9ea6bbf965c5a9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d66d4ab03f26f196b4605972bca4245d.png",
 				"itemType": "Weapon",
 				"name": "烦恼着，幸福着",
 				"nameEn": "烦恼着，幸福着",
@@ -2239,7 +2316,7 @@
 			},
 			{
 				"itemId": 21044,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/52221383ff7ee64f5241d8de389373ac.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84e3eb1c24d9c681028067cdc42c0b84.png",
 				"itemType": "Weapon",
 				"name": "无边曼舞",
 				"nameEn": "无边曼舞",
@@ -2249,7 +2326,7 @@
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dd6ba829778bbf03cc7bae3b7412e74d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
 				"itemType": "Weapon",
 				"name": "论剑",
 				"nameEn": "论剑",
@@ -2259,7 +2336,7 @@
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e6447685f342ed4b119dc90f0e00d453.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
@@ -2276,7 +2353,7 @@
 		"items": [
 			{
 				"itemId": 23023,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/6970ec9304ec2b07470b7e571c316015.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/422002a136848c2eeb11566983b34783.png",
 				"itemType": "Weapon",
 				"name": "命运从未公平",
 				"nameEn": "命运从未公平",
@@ -2286,7 +2363,7 @@
 			},
 			{
 				"itemId": 23014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3d91bcfea04b49b30b4432436d2bd7dd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/af9eebbf9c92c7ddcebb9fbefafd3a32.png",
 				"itemType": "Weapon",
 				"name": "此身为剑",
 				"nameEn": "此身为剑",
@@ -2296,7 +2373,7 @@
 			},
 			{
 				"itemId": 21043,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/987bb8024f40d742041aaf6fd61c5769.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bd7093688f1f33f8ea51ba268a35d3f3.png",
 				"itemType": "Weapon",
 				"name": "两个人的演唱会",
 				"nameEn": "两个人的演唱会",
@@ -2306,7 +2383,7 @@
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/19f79cac89ae3fb143c0c423e3879f06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
@@ -2316,7 +2393,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -2333,7 +2410,7 @@
 		"items": [
 			{
 				"itemId": 23024,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/4556471cf8ffe7f2fb67cb948a763439.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/da18901d4e35bb755e4cf99d7ec474f7.png",
 				"itemType": "Weapon",
 				"name": "行于流逝的岸",
 				"nameEn": "行于流逝的岸",
@@ -2343,7 +2420,7 @@
 			},
 			{
 				"itemId": 23008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/383bec1c97561ffff103918174883703.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f96ee8693f5969286841d42537f24628.png",
 				"itemType": "Weapon",
 				"name": "棺的回响",
 				"nameEn": "棺的回响",
@@ -2353,7 +2430,7 @@
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0f5e0cc8ea99b13b9f1703bc2f28b0d5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
@@ -2363,7 +2440,7 @@
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/80669c9d527768685a1af5b19a5ff98e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
@@ -2373,7 +2450,7 @@
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/a65f8f1638588090024fb9de381f093c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
@@ -2390,7 +2467,7 @@
 		"items": [
 			{
 				"itemId": 23021,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0c26832c80a5eeca0153b790ec2a157d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d4bfdefcc7412ebcfff34f6d98c34f97.png",
 				"itemType": "Weapon",
 				"name": "游戏尘寰",
 				"nameEn": "游戏尘寰",
@@ -2400,7 +2477,7 @@
 			},
 			{
 				"itemId": 23010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/944c5e13e055c3b45777fda2296349e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fb300623168c56651285bd66bb55b94.png",
 				"itemType": "Weapon",
 				"name": "拂晓之前",
 				"nameEn": "拂晓之前",
@@ -2410,7 +2487,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -2420,7 +2497,7 @@
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/d86e2894008da5e6bf50bc411f41c076.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
@@ -2430,7 +2507,7 @@
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/00af824ecd1e035186a6fa01012f0134.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
@@ -2447,7 +2524,7 @@
 		"items": [
 			{
 				"itemId": 23022,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/12bcb5ffff4f8554804f97a308ed722e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/84105cf4e1c34d303dbe94f6f5bd4570.png",
 				"itemType": "Weapon",
 				"name": "重塑时光之忆",
 				"nameEn": "重塑时光之忆",
@@ -2457,7 +2534,7 @@
 			},
 			{
 				"itemId": 23015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/019add8975140f8fe5f031965afa370f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/009473f2d1b4fc6f32bdbeaccf6537b2.png",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的",
 				"nameEn": "比阳光更明亮的",
@@ -2467,7 +2544,7 @@
 			},
 			{
 				"itemId": 21042,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/c2c09e25da6cb871693ecee98a1f3c25.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b767e4360de65b9638f1c284ba3557c3.png",
 				"itemType": "Weapon",
 				"name": "铭记于心的约定",
 				"nameEn": "铭记于心的约定",
@@ -2477,7 +2554,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -2487,7 +2564,7 @@
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e5a7b6d8899763123a34f2052bd613f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
@@ -2504,7 +2581,7 @@
 		"items": [
 			{
 				"itemId": 23020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2b66192e664b6cdb6a72df27531d5db4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b97cdfa3034d757fe747156606cf2ce2.png",
 				"itemType": "Weapon",
 				"name": "纯粹思维的洗礼",
 				"nameEn": "纯粹思维的洗礼",
@@ -2514,7 +2591,7 @@
 			},
 			{
 				"itemId": 23006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5eb9b972af1aa7852bca2ca43c59b201.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
 				"nameEn": "只需等待",
@@ -2524,7 +2601,7 @@
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e6447685f342ed4b119dc90f0e00d453.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
@@ -2534,7 +2611,7 @@
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e3e138ff0e640cabf3ca5c7e78203edd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
@@ -2544,7 +2621,7 @@
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b3d1b48d806aa48934efcfa677d2f51f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
@@ -2561,7 +2638,7 @@
 		"items": [
 			{
 				"itemId": 23019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/fbc07f39af80a9e6b51dc97b79f5cdd6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8f130dc42d19fb2531de735a7aaaf8d3.png",
 				"itemType": "Weapon",
 				"name": "镜中故我",
 				"nameEn": "镜中故我",
@@ -2571,7 +2648,7 @@
 			},
 			{
 				"itemId": 23009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b064c69acc911963c88ff1deac23d744.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/570db04681f03617912f86bd7079fafd.png",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸",
 				"nameEn": "到不了的彼岸",
@@ -2581,7 +2658,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -2591,7 +2668,7 @@
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/96704e4aa9aeb1bed379da37f55485aa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
@@ -2601,7 +2678,7 @@
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/1f8ce3fc8b602988ed91f40739276fe9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
@@ -2618,7 +2695,7 @@
 		"items": [
 			{
 				"itemId": 23018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2b4d31df0f8376e083763661766677e7.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0ad8470d0cac98e2163f5329f9f65986.png",
 				"itemType": "Weapon",
 				"name": "片刻，留在眼底",
 				"nameEn": "片刻，留在眼底",
@@ -2628,7 +2705,7 @@
 			},
 			{
 				"itemId": 23007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/16205d0f6be3ad14a7576e6b81be65d4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
@@ -2638,7 +2715,7 @@
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/d86e2894008da5e6bf50bc411f41c076.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
@@ -2648,7 +2725,7 @@
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/80669c9d527768685a1af5b19a5ff98e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
@@ -2658,7 +2735,7 @@
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f1d7ed716c7596670dc04f1abcd6aaf3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
@@ -2675,7 +2752,7 @@
 		"items": [
 			{
 				"itemId": 23017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/643a7822614799544080b1fee130003b.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b12cdfa0a8aca9422c573ea4ce8b9bc1.png",
 				"itemType": "Weapon",
 				"name": "惊魂夜",
 				"nameEn": "惊魂夜",
@@ -2685,7 +2762,7 @@
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/19f79cac89ae3fb143c0c423e3879f06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
@@ -2695,7 +2772,7 @@
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/a65f8f1638588090024fb9de381f093c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
@@ -2705,7 +2782,7 @@
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3813c15c823de16647b21a82c0462b50.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
@@ -2722,7 +2799,7 @@
 		"items": [
 			{
 				"itemId": 23016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b4d921988c5610765b9ea6bbf965c5a9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/d66d4ab03f26f196b4605972bca4245d.png",
 				"itemType": "Weapon",
 				"name": "烦恼着，幸福着",
 				"nameEn": "烦恼着，幸福着",
@@ -2732,7 +2809,7 @@
 			},
 			{
 				"itemId": 23001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/eab10428f38e33947560182ac6d1d5c6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/75edd4ed967326d4106a91dfc6af9971.png",
 				"itemType": "Weapon",
 				"name": "于夜色中",
 				"nameEn": "于夜色中",
@@ -2742,7 +2819,7 @@
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/28845b4f01af035ac2087fda9cbbc309.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
@@ -2752,7 +2829,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -2762,7 +2839,7 @@
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e3e138ff0e640cabf3ca5c7e78203edd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
@@ -2779,7 +2856,7 @@
 		"items": [
 			{
 				"itemId": 23014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3d91bcfea04b49b30b4432436d2bd7dd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/af9eebbf9c92c7ddcebb9fbefafd3a32.png",
 				"itemType": "Weapon",
 				"name": "此身为剑",
 				"nameEn": "此身为剑",
@@ -2789,7 +2866,7 @@
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b9833001edee36e5022640f70580cf0a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
@@ -2799,7 +2876,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -2809,7 +2886,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -2826,7 +2903,7 @@
 		"items": [
 			{
 				"itemId": 23011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/4d7e2c3589c969eed373fe7df7951270.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/96f6fcfbc3dd8b3908d2e045f1590056.png",
 				"itemType": "Weapon",
 				"name": "她已闭上双眼",
 				"nameEn": "她已闭上双眼",
@@ -2836,7 +2913,7 @@
 			},
 			{
 				"itemId": 21014,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e6447685f342ed4b119dc90f0e00d453.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/412d42b4e85a9c114ac574b8ea78b0c6.png",
 				"itemType": "Weapon",
 				"name": "此时恰好",
 				"nameEn": "此时恰好",
@@ -2846,7 +2923,7 @@
 			},
 			{
 				"itemId": 21016,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/3813c15c823de16647b21a82c0462b50.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e6757a17cf26785a444e2b8fdb0f129f.png",
 				"itemType": "Weapon",
 				"name": "宇宙市场趋势",
 				"nameEn": "宇宙市场趋势",
@@ -2856,7 +2933,7 @@
 			},
 			{
 				"itemId": 21019,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/d86e2894008da5e6bf50bc411f41c076.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/78e79d9a162f55838c1fef39983ad28f.png",
 				"itemType": "Weapon",
 				"name": "在蓝天下",
 				"nameEn": "在蓝天下",
@@ -2873,7 +2950,7 @@
 		"items": [
 			{
 				"itemId": 23015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/019add8975140f8fe5f031965afa370f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/009473f2d1b4fc6f32bdbeaccf6537b2.png",
 				"itemType": "Weapon",
 				"name": "比阳光更明亮的",
 				"nameEn": "比阳光更明亮的",
@@ -2883,7 +2960,7 @@
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e5a7b6d8899763123a34f2052bd613f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
@@ -2893,7 +2970,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -2903,7 +2980,7 @@
 			},
 			{
 				"itemId": 21009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b3d1b48d806aa48934efcfa677d2f51f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/7742b300e8e1ac82a7870699e8e76580.png",
 				"itemType": "Weapon",
 				"name": "朗道的选择",
 				"nameEn": "朗道的选择",
@@ -2920,7 +2997,7 @@
 		"items": [
 			{
 				"itemId": 23006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5eb9b972af1aa7852bca2ca43c59b201.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/51737d41e01e7fe4424bb3f36fc9d17f.png",
 				"itemType": "Weapon",
 				"name": "只需等待",
 				"nameEn": "只需等待",
@@ -2930,7 +3007,7 @@
 			},
 			{
 				"itemId": 21015,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/777602074defe4d84bff88d1cc8cb9eb.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f0756c708f5a083c74cd8fc373ec07fa.png",
 				"itemType": "Weapon",
 				"name": "决心如汗珠般闪耀",
 				"nameEn": "决心如汗珠般闪耀",
@@ -2940,7 +3017,7 @@
 			},
 			{
 				"itemId": 21008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/79ade45cea4c652e7b910eff15e07eaa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/432711810d6fd53051617f1773617fe4.png",
 				"itemType": "Weapon",
 				"name": "猎物的视线",
 				"nameEn": "猎物的视线",
@@ -2950,7 +3027,7 @@
 			},
 			{
 				"itemId": 21006,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/f1d7ed716c7596670dc04f1abcd6aaf3.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/88b05c4aa55d5dd14bcc2659c95500ec.png",
 				"itemType": "Weapon",
 				"name": "「我」的诞生",
 				"nameEn": "「我」的诞生",
@@ -2967,7 +3044,7 @@
 		"items": [
 			{
 				"itemId": 23009,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b064c69acc911963c88ff1deac23d744.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/570db04681f03617912f86bd7079fafd.png",
 				"itemType": "Weapon",
 				"name": "到不了的彼岸",
 				"nameEn": "到不了的彼岸",
@@ -2977,7 +3054,7 @@
 			},
 			{
 				"itemId": 21012,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/1f8ce3fc8b602988ed91f40739276fe9.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0c7ed05870657e293b3b70d7c1b98c64.png",
 				"itemType": "Weapon",
 				"name": "秘密誓心",
 				"nameEn": "秘密誓心",
@@ -2987,7 +3064,7 @@
 			},
 			{
 				"itemId": 21007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/19f79cac89ae3fb143c0c423e3879f06.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/e59306000a2cca822e49fc5a037587f0.png",
 				"itemType": "Weapon",
 				"name": "同一种心情",
 				"nameEn": "同一种心情",
@@ -2997,7 +3074,7 @@
 			},
 			{
 				"itemId": 21010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/dd6ba829778bbf03cc7bae3b7412e74d.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/62ff4dc91a0e39955d92fe6e8a669ed7.png",
 				"itemType": "Weapon",
 				"name": "论剑",
 				"nameEn": "论剑",
@@ -3014,7 +3091,7 @@
 		"items": [
 			{
 				"itemId": 23008,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/383bec1c97561ffff103918174883703.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/f96ee8693f5969286841d42537f24628.png",
 				"itemType": "Weapon",
 				"name": "棺的回响",
 				"nameEn": "棺的回响",
@@ -3024,7 +3101,7 @@
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0f5e0cc8ea99b13b9f1703bc2f28b0d5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
@@ -3034,7 +3111,7 @@
 			},
 			{
 				"itemId": 21020,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/00af824ecd1e035186a6fa01012f0134.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/b3835ab2edab28f10258900f82c1bb5a.png",
 				"itemType": "Weapon",
 				"name": "天才们的休憩",
 				"nameEn": "天才们的休憩",
@@ -3044,7 +3121,7 @@
 			},
 			{
 				"itemId": 21018,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2e5a7b6d8899763123a34f2052bd613f.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/851c7317b000dee0da44ad47bf637322.png",
 				"itemType": "Weapon",
 				"name": "舞！舞！舞！",
 				"nameEn": "舞！舞！舞！",
@@ -3061,7 +3138,7 @@
 		"items": [
 			{
 				"itemId": 23007,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/16205d0f6be3ad14a7576e6b81be65d4.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/154eee9ddb118a919f903dd2e5792f83.png",
 				"itemType": "Weapon",
 				"name": "雨一直下",
 				"nameEn": "雨一直下",
@@ -3071,7 +3148,7 @@
 			},
 			{
 				"itemId": 21017,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/a65f8f1638588090024fb9de381f093c.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/ac03ddfaf67fb71be0fe59e15c0260dd.png",
 				"itemType": "Weapon",
 				"name": "点个关注吧！",
 				"nameEn": "点个关注吧！",
@@ -3081,7 +3158,7 @@
 			},
 			{
 				"itemId": 21004,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/b9833001edee36e5022640f70580cf0a.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/80d69d41b75320e96bca63d73773cfce.png",
 				"itemType": "Weapon",
 				"name": "记忆中的模样",
 				"nameEn": "记忆中的模样",
@@ -3091,7 +3168,7 @@
 			},
 			{
 				"itemId": 21013,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/5c7551f408297b4b024f948877f16123.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/c5b008db6f96538c12dd2e7a2947fd70.png",
 				"itemType": "Weapon",
 				"name": "别让世界静下来",
 				"nameEn": "别让世界静下来",
@@ -3108,7 +3185,7 @@
 		"items": [
 			{
 				"itemId": 23010,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/944c5e13e055c3b45777fda2296349e5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/2fb300623168c56651285bd66bb55b94.png",
 				"itemType": "Weapon",
 				"name": "拂晓之前",
 				"nameEn": "拂晓之前",
@@ -3118,7 +3195,7 @@
 			},
 			{
 				"itemId": 21011,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/2928ec941220c2eb59b982409c3375e0.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/bdaafc923c5007594353b44c36988986.png",
 				"itemType": "Weapon",
 				"name": "与行星相会",
 				"nameEn": "与行星相会",
@@ -3128,7 +3205,7 @@
 			},
 			{
 				"itemId": 21003,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/e3e138ff0e640cabf3ca5c7e78203edd.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/0d48d667fb5e38c72e098a80aefca1ab.png",
 				"itemType": "Weapon",
 				"name": "唯有沉默",
 				"nameEn": "唯有沉默",
@@ -3138,7 +3215,7 @@
 			},
 			{
 				"itemId": 21002,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/96704e4aa9aeb1bed379da37f55485aa.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/553c6f9296cbcb8aec184b8949462454.png",
 				"itemType": "Weapon",
 				"name": "余生的第一天",
 				"nameEn": "余生的第一天",
@@ -3155,7 +3232,7 @@
 		"items": [
 			{
 				"itemId": 23001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/eab10428f38e33947560182ac6d1d5c6.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/75edd4ed967326d4106a91dfc6af9971.png",
 				"itemType": "Weapon",
 				"name": "于夜色中",
 				"nameEn": "于夜色中",
@@ -3165,7 +3242,7 @@
 			},
 			{
 				"itemId": 21000,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/80669c9d527768685a1af5b19a5ff98e.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/8d499cf73bbc103933204aa5f338e987.png",
 				"itemType": "Weapon",
 				"name": "一场术后对话",
 				"nameEn": "一场术后对话",
@@ -3175,7 +3252,7 @@
 			},
 			{
 				"itemId": 21001,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/0f5e0cc8ea99b13b9f1703bc2f28b0d5.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4657a44d00ffcfa6160d8b95005df267.png",
 				"itemType": "Weapon",
 				"name": "晚安与睡颜",
 				"nameEn": "晚安与睡颜",
@@ -3185,7 +3262,7 @@
 			},
 			{
 				"itemId": 21005,
-				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_u1386d/28845b4f01af035ac2087fda9cbbc309.png",
+				"imageUrl": "/hkrpg/prod_gf_cn/item_icon_ua8b8d/4fd1e4f10fff851280a0a5683caf600f.png",
 				"itemType": "Weapon",
 				"name": "鼹鼠党欢迎你",
 				"nameEn": "鼹鼠党欢迎你",
