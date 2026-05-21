@@ -1031,5 +1031,23 @@
     "id": "10000130",
     "rank": 5,
     "weapon": 12
+  },
+  "尼可": {
+    "cn": "尼可",
+    "element": 1,
+    "EN": "尼可",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/a48f28f4e0df84ab99d824b331df3180.png",
+    "id": "10000131",
+    "rank": 5,
+    "weapon": 10
+  },
+  "布伦妮": {
+    "cn": "布伦妮",
+    "element": 2,
+    "EN": "布伦妮",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/a78be4f2f5cdb166d08285de4e903fd4.png",
+    "id": "10000132",
+    "rank": 4,
+    "weapon": 10
   }
 }

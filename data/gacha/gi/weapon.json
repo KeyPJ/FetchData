@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.6.1",
+		"items": [
+			{
+				"itemId": 14523,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/8bc74e76d3888a46a6279ba1a765978b.png",
+				"itemType": "Weapon",
+				"name": "尘光七谕",
+				"nameEn": "尘光七谕",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11518,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/9708b5d495021c4c5472f1615be537e0.png",
+				"itemType": "Weapon",
+				"name": "黑蚀",
+				"nameEn": "黑蚀",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 11434,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/22a2b4dd7289c7085f7cb13e8a41c069.png",
+				"itemType": "Weapon",
+				"name": "织月者的曙色",
+				"nameEn": "织月者的曙色",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 15412,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/425d13a6970fbdb3802304349b4f7de3.png",
+				"itemType": "Weapon",
+				"name": "幽夜华尔兹",
+				"nameEn": "幽夜华尔兹",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 12402,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "钟剑",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "匣里灭辰",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14402,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22d2b64c9fd0ab81ef934c8387f72d0c.png",
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "流浪乐章",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			}
+		],
+		"start": "2026-05-20 07:00:00",
+		"end": "2026-06-09 17:59:00"
+	},
+	{
 		"version": "6.5.2",
 		"items": [
 			{
